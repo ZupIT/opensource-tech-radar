@@ -1,0 +1,22 @@
+<div class="input">
+    <div class="input-search">
+        <form action="/search" method="get">
+            <div class="input-search">
+                <input type="text" id="search-box" name="query">
+                <button type="submit" class="btn-square bg-main-color" data-modal="modal-search-results"><i class="fas fa-search"></i></button>
+            </div>         
+        </form>
+    </div>
+</div>
+
+<script>
+  window.store = {
+    {{ range where .Site.Pages "Type" "post" }}
+        "{{- .Permalink -}}": {
+            "title": "{{ .Params.Name }}",
+            "category": "{{ .Params.Category }}",
+            "ring": "{{ .Params.Ring }}",
+            "url": "{{- .Permalink -}}"
+      },{{ end }}
+    }
+</script>

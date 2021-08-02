@@ -1,0 +1,16 @@
+<div
+  class="box-modal"
+  data-modal="modal-{{ .filename }}"
+  role="document"
+>
+  <div class="box-modal__header">
+    <h4>
+      <img src="{{ .image}}" width="40" /> {{ .name }}
+    </h4>
+    <button type="button" class="triggerCloseModal">
+      <i class="fa fa-times"></i>
+    </button>
+  </div>
+
+  <div class="box-modal__content">{{ .content }}</div>
+</div>

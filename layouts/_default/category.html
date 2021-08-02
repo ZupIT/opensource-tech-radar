@@ -1,0 +1,77 @@
+{{- partial "head.html" . -}}
+{{- partial "header.html" . -}}
+
+<main>
+  <div class="page-wrapper">
+
+    <div class="grid-flex v-align-middle grid-title">
+      <div class="column">
+        <h1 class="m-0">{{.Title}}</h1>
+      </div>
+      <div class="column text-right">
+        <a href="/" class="btn bg-gradient-main-color fa-arrow-left left link-homepage">Back to homepage</a>
+      </div>
+    </div>
+
+    <div class="box-message bg-blue" role="alert">
+      <p>{{.Description}}</p>
+    </div>
+
+    <div class="grid-flex v-align-middle">
+      <div class="column">
+      <h2 class="m-0">Strategic</h2>
+      </div>
+    </div>
+    
+    <div class="grid-flex grid-cards">
+        {{ range where .Pages "Params.ring" "Strategic" }}
+            <div class="column w-16">
+            <a href="{{ .File.TranslationBaseName }}">{{ .Params.name }}</a>
+            </div>
+        {{ end }}
+      </div>
+
+      <div class="grid-flex v-align-middle">
+        <div class="column">
+        <h2 class="m-0">Essencial</h2>
+        </div>
+      </div>
+      <div class="grid-flex grid-cards">
+        {{ range where .Pages "Params.ring" "Essencial" }}
+            <div class="column w-16">
+            <a href="{{ .File.TranslationBaseName }}">{{ .Params.name }}</a>
+            </div>
+        {{ end }}
+      </div>
+  
+      <div class="grid-flex v-align-middle">
+        <div class="column">
+        <h2 class="m-0">Potencial</h2>
+        </div>
+      </div>
+    
+      <div class="grid-flex grid-cards">
+        {{ range where .Pages "Params.ring" "Potencial" }}
+            <div class="column w-16">
+            <a href="{{ .File.TranslationBaseName }}">{{ .Params.name }}</a>
+            </div>
+        {{ end }}
+      </div>
+  
+      <div class="grid-flex v-align-middle">
+          <div class="column">
+          <h2 class="m-0">[Deprecated]</h2>
+          </div>
+        </div>
+    
+        <div class="grid-flex grid-cards">
+            {{ range where .Pages "Params.ring" "Deprecated" }}
+                <div class="column w-16">
+                <a href="{{ .File.TranslationBaseName }}">{{ .Params.name }}</a>
+                </div>
+            {{ end }}
+          </div>
+    </div>
+  </main>
+
+{{- partial "footer.html" . -}}

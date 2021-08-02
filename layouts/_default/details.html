@@ -1,0 +1,27 @@
+{{- partial "head.html" . -}}
+{{- partial "header.html" . -}}
+
+<main class="page-radar">
+  <div class="page-wrapper">
+    <div class="grid-flex v-align-middle grid-title">
+      <div class="column">
+        <h1 class="m-0">{{ .Params.Name }}</h1>
+        <p>Category : <i>{{ .Params.Category }}</i><br/>
+        Ring : <i>{{ .Params.Ring }}</i></p>
+      </div>
+      <div class="column text-right">
+        <a href="/{{ lower .Params.Category}}/"
+          class="btn bg-gradient-main-color fa-arrow-left left link-homepage"
+          >Back to {{ .Params.Category }}</a
+        >
+      </div>
+    </div>
+
+    <div class="grid-flex">
+      <div class="column w-25"><img src="{{ .Params.Image}}" /></div>
+      <div class="column">{{ .Content }}</div>
+    </div>
+  </div>
+</main>
+
+{{- partial "footer.html" . -}}
