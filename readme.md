@@ -1,6 +1,5 @@
 # Tech radar
 
-
 ## What ?
 
 The Radar is a document that sets out the changes that are currently interesting regarding software development.  
