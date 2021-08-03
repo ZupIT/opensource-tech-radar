@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Languages-Frameworks on Tech radar</title>
+    <link>https://zupit.github.io/opensource-tech-radar/languages-frameworks/</link>
+    <description>Recent content in Languages-Frameworks on Tech radar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://zupit.github.io/opensource-tech-radar/languages-frameworks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/languages-frameworks/allure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/languages-frameworks/allure/</guid>
+      <description>What is it ? Allure Framework is a flexible lightweight multi-language test report tool that not only shows a very concise representation of what have been tested in a neat web report form, but allows everyone participating in the development process to extract maximum of useful information from everyday execution of tests.
+Why ? Allure is an open-source framework designed to create interactive and comprehensive test report by Yandex QA Team.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/languages-frameworks/go/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/languages-frameworks/go/</guid>
+      <description>What is it ? Go is a statically typed, compiled programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson. Go is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency.
+Why ? It is tested and proved that applications that are written on Go are highly performant and scalable. Golang is a very efficient language, just like C/C++, handling parallelisms like Java, and has easy code readability like Python and pearl.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/languages-frameworks/gorilla-mux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/languages-frameworks/gorilla-mux/</guid>
+      <description>What is it ? A powerful HTTP router and URL matcher for building Go web servers with
+Why ? For who ?  CharlesCD  Resources  homepage  Resources (Portuguese) </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/languages-frameworks/gorm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/languages-frameworks/gorm/</guid>
+      <description>What is it ? The fantastic ORM library for Golang aims to be developer friendly.
+Why ?  Full-Featured ORM As* sociations (Has One, Has Many, Belongs To, Many To Many, Polymorphism, Single-table inheritance) Hooks (Before/After Create/Save/Update/Delete/Find) Eager loading with Preload, Joins Transactions, Nested Transactions, Save Point, RollbackTo to Saved Point Context, Prepared Statement Mode, DryRun Mode Batch Insert, FindInBatches, Find/Create with Map, CRUD with SQL Expr and Context Valuer SQL Builder, Upsert, Locking, Optimizer/Index/Comment Hints, Named Argument, SubQuery Composite Primary Key, Indexes, Constraints Auto Migrations Logger Extendable, flexible plugin API: Database Resolver (Multiple Databases, Read/Write Splitting) / Prometheus… Every feature comes with tests Developer Friendly  For who ?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/languages-frameworks/groovy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/languages-frameworks/groovy/</guid>
+      <description>What is it ? Apache Groovy is a Java-syntax-compatible object-oriented programming language for the Java platform. It is both a static and dynamic language with features similar to those of Python, Ruby, and Smalltalk.
+Why ? Groovy is a Java enhancer because it provides greater flexibility and even introduces special features to applications (those that have already been developed can be improved or they can be made from scratch). Groovy is a Java-like syntax, but with the ease of more moldable languages like Python and Ruby.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/languages-frameworks/java/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/languages-frameworks/java/</guid>
+      <description>What is it ? Java is a set of computer software and specifications developed by James Gosling at Sun Microsystems, which was later acquired by the Oracle Corporation, that provides a system for developing application software and deploying it in a cross-platform computing environment.
+Why ? Nowadays, Java is often the default choice for scientific applications, including natural language processing. The main reason for this is because it is safe, portable, maintainable and comes with better high-level concurrency tools than C++ or any other language.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/languages-frameworks/junit-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/languages-frameworks/junit-4/</guid>
+      <description>What is it ? JUnit is a simple framework to write repeatable tests. It is an instance of the xUnit architecture for unit testing frameworks.
+Why ? JUnit is an open source Unit Testing Framework for JAVA. It is useful for Java Developers to write and run repeatable tests. As the name implies, it is used for Unit Testing of a small chunk of code. Developers who are following test-driven methodology must write and execute unit test first before any code.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/languages-frameworks/junit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/languages-frameworks/junit/</guid>
+      <description>What is it ? JUnit is a simple framework to write repeatable tests. It is an instance of the xUnit architecture for unit testing frameworks.
+Why ? JUnit is an open source Unit Testing Framework for JAVA. It is useful for Java Developers to write and run repeatable tests. As the name implies, it is used for Unit Testing of a small chunk of code. Developers who are following test-driven methodology must write and execute unit test first before any code.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/languages-frameworks/kotlin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/languages-frameworks/kotlin/</guid>
+      <description>What is it ? Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin&amp;rsquo;s standard library depends on the Java Class Library, but type inference allows its syntax to be more concise.
+Why ? The most strongly supported JVM language in the Android ecosystem—aside from Java—is Kotlin, an open-source, statically typed language developed by JetBrains.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/languages-frameworks/quarkus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/languages-frameworks/quarkus/</guid>
+      <description>What is it ? Quarkus is a Kubernetes Native Java framework tailored for OpenJDK HotSpot and GraalVM, crafted from best-of-breed Java libraries and standards.
+Why ? Quarkus was designed to be easy to use right from the start, with features that wok rwell with little to no configuration. Developers can choose the Java frameworks they want for their applications, which can be run in JVM mode or compiled and run in native mode.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/languages-frameworks/react/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/languages-frameworks/react/</guid>
+      <description>What is it ? React is a free and open-source front-end JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
+Why ? It&amp;rsquo;s used for handling the view layer for web and mobile apps. React also allows us to create reusable UI components.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/languages-frameworks/spock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/languages-frameworks/spock/</guid>
+      <description>What is it ? Spock is a Java testing framework capable of handling the full life cycle of a computer program. It was initially created in 2008 by Peter Niederwieser, a software engineer with GradleWare. A second Spock committer is Luke Daley who is also the creator of the popular Geb functional testing framework.
+Why ? Spock is a testing and specification framework for Java and Groovy applications. What makes it stand out from the crowd is its beautiful and highly expressive specification language.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/languages-frameworks/spring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/languages-frameworks/spring/</guid>
+      <description>What is it ? The Spring Framework is an application framework and inversion of control container for the Java platform. The framework&amp;rsquo;s core features can be used by any Java application, but there are extensions for building web applications on top of the Jakarta EE platform.
+Why ? Spring is the most popular application development framework for enterprise Java. Millions of developers around the world use Spring Framework to create high performing, easily testable, and reusable code.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/languages-frameworks/swift/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/languages-frameworks/swift/</guid>
+      <description>What is it ? Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. and the open-source community.
+Why ? Swift is a robust and intuitive programming language created by Apple for building apps for iOS, Mac, Apple TV, and Apple Watch. It&amp;rsquo;s designed to give developers more freedom than ever. Swift is easy to use and open source, so anyone with an idea can create something incredible.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/languages-frameworks/typescript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/languages-frameworks/typescript/</guid>
+      <description>What is it ? TypeScript is a programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript and adds optional static typing to the language. TypeScript is designed for the development of large applications and transcompiles to JavaScript.
+Why ?  TypeScript simplifies JavaScript code, making it easier to read and debug. TypeScript is open source. TypeScript provides highly productive development tools for JavaScript IDEs and practices, like static checking.</description>
+    </item>
+    
+  </channel>
+</rss>
