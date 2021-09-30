@@ -1,14 +1,13 @@
-<div class="input">
+<div class="search shadow">
     <div class="input-search">
         <form action="/search" method="get">
-            <div class="input-search">
-                <input type="text" id="search-box" name="query">
-                <button type="submit" class="btn-square bg-main-color" data-modal="modal-search-results"><i class="fas fa-search"></i></button>
-            </div>         
+            <div id="input-box" class="shadow">
+                <span id="prefix">Procurar /</span>
+                <input type="text" id="search-box" name="query"/>
+            </div>        
         </form>
     </div>
 </div>
-
 <script>
   window.store = {
     {{ range where .Site.Pages "Type" "post" }}

@@ -1,7 +1,11 @@
 {{- partial "head.html" . -}}
 {{- partial "header.html" . -}}
 
-<ul id="search-results" style="text-align: center;"></ul>
+<div class="container">
+    {{- partial "search.html" . -}}
+    <ul id="search-results" class="p-5 text-center"></ul>
+</div>
+
 <script src="/js/lunr.js"></script>
 <script src="/js/search.js"></script>
 

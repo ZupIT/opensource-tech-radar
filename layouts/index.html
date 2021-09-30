@@ -3,80 +3,162 @@
     {{- partial "head.html" . -}}
     <body>
         {{- partial "header.html" . -}}
-        <main class="page-homepage">
+        <main>
 
-            <section class="section-intro">
-                <div class="page-wrapper">
-                    <div class="grid-flex">
-                        <div class="column w-40">
-                            <h2>Tech radar</h2>
-                            <p>
-                                The Radar is a document that sets out the changes that are currently interesting regarding software development in our organization. <br />
-                                It is a knowledge base about where we are today as an organization and where we want to go.
-                            </p>
-                        </div>
+            <section id="section-home" class="d-flex align-items-center justify-content-center">
+                <div id="home-content">
+                    <h1>Tech Radar</h1>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam qui at animi provident voluptate placeat iure. Natus veniam eligendi voluptas sequi, eum incidunt quam quo cum ab voluptatibus in ex.</p>
+                    
+                    {{- partial "search.html" . -}}
+                </div>
+            </section>
 
-                        <div class="column o-20 w-40">
-                            <div class="has-background">
-                                <h2>Aim of the tech radar</h2>
-                                <p>
-                                    It centralizes things in motion that we should pay attention to and consider using in our projects. <br />
-                                    The original concept comes from thoughtworks, you can read more about it <a href="https://www.thoughtworks.com/radar/faq">here</a>.
-                                </p>
-                            </div>
-                        </div>
+            <div id="widget-show-radar" class="shadow">
+                <div id="show-radar-content" class="d-flex align-items-center justify-content-between">
+                    <div id="caption">
+                        <img src="/images/icons/radar.svg"/>
+                        <p>Confira nosso Radar completo e saiba o que você deve considerar <br/> em seus projetos.</p>
+                    </div>
+                    <a href="/show-radar">Ver radar</a>
+                </div>
+            </div>
+
+            <section id="section-categories">
+                <h1 class="page-title">Categorias</h1>
+                <h4 class="page-subtitle">Escolha uma tecnologia e saiba como aplicar</h4>
+                <div class="categories-cards container">
+                    <div class="category-card shadow">
+                        <img src="/images/icons/lock-network.svg"/>
+                        <h4>Técnicas</h4>
+                        <ul>
+                            <li>
+                                <a href="#">
+                                    Lorem Ipsum 
+                                    <img src="/images/icons/arrow-right.svg"/>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    Lorem Ipsum 
+                                    <img src="/images/icons/arrow-right.svg"/>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    Lorem Ipsum 
+                                    <img src="/images/icons/arrow-right.svg"/>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    Lorem Ipsum 
+                                    <img src="/images/icons/arrow-right.svg"/>
+                                </a>
+                            </li>
+                        </ul>
+                        <a href="#">Ver todas</a>
+                    </div>
+        
+                    <div class="category-card shadow">
+                        <img src="/images/icons/cog-desktop.svg"/>
+                        <h4>Ferramentas</h4>
+                        <ul>
+                            <li>
+                                <a href="#">
+                                    Lorem Ipsum 
+                                    <img src="/images/icons/arrow-right.svg"/>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    Lorem Ipsum 
+                                    <img src="/images/icons/arrow-right.svg"/>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    Lorem Ipsum 
+                                    <img src="/images/icons/arrow-right.svg"/>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    Lorem Ipsum 
+                                    <img src="/images/icons/arrow-right.svg"/>
+                                </a>
+                            </li>
+                        </ul>
+                        <a href="#">Ver todas</a>
+                    </div>
+        
+                    <div class="category-card shadow">
+                        <img src="/images/icons/code.svg"/>
+                        <h4>Linguagens e Frameworks</h4>
+                        <ul>
+                            <li>
+                                <a href="#">
+                                    Lorem Ipsum 
+                                    <img src="/images/icons/arrow-right.svg"/>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    Lorem Ipsum 
+                                    <img src="/images/icons/arrow-right.svg"/>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    Lorem Ipsum 
+                                    <img src="/images/icons/arrow-right.svg"/>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    Lorem Ipsum 
+                                    <img src="/images/icons/arrow-right.svg"/>
+                                </a>
+                            </li>
+                        </ul>
+                        <a href="#">Ver todas</a>
+                    </div>
+                    
+                    <div class="category-card shadow">
+                        <img src="/images/icons/hierarchy-3.svg"/>
+                        <h4>Plataformas</h4>
+                        <ul>
+                            <li>
+                                <a href="#">
+                                    Lorem Ipsum 
+                                    <img src="/images/icons/arrow-right.svg"/>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    Lorem Ipsum 
+                                    <img src="/images/icons/arrow-right.svg"/>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    Lorem Ipsum 
+                                    <img src="/images/icons/arrow-right.svg"/>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    Lorem Ipsum 
+                                    <img src="/images/icons/arrow-right.svg"/>
+                                </a>
+                            </li>
+                        </ul>
+                        <a href="#">Ver todas</a>
                     </div>
                 </div>
             </section>
 
-            <section class="section-go-to-radar">
-                <div class="page-wrapper">
-                    <div class="grid-flex">
-                        <div class="column"><a href="radar/" class="btn bg-gradient-main-color">Go to the radar</a></div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="section-categories">
-                <div class="page-wrapper">
-                    <h2 class="text-center">4 categories</h2>
-                    <div class="grid-flex">
-                        <div class="column"><a href="/languages-frameworks/" class="btn bg-gradient-green">Lang-Frameworks</a></div>
-                        <div class="column"><a href="/platforms/" class="btn bg-gradient-blue">Platforms</a></div>
-                        <div class="column"><a href="/techniques/" class="btn bg-gradient-yellow">Techniques</a></div>
-                        <div class="column"><a href="/tools/" class="btn  bg-gradient-main-color">Tools</a></div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="section-categories">
-
-                <div class="page-wrapper">
-                    <h2 class="text-center">4 rings</h2>
-            
-                    <div class="grid-flex">
-                        <div class="column w-50">
-                            <h2 id="strategic"><a href="#strategic">Strategic</a></h2>
-                            <p>We have capacity to use these solutions, they have already been deployed in production.<br>
-                            First choices to start a new project.</p>
-                        </div>
-                        <div class="column w-50">
-                            <h2 id="can-use"><a href="#essential">Essential</a></h2>
-                            <p>Pertinence of those solutions have been demonstrated.
-                            You can use it on your project but you need to provide a reason to not use the default choice.</p>
-                        </div>
-                        <div class="column w-50">
-                            <h2 id="potencial"><a href="#potencial">Potencial</a></h2>
-                            <p>These solutions may bring values.
-                            It is necessary to assess and test them in our environment to confirm or not this vision.</p>
-                        </div>
-                        <div class="column w-50">
-                            <h2 id="deprecatedrejected"><a href="#deprecated">Deprecated/ Rejected</a></h2>
-                            <p>For various reasons, these solutions are no longer the first choices or are not recommended (anymore).</p>
-                        </div>
-                    </div>
-            
-            </section>
+            {{- partial "rings.html" . -}}
         </main>
     </div>
     {{- partial "footer.html" . -}}

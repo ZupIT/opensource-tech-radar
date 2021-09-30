@@ -1,0 +1,114 @@
+<section id="section-rings">
+    <h1 class="page-title">Anéis</h1>
+    <h4 class="page-subtitle">Escolha uma tecnologia e saiba como aplicar</h4>
+
+    <div class="container">
+        <div id="ring-graph">
+            <div id="ring-card" class="shadow"></div>
+
+            <div id="list-rings"></div>
+
+            <div id="graph-square"></div>
+        </div>
+    </div>
+</section>
+
+<script>
+    const rings = [
+        {
+            title: 'Estratégico',
+            image: 'images/strategic.png',
+            caption: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in eros ultricies, viverra neque lacinia, eleifend diam. Ut sit amet tortor est.'
+        },
+        {
+            title: 'Essencial',
+            image: 'images/essential.png',
+            caption: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in eros ultricies, viverra neque lacinia, eleifend diam. Ut sit amet tortor est.'
+        },
+        {
+            title: 'Potencial',
+            image: 'images/potential.png',
+            caption: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in eros ultricies, viverra neque lacinia, eleifend diam. Ut sit amet tortor est.'
+        },
+        {
+            title: 'Descontinuado',
+            image: 'images/discontinued.png',
+            caption: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in eros ultricies, viverra neque lacinia, eleifend diam. Ut sit amet tortor est.'
+        },
+    ];
+
+
+    const listRings = document.getElementById("list-rings");
+    const graphSquare = document.getElementById("graph-square");
+    const ringCard = document.getElementById("ring-card");
+
+
+    // boot
+    renderRings();
+
+    function renderRings() {
+        rings.forEach((ring, i) => {
+            const index = i + 1;
+            createRingElement(ring, index);
+            createSquareElement(ring, index);
+            if (index === 1) {
+                selectRing(index);
+            }
+        });
+    }
+
+    function createRingElement(ring, i) {
+        const divRing = document.createElement('div');
+        divRing.className = i == 1 ? "item active" : "item";
+        divRing.innerText = ring.title;
+        divRing.onclick = () => selectRing(i);
+        listRings.append(divRing);
+    }
+
+    function createSquareElement(ring, i) {
+        const divSquare = document.createElement('div');
+        divSquare.className = i == 1 ? "item active" : "item";
+
+        const indexes = rings.map((_v, i) => i + 1);
+        const index = indexes.indexOf(i) + 1;
+        const zIndex = indexes.reverse().indexOf(i) + 1;
+        divSquare.style = "--index:" + (index) + ";z-index:" + zIndex;
+        divSquare.onclick = () => selectRing(i);
+        graphSquare.append(divSquare);
+    }
+
+    function selectRing(index) {
+        const ring = rings[index - 1];
+        displaySelectedRing(ring, index)
+    }
+
+    function displaySelectedRing(ring, index = 1) {
+        ringCard.innerHTML = "";
+
+        const img = document.createElement('img');
+        const title = document.createElement('h3');
+        const caption = document.createElement('p');
+        
+        img.src = ring.image;
+        title.innerText = ring.title;
+        caption.innerText = ring.caption;
+
+        ringCard.append(img, title, caption)
+
+        Array.from(listRings.children).forEach((element, indexElement) => {
+            verifyClassActive(element, indexElement)
+        });
+
+        Array.from(graphSquare.children).forEach((element, indexElement) => {
+            verifyClassActive(element, indexElement)
+        });
+
+        function verifyClassActive(element, indexElement) {
+            if (index === indexElement + 1) {
+                element.classList.add('active');
+            } else {
+                element.classList.remove('active');
+            }
+        }
+    }
+</script>
