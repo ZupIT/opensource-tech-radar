@@ -1,6 +1,16 @@
 +++
-title="Techniques"
-description="These include elements of a software development process, such as experience design; and ways of structuring software, such as microservices."
-type="pages"
-layout="category"
+title="Documentação"
+subtitle="Tecnologias"
+description="Nossas categorias e confira a ficha técnica das tecnologias que estamos usando."
+menu="main"
+layout="page"
+weight="1"
 +++
+
+# Tecnicas
+
+# Ferramentas
+
+# Linguagens e Frameworks
+
+# Serviços

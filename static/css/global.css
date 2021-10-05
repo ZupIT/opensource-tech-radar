@@ -33,6 +33,11 @@
   color: #8C909C;
 }
 
+.header-title {
+  background: #F5F6F7;
+  padding: 5% 0%;
+}
+
 #top-header {
   position: static;
   background: #FFF;

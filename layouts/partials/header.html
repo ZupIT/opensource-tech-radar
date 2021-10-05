@@ -4,9 +4,9 @@
     </a>
 
     <ul class="col d-flex justify-content-end gap-4 m-0">
-        <li class="link-menu"><a href="#" class="px-2">Documentação</a></li>
-        <li class="link-menu"><a href="#" class="px-2">Radar</a></li>
-        <li class="link-menu"><a href="#" class="px-2">Sobre</a></li>
+        {{ range .Site.Menus.main }}
+        <li class="link-menu"><a href="{{ .URL }}" class="px-2">{{ .Name }}</a></li>
+        {{ end }}
     </ul>
 
     <div class="col-auto">
