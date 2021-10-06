@@ -1,0 +1,40 @@
+<div id="accordion">
+    {{ range $category := where .Site.Pages "Params.category" "categories" }}
+    <div class="card">
+        <div class="card-header" id="headingOne">
+            <h4 class="mb-0">{{ $category.Name }}</h4>
+        </div>
+
+        <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+            <div class="card-body">
+                <table class="table">
+                    <thead style="border-style: hidden;">
+                        <tr>
+                            <th scope="col" class="col-1">Anéis</th>
+                            <th scope="col" class="col-auto">Tecnologias</th>
+                            <th scope="col" class="col-1"></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        {{ range $ring := where .Site.Pages "Params.category" "rings"}}
+                            {{ range $technique := where (where .Site.Pages "Params.category" $category.Title) "Params.ring" $ring.Params.Name }}
+                                <tr>
+                                        <td scope="row">
+                                            <span class="badge badge-{{ lower $ring.Params.Color }}">{{ $ring.Name }}</span>
+                                        </td>
+                                        <td>{{ $technique.Params.Name }}</td>
+                                        <td>
+                                            <a href="{{ $technique.URL }}">ver</a>
+                                        </td>
+                                    </tr>
+                           
+                            {{ end }}
+                        {{ end }}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    {{ end }}
+</div>

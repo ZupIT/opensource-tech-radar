@@ -1,8 +1,8 @@
 +++
-name= "Test Driven Development"
-image= "/images/libs/tdd.png"
-category= "Libs"
-ring= "Strategic"
+name="Test Driven Development"
+image="/images/libs/tdd.png"
+category="Libs"
+ring="Strategic"
 type="post"
 layout="details"
 +++

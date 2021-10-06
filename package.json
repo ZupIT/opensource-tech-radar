@@ -1,0 +1,7 @@
+{
+  "name": "opensource-tech-radar",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "hugo serve --disableFastRender"
+  }
+}

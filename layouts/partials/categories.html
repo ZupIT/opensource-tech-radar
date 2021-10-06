@@ -1,0 +1,22 @@
+<section id="section-categories">
+    <h1 class="page-title">Categorias</h1>
+    <h4 class="page-subtitle">Escolha uma tecnologia e saiba como aplicar</h4>
+    <div class="categories-cards container">
+
+        {{ range where .Site.Pages "Params.category" "categories" }}
+        <div class="category-card shadow">
+            <img src="{{ .Params.Image }}" />
+            <h4>{{ .Params.Title }}</h4>
+            <ul>
+                {{ range first 5 (where .Site.Pages "Params.category" .Params.Title) }}
+                <li>
+                    <a href="{{ .URL }}">{{ .Params.Name }}</a>
+                </li>
+                {{ end }}
+            </ul>
+            <a href="{{ .URL }}">Ver todas</a>
+        </div>
+        {{ end }}
+
+    </div>
+</section>

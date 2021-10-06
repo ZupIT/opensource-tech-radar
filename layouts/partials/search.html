@@ -11,11 +11,11 @@
 <script>
   window.store = {
     {{ range where .Site.Pages "Type" "post" }}
-        "{{- .Permalink -}}": {
+        "{{- .URL -}}": {
             "title": "{{ .Params.Name }}",
             "category": "{{ .Params.Category }}",
             "ring": "{{ .Params.Ring }}",
-            "url": "{{- .Permalink -}}"
+            "url": "{{- .URL -}}"
       },{{ end }}
     }
 </script>

@@ -35,7 +35,34 @@
 
 .header-title {
   background: #F5F6F7;
-  padding: 5% 0%;
+  padding: 5%;
+}
+
+.badge-orange {
+  color: #FF8429;
+  background-color: #FFF3EB;
+  border-radius: 2px;
+}
+
+
+.badge-green {
+  color:#29C3A5;
+  background-color:#EBF9F6;
+  border-radius: 2px;
+}
+
+
+.badge-blue {
+  color: #2C91FF;
+  background-color: #EBF5FF;
+  border-radius: 2px;
+}
+
+
+.badge-red {
+  color: #FF696B;
+  background-color: #FFF1F1;
+  border-radius: 2px;
 }
 
 #top-header {
@@ -230,6 +257,16 @@
   color: #8C909C;
   display: flex;
   justify-content: space-between;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  line-break: anywhere;
+  text-decoration: none;
+}
+
+.category-card ul a:after {
+  content: url('../images/icons/arrow-right.svg');
+  padding-left: 10px;
+  clear: both;
 }
 
 .category-card > a {

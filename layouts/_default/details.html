@@ -1,6 +1,25 @@
 {{- partial "head.html" . -}}
 {{- partial "header.html" . -}}
 
+{{ $ring := .Site.GetPage "category" .Params.ring }}
+{{ $tech := .Site.GetPage "title" .Params.category }}
+<div class="container">
+  <div class="row display-flex align-items-center">
+    <div class="col-1">
+      <img src="{{ .Params.Image }}" alt="{{ .Params.Name }}" width="100px">
+    </div>
+    <div class="col">
+      <h1 class="display-1 fw-bold">{{ .Params.Name }}</h1>
+    </div>
+  </div>
+  <div class="row mt-5">
+    <div class="col">
+      <a href="{{ $ring.URL}}" class="p-2 badge badge-{{ lower $ring.Params.Color }}"> {{ $ring.Params.Title }}</a>
+      <a href="{{ $tech.URL}}" class="p-2 badge badge-{{ lower $ring.Params.Color }}"> {{ $tech.Params.Title }}</a>
+    </div>
+  </div>
+</div>
+
 <main class="page-radar">
   <div class="page-wrapper">
     <div class="grid-flex v-align-middle grid-title">

@@ -14,34 +14,20 @@
 </section>
 
 <script>
+    {{ $rings := where .Site.Pages "Params.category" "rings" }}
     const rings = [
+        {{ range $rings }}
         {
-            title: 'Estratégico',
-            image: 'images/strategic.png',
-            caption: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in eros ultricies, viverra neque lacinia, eleifend diam. Ut sit amet tortor est.'
+            title: {{ .Params.Title }},
+            image: {{ .Params.Image }},
+            caption: {{ .Params.Description }},
         },
-        {
-            title: 'Essencial',
-            image: 'images/essential.png',
-            caption: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in eros ultricies, viverra neque lacinia, eleifend diam. Ut sit amet tortor est.'
-        },
-        {
-            title: 'Potencial',
-            image: 'images/potential.png',
-            caption: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in eros ultricies, viverra neque lacinia, eleifend diam. Ut sit amet tortor est.'
-        },
-        {
-            title: 'Descontinuado',
-            image: 'images/discontinued.png',
-            caption: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in eros ultricies, viverra neque lacinia, eleifend diam. Ut sit amet tortor est.'
-        },
+        {{ end }}
     ];
-
 
     const listRings = document.getElementById("list-rings");
     const graphSquare = document.getElementById("graph-square");
     const ringCard = document.getElementById("ring-card");
-
 
     // boot
     renderRings();

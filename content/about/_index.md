@@ -3,7 +3,7 @@ title="Sobre"
 subtitle="Sobre o Tech Radar"
 menu="main"
 layout="page"
-weight="2"
+weight="3"
 +++
 
 # O que é o Radar?

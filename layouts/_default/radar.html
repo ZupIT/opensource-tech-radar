@@ -1,23 +1,34 @@
 {{- partial "head.html" . -}}
-<body>
-    <div class="page-wrapper">
+{{- partial "header.html" . -}}
 
-        <div class="grid-flex v-align-middle grid-title">
-            <div class="column">
-                <h1 class="m-0">{{.Title}}</h1>
-            </div>
+{{- partial "pagetitle.html" . -}}
 
-            <div class="column text-right">
-                <a href="/" class="btn bg-gradient-main-color fa-arrow-left left link-homepage">Back to homepage</a>
+<div class="container">
+    <div class="row py-5 gap-5">
+        <div class="col-4">
+            {{ $rings := where .Site.Pages "Params.category" "rings" }}
+
+            <div class="card shadow border-0 p-3" style="max-height: 50em; overflow-y: scroll;">
+                <div class="card-body">
+                    {{ range $ring := $rings}}
+                    <h3 class="fw-bold">{{ $ring.Name }}</h3>
+                        {{ $techniques := where .Site.Pages "Params.ring" $ring.Params.Name }}
+                        {{ range $index, $tech := $techniques }}
+                            <p>{{ add $index 1 }}. {{ $tech.Params.Name }}</p>
+                        {{ end }}
+                    {{ end }}
+                </div>
             </div>
         </div>
+        <div class="col">
+      
+                <radar></radar>
+        
+        </div>
     </div>
+</div>
 
-
-<main class="page-single-card">
-    <radar></radar>
-</main>
-    <div class="page-modals" id="pageModals" tabindex="-1" role="dialog" aria-hidden="true">
+    <!-- <div class="page-modals" id="pageModals" tabindex="-1" role="dialog" aria-hidden="true">
     <div id="pageModalsOverlayer"></div>
         {{ range where .Site.Pages "Params.category" "Languages-Frameworks"}}
             {{ partial "modal.html" (dict "content" .Content "filename" .File.TranslationBaseName "name" .Params.Name "image" .Params.Image) }}
@@ -34,7 +45,7 @@
         {{ range where .Site.Pages "Params.category" "Tools"}}
             {{ partial "modal.html" (dict "content" .Content "filename" .File.TranslationBaseName "name" .Params.Name "image" .Params.Image) }}
         {{ end }}
-    </div>
+    </div> -->
 
 <script>
     !function(e){function t(r){if(n[r])return n[r].exports;var i=n[r]={exports:{},id:r,loaded:!1};return e[r].call(i.exports,i,i.exports,t),i.loaded=!0,i.exports}var n={};return t.m=e,t.c=n,t.p="",t(0)}([function(e,t,n){e.exports=n(324)},function(e,t){function n(){throw new Error("setTimeout has not been defined")}function r(){throw new Error("clearTimeout has not been defined")}function i(e){if(l===setTimeout)return setTimeout(e,0);if((l===n||!l)&&setTimeout)return l=setTimeout,setTimeout(e,0);try{return l(e,0)}catch(t){try{return l.call(null,e,0)}catch(t){return l.call(this,e,0)}}}function a(e){if(h===clearTimeout)return clearTimeout(e);if((h===r||!h)&&clearTimeout)return h=clearTimeout,clearTimeout(e);try{return h(e)}catch(t){try{return h.call(null,e)}catch(t){return h.call(this,e)}}}function o(){m&&d&&(m=!1,d.length?p=d.concat(p):g=-1,p.length&&s())}function s(){if(!m){var e=i(o);m=!0;for(var t=p.length;t;){for(d=p,p=[];++g<t;)d&&d[g].run();g=-1,t=p.length}d=null,m=!1,a(e)}}function u(e,t){this.fun=e,this.array=t}function c(){}var l,h,f=e.exports={};!function(){try{l="function"==typeof setTimeout?setTimeout:n}catch(e){l=n}try{h="function"==typeof clearTimeout?clearTimeout:r}catch(e){h=r}}();var d,p=[],m=!1,g=-1;f.nextTick=function(e){var t=new Array(arguments.length-1);if(arguments.length>1)for(var n=1;n<arguments.length;n++)t[n-1]=arguments[n];p.push(new u(e,t)),1!==p.length||m||i(s)},u.prototype.run=function(){this.fun.apply(null,this.array)},f.title="browser",f.browser=!0,f.env={},f.argv=[],f.version="",f.versions={},f.on=c,f.addListener=c,f.once=c,f.off=c,f.removeListener=c,f.removeAllListeners=c,f.emit=c,f.prependListener=c,f.prependOnceListener=c,f.listeners=function(e){return[]},f.binding=function(e){throw new Error("process.binding is not supported")},f.cwd=function(){return"/"},f.chdir=function(e){throw new Error("process.chdir is not supported")},f.umask=function(){return 0}},function(e,t){"function"==typeof Object.create?e.exports=function(e,t){e.super_=t,e.prototype=Object.create(t.prototype,{constructor:{value:e,enumerable:!1,writable:!0,configurable:!0}})}:e.exports=function(e,t){e.super_=t;var n=function(){};n.prototype=t.prototype,e.prototype=new n,e.prototype.constructor=e}},function(e,t){var n=Array.isArray;e.exports=n},function(e,t,n){(function(e){/*!

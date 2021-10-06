@@ -46,10 +46,10 @@ layout="details"
 A file should look like this :
 ```
 +++
-name= "Angular"
-image= "/images/languages-frameworks/angular.png"
-category= "Languages-Frameworks"
-ring= "Essential"
+name="Angular"
+image="/images/languages-frameworks/angular.png"
+category="Languages-Frameworks"
+ring="Essential"
 type="post"
 layout="details"
 +++
