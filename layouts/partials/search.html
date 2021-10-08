@@ -1,21 +1,22 @@
+{{ $offlineSearchIndex := resources.Get "json/offline-search-index.json" | resources.ExecuteAsTemplate "offline-search-index.json" . }}
+{{ $offlineSearchLink := $offlineSearchIndex.RelPermalink -}}
+
+{{ if hugo.IsProduction -}}
+  {{/* Use `md5` as finger print hash function to shorten file name to avoid `file name too long` error. */}}
+  {{ $offlineSearchIndexFingerprint := $offlineSearchIndex | resources.Fingerprint "md5" }}
+  {{ $offlineSearchLink = $offlineSearchIndexFingerprint.RelPermalink -}}
+{{ end -}}
+
 <div class="search shadow">
-    <div class="input-search">
-        <form action="/search" method="get">
-            <div id="input-box" class="shadow">
-                <span id="prefix">Procurar /</span>
-                <input type="text" id="search-box" name="query"/>
-            </div>        
-        </form>
-    </div>
+  <div class="input-search">
+    <form>
+      <div id="input-box" class="shadow">
+        <span id="prefix">Procurar /</span>
+
+        <input type="text" id="search-box" class="td-search-input" name="query" autocomplete="off"
+          data-offline-search-index-json-src="{{ $offlineSearchLink }}" data-offline-search-base-href="/"
+          data-offline-search-max-results="{{ .Site.Params.offlineSearchMaxResults | default 10 }}" />
+      </div>
+    </form>
+  </div>
 </div>
-<script>
-  window.store = {
-    {{ range where .Site.Pages "Type" "post" }}
-        "{{- .URL -}}": {
-            "title": "{{ .Params.Name }}",
-            "category": "{{ .Params.Category }}",
-            "ring": "{{ .Params.Ring }}",
-            "url": "{{- .URL -}}"
-      },{{ end }}
-    }
-</script>
