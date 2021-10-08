@@ -4,3 +4,5 @@ title = "Tech radar"
 publishDir = "docs"
 relativeURLs = true
 canonifyURLs = true
+
+offlineSearchSummaryLength = 70
