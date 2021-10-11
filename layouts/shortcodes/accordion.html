@@ -1,12 +1,22 @@
 <div id="accordion">
-    {{ range $category := where .Site.Pages "Params.category" "categories" }}
-    <div class="card">
-        <div class="card-header" id="headingOne">
-            <h4 class="mb-0">{{ $category.Name }}</h4>
+    {{ range $elem_index, $category := where .Site.Pages "Params.category" "categories" }}
+    {{ $cardId := print (lower $category.Name) "-" $elem_index}}
+    {{ $collapseId := print "collapse-" $elem_index}}
+    <div class="accordion-item rounded p-3 py-5 my-3 border-0">
+        <div class="accordion-header" id="{{ $cardId }}">
+            <div class="collapsed d-flex justify-content-between" type="button" data-bs-toggle="collapse" data-bs-target="#{{ $collapseId }}" aria-expanded="false" aria-controls="{{ $collapseId }}">
+                <h4 class="h4 fw-bold mb-0">
+                    {{ $category.Name }}
+                </h4>
+                <div class="px-2">
+                    <span class="px-1">Ver mais</span>
+                    <img src="/images/icons/view-more.svg" alt="View more">
+                </div>
+            </div>
         </div>
 
-        <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
-            <div class="card-body">
+        <div id="{{ $collapseId }}" class="accordion-collapse collapse" aria-labelledby="{{ $cardId }}" data-bs-parent="#accordion">
+            <div class="accordion-body">
                 <table class="table">
                     <thead style="border-style: hidden;">
                         <tr>
@@ -25,7 +35,9 @@
                                         </td>
                                         <td>{{ $technique.Params.Name }}</td>
                                         <td>
-                                            <a href="{{ $technique.URL }}">ver</a>
+                                            <a href="{{ $technique.URL }}">
+                                                <img src="/images/icons/external-link.svg" alt="">
+                                            </a>
                                         </td>
                                     </tr>
                            
@@ -38,3 +50,15 @@
     </div>
     {{ end }}
 </div>
+
+<style>
+    tr {
+        border-style: none !important;
+        border: transparent;
+    }
+    td {
+        background-color: #FCFCFC !important;
+        padding: 30px 0px !important;
+        margin-bottom: 10px !important;
+    }
+</style>

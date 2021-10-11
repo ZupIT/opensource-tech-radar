@@ -1,6 +1,6 @@
   html,
   body {
-    background-color: #FFF;
+    background-color: #FAFAFA;
   }
 
   * {
@@ -65,6 +65,24 @@
   border-radius: 2px;
 }
 
+.badge-orange:hover {
+  color: #FF8429;
+}
+
+.badge-green:hover {
+  color:#29C3A5;
+  
+}
+
+.badge-blue:hover {
+  color: #2C91FF;
+
+}
+
+.badge-red:hover {
+  color: #FF696B;
+}
+
 #top-header {
   position: static;
   background: #FFF;
@@ -89,6 +107,13 @@
   color: black;
   text-align: center;
   text-transform: uppercase;
+  text-decoration: none;
+}
+
+.link-menu a.active {
+  border-bottom: #FF6D00;
+  border-bottom-width: 4px;
+  border-bottom-style: solid;
 }
 
 #langs {
