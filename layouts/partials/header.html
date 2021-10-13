@@ -1,5 +1,5 @@
 <header class="d-flex align-items-center justify-content-center justify-content-md-between px-5 py-3 gap-5">
-    <a href="/" class="col d-flex col-md-2">
+    <a href="{{ .Site.BaseURL | relLangURL }}" class="col d-flex col-md-2">
         <img id="logo" src="/images/logo.svg" />
     </a>
 
@@ -16,7 +16,7 @@
             <a class="nav-link{{if $active }} active{{end}}"
                 href="{{ with .Page }}{{ .RelPermalink }}{{ else }}{{ .URL | relLangURL }}{{ end }}" {{ if ne $url.Host
                 $baseurl.Host }}target="_blank" {{ end }}>
-                <span{{if $active }} class="active" {{end}}>{{ .Name }}</span>
+                <span {{if $active }} class="active" {{end}}>{{ .Name }}</span>
             </a>
 
         </li>
@@ -24,9 +24,7 @@
     </ul>
 
     <div class="col-auto">
-        <select class="form-select">
-            <option value="pt-BR">Português</option>
-            <option value="en-US">English</option>
-        </select>
+            {{- partial "language.html" . -}}
+
     </div>
 </header>

@@ -1,0 +1,35 @@
+<div class="dropdown lang-dropdown">
+    {{/* Link directly to documentation etc., if possible. */}}
+    {{ $langPage := cond (gt (len .Translations) 0) . .Site.Home }}
+    <button class="lang-btn dropdown-toggle" type="button" id="languageSelectMenu"
+        data-bs-toggle="dropdown" aria-expanded="false">
+        {{ $langPage.Language.LanguageName }}
+    </button>
+    <div class="lang-dropdown-menu dropdown-menu" aria-labelledby="languageSelectMenu">
+        {{ range $langPage.Translations }}
+        {{ $href := .RelPermalink }}
+        <a class="dropdown-item text-decoration-none" href="{{ $href }}">
+            {{ .Language.LanguageName }}
+        </a>
+        {{ end }}
+    </div>
+</div>
+
+<style>
+    .lang-btn {
+        width: 128px !important;
+        max-height: 40px !important;
+        background: transparent;
+        display: flex;
+        align-content: center;
+        justify-content: center;
+        align-items: center;
+        border: 1px solid #404659;
+        box-sizing: border-box;
+        border-radius: 4px;
+        padding: 8px 4px;
+    }
+    .lang-dropdown-menu {
+        min-width: 100% !important;
+    }
+</style>
