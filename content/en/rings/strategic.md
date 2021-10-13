@@ -1,8 +1,7 @@
 +++
 name="Strategic"
-id="Strategic"
-title="Estratégico"
-description="Tecnologias dentro do anel Estratégico são fundamentais para os projetos. Os times que testaram  têm conhecimento, segurança e fluência."
+title="Strategic"
+description="Technologies within the Strategic Ring are fundamental to the projects. The teams that tested have knowledge, confidence and fluency."
 image="images/rings/strategic.png"
 category="rings"
 weight="1"

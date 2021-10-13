@@ -1,6 +1,6 @@
 <section id="section-categories">
-    <h1 class="page-title">Categorias</h1>
-    <h4 class="page-subtitle">Escolha uma tecnologia e saiba como aplicar</h4>
+    <h1 class="page-title">{{ i18n "home.categories.title" }}</h1>
+    <h4 class="page-subtitle">{{ i18n "home.categories.subtitle" }}</h4>
     <div class="categories-cards container">
 
         {{ range where .Site.Pages "Params.category" "categories" }}
@@ -14,7 +14,7 @@
                 </li>
                 {{ end }}
             </ul>
-            <a href="{{ .URL }}">Ver todas</a>
+            <a href="{{ .URL }}">{{ i18n "home.categories.see-all" }}</a>
         </div>
         {{ end }}
 

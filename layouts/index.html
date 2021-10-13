@@ -8,7 +8,7 @@
             <section id="section-home" class="d-flex align-items-center justify-content-center">
                 <div id="home-content">
                     <h1>Tech Radar</h1>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam qui at animi provident voluptate placeat iure. Natus veniam eligendi voluptas sequi, eum incidunt quam quo cum ab voluptatibus in ex.</p>
+                    <p>{{ i18n "home.header" }}</p>
                     
                     {{- partial "search.html" . -}}
                 </div>
@@ -18,9 +18,9 @@
                 <div id="show-radar-content" class="d-flex align-items-center justify-content-between">
                     <div id="caption">
                         <img src="/images/icons/radar.svg"/>
-                        <p>Confira nosso Radar completo e saiba o que você deve considerar <br/> em seus projetos.</p>
+                        <p>{{ i18n "home.widget-show-radar.title" }}</p>
                     </div>
-                    <a href="/radar">Ver radar</a>
+                    <a href="/radar">{{ i18n "home.widget-show-radar.button" }}</a>
                 </div>
             </div>
 

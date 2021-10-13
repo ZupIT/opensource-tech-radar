@@ -1,6 +1,20 @@
 {
-  "Home": "Categories",
-  "PageHome": {
-    "Home": "zxc"
-  }
+  "home": {
+    "header": "Keep up with the latest technology trends with our open source radar.",
+    "search": "Search technology /",
+    "widget-show-radar": {
+      "title": "Check out our complete Radar and find out what you should consider in your projects.",
+      "button": "SEE RADAR"
+    },
+    "categories": {
+      "title": "Categories",
+      "subtitle": "Choose a strategic technology and start using it right away.",
+      "see-all": "See all"
+    },
+    "rings": {
+      "title": "Rings",
+      "subtitle": "Rings are a sign of success. The closer to the center, the better the technology."
+    }
+  },
+  "footer": {}
 }

@@ -1,6 +1,20 @@
 {
-  "Home": "Categorias",
-  "PageHome": {
-    "Home": "asd"
-  }
+  "home": {
+    "header": "Acompanhe as últimas tendências tecnológicas com o nosso radar open source.",
+    "search": "Pesquisar tecnologia /",
+    "widget-show-radar": {
+      "title": "Confira nosso Radar completo e saiba o que você deve considerar em seus projetos.",
+      "button": "VER RADAR"
+    },
+    "categories": {
+      "title": "Categorias",
+      "subtitle": "Escolha uma tecnologia estratégica e comece a usar agora mesmo.",
+      "see-all": "Ver todas"
+    },
+    "rings": {
+      "title": "Anéis",
+      "subtitle": "Os anéis são sinalizadores de sucesso. Quanto mais próximos do centro, melhor é a tecnologia."
+    }
+  },
+  "footer": {}
 }
