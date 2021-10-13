@@ -137,6 +137,11 @@
   background-image: url('../images/home-background.png');
   background-position: center;
   background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-content: space-between;
+  flex-direction: column;
 }
 
 #home-content {
@@ -196,13 +201,12 @@
 
 
 #widget-show-radar {
-  margin: 0 10%;
   padding: 40px;
-  position: absolute;
-  top: 72%;
-  z-index: 5;
-  width: 76%;
   background: #FFF;
+  position: absolute;
+  transform: translateY(-50%);
+  left: 0;
+  right: 0;
 }
 
 #show-radar-content #caption {
@@ -234,10 +238,8 @@
 
 #section-categories {
   background: #F5F6F7;
-  top: -15%;
-  position: relative;
-  padding-top: 10%;
-  padding-bottom: 5%;
+  padding-top: 140px;
+  padding-bottom: 80px;
 }
 
 
@@ -311,8 +313,8 @@
 
 #section-rings {
   background-color: #FCFCFC;
-  padding-top: 5%;
-  padding-bottom: 5%;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 #ring-graph {
