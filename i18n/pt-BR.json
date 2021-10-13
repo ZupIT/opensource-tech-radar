@@ -16,5 +16,26 @@
       "subtitle": "Os anéis são sinalizadores de sucesso. Quanto mais próximos do centro, melhor é a tecnologia."
     }
   },
-  "footer": {}
+  "footer": {
+    "tech-radar": {
+      "title": "Tech Radar",
+      "technologies": "Tecnologias"
+    },
+    "community": {
+      "title": "Comunidade",
+      "blog": "Blog",
+      "tech radar": "Tech Radar",
+      "events": "Eventos",
+      "forum": "Fórum",
+      "privacy-policy": "Política de Privacidade"
+    },
+    "social-networks": {
+      "title": "Redes sociais"
+    },
+    "who-we-are": {
+      "about": "Sobre nós",
+      "contact": "Contato",
+      "title": "Quem somos"
+    }
+  }
 }

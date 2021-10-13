@@ -16,5 +16,26 @@
       "subtitle": "Rings are a sign of success. The closer to the center, the better the technology."
     }
   },
-  "footer": {}
+  "footer": {
+    "tech-radar": {
+      "title": "Tech Radar",
+      "technologies": "Technologies"
+    },
+    "community": {
+      "title": "Community",
+      "blog": "Blog",
+      "tech radar": "Tech Radar",
+      "events": "Events",
+      "forum": "Forum",
+      "privacy-policy": "Privacy Policy"
+    },
+    "social-networks": {
+      "title": "Social networks"
+    },
+    "who-we-are": {
+      "about": "About",
+      "contact": "Contact",
+      "title": "Who we are"
+    }
+  }
 }
