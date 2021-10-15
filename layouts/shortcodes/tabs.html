@@ -1,51 +1,74 @@
-<nav class="mt-5">
-    <div class="nav nav-tabs" role="tablist">
-      <button class="nav-link active" data-bs-toggle="tab" data-bs-target="#nav-1" type="button" role="tab"
-        aria-selected="true">
-        O que é
-      </button>
-      <button class="nav-link" data-bs-toggle="tab" data-bs-target="#nav-2" type="button" role="tab"
-        aria-selected="false">
-        Porque?
-      </button>
-      <button class="nav-link" data-bs-toggle="tab" data-bs-target="#nav-3" type="button" role="tab"
-        aria-selected="false">
-        Para Quem?
-      </button>
-      <button class="nav-link" data-bs-toggle="tab" data-bs-target="#nav-4" type="button" role="tab"
-        aria-selected="false">
-        Recursos
-      </button>
-      <button class="nav-link" data-bs-toggle="tab" data-bs-target="#nav-5" type="button" role="tab"
-        aria-selected="false">
-        Contatos
-      </button>
-    </div>
-  </nav>
-  <div class="tab-content mt-3">
-    <div class="tab-pane fade show active" id="nav-1" role="tabpanel">
-      Go is a statically typed, compiled programming language designed at Google by Robert Griesemer, Rob Pike, and Ken
-      Thompson. Go is syntactically similar to C, but with memory safety, garbage collection, structural typing, and
-      CSP-style concurrency.
-    </div>
-    <div class="tab-pane fade" id="nav-2" role="tabpanel">
-      It is tested and proved that applications that are written on Go are highly performant and scalable. Golang is a
-      very efficient language, just like C/C++, handling parallelisms like Java, and has easy code readability like
-      Python and pearl. Golang has indisputable architectural advantages over its predecessors.
-    </div>
-    <div class="tab-pane fade" id="nav-3" role="tabpanel">
-      <ul>
-        <li><a href="https://charlescd.io/">CharlesCD</a></li>
-        <li><a href="https://horusec.io/site/">Horusec</a></li>
-        <li><a href="https://ritchiecli.io/">Ritchie CLI</a></li>
-      </ul>
-    </div>
-    <div class="tab-pane fade" id="nav-4" role="tabpanel">
-      <ul>
-        <li><a href="https://golang.org/">homepage</a></li>
-        <li><a href="https://golang.org/doc/">Documentation</a></li>
-        <li><a href="https://github.com/google/go-github">Source code</a></li>
-      </ul>
-    </div>
-    <div class="tab-pane fade" id="nav-5" role="tabpanel">.sssssssssssssss..</div>
-  </div>
+{{- .Page.Scratch.Add "tabset-counter" 1 -}}
+{{- $tab_set_id := .Get "id" | default (printf "tabset-%s-%d" (.Page.RelPermalink) (.Page.Scratch.Get "tabset-counter") ) | anchorize -}}
+{{- $tabs := .Scratch.Get "tabs" -}}
+{{- if .Inner -}}{{- /* We don't use the inner content, but Hugo will complain if we don't reference it. */ -}}{{- end -}}
+<ul class="nav nav-tabs mb-4" id="{{ $tab_set_id }}-tab" role="tablist">
+	{{- range $i, $e := $tabs -}}
+	  {{- $id := printf "%s-%d" $tab_set_id $i -}}
+	  {{- if (eq $i 0) -}}
+		<li class="nav-item">
+			<button class="nav-link active" id="{{ $id }}-tab" data-bs-toggle="tab" data-bs-target="#{{ $id }}" type="button" role="tab" aria-controls="home" aria-selected="true">
+				{{- trim .name " " -}}
+			</button>
+		</li>
+	  {{ else }}
+		<li class="nav-item">
+			<button class="nav-link" id="{{ $id }}-tab" data-bs-toggle="tab" data-bs-target="#{{ $id }}" type="button" role="tab" aria-controls="home" aria-selected="false">
+				{{- trim .name " " -}}
+			</button>
+		</li>
+	  {{- end -}}
+{{- end -}}
+</ul>
+<div class="tab-content" id="{{ $tab_set_id }}-tabContent">
+{{- range $i, $e := $tabs -}}
+{{- $id := printf "%s-%d" $tab_set_id $i -}}
+{{- if (eq $i 0) -}}
+<div class="tab-pane fade show active" id="{{ $id }}" role="tabpanel" aria-labelledby="{{ $id }}-tab">
+{{ else }}
+<div class="tab-pane fade" id="{{ $id }}" role="tabpanel" aria-labelledby="$id-tab">
+{{ end }}
+{{- with .content -}}
+	{{- . -}}
+{{- else -}}
+	{{- if eq $.Page.BundleType "leaf" -}}
+		{{- /* find the file somewhere inside the bundle. Note the use of double asterisk */ -}}
+		{{- with $.Page.Resources.GetMatch (printf "**%s*" .include) -}}
+			{{- if ne .ResourceType "page" -}}
+			{{- /* Assume it is a file that needs code highlighting. */ -}}
+			{{- $codelang := $e.codelang | default ( path.Ext .Name | strings.TrimPrefix ".") -}}
+			{{- highlight .Content $codelang "" -}}
+			{{- else -}}
+				{{- .Content -}}
+			{{- end -}}
+		{{- end -}}
+	{{- else -}}
+	{{- $path := path.Join $.Page.File.Dir .include -}}
+	{{- $page := site.GetPage "page" $path -}}
+	{{- with $page -}}
+		{{- .Content -}}
+	{{- else -}}
+	{{- errorf "[%s] tabs include not found for path %q" site.Language.Lang $path -}}
+	{{- end -}}
+	{{- end -}}
+{{- end -}}
+</div>
+{{- end -}}
+</div>
+
+<style>
+	.nav-tabs .nav-link.active {
+		background-color: #fff;
+		border-bottom: 2px solid #FF6D00 !important;
+		border-color: #dee2e6 #dee2e6 #fff;
+		font-weight: 700;
+	}
+	.nav-tabs .nav-link {
+		background: transparent !important;
+		border: none;
+		min-width: 120px;
+	}
+	.nav-link, .nav-link:hover {
+		color: #1A2138;
+	}
+</style>
