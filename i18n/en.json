@@ -37,5 +37,11 @@
       "contact": "Contact",
       "title": "Who we are"
     }
+  },
+  "common": {
+    "see-more": "See more",
+    "rings": "Rings",
+    "technologies": "Technologies",
+    "also-use": "Also use"
   }
 }

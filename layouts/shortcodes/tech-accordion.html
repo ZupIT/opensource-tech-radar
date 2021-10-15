@@ -1,0 +1,54 @@
+<div id="accordion">
+    {{ range $elem_index, $category := where .Site.Pages "Params.category" "categories" }}
+    {{ $cardId := print "card" "-" $elem_index}}
+    {{ $collapseId := print "collapse-" $elem_index}}
+    <div class="accordion-item rounded p-3 py-5 my-3 border-0">
+        <div class="accordion-header" id="{{ $cardId }}">
+            <div class="collapsed d-flex justify-content-between" type="button" data-bs-toggle="collapse" data-bs-target="#{{ $collapseId }}" aria-expanded="false" aria-controls="{{ $collapseId }}">
+                <h4 class="h4 fw-bold mb-0">
+                    {{ $category.Name }}
+                </h4>
+                <div class="px-2">
+                    <span class="px-1">{{ i18n "common.see-more"}}</span>
+                    <img src="/images/icons/view-more.svg" alt='{{ i18n "common.see-more" }}'>
+                </div>
+            </div>
+        </div>
+
+        <div id="{{ $collapseId }}" class="accordion-collapse collapse" aria-labelledby="{{ $cardId }}" data-bs-parent="#accordion">
+            <div class="accordion-body">
+                <div class="row">
+                    <div class="col-1">
+                        <p class="fw-bold">
+                            {{ i18n "common.rings" }}
+                        </p>
+                    </div>
+                    <div class="col-auto">
+                        <p class="fw-bold">
+                            {{ i18n "common.technologies" }}
+                        </p>
+                    </div>
+                </div>
+
+                {{ range $ring := where .Site.Pages "Params.category" "rings"}}
+                    {{ range $technique := where (where .Site.Pages "Params.category" $category.Title) "Params.ring" $ring.Params.Name }}
+                            <div class="row technologies-row">
+                                <div class="col-1">
+                                    <span class="badge badge-{{ lower $ring.Params.Color }}">{{ $ring.Name }}</span>
+                                </div>
+                                <div class="col">
+                                    <span>{{ $technique.Params.Name }}</span>
+                                </div>
+                                <div class="col-1">
+                                    <a href="{{ $technique.URL }}">
+                                        <img src="/images/icons/external-link.svg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                    {{ end }}
+                {{ end }}
+            </div>
+        </div>
+    </div>
+    {{ end }}
+</div>

@@ -37,5 +37,11 @@
       "contact": "Contato",
       "title": "Quem somos"
     }
+  },
+  "common": {
+    "see-more": "Ver mais",
+    "rings": "Anéis",
+    "technologies": "Tecnologias",
+    "also-use": "Use também"
   }
 }

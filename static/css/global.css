@@ -410,6 +410,14 @@
   background: #ff6d004d;
 }
 
+.technologies-row {
+  background: #FCFCFC;
+  border-radius: 2px;
+  height: 64px;
+  margin-bottom: 4px;
+  display: flex;
+  align-items: center;
+}
 
 footer {
   background: #F5F6F7;

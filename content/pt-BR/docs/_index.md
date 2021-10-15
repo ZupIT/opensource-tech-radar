@@ -7,4 +7,4 @@ layout="page"
 weight="1"
 +++
 
-{{< accordion >}}
+{{< tech-accordion >}}
