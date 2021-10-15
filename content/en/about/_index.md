@@ -6,37 +6,35 @@ layout="page"
 weight="3"
 +++
 
-# O que é o Radar?
+# What is Radar?
+Tech Radar is like a portfolio to visualize the technologies and methodologies that an institution uses and trusts, monitor new trends and also identify which tools can be discontinued. Your goal is to keep teams strategically updated.
 
-O Tech Radar é como um portfólio para visualizar as tecnologias e metodologias que uma instituição utiliza e confia, monitorar novas tendências e também identificar quais ferramentas podem ser descontinuadas. Seu objetivo é manter os times atualizados de forma estratégica.
+# How it works?
+Radar has four quadrants, with their respective categories: languages and frameworks, platforms, techniques and services. In each of the quadrants there are four rings, where the level of importance and relevance of the technology and/or methodology is identified. Our rings are named Strategic, Essential, Potential and Discontinued. The closer the technology is to the center of the radar, the more important it is.
 
-# Como funciona?
-O Radar possui quatro quadrantes, com suas respectivas categorias: linguagens e frameworks, plataformas, técnicas e serviços. Em cada um dos quadrantes há quatro anéis, onde se identifica o nível de importância e relevância da tecnologia e/ou metodologia. Nossos anéis são nomeados Estratégico, Essencial, Potencial e Descontinuado. Quanto mais próxima a tecnologia estiver do centro do radar, mais importante ela é.
+For example, to choose a tool, language or methodology, we will prioritize the one that the team already knows or masters. In some cases, it is important to check if there is any study regarding this new demand. If two teams need to know a tool, all engineering will know that there is a new front with this objective, thanks to Radar.
+# Tech Radar within teams
+Within the open source team at Zup, we use Tech Radar for knowledge management and also to help us make a quality solution.
 
-Por exemplo, para escolher uma ferramenta, linguagem ou metodologia, vamos priorizar àquela que o time já conhece ou domina. Em alguns casos, é importante verificar se existe algum estudo com relação a essa nova demanda. Se dois times precisem conhecer uma ferramenta, toda engenharia saberá que existe uma nova frente com esse objetivo, graças ao Radar.
+Discover our main motivations:
 
-# Tech Radar dentro dos times
-Dentro do time open source na Zup, utilizamos o Tech Radar para a gestão de conhecimento e também para nos auxiliar a fazer uma solução com qualidade. 
+Manage the information that circulates between different teams: knowing the tools each team uses or wants to use makes it easier to establish effective communication between projects and also avoid knowledge silos.
 
-Conheça nossas principais motivações:
+Motivate and train: once the technologies that teams need to learn and/or improve are mapped, it is possible to organize study groups, lectures, workshops and research, including cross-times.
 
-Gerir as informações que circulam entre diversos times: sabendo as ferramentas que cada time usa ou deseja utilizar, fica mais fácil de estabelecer uma comunicação efetiva entre os projetos e também evitar silos de conhecimento.
+Avoid losing focus and the "herd effect": even though there is plenty of opportunity to learn about new tools in external events, it is important to pay attention to the real motivations behind the pile used, as they will certainly have tools that "scale", " perform”, etc. Care must be taken not to turn the projects into a "laboratory in production".
 
-Motivar e treinar: uma vez que as tecnologias que os times precisam aprender e/ou aprimorar estão mapeadas, é possível organizar grupos de estudos, palestras, workshops e pesquisas, inclusive cross-times.
+Prevent the technology stack from becoming a "fruit salad": very similar to the previous case and, sometimes, derived from it, the big point is to avoid having several tools that do the same thing. After all, if within the group there is already a solution that solves a problem, what is the motivation to use a new one for the same purpose?
 
-Evitar a perda de foco e "efeito rebanho": por mais que haja muito oportunidade de se conhecer novas ferramentas em eventos externos, é importante se atentar com as reais motivações por trás da pilha utilizada, pois certamente terão ferramentas que “escalam”, “performam”, etc. É preciso cautela para não transformar os projetos em um "laboratório em produção".
+Code quality: a focused team with high cohesion in the technology stack facilitates knowledge management, resulting in good practices and fluency between teams, as well as better written and worked codes.
 
-Impedir que a pilha tecnológica se torne uma "salada de frutas": bem semelhante ao caso anterior e, às vezes, oriundo dele, o grande ponto é evitar que existam diversas ferramentas que fazem a mesma coisa. Afinal, se dentro do grupo já existe  uma solução que resolve um problema, qual é a motivação de utilizar uma nova com o mesmo propósito?
+Being truly open source: one of the critical points in these types of projects is that they really need to be open source, that is, that their dependencies have licenses compatible with our projects.
 
-Qualidade no código: um time concentrado e com alta coesão na pilha de tecnologia facilita a gestão de conhecimento, resultando em boas práticas e fluência entre times, além de códigos melhor escritos e trabalhados.
+# Our rings
+Strategic: everything considered fundamental to the projects. The teams have knowledge, security and fluency.
 
-Ser open source de verdade: um dos pontos críticos nestes tipos de projetos é que eles realmente precisam ser open source, ou seja, que as suas dependências tenham licenças compatíveis com os nossos projetos.
+Essential: everything that is already in the process of adoption, knowledge is vital to the team's success. Therefore, teams need training and/or experience.
 
-# Os nossos  anéis
-Estratégico: tudo que é considerado fundamental para os projetos. Os times têm conhecimento, segurança e fluência.
+Potential: everything that adheres to the culture, the necessary licenses and has the potential to be adopted in current projects or in future engagements. For this, it is interesting to carry out studies and tests to validate the effectiveness in the respective application scenario.
 
-Essencial: tudo que já está em processo de adoção, conhecimento é vital para o sucesso da equipe. Por isso, os times precisam de capacitação e/ou experiência.
-
-Potencial: tudo que possui aderência com a cultura, as devidas licenças e tem potencial para ser adotado em projetos atuais ou em futuros engajamentos. Para isso, é interessante realizar estudos e testes para validação da efetividade no respectivo cenário de aplicação.
-
-Descontinuado: tudo que é atualmente utilizado mas deve ser removido. Os motivos para tal medida se dão por coesão da pilha tecnológica ou pela quebra de cultura e/ou licenças open source adotadas.
+Discontinued: anything that is currently used but must be removed. The reasons for such a measure are due to the cohesion of the technological stack or the break in culture and/or open source licenses adopted.
