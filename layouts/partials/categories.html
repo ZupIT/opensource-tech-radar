@@ -1,22 +1,35 @@
 <section id="section-categories">
     <h1 class="page-title">{{ i18n "home.categories.title" }}</h1>
     <h4 class="page-subtitle">{{ i18n "home.categories.subtitle" }}</h4>
-    <div class="categories-cards container">
+    <div class="container">
+        <div class="row row-cols-4 mt-5" >
 
-        {{ range where .Site.Pages "Params.category" "categories" }}
-        <div class="category-card shadow">
-            <img src="{{ .Params.Image }}" />
-            <h4>{{ .Params.Title }}</h4>
-            <ul>
-                {{ range first 5 (where .Site.Pages "Params.category" .Params.Title) }}
-                <li>
-                    <a href="{{ .URL }}">{{ .Params.Name }}</a>
-                </li>
-                {{ end }}
-            </ul>
-            <a href="{{ .URL }}">{{ i18n "home.categories.see-all" }}</a>
-        </div>
+            {{ range where .Site.Pages "Params.category" "categories" }}
+            <div class="col">   
+                <!-- 
+                padding: 25px;
+                display: flex;
+                flex-direction: column;
+                gap: 20px;
+                margin-top: 56px;
+                justify-content: space-between;
+                background: #FFF; -->
+
+                <div class="category-card p-4 bg-white justify-content-between shadow">
+                    <img src="{{ .Params.Image }}" />
+                    <h4>{{ .Params.Title }}</h4>
+                    <ul>
+                        {{ range first 5 (where .Site.Pages "Params.category" .Params.Title) }}
+                        <li>
+                            <a href="{{ .URL }}">{{ .Params.Name }}</a>
+                        </li>
+                        {{ end }}
+                    </ul>
+                    <a href="{{ .URL }}">{{ i18n "home.categories.see-all" }}</a>
+                </div>
+            </div>
         {{ end }}
+    </div>
 
     </div>
 </section>

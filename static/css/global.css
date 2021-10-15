@@ -209,18 +209,13 @@
   right: 0;
 }
 
-#show-radar-content #caption {
-  display: flex;
-  align-items: center;
-  align-content: stretch;
-  gap: 30px;
-}
-
-#show-radar-content #caption p{
+#show-radar-content * p{
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
   color: #8C909C;
+  margin: 0;
+  max-width: 60%;
 }
 
 #show-radar-content a {
@@ -251,13 +246,10 @@
 }
 
 .category-card {
-  padding: 25px;
   display: flex;
   flex-direction: column;
   gap: 20px;
-  margin-top: 56px;
-  justify-content: space-between;
-  background: #FFF;
+  height: 100%;
 }
 
 .category-card > img{
@@ -326,6 +318,7 @@
 #ring-card {
   background-color: #FFF;
   max-width: 400px;
+  height: 100%;
 }
 #ring-card img {
   width: 100%;

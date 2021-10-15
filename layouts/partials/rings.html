@@ -3,12 +3,16 @@
     <h4 class="page-subtitle">{{ i18n "home.rings.subtitle" }}</h4>
 
     <div class="container">
-        <div id="ring-graph">
-            <div id="ring-card" class="shadow"></div>
-
-            <div id="list-rings"></div>
-
-            <div id="graph-square"></div>
+        <div class="row mt-5 gap-5">
+            <div class="col-auto">
+                <div id="ring-card" class="shadow"></div>
+            </div>
+            <div class="col d-flex">
+             
+                    <div id="list-rings"></div>
+                    <div id="graph-square"></div>
+              
+            </div>
         </div>
     </div>
 </section>
@@ -19,7 +23,7 @@
         {{ range $rings }}
         {
             title: {{ .Params.Title }},
-            image: {{ .Params.Image }},
+            image: {{ .Params.Image | absURL }},
             caption: {{ .Params.Description }},
         },
         {{ end }}
