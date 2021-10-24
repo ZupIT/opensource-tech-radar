@@ -1,11 +1,16 @@
-baseURL = "https://zupit.github.io/opensource-tech-radar/"
-languageCode = "en-us"
-title = "Tech radar"
+baseURL = "/"
+
+title = "Tech Radar - Opensource - Zup I.T"
+
 publishDir = "docs"
+
 relativeURLs = true
 canonifyURLs = true
 
-offlineSearchSummaryLength = 70
+theme = ["techradar"]
+
+[params]
+offlineSearchMaxResults = 7
 
 [languages]
   [languages.en]

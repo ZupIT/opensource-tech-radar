@@ -1,0 +1,19 @@
+.cp-badge {
+  font-size: 12px;
+  line-height: 16px;
+  color: #FF6D00;
+
+  padding: 4px 8px;
+  border-radius: 4px;
+  background: #FFF3EB;
+}
+
+.cp-badge.success {
+  color: #006B69;
+  background: #EBFBFB;
+}
+
+.cp-badge.alert {
+  color: #0984E3;
+  background: #EBF5FD;
+}

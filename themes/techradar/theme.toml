@@ -1,0 +1,12 @@
+name = "Tech Radar"
+license = "Apache 2.0"
+licenselink = "https://github.com/google/docsy/blob/master/LICENSE"
+description = "Tech Radar theme Zup I.T DevRel"
+homepage = "https://zup.com.br"
+tags = ["documentation", "multilingual", "customizable", "responsive", "docs"]
+features = []
+min_version = 0.1
+
+[author]
+  name = "DevRel - Zup IT"
+  homepage = "https://opensource.zup.com.br"

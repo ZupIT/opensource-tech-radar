@@ -1,0 +1,58 @@
+{{- partial "head.html" . -}}
+{{- partial "header.html" . -}}
+
+{{ $ring := .Site.GetPage "category" .Params.ring }}
+{{ $tech := .Site.GetPage "title" .Params.category }}
+<div class="container">
+  {{ partial "breadcrumb.html" . }}
+  <div class="row display-flex align-items-center">
+    <div class="col-auto">
+      <img src="{{ .Params.Image }}" alt="{{ .Params.Name }}" width="auto" height="100px">
+    </div>
+    <div class="col">
+      <h1 class="display-1 fw-bold">{{ .Params.Name }}</h1>
+    </div>
+  </div>
+  <div class="row my-4">
+    <div class="col">
+      <a href="{{ $ring.URL}}" class="p-2 badge badge-{{ lower $ring.Params.Color }} text-decoration-none"> {{ $ring.Params.Title }}</a>
+      <a href="{{ $tech.URL}}" class="p-2 badge badge-{{ lower $ring.Params.Color }} text-decoration-none"> {{ $tech.Params.Title }}</a>
+    </div>
+  </div>
+  
+  {{ .Content }}
+
+  <div class="my-5">
+
+    <h4 class="fw-bold">{{ i18n "common.also-use" }}:</h4>
+    <div class="row">
+      {{ $relateds := where (where .Site.Pages "Params.ring" "Strategic") "Params.name" "!=" .Params.Name }}
+      {{ range $related := first 3 $relateds }}
+      <div class="col">
+        <a class="text-decoration-none" href="{{ $related.URL }}">
+          <div class="p-3 rounded" style="background-color: #ECEDEE;">
+            <div class="row d-flex align-items-center">
+              <div class="col-auto">
+                <div class="p-2 d-flex align-items-center justify-content-center"
+                  style="background-color: white; width: 50px; height: 50px;">
+                  <img src="{{ $related.Params.Image }}" alt="{{ $related.Params.Name }}" width="auto" height="40px">
+                </div>
+              </div>
+              <div class="col">
+                <p class="lead m-0 fw-bold">{{ $related.Params.Name }}</p>
+                <p class="caption m-0">{{ $related.Params.Ring }}</p>
+              </div>
+              <div class="col-auto">
+                <img src="/images/icons/chevron-right.svg" alt="">
+              </div>
+            </div>
+        </a>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</div>
+</div>
+
+
+{{- partial "footer.html" . -}}

@@ -1,0 +1,39 @@
+<header class="sc-header">
+  <div class="wrapper">
+     <div class="container-fluid gx-0">
+      <div class="row align-items-center justify-content-between">
+        <div class="col-auto">
+          <a href="/">
+            <img src="/logos/tech-radar.svg" alt="Tech Radar | Zup I.T" style="float: left;">
+          </a>
+        </div>
+
+        <div class="col-auto">
+          <div class="row align-items-center justify-content-between">
+            <div class="col-auto">
+              <nav class="sc-header-navbar">
+                <ul>
+                  <li class="sc-header-navbar-item is-active">
+                    <a href="/docs">documentação</a>
+                  </li>
+
+                  <li class="sc-header-navbar-item">
+                    <a href="/radar">Radar</a>
+                  </li>
+
+                  <li class="sc-header-navbar-item">
+                    <a href="/about">Sobre</a>
+                  </li>
+                </ul>
+              </nav>
+            </div>
+
+            <div class="col-auto ms-5">
+              {{ partial "navbar-lang-selector.html" . }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>

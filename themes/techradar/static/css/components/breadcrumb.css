@@ -1,0 +1,27 @@
+.cp-breadcrumb {
+  display: flex;
+}
+
+.cp-breadcrumb-item {
+  margin-right: 8.25px;
+  padding-right: 16px;
+  background: url('../../icons/light.svg') no-repeat center right;
+}
+
+.cp-breadcrumb-item:last-of-type {
+  padding-right: 0;
+  margin-right: 0;
+  background: none;
+}
+
+.cp-breadcrumb-item a {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  color: #404659;
+  text-decoration: none;
+}
+
+.cp-breadcrumb-item:last-of-type a {
+  font-weight: normal;
+}

@@ -1,0 +1,16 @@
+{{ $langPage := cond (gt (len .Translations) 0) . .Site.Home }}
+<div class="cp-dropdown">
+  <div class="cp-dropdown-head">
+    <span class="cp-dropdown-head-label">{{ $langPage.Language.LanguageName }}</span>
+
+    <span class="cp-dropdown-head-icon">
+      <img src="/icons/arrow-down.svg" alt="Abrir" />
+    </span>
+  </div>
+
+  <div class="cp-dropdown-list">
+    {{ range $langPage.Translations }}
+      <div class="cp-dropdown-list-item" data-value="{{ .RelPermalink }}">{{ .Language.LanguageName }}</div>
+    {{ end }}
+  </div>
+</div>

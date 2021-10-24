@@ -1,0 +1,11 @@
+[ui_search_input_placeholder]
+other = "Pesquisar tecnologia /"
+
+[ui_show_radar_banner_text]
+other = "Confira o nosso Radar completo e saiba o que você deve considerar em seus projetos."
+
+[ui_show_radar_button_text]
+other = "Ver radar"
+
+[home_welcome_text]
+other = "Acompanhe as últimas tendências tecnológicas com o nosso radar open source."

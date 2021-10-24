@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    {{ partial "head.html" . }}
+
+    <title>
+      {{ if .IsHome }}
+        {{ .Site.Title }}
+      {{ else }}
+        {{ with .Title }}{{ . }} | {{ end }}
+        
+        {{ .Site.Title }}
+      {{ end }}
+    </title>
+  </head>
+
+  <body>
+    {{ partial "header.html" . }}
+
+    <section class="sc-welcome">
+      <div class="wrapper">
+        <div class="container-fluid gx-0">
+          <div class="row justify-content-center">
+            <div class="col-8">
+              <div class="row">
+                <div class="col-12">
+                  <h1 class="sc-welcome-title">Tech Radar</h1>
+
+                  <p class="sc-welcome-description">{{ i18n "home_welcome_text" }}</p>
+                </div>
+              </div>
+
+              <div class="row mt-5">
+                <div class="col-12">
+                  {{ partial "search.html" . }}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="sc-banner">
+      <div class="wrapper">
+        <div class="cp-card">
+          <div class="container-fluid gx-0">
+            <div class="row align-items-center justify-content-between">
+              <div class="col-auto">
+                <div class="row align-items-center">
+                  <div class="col-auto">
+                    <img src="/icons/radar.svg" alt="Icone">
+                  </div>
+
+                  <div class="col-auto">
+                    <p>{{ i18n "ui_show_radar_banner_text" }}</p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-3">
+                <a href="/radar" class="cp-button">{{i18n "ui_show_radar_button_text"}}</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="sc-categories">
+      <div class="wrapper">
+        <div class="container-fluid gx-0">
+          <div class="row justify-content-center">
+            <div class="col-auto">
+              <h2>Categorias</h2>
+            </div>
+          </div>
+
+          <div class="row justify-content-center mt-3">
+            <div class="col-auto">
+              <p>Escolha uma tecnologia estratégica e comece a usar agora mesmo.</p>
+            </div>
+          </div>
+
+          <div class="row mt-5">
+            <div class="col-3">
+              <div class="cp-card">
+                <div class="row">
+                  <div class="col-auto">
+                    <img src="/icons/lock-network-orange.svg" alt="Icone">
+                  </div>
+                </div>
+
+                <div class="row mt-3">
+                  <div class="col-12">
+                    <h3>Técnicas</h3>
+                  </div>
+                </div>
+
+                <div class="row mt-3">
+                  <div class="col-12">
+                  <ul class="sc-categories-list">
+                    <li class="sc-categories-list-item">
+                      <span>Lorem Ipsim</span>
+                      
+                      <span>
+                        <a href="#">
+                          <img src="/icons/light-big.svg" alt="Icone">
+                        </a>
+                      </span>
+                    </li>
+
+                    <li class="sc-categories-list-item">
+                      <span>Lorem Ipsim</span>
+                      
+                      <span>
+                        <a href="#">
+                          <img src="/icons/light-big.svg" alt="Icone">
+                        </a>
+                      </span>
+                    </li>
+
+                    <li class="sc-categories-list-item">
+                      <span>Lorem Ipsim</span>
+                      
+                      <span>
+                        <a href="#">
+                          <img src="/icons/light-big.svg" alt="Icone">
+                        </a>
+                      </span>
+                    </li>
+
+                    <li class="sc-categories-list-item">
+                      <span>Lorem Ipsim</span>
+                      
+                      <span>
+                        <a href="#">
+                          <img src="/icons/light-big.svg" alt="Icone">
+                        </a>
+                      </span>
+                    </li>
+
+                    <li class="sc-categories-list-item">
+                      <span>Lorem Ipsim</span>
+                      
+                      <span>
+                        <a href="#">
+                          <img src="/icons/light-big.svg" alt="Icone">
+                        </a>
+                      </span>
+                    </li>
+                  </ul>
+                  </div>
+                </div>
+
+                <div class="row mt-4">
+                  <div class="col-auto">
+                    <a href="#" class="sc-categories-all">Ver todas</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-3">
+              <div class="cp-card">
+                <div class="row">
+                  <div class="col-auto">
+                    <img src="/icons/cog-desktop.svg" alt="Icone">
+                  </div>
+                </div>
+
+                <div class="row mt-3">
+                  <div class="col-12">
+                    <h3>Ferramentas</h3>
+                  </div>
+                </div>
+
+                <div class="row mt-3">
+                  <div class="col-12">
+                  <ul class="sc-categories-list">
+                    <li class="sc-categories-list-item">
+                      <span>Lorem Ipsim</span>
+                      
+                      <span>
+                        <a href="#">
+                          <img src="/icons/light-big.svg" alt="Icone">
+                        </a>
+                      </span>
+                    </li>
+
+                    <li class="sc-categories-list-item">
+                      <span>Lorem Ipsim</span>
+                      
+                      <span>
+                        <a href="#">
+                          <img src="/icons/light-big.svg" alt="Icone">
+                        </a>
+                      </span>
+                    </li>
+
+                    <li class="sc-categories-list-item">
+                      <span>Lorem Ipsim</span>
+                      
+                      <span>
+                        <a href="#">
+                          <img src="/icons/light-big.svg" alt="Icone">
+                        </a>
+                      </span>
+                    </li>
+
+                    <li class="sc-categories-list-item">
+                      <span>Lorem Ipsim</span>
+                      
+                      <span>
+                        <a href="#">
+                          <img src="/icons/light-big.svg" alt="Icone">
+                        </a>
+                      </span>
+                    </li>
+
+                    <li class="sc-categories-list-item">
+                      <span>Lorem Ipsim</span>
+                      
+                      <span>
+                        <a href="#">
+                          <img src="/icons/light-big.svg" alt="Icone">
+                        </a>
+                      </span>
+                    </li>
+                  </ul>
+                  </div>
+                </div>
+
+                <div class="row mt-4">
+                  <div class="col-auto">
+                    <a href="#" class="sc-categories-all">Ver todas</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-3">
+              <div class="cp-card">
+                <div class="row">
+                  <div class="col-auto">
+                    <img src="/icons/framework.svg" alt="Icone">
+                  </div>
+                </div>
+
+                <div class="row mt-3">
+                  <div class="col-12">
+                    <h3>Linguagens e <br />Frameworks</h3>
+                  </div>
+                </div>
+
+                <div class="row mt-3">
+                  <div class="col-12">
+                  <ul class="sc-categories-list">
+                    <li class="sc-categories-list-item">
+                      <span>Lorem Ipsim</span>
+                      
+                      <span>
+                        <a href="#">
+                          <img src="/icons/light-big.svg" alt="Icone">
+                        </a>
+                      </span>
+                    </li>
+
+                    <li class="sc-categories-list-item">
+                      <span>Lorem Ipsim</span>
+                      
+                      <span>
+                        <a href="#">
+                          <img src="/icons/light-big.svg" alt="Icone">
+                        </a>
+                      </span>
+                    </li>
+
+                    <li class="sc-categories-list-item">
+                      <span>Lorem Ipsim</span>
+                      
+                      <span>
+                        <a href="#">
+                          <img src="/icons/light-big.svg" alt="Icone">
+                        </a>
+                      </span>
+                    </li>
+
+                    <li class="sc-categories-list-item">
+                      <span>Lorem Ipsim</span>
+                      
+                      <span>
+                        <a href="#">
+                          <img src="/icons/light-big.svg" alt="Icone">
+                        </a>
+                      </span>
+                    </li>
+                  </ul>
+                  </div>
+                </div>
+
+                <div class="row mt-4">
+                  <div class="col-auto">
+                    <a href="#" class="sc-categories-all">Ver todas</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-3">
+              <div class="cp-card">
+                <div class="row">
+                  <div class="col-auto">
+                    <img src="/icons/microservice.svg" alt="Icone">
+                  </div>
+                </div>
+
+                <div class="row mt-3">
+                  <div class="col-12">
+                    <h3>Serviços</h3>
+                  </div>
+                </div>
+
+                <div class="row mt-3">
+                  <div class="col-12">
+                  <ul class="sc-categories-list">
+                    <li class="sc-categories-list-item">
+                      <span>Lorem Ipsim</span>
+                      
+                      <span>
+                        <a href="#">
+                          <img src="/icons/light-big.svg" alt="Icone">
+                        </a>
+                      </span>
+                    </li>
+
+                    <li class="sc-categories-list-item">
+                      <span>Lorem Ipsim</span>
+                      
+                      <span>
+                        <a href="#">
+                          <img src="/icons/light-big.svg" alt="Icone">
+                        </a>
+                      </span>
+                    </li>
+
+                    <li class="sc-categories-list-item">
+                      <span>Lorem Ipsim</span>
+                      
+                      <span>
+                        <a href="#">
+                          <img src="/icons/light-big.svg" alt="Icone">
+                        </a>
+                      </span>
+                    </li>
+
+                    <li class="sc-categories-list-item">
+                      <span>Lorem Ipsim</span>
+                      
+                      <span>
+                        <a href="#">
+                          <img src="/icons/light-big.svg" alt="Icone">
+                        </a>
+                      </span>
+                    </li>
+
+                    <li class="sc-categories-list-item">
+                      <span>Lorem Ipsim</span>
+                      
+                      <span>
+                        <a href="#">
+                          <img src="/icons/light-big.svg" alt="Icone">
+                        </a>
+                      </span>
+                    </li>
+                  </ul>
+                  </div>
+                </div>
+
+                <div class="row mt-4">
+                  <div class="col-auto">
+                    <a href="#" class="sc-categories-all">Ver todas</a>
+                  </div>
+                </div>
+              </div>
+            </div>          
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="sc-rings">
+      <div class="wrapper">
+        <div class="container-fluid gx-0">
+          <div class="row justify-content-center">
+            <div class="col-auto">
+              <h2>Anéis</h2>
+            </div>
+          </div>
+
+          <div class="row justify-content-center mt-3">
+            <div class="col-auto">
+              <p>Os anéis são sinalizadores de sucesso. Quanto mais próximos do centro, melhor é a tecnologia.</p>
+            </div>
+          </div>
+
+          <div class="row justify-content-between mt-5">
+            <div class="col-4">
+              <div class="cp-card" style="padding: 4px; height: 100%">
+                <div class="cp-rings-card" id="cp-rings-card"></div>
+              </div>
+            </div>
+          
+            <div class="col-7">
+              <div class="row">
+                <div class="col-auto">
+                  <div id="cp-rings-boxes" class="cp-rings-boxes"></div>
+                </div>
+          
+                <div class="col-8">
+                  <div
+                    id="cp-rings-circles"
+                    class="cp-rings-circles"
+                  ></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+    </section>
+
+    {{ partial "footer.html" . }}
+
+    {{ partial "scripts.html" . }}
+  </body>
+</html>

@@ -1,0 +1,25 @@
+<!-- JQUERY -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<!-- JQUERY -->
+
+<script
+  src="https://unpkg.com/lunr@2.3.8/lunr.min.js"
+  integrity="sha384-vRQ9bDyE0Wnu+lMfm57BlYLO0/XauFuKpVsZPs7KEDwYKktWi5+Kz3MP8++DFlRY"
+  crossorigin="anonymous"></script>  
+
+<!-- OFFLINE SEARCH-->
+{{ $jsSearch := resources.Get "js/offline-search.js" }}
+
+{{ $js := (slice $jsSearch) | resources.Concat "js/main.js" }}
+{{ if not hugo.IsProduction }}
+<script src="{{ $js.RelPermalink }}"></script>
+{{ else }}
+{{ $js := $js | minify | fingerprint }}
+<script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" crossorigin="anonymous"></script>
+{{ end }}
+<!-- OFFLINE SEARCH-->
+
+<script src="/js/components/rings.js"></script>
+<script src="/js/components/accordion.js"></script>
+<script src="/js/components/tabs.js"></script>
+<script src="/js/components/dropdown.js"></script>
