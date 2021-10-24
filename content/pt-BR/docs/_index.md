@@ -6,5 +6,3 @@ menu="main"
 layout="page"
 weight="1"
 +++
-
-{{< tech-accordion >}}

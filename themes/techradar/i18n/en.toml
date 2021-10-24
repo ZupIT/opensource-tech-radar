@@ -58,5 +58,8 @@ other = "Documentation"
 [ui_about]
 other = "About"
 
+[ui_rings]
+other = "Rings"
+
 [home_welcome_text]
 other = "Keep up with the latest technology trends with our open source radar."
