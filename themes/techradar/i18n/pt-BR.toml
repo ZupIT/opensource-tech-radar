@@ -7,5 +7,14 @@ other = "Confira o nosso Radar completo e saiba o que você deve considerar em s
 [ui_show_radar_button_text]
 other = "Ver radar"
 
+[ui_home_categories_section_title]
+other = "Categorias"
+
+[ui_home_categories_section_description]
+other = "Escolha uma tecnologia estratégica e comece a usar agora mesmo."
+
+[ui_see_all]
+other = "Ver todas"
+
 [home_welcome_text]
 other = "Acompanhe as últimas tendências tecnológicas com o nosso radar open source."

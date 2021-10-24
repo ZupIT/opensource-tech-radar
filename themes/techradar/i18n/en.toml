@@ -7,5 +7,14 @@ other = "Check out our complete Radar and find out what you should consider in y
 [ui_show_radar_button_text]
 other = "See radar"
 
+[ui_home_categories_section_title]
+other = "Categories"
+
+[ui_home_categories_section_description]
+other = "Choose a strategic technology and start using it right away."
+
+[ui_see_all]
+other = "See all"
+
 [home_welcome_text]
 other = "Keep up with the latest technology trends with our open source radar."

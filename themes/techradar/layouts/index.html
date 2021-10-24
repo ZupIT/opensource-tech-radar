@@ -72,17 +72,18 @@
         <div class="container-fluid gx-0">
           <div class="row justify-content-center">
             <div class="col-auto">
-              <h2>Categorias</h2>
+              <h2>{{ i18n "ui_home_categories_section_title" }}</h2>
             </div>
           </div>
 
           <div class="row justify-content-center mt-3">
             <div class="col-auto">
-              <p>Escolha uma tecnologia estratégica e comece a usar agora mesmo.</p>
+              <p>{{ i18n "ui_home_categories_section_description" }}</p>
             </div>
           </div>
 
           <div class="row mt-5">
+            {{ range where .Site.Pages "Params.category" "categories" }}
             <div class="col-3">
               <div class="cp-card">
                 <div class="row">
@@ -93,297 +94,36 @@
 
                 <div class="row mt-3">
                   <div class="col-12">
-                    <h3>Técnicas</h3>
+                    <h3>{{ .Params.Title }}</h3>
                   </div>
                 </div>
 
                 <div class="row mt-3">
                   <div class="col-12">
                   <ul class="sc-categories-list">
+                    {{ range first 5 (where .Site.Pages "Params.category" .Params.Title) }}
                     <li class="sc-categories-list-item">
-                      <span>Lorem Ipsim</span>
+                      <span>{{ .Params.Name }}</span>
                       
                       <span>
-                        <a href="#">
+                        <a href="{{ .URL }}">
                           <img src="/icons/light-big.svg" alt="Icone">
                         </a>
                       </span>
                     </li>
-
-                    <li class="sc-categories-list-item">
-                      <span>Lorem Ipsim</span>
-                      
-                      <span>
-                        <a href="#">
-                          <img src="/icons/light-big.svg" alt="Icone">
-                        </a>
-                      </span>
-                    </li>
-
-                    <li class="sc-categories-list-item">
-                      <span>Lorem Ipsim</span>
-                      
-                      <span>
-                        <a href="#">
-                          <img src="/icons/light-big.svg" alt="Icone">
-                        </a>
-                      </span>
-                    </li>
-
-                    <li class="sc-categories-list-item">
-                      <span>Lorem Ipsim</span>
-                      
-                      <span>
-                        <a href="#">
-                          <img src="/icons/light-big.svg" alt="Icone">
-                        </a>
-                      </span>
-                    </li>
-
-                    <li class="sc-categories-list-item">
-                      <span>Lorem Ipsim</span>
-                      
-                      <span>
-                        <a href="#">
-                          <img src="/icons/light-big.svg" alt="Icone">
-                        </a>
-                      </span>
-                    </li>
+                    {{ end }}
                   </ul>
                   </div>
                 </div>
 
                 <div class="row mt-4">
                   <div class="col-auto">
-                    <a href="#" class="sc-categories-all">Ver todas</a>
+                    <a href="{{ .URL }}" class="sc-categories-all">{{ i18n "ui_see_all" }}</a>
                   </div>
                 </div>
               </div>
             </div>
-
-            <div class="col-3">
-              <div class="cp-card">
-                <div class="row">
-                  <div class="col-auto">
-                    <img src="/icons/cog-desktop.svg" alt="Icone">
-                  </div>
-                </div>
-
-                <div class="row mt-3">
-                  <div class="col-12">
-                    <h3>Ferramentas</h3>
-                  </div>
-                </div>
-
-                <div class="row mt-3">
-                  <div class="col-12">
-                  <ul class="sc-categories-list">
-                    <li class="sc-categories-list-item">
-                      <span>Lorem Ipsim</span>
-                      
-                      <span>
-                        <a href="#">
-                          <img src="/icons/light-big.svg" alt="Icone">
-                        </a>
-                      </span>
-                    </li>
-
-                    <li class="sc-categories-list-item">
-                      <span>Lorem Ipsim</span>
-                      
-                      <span>
-                        <a href="#">
-                          <img src="/icons/light-big.svg" alt="Icone">
-                        </a>
-                      </span>
-                    </li>
-
-                    <li class="sc-categories-list-item">
-                      <span>Lorem Ipsim</span>
-                      
-                      <span>
-                        <a href="#">
-                          <img src="/icons/light-big.svg" alt="Icone">
-                        </a>
-                      </span>
-                    </li>
-
-                    <li class="sc-categories-list-item">
-                      <span>Lorem Ipsim</span>
-                      
-                      <span>
-                        <a href="#">
-                          <img src="/icons/light-big.svg" alt="Icone">
-                        </a>
-                      </span>
-                    </li>
-
-                    <li class="sc-categories-list-item">
-                      <span>Lorem Ipsim</span>
-                      
-                      <span>
-                        <a href="#">
-                          <img src="/icons/light-big.svg" alt="Icone">
-                        </a>
-                      </span>
-                    </li>
-                  </ul>
-                  </div>
-                </div>
-
-                <div class="row mt-4">
-                  <div class="col-auto">
-                    <a href="#" class="sc-categories-all">Ver todas</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-3">
-              <div class="cp-card">
-                <div class="row">
-                  <div class="col-auto">
-                    <img src="/icons/framework.svg" alt="Icone">
-                  </div>
-                </div>
-
-                <div class="row mt-3">
-                  <div class="col-12">
-                    <h3>Linguagens e <br />Frameworks</h3>
-                  </div>
-                </div>
-
-                <div class="row mt-3">
-                  <div class="col-12">
-                  <ul class="sc-categories-list">
-                    <li class="sc-categories-list-item">
-                      <span>Lorem Ipsim</span>
-                      
-                      <span>
-                        <a href="#">
-                          <img src="/icons/light-big.svg" alt="Icone">
-                        </a>
-                      </span>
-                    </li>
-
-                    <li class="sc-categories-list-item">
-                      <span>Lorem Ipsim</span>
-                      
-                      <span>
-                        <a href="#">
-                          <img src="/icons/light-big.svg" alt="Icone">
-                        </a>
-                      </span>
-                    </li>
-
-                    <li class="sc-categories-list-item">
-                      <span>Lorem Ipsim</span>
-                      
-                      <span>
-                        <a href="#">
-                          <img src="/icons/light-big.svg" alt="Icone">
-                        </a>
-                      </span>
-                    </li>
-
-                    <li class="sc-categories-list-item">
-                      <span>Lorem Ipsim</span>
-                      
-                      <span>
-                        <a href="#">
-                          <img src="/icons/light-big.svg" alt="Icone">
-                        </a>
-                      </span>
-                    </li>
-                  </ul>
-                  </div>
-                </div>
-
-                <div class="row mt-4">
-                  <div class="col-auto">
-                    <a href="#" class="sc-categories-all">Ver todas</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-3">
-              <div class="cp-card">
-                <div class="row">
-                  <div class="col-auto">
-                    <img src="/icons/microservice.svg" alt="Icone">
-                  </div>
-                </div>
-
-                <div class="row mt-3">
-                  <div class="col-12">
-                    <h3>Serviços</h3>
-                  </div>
-                </div>
-
-                <div class="row mt-3">
-                  <div class="col-12">
-                  <ul class="sc-categories-list">
-                    <li class="sc-categories-list-item">
-                      <span>Lorem Ipsim</span>
-                      
-                      <span>
-                        <a href="#">
-                          <img src="/icons/light-big.svg" alt="Icone">
-                        </a>
-                      </span>
-                    </li>
-
-                    <li class="sc-categories-list-item">
-                      <span>Lorem Ipsim</span>
-                      
-                      <span>
-                        <a href="#">
-                          <img src="/icons/light-big.svg" alt="Icone">
-                        </a>
-                      </span>
-                    </li>
-
-                    <li class="sc-categories-list-item">
-                      <span>Lorem Ipsim</span>
-                      
-                      <span>
-                        <a href="#">
-                          <img src="/icons/light-big.svg" alt="Icone">
-                        </a>
-                      </span>
-                    </li>
-
-                    <li class="sc-categories-list-item">
-                      <span>Lorem Ipsim</span>
-                      
-                      <span>
-                        <a href="#">
-                          <img src="/icons/light-big.svg" alt="Icone">
-                        </a>
-                      </span>
-                    </li>
-
-                    <li class="sc-categories-list-item">
-                      <span>Lorem Ipsim</span>
-                      
-                      <span>
-                        <a href="#">
-                          <img src="/icons/light-big.svg" alt="Icone">
-                        </a>
-                      </span>
-                    </li>
-                  </ul>
-                  </div>
-                </div>
-
-                <div class="row mt-4">
-                  <div class="col-auto">
-                    <a href="#" class="sc-categories-all">Ver todas</a>
-                  </div>
-                </div>
-              </div>
-            </div>          
+            {{ end }}     
           </div>
         </div>
       </div>
