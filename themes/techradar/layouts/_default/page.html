@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+  <head>
+    {{ partial "head.html" . }}
+
+    <title>
+      {{ if .IsHome }}
+        {{ .Site.Title }}
+      {{ else }}
+        {{ with .Title }}{{ . }} | {{ end }}
+        
+        {{ .Site.Title }}
+      {{ end }}
+    </title>
+  </head>
+
+  <body>
+    {{ partial "header.html" . }}
+
+    {{ partial "pagetitle.html" .}}
+
+    <main class="pg-about">
+      <div class="wrapper">
+        <div class="container-fluid gx-0">
+          <div class="row">
+            <div class="col-12">
+              {{ .Content }}
+          </div>
+        </div>
+      </div>
+    </main>
+
+    {{ partial "footer.html" . }}
+
+    {{ partial "scripts.html" . }}  
+  </body>
+</html>

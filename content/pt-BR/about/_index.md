@@ -6,16 +6,18 @@ layout="page"
 weight="3"
 +++
 
-# O que é o Radar?
+#### O que é o Radar?
 
 O Tech Radar é como um portfólio para visualizar as tecnologias e metodologias que uma instituição utiliza e confia, monitorar novas tendências e também identificar quais ferramentas podem ser descontinuadas. Seu objetivo é manter os times atualizados de forma estratégica.
 
-# Como funciona?
+#### Como funciona?
+
 O Radar possui quatro quadrantes, com suas respectivas categorias: linguagens e frameworks, plataformas, técnicas e serviços. Em cada um dos quadrantes há quatro anéis, onde se identifica o nível de importância e relevância da tecnologia e/ou metodologia. Nossos anéis são nomeados Estratégico, Essencial, Potencial e Descontinuado. Quanto mais próxima a tecnologia estiver do centro do radar, mais importante ela é.
 
 Por exemplo, para escolher uma ferramenta, linguagem ou metodologia, vamos priorizar àquela que o time já conhece ou domina. Em alguns casos, é importante verificar se existe algum estudo com relação a essa nova demanda. Se dois times precisem conhecer uma ferramenta, toda engenharia saberá que existe uma nova frente com esse objetivo, graças ao Radar.
 
-# Tech Radar dentro dos times
+#### Tech Radar dentro dos times
+
 Dentro do time open source na Zup, utilizamos o Tech Radar para a gestão de conhecimento e também para nos auxiliar a fazer uma solução com qualidade. 
 
 Conheça nossas principais motivações:
@@ -32,7 +34,8 @@ Qualidade no código: um time concentrado e com alta coesão na pilha de tecnolo
 
 Ser open source de verdade: um dos pontos críticos nestes tipos de projetos é que eles realmente precisam ser open source, ou seja, que as suas dependências tenham licenças compatíveis com os nossos projetos.
 
-# Os nossos  anéis
+#### Os nossos  anéis
+
 Estratégico: tudo que é considerado fundamental para os projetos. Os times têm conhecimento, segurança e fluência.
 
 Essencial: tudo que já está em processo de adoção, conhecimento é vital para o sucesso da equipe. Por isso, os times precisam de capacitação e/ou experiência.

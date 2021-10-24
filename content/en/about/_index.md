@@ -6,14 +6,18 @@ layout="page"
 weight="3"
 +++
 
-# What is Radar?
+#### What is Radar?
+
 Tech Radar is like a portfolio to visualize the technologies and methodologies that an institution uses and trusts, monitor new trends and also identify which tools can be discontinued. Your goal is to keep teams strategically updated.
 
-# How it works?
+#### How it works?
+
 Radar has four quadrants, with their respective categories: languages and frameworks, platforms, techniques and services. In each of the quadrants there are four rings, where the level of importance and relevance of the technology and/or methodology is identified. Our rings are named Strategic, Essential, Potential and Discontinued. The closer the technology is to the center of the radar, the more important it is.
 
 For example, to choose a tool, language or methodology, we will prioritize the one that the team already knows or masters. In some cases, it is important to check if there is any study regarding this new demand. If two teams need to know a tool, all engineering will know that there is a new front with this objective, thanks to Radar.
-# Tech Radar within teams
+
+#### Tech Radar within teams
+
 Within the open source team at Zup, we use Tech Radar for knowledge management and also to help us make a quality solution.
 
 Discover our main motivations:
@@ -30,7 +34,8 @@ Code quality: a focused team with high cohesion in the technology stack facilita
 
 Being truly open source: one of the critical points in these types of projects is that they really need to be open source, that is, that their dependencies have licenses compatible with our projects.
 
-# Our rings
+#### Our rings
+
 Strategic: everything considered fundamental to the projects. The teams have knowledge, security and fluency.
 
 Essential: everything that is already in the process of adoption, knowledge is vital to the team's success. Therefore, teams need training and/or experience.
