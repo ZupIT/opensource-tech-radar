@@ -61,5 +61,32 @@ other = "Sobre"
 [ui_rings]
 other = "Anéis"
 
+[ui_see_more]
+other = "Ver mais"
+
+[ui_see_less]
+other = "Ver menos"
+
+[ui_techniques]
+other = "Técnicas"
+
+[ui_tools]
+other = "Ferramentas"
+
+[ui_languages_and_frameworks]
+other = "Linguagens e Frameworks"
+
+[ui_services]
+other = "Serviços"
+
+[ui_new]
+other = "Novo"
+
+[ui_updated]
+other = "Atualizado"
+
+[ui_no_update]
+other = "Sem atualização"
+
 [home_welcome_text]
 other = "Acompanhe as últimas tendências tecnológicas com o nosso radar open source."

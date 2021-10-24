@@ -1,7 +1,7 @@
 +++
 title="Radar"
-subtitle="O Radar"
-description='O Tech Radar open source apresenta tecnologias que são testadas e utilizadas por nossos times. Aqui você encontra técnicas, ferramentas, plataformas, linguagens e frameworks para usar ou evitar em seus projetos.'
+subtitle="The Radar"
+description='The open source Tech Radar features technologies that are tested and used by our teams. Here you will find techniques, tools, platforms, languages and frameworks to use or avoid in your projects.'
 layout="radar"
 menu="main"
 weight="2"
