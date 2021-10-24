@@ -18,3 +18,7 @@
   color: #047cff;
   text-decoration: none;
 }
+
+.sc-categories .cp-card {
+  height: 100%;
+}

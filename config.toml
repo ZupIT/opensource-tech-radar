@@ -18,8 +18,38 @@ offlineSearchMaxResults = 7
     languageName = 'English'
     weight = 10
 
+  [[languages.en.menu.main]]
+    name = "Documentation"
+    weight = 1
+    url = "/docs"
+  
+  [[languages.en.menu.main]]
+    name = "Radar"
+    weight = 2
+    url = "/radar"
+
+    [[languages.en.menu.main]]
+    name = "About"
+    weight = 3
+    url = "/about"
+
   [languages.pt-BR]
     contentDir = 'content/pt-BR'
     languageName = 'Português'
     weight = 20
+
+    [[languages.pt-BR.menu.main]]
+    name = "Documentação"
+    weight = 1
+    url = "/docs"
+  
+    [[languages.pt-BR.menu.main]]
+      name = "Radar"
+      weight = 2
+      url = "/radar"
+
+      [[languages.pt-BR.menu.main]]
+      name = "Sobre"
+      weight = 3
+      url = "/Sobre"
 

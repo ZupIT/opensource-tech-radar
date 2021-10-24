@@ -11,21 +11,7 @@
         <div class="col-auto">
           <div class="row align-items-center justify-content-between">
             <div class="col-auto">
-              <nav class="sc-header-navbar">
-                <ul>
-                  <li class="sc-header-navbar-item is-active">
-                    <a href="/docs">documentação</a>
-                  </li>
-
-                  <li class="sc-header-navbar-item">
-                    <a href="/radar">Radar</a>
-                  </li>
-
-                  <li class="sc-header-navbar-item">
-                    <a href="/about">Sobre</a>
-                  </li>
-                </ul>
-              </nav>
+              {{ partial "navbar.html" .}}
             </div>
 
             <div class="col-auto ms-5">
