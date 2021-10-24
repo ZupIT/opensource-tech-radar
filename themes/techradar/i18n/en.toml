@@ -88,5 +88,8 @@ other = "Updated"
 [ui_no_update]
 other = "No update"
 
+[ui_also_use]
+other = "Also use"
+
 [home_welcome_text]
 other = "Keep up with the latest technology trends with our open source radar."

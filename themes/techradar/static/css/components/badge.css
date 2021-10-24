@@ -8,12 +8,17 @@
   background: #FFF3EB;
 }
 
-.cp-badge.success {
+.cp-badge.green {
   color: #006B69;
   background: #EBFBFB;
 }
 
-.cp-badge.alert {
+.cp-badge.blue {
   color: #0984E3;
   background: #EBF5FD;
+}
+
+.cp-badge.red {
+  color: #842029;
+  background: #f5c2c7;
 }

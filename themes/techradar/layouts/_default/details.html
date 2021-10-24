@@ -1,0 +1,144 @@
+{{ $ring := .Site.GetPage "category" .Params.ring }}
+{{ $tech := .Site.GetPage "title" .Params.category }}
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+  <head>
+    {{ partial "head.html" . }}
+
+    <title>
+      {{ if .IsHome }}
+        {{ .Site.Title }}
+      {{ else }}
+        {{ with .Title }}{{ . }} | {{ end }}
+        
+        {{ .Site.Title }}
+      {{ end }}
+    </title>
+  </head>
+
+  <body>
+    {{ partial "header.html" . }}
+
+    <main class="pg-single-technologies">
+      <div class="wrapper">
+        <div class="container-fluid gx-0">
+          <div class="row">
+            <div class="col-12">
+              {{ partial "breadcrumb.html" . }}
+            </div>
+          </div>
+  
+          <div class="row mt-5">
+            <div class="col-12"></div>
+          </div>
+  
+          <div class="row mt-3 align-items-center">
+            <div class="col-auto pg-single-technologies-item-thumbnail">
+              <img src="{{ .Params.Image }}" alt="{{ .Params.Name }}" />
+            </div>
+  
+            <div class="col-auto">
+              <h2>{{ .Params.Name }}</h2>
+            </div>
+          </div>
+  
+          <div class="row mt-3">
+            <div class="col-auto">
+              <span class="cp-badge">{{ $ring.Params.Title }}</span>
+            </div>
+  
+            <div class="col-auto">
+              <span class="cp-badge {{ lower $ring.Params.Color }}">{{ $tech.Params.Title }}</span>
+            </div>
+          </div>
+  
+          <div class="row mt-5">
+            <div class="col-12">
+              <div class="cp-tabs">
+                <div class="cp-tabs-list">
+                  <div class="cp-tabs-list-item is-active">
+                    <a href="#" data-tab-id="0" data-tab-content="<p>Java é um tipo de linguagem de programação criada e comercializada pela Sun Microsystems desde 1995. É definida como uma linguagem orientada a objetos, um dos estilos de programação mais populares. Ele permite desenhar o software para que os diferentes tipos de dados utilizados sejam vinculados às suas operações.</p>
+                    
+                    <p>Sua intenção é permitir que os desenvolvedores escrevam o programa apenas uma vez e o executem por meio de qualquer dispositivo.</p>
+                    ">O que é?</a>
+                  </div>
+  
+                  <div class="cp-tabs-list-item">
+                    <a href="#" data-tab-id="1" data-tab-content="<p>Content 2</p>">Por que?</a>
+                  </div>
+  
+                  <div class="cp-tabs-list-item">
+                    <a href="#" data-tab-id="2" data-tab-content="<p>Content 3</p>">Para quem?</a>
+                  </div>
+  
+                  <div class="cp-tabs-list-item">
+                    <a href="#" data-tab-id="3" data-tab-content="<p>Content 4</p>">Recursos</a>
+                  </div>
+  
+                  <div class="cp-tabs-list-item">
+                    <a href="#" data-tab-id="4" data-tab-content="<p>Content 5</p>">Contatos</a>
+                  </div>
+                </div>
+  
+                <div class="cp-tabs-content">
+                  <p>Java é um tipo de linguagem de programação criada e comercializada pela Sun Microsystems desde 1995.
+                    É definida como uma linguagem orientada a objetos, um dos estilos de programação mais populares. Ele
+                    permite desenhar o software para que os diferentes tipos de dados utilizados sejam vinculados às suas
+                    operações.</p>
+  
+                  <p>Sua intenção é permitir que os desenvolvedores escrevam o programa apenas uma vez e o executem por
+                    meio de qualquer dispositivo.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+  
+          <div class="row mt-5">
+            <div class="col-12">
+              <h4>{{ i18n "ui_also_use" }}:</h4>
+            </div>
+          </div>
+  
+          <div class="row mt-3">
+            {{ $relateds := where (where .Site.Pages "Params.ring" "Strategic") "Params.name" "!=" .Params.Name }}
+            {{ range $related := first 3 $relateds }}
+            <div class="col-4">
+              <div class="cp-framework">
+                <div class="row align-items-center justify-content-between">
+                  <div class="col-auto">
+                    <div class="row gx-0">
+                      <div class="col-auto">
+                        <div class="pg-single-technologies-related-thumbnail">
+                          <a href="{{ $related.URL }}"></a>
+                            <img src="{{ $related.Params.Image }}" alt="{{ $related.Params.Name }}"  style="float: left; ">
+                          </a>
+                        </div>
+                      </div>
+  
+                      <div class="col-auto ms-2">
+                        <p class="cp-framework-title">{{ $related.Params.Name }}</p>
+  
+                        <p class="cp-framework-category">{{ $related.Params.Ring }}</p>
+                      </div>
+                    </div>
+                  </div>
+  
+                  <div class="col-auto">
+                    <a href="{{ $related.URL }}">
+                      <img src="/icons/arrow-right-small.svg" alt="Ir" style="float: left; " />
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </main>
+
+    {{ partial "footer.html" . }}
+
+    {{ partial "scripts.html" . }}  
+  </body>
+</html>
