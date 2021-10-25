@@ -1,11 +1,3 @@
-{{ $offlineRadarIndex := resources.Get "json/radar.json" | resources.ExecuteAsTemplate "radar.json" . }}
-{{ $offlineSearchLink := $offlineRadarIndex.RelPermalink -}}
-
-{{ if hugo.IsProduction -}}
-  {{/* Use `md5` as finger print hash function to shorten file name to avoid `file name too long` error. */}}
-  {{ $offlineRadarIndexFingerprint := $offlineRadarIndex | resources.Fingerprint "md5" }}
-  {{ $offlineSearchLink = $offlineRadarIndexFingerprint.RelPermalink -}}
-{{ end -}}
 <!DOCTYPE html>
 <html lang="{{ .Site.Language.Lang }}">
   <head>

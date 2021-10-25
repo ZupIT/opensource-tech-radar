@@ -11,6 +11,8 @@
     })
   }
 
+  handleSidebarItemsPageRadar();
+
   function selectQuadrant(e) {
     e.preventDefault();
 
@@ -202,5 +204,31 @@
     d3.selectAll(".quadrant-group").style("pointer-events", "auto");
 
     toggleLineTexts('none');
+  }
+
+  function handleSidebarItemsPageRadar() {
+    // const tip = d3tip()
+    //   .attr("class", "d3-tip")
+    //   .html(function(text) {
+    //     return text;
+    //   });
+
+    const radarSidebarItems = $('.pg-radar-category-list-item a');
+
+    radarSidebarItems.on('mouseover', (e) => {
+      const { id, name } = e.target.dataset;
+      const group = $(`#radar svg#radar-plot .blip-link[data-id="${id}"]`);
+      
+      if (group) {
+        d3.selectAll("g.blip-link").attr("opacity", 0.3);
+        group.attr("opacity", 1.0);
+        // tip.show(name, group.node());
+      }
+    })
+
+    radarSidebarItems.on("mouseout", (e) => {
+      d3.selectAll("g.blip-link").attr("opacity", 1.0);
+      // tip.hide().style("left", 0).style("top", 0);
+    })
   }
 })();
