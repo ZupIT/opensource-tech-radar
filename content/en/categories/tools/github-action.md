@@ -5,6 +5,7 @@ category="Tools"
 ring="Strategic"
 type="post"
 layout="details"
+isNew="true"
 +++
 
 # What is it ?

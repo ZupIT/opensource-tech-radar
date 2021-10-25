@@ -2,7 +2,7 @@
 name="Groovy"
 image="/images/languages-frameworks/groovy.png"
 category="Languages-Frameworks"
-ring="Descontinuado"
+ring="Deprecated"
 type="post"
 layout="details"
 +++

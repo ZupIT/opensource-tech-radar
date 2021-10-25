@@ -5,6 +5,7 @@ category="Platforms"
 ring="Strategic"
 type="post"
 layout="details"
+wasUpdated="true"
 +++
 
 # What is it ?

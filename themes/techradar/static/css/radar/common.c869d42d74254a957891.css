@@ -450,16 +450,16 @@ header .button.full-view.fourth {
     text-decoration: none;
     cursor: pointer;
   }
-  #radar svg#radar-plot .blip-link.adopt g {
+  #radar svg#radar-plot .blip-link.adopt g, #radar svg#radar-plot .blip-link.strategic g, #radar svg#radar-plot .blip-link.estrategico g {
     fill: #FF6D00;
   }
-  #radar svg#radar-plot .blip-link.trial g {
+  #radar svg#radar-plot .blip-link.trial g, #radar svg#radar-plot .blip-link.essential g, #radar svg#radar-plot .blip-link.essencial g {
     fill: #006B69;
   }
-  #radar svg#radar-plot .blip-link.hold g {
+  #radar svg#radar-plot .blip-link.hold g, #radar svg#radar-plot .blip-link.potential g, #radar svg#radar-plot .blip-link.potencial g {
     fill: #0984E3;
   }
-  #radar svg#radar-plot .blip-link.assess g {
+  #radar svg#radar-plot .blip-link.assess g, #radar svg#radar-plot .blip-link.deprecated g, #radar svg#radar-plot .blip-link.descontinuado g {
     fill: #E17055;
   }
   #radar svg#radar-plot .quadrant-group {
@@ -500,16 +500,16 @@ header .button.full-view.fourth {
     fill: #000;
     text-transform: capitalize;
   }
-  #radar svg#radar-plot text.line-text.adopt {
+  #radar svg#radar-plot text.line-text.adopt, #radar svg#radar-plot text.line-text.strategic, #radar svg#radar-plot text.line-text.estrategico {
     fill: #FF6D00;
   }
-  #radar svg#radar-plot text.line-text.trial {
+  #radar svg#radar-plot text.line-text.trial, #radar svg#radar-plot text.line-text.essential, #radar svg#radar-plot text.line-text.essencial {
     fill: #006B69;
   }
-  #radar svg#radar-plot text.line-text.hold {
+  #radar svg#radar-plot text.line-text.hold, #radar svg#radar-plot text.line-text.potential, #radar svg#radar-plot text.line-text.potencial {
     fill: #0984E3;
   }
-  #radar svg#radar-plot text.line-text.assess {
+  #radar svg#radar-plot text.line-text.assess, #radar svg#radar-plot text.line-text.deprecated, #radar svg#radar-plot text.line-text.descontinuado {
     fill: #E17055;
   }
   #radar div.quadrant-table {
@@ -596,6 +596,6 @@ header .button.full-view.fourth {
     max-height: 1000px;
   }
 }
-.cp-tech-radar {
-  width: 100%;
+.page-single-card {
+  width: 658px;
 }

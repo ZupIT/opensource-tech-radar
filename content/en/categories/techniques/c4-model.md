@@ -5,6 +5,7 @@ category="Techniques"
 ring="Potential"
 type="post"
 layout="details"
+wasUpdated="true"
 +++
 
 # What is it ?

@@ -2,9 +2,10 @@
 name="Allure"
 image="/images/languages-frameworks/allure.png"
 category="Languages-Frameworks"
-ring="Potencial"
+ring="Potential"
 type="post"
 layout="details"
+isNew="true"
 +++
 
 {{% tabs/group %}}

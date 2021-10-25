@@ -1,0 +1,8 @@
+{{- $.Scratch.Add "radar" slice -}}
+	{{ $rings := where .Site.Pages "Params.category" "rings" }}
+	{{ range $ring := $rings }}
+		{{ range where .Site.Pages "Params.ring" $ring.Title }}
+			{{- $.Scratch.Add "radar" (dict "id" .RelPermalink "name" .Params.name "ring" .Params.ring "quadrant" .Params.category "isNew" (.Params.isNew | default "false") "description" (.Description | default "")  "wasUpdated" (.Params.wasUpdated | default "false"))  -}}
+		{{ end }}
+	{{ end }}
+{{- $.Scratch.Get "radar" | jsonify -}}

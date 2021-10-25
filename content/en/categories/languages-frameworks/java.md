@@ -2,7 +2,7 @@
 name="Java"
 image="/images/languages-frameworks/java.png"
 category="Languages-Frameworks"
-ring="Essencial"
+ring="Essential"
 type="post"
 layout="details"
 +++
