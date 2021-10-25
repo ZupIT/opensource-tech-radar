@@ -8,17 +8,17 @@
   background: #FFF3EB;
 }
 
-.cp-badge.green {
+.cp-badge.green, .cp-badge.essencial, .cp-badge.essential {
   color: #006B69;
   background: #EBFBFB;
 }
 
-.cp-badge.blue {
+.cp-badge.blue, .cp-badge.potencial, .cp-badge.potential {
   color: #0984E3;
   background: #EBF5FD;
 }
 
-.cp-badge.red {
+.cp-badge.red, .cp-badge.descontinuado, .cp-badge.deprecated {
   color: #842029;
   background: #f5c2c7;
 }

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+  <head>
+    {{ partial "head.html" . }}
+
+    <title>
+      {{ if .IsHome }}
+        {{ .Site.Title }}
+      {{ else }}
+        {{ with .Title }}{{ . }} | {{ end }}
+        
+        {{ .Site.Title }}
+      {{ end }}
+    </title>
+  </head>
+
+  <body>
+    {{ partial "header.html" . }}
+
+    {{ partial "pagetitle.html" . }}
+
+    <main class="pg-technologies">
+      <div class="wrapper">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-12">
+              {{ range where .Site.Pages "Params.category" .Params.Title }}
+              <div class="cp-technology">
+                <div class="row align-items-center justify-content-between">
+                  <div class="col-auto">
+                    <span class="cp-badge {{ lower .Params.ring }}">{{ .Params.ring }}</span>
+                  </div>
+                  
+                  <div class="col-9">
+                    <p class="cp-technology-description">{{ .Params.name }}</p>
+                  </div>
+              
+                  <div class="col-auto">
+                    <a href="{{ .Permalink }}">
+                      <img src="/icons/external.svg" alt="Icone" />
+                    </a>
+                  </div>
+                </div>
+              </div>
+              {{ end }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    {{ partial "footer.html" . }}
+
+    {{ partial "scripts.html" . }}  
+  </body>
+</html>
