@@ -18,7 +18,7 @@
     };
     
 
-    if (tabsActions) {
+    if (tabsActions && tabsActions.length) {
       const { tabContent  } = $(tabsActions[0]).data();
 
       $(tabsActions[0]).parent().addClass('is-active')
