@@ -7,7 +7,7 @@
     {{ $active = or $active (and (eq .Name "Blog") (eq $current.Section "post")) }}
     {{ $active = or $active (and (eq .Name "Tags") (eq $current.Section "tags")) }}
       <li class="sc-header-navbar-item {{if $active }} is-active{{end}}">
-        <a href="{{ .URL }}">{{ .Name }}</a> 
+        <a href="{{ .URL | relLangURL }}">{{ .Name }}</a> 
       </li>
     {{ end }}
   </ul>

@@ -1,6 +1,6 @@
 <ul class="cp-breadcrumb">
   <li class="cp-breadcrumb-item">
-    <a href="{{ .Site.BaseURL }}">Tech Radar</a>
+    <a href="{{ .Site.Home.RelPermalink }}">Tech Radar</a>
   </li>
 
   {{ .Scratch.Set "permalinkparts" (split .RelPermalink "/") }}
@@ -16,9 +16,11 @@
       {{ end }}
       
       {{ if gt (len $part ) 0 }}
-        <li class="cp-breadcrumb-item">
-          <a href="/{{ $.Scratch.Get "url" }}">{{ humanize (replace $part "posts" "blog") }}</a>
-        </li>
+        {{ if not (eq (humanize (replace $part "posts" "blog")) "Pt br") }}
+          <li class="cp-breadcrumb-item">
+            <a href="/{{ $.Scratch.Get "url" }}">{{ humanize (replace $part "posts" "blog") }}</a>
+          </li>
+        {{ end }}
       {{ end }}
   {{ end }}
 </ul>

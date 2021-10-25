@@ -7,6 +7,9 @@
   {{ $offlineSearchLink = $offlineSearchIndexFingerprint.RelPermalink -}}
 {{ end -}}
 
+<!-- TODO: Alterar para pesquisar apenas tecnologias e no idioma atual -->
+<!-- TODO: Fechar resultados com ESC e clickando fora -->
+
 <div class="cp-search">
   <div class="cp-search-bar">
     <input type="text" placeholder="{{ i18n "ui_search_input_placeholder"}}" class="cp-search-bar-field" data-offline-search-index-json-src="{{ $offlineSearchLink }}" data-offline-search-base-href="/"
