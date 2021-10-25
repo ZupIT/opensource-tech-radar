@@ -7,21 +7,12 @@ type="post"
 layout="details"
 +++
 
-# What is it ?
+{{% tabs/group %}}
+  {{% tabs/item id="0" title="O que é?" content="<p>Allure Framework é uma ferramenta de relatório de teste leve e flexível que não apenas mostra uma representação muito concisa do que foi testado em um formulário de relatório da web, mas permite que todos os participantes do processo de desenvolvimento extraiam o máximo de informações úteis da execução diária de testes.</p>" %}}
+  
+  {{% tabs/item id="1" title="Por que?" content="<p>Allure é uma estrutura de código aberto projetada para criar um relatório de teste interativo e abrangente pela equipe de QA da Yandex. Cada vez que executamos testes de automação, teremos os resultados dos testes para ver os detalhes sobre não. de testes aprovados, reprovados e detalhes da falha, etc. E poucos relatórios também incluem capturas de tela de falha de teste.</p>" %}}
+  
+  {{% tabs/item id="2" title="Para quem?" content="<a href='https://charlescd.io/'>Charles C.D</a>" %}}
 
-Allure Framework is a flexible lightweight multi-language test report tool that not only shows a very concise representation of what have been tested in a neat web report form, but allows everyone participating in the development process to extract maximum of useful information from everyday execution of tests.
-
-# Why ?
-
-Allure is an open-source framework designed to create interactive and comprehensive test report by Yandex QA Team. Each time when we run automation tests, we will have test results to view details about no. of tests passed, failed and failure details etc. And few reports also include test failure screenshots.
-
-
-# For who ?
-* [CharlesCD](https://charlescd.io/)
-
-# Resources
-* [homepage](http://allure.qatools.ru/)
-* [Documentation](https://docs.qameta.io/allure/)
-
-
-# Resources (Portuguese)
+  {{% tabs/item id="3" title="Recursos" content="<a href='http://allure.qatools.ru/'>Homepage</a> <br /> <a href='https://docs.qameta.io/allure/'>Documentation</a>" %}}
+{{% /tabs/group %}}

@@ -9,6 +9,11 @@ canonifyURLs = true
 
 theme = ["techradar"]
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
 offlineSearchMaxResults = 7
 
