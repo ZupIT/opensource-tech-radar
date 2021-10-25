@@ -56,5 +56,5 @@ offlineSearchMaxResults = 7
       [[languages.pt-BR.menu.main]]
       name = "Sobre"
       weight = 3
-      url = "/Sobre"
+      url = "/about"
 

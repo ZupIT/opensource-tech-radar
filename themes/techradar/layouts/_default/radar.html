@@ -25,95 +25,24 @@
           <div class="row justify-content-between">
             <div class="col-5">
               <div class="cp-card">
-                <div class="pg-radar-category">
-                  <div class="pg-radar-category-head">
-                    <h3>Estratégico</h3>
-  
-                    <img src="/icons/question.svg" alt="Icone">
+                {{ $rings := where .Site.Pages "Params.category" "rings" }}
+                {{ range $ring := $rings }}
+                  <div class="pg-radar-category">
+                    <div class="pg-radar-category-head">
+                      <h3>{{ $ring.Title }}</h3>
+    
+                      <img src="/icons/question.svg" alt="Icone">
+                    </div>
+    
+                    <ul class="pg-radar-category-list">
+                      {{ range where .Site.Pages "Params.ring" $ring.Title }}
+                      <li class="pg-radar-category-list-item">
+                        <a href="#" data-id="{{ .Permalink }}">{{ .Params.name }}</a>
+                      </li>
+                      {{ end }}
+                    </ul>
                   </div>
-  
-                  <ul class="pg-radar-category-list">
-                    <li class="pg-radar-category-list-item">
-                      <a href="#">1. API expand-contract</a>
-                    </li>
-  
-                    <li class="pg-radar-category-list-item">
-                      <a href="#">2. Continuous delivery for machine learning (CD4ML)</a>
-                    </li>
-  
-                    <li class="pg-radar-category-list-item">
-                      <a href="#">3. Design systems</a>
-                    </li>
-  
-                    <li class="pg-radar-category-list-item">
-                      <a href="#">4. Platform engineering product teams</a>
-                    </li>
-  
-                    <li class="pg-radar-category-list-item">
-                      <a href="#">5. Service account rotation approach</a>
-                    </li>
-                  </ul>
-                </div>
-  
-                <div class="pg-radar-category">
-                  <div class="pg-radar-category-head">
-                    <h3>Essencial</h3>
-  
-                    <img src="/icons/question.svg" alt="Icone">
-                  </div>
-  
-                  <ul class="pg-radar-category-list">
-                    <li class="pg-radar-category-list-item">
-                      <a href="#">1. API expand-contract</a>
-                    </li>
-  
-                    <li class="pg-radar-category-list-item">
-                      <a href="#">2. Continuous delivery for machine learning (CD4ML)</a>
-                    </li>
-  
-                    <li class="pg-radar-category-list-item">
-                      <a href="#">3. Design systems</a>
-                    </li>
-  
-                    <li class="pg-radar-category-list-item">
-                      <a href="#">4. Platform engineering product teams</a>
-                    </li>
-  
-                    <li class="pg-radar-category-list-item">
-                      <a href="#">5. Service account rotation approach</a>
-                    </li>
-                  </ul>
-                </div>
-  
-                <div class="pg-radar-category">
-                  <div class="pg-radar-category-head">
-                    <h3>Potencial</h3>
-  
-                    <img src="/icons/question.svg" alt="Icone">
-                  </div>
-  
-                  <ul class="pg-radar-category-list">
-                    <li class="pg-radar-category-list-item">
-                      <a href="#">1. API expand-contract</a>
-                    </li>
-  
-                    <li class="pg-radar-category-list-item">
-                      <a href="#">2. Continuous delivery for machine learning (CD4ML)</a>
-                    </li>
-  
-                    <li class="pg-radar-category-list-item">
-                      <a href="#">3. Design systems</a>
-                    </li>
-  
-                    <li class="pg-radar-category-list-item">
-                      <a href="#">4. Platform engineering product teams</a>
-                    </li>
-  
-                    <li class="pg-radar-category-list-item">
-                      <a href="#">5. Service account rotation approach</a>
-                    </li>
-                  </ul>
-                </div>
+                {{ end }}
               </div>
             </div>
   
