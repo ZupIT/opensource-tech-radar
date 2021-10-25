@@ -1,5 +1,5 @@
 (() => {
-  const size = 590.52;
+  const size = 700;
   const svg = d3.select(".cp-tech-radar svg");
   const quadrantGroupButtons = document.querySelectorAll('.pg-radar-quadrant-groups-item');
 
