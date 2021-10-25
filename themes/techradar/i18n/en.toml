@@ -91,5 +91,8 @@ other = "No update"
 [ui_also_use]
 other = "Also use"
 
+[ui_back_to_radar_button]
+other = "Back to radar"
+
 [home_welcome_text]
 other = "Keep up with the latest technology trends with our open source radar."
