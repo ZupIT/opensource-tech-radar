@@ -2,7 +2,7 @@
 name="Test Driven Development"
 image="/images/libs/tdd.png"
 category="Libs"
-ring="Strategic"
+ring="Estratégico"
 type="post"
 layout="details"
 +++

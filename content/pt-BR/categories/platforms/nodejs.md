@@ -2,7 +2,7 @@
 name="Node.js"
 image="/images/platforms/nodejs.png"
 category="Platforms"
-ring="Deprecated"
+ring="Descontinuado"
 type="post"
 layout="details"
 +++

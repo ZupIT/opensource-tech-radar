@@ -2,7 +2,7 @@
 name="GitHub Action"
 image="/images/tools/github-action.png"
 category="Tools"
-ring="Strategic"
+ring="Estratégico"
 type="post"
 layout="details"
 +++

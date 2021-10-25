@@ -2,7 +2,7 @@
 name="gRPC"
 image="/images/techniques/grpc.png"
 category="Techniques"
-ring="Essential"
+ring="Essencial"
 type="post"
 layout="details"
 +++

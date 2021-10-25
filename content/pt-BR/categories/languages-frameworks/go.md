@@ -2,7 +2,7 @@
 name="Go"
 image="/images/languages-frameworks/go.png"
 category="Languages-Frameworks"
-ring="Potential"
+ring="Potencial"
 type="post"
 layout="details"
 +++

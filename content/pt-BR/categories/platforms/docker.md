@@ -2,7 +2,7 @@
 name="Docker"
 image="/images/platforms/docker.png"
 category="Platforms"
-ring="Strategic"
+ring="Estratégico"
 type="post"
 layout="details"
 +++

@@ -2,7 +2,7 @@
 name="Ingress"
 image="/images/platforms/kubernetes.png"
 category="Platforms"
-ring="Strategic"
+ring="Estratégico"
 type="post"
 layout="details"
 +++

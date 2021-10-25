@@ -2,7 +2,7 @@
 name="Spock"
 image="/images/languages-frameworks/java.png"
 category="Languages-Frameworks"
-ring="Strategic"
+ring="Estratégico"
 type="post"
 layout="details"
 +++

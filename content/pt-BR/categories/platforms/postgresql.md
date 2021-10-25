@@ -2,7 +2,7 @@
 name="PostgreSQL"
 image="/images/platforms/postgresql.png"
 category="Platforms"
-ring="Strategic"
+ring="Estratégico"
 type="post"
 layout="details"
 +++

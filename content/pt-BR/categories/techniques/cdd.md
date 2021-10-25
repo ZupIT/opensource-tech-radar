@@ -2,7 +2,7 @@
 name="Cognitive-Driven Development"
 image="/images/techniques/tdd.png"
 category="Techniques"
-ring="Potential"
+ring="Potencial"
 type="post"
 layout="details"
 +++

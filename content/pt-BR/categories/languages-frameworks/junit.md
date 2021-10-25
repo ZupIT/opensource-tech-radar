@@ -2,7 +2,7 @@
 name="JUnit 5"
 image="/images/languages-frameworks/junit-5.png"
 category="Languages-Frameworks"
-ring="Essential"
+ring="Essencial"
 type="post"
 layout="details"
 +++

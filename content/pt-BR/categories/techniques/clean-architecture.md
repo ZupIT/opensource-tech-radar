@@ -2,7 +2,7 @@
 name="Clean Architecture"
 image="/images/techniques/clean-architecture.png"
 category="Techniques"
-ring="Essential"
+ring="Essencial"
 type="post"
 layout="details"
 +++

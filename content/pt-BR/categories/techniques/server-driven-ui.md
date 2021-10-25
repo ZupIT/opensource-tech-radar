@@ -2,7 +2,7 @@
 name="Server Driven UI"
 image="/images/techniques/tdd.png"
 category="Techniques"
-ring="Strategic"
+ring="Estratégico"
 type="post"
 layout="details"
 +++

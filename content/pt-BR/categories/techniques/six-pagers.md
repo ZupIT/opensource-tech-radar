@@ -2,7 +2,7 @@
 name="Amazon 6-pager"
 image="/images/techniques/tdd.png"
 category="Techniques"
-ring="Potential"
+ring="Potencial"
 type="post"
 layout="details"
 +++

@@ -2,7 +2,7 @@
 name="JUnit 4"
 image="/images/languages-frameworks/junit-4.png"
 category="Languages-Frameworks"
-ring="Deprecated"
+ring="Descontinuado"
 type="post"
 layout="details"
 +++

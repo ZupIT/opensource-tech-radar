@@ -2,7 +2,7 @@
 name="Spring"
 image="/images/languages-frameworks/spring.png"
 category="Languages-Frameworks"
-ring="Essential"
+ring="Essencial"
 type="post"
 layout="details"
 +++

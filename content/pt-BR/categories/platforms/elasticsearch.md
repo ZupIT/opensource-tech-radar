@@ -2,7 +2,7 @@
 name="Elasticsearch"
 image="/images/platforms/elasticsearch.png"
 category="Platforms"
-ring="Deprecated"
+ring="Descontinuado"
 type="post"
 layout="details"
 +++

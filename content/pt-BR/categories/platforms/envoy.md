@@ -2,7 +2,7 @@
 name="Envoy"
 image="/images/platforms/envoy.png"
 category="Platforms"
-ring="Strategic"
+ring="Estratégico"
 type="post"
 layout="details"
 +++

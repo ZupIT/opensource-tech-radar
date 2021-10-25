@@ -2,7 +2,7 @@
 name="Objectives and Key Results"
 image="/images/techniques/okr.jpg"
 category="Techniques"
-ring="Potential"
+ring="Potencial"
 type="post"
 layout="details"
 +++

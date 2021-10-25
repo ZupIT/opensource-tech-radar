@@ -2,7 +2,7 @@
 name="RabbitMQ"
 image="/images/platforms/rabbitmq.png"
 category="Platforms"
-ring="Strategic"
+ring="Estratégico"
 type="post"
 layout="details"
 +++

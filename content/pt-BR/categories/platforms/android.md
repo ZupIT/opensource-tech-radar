@@ -2,7 +2,7 @@
 name="Android"
 image="/images/platforms/android.png"
 category="Platforms"
-ring="Strategic"
+ring="Estratégico"
 type="post"
 layout="details"
 +++

@@ -2,7 +2,7 @@
 name="Dependabot"
 image="/images/tools/dependabot.png"
 category="Tools"
-ring="Strategic"
+ring="Estratégico"
 type="post"
 layout="details"
 +++

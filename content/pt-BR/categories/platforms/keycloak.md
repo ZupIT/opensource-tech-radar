@@ -2,7 +2,7 @@
 name="Keycloak"
 image="/images/platforms/keycloak.png"
 category="Platforms"
-ring="Strategic"
+ring="Estratégico"
 type="post"
 layout="details"
 +++

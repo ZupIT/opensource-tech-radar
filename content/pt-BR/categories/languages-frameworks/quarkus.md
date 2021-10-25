@@ -2,7 +2,7 @@
 name="Quarkus"
 image="/images/languages-frameworks/quarkus.png"
 category="Languages-Frameworks"
-ring="Essential"
+ring="Essencial"
 type="post"
 layout="details"
 +++

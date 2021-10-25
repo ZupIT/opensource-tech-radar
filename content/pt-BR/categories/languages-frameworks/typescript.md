@@ -2,7 +2,7 @@
 name="TypeScript"
 image="/images/languages-frameworks/typescript.png"
 category="Languages-Frameworks"
-ring="Deprecated"
+ring="Descontinuado"
 type="post"
 layout="details"
 +++

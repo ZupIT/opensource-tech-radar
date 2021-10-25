@@ -2,7 +2,7 @@
 name="Bucket S3"
 image="/images/platforms/s3bucket.png"
 category="Platforms"
-ring="Strategic"
+ring="Estratégico"
 type="post"
 layout="details"
 +++

@@ -2,7 +2,7 @@
 name="Domain-driven design"
 image="/images/techniques/ddd.png"
 category="Techniques"
-ring="Essential"
+ring="Essencial"
 type="post"
 layout="details"
 +++

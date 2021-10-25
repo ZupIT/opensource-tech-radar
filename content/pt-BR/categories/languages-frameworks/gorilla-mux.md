@@ -2,7 +2,7 @@
 name="GorillaMux"
 image="/images/languages-frameworks/gorila-mux.png"
 category="Languages-Frameworks"
-ring="Deprecated"
+ring="Descontinuado"
 type="post"
 layout="details"
 +++

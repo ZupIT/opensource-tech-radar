@@ -2,7 +2,7 @@
 name="Hugo"
 image="/images/tools/hugo.png"
 category="Tools"
-ring="Strategic"
+ring="Estratégico"
 type="post"
 layout="details"
 +++

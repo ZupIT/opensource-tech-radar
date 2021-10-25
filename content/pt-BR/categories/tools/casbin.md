@@ -2,7 +2,7 @@
 name="Casbin"
 image="/images/tools/casbin.png"
 category="Tools"
-ring="Strategic"
+ring="Estratégico"
 type="post"
 layout="details"
 +++

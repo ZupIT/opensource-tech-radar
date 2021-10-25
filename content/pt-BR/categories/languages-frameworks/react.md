@@ -2,7 +2,7 @@
 name="React"
 image="/images/languages-frameworks/react.png"
 category="Languages-Frameworks"
-ring="Strategic"
+ring="Estratégico"
 type="post"
 layout="details"
 +++

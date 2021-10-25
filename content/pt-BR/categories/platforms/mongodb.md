@@ -2,7 +2,7 @@
 name="MongoDB"
 image="/images/platforms/mongodb.png"
 category="Platforms"
-ring="Deprecated"
+ring="Descontinuado"
 type="post"
 layout="details"
 +++

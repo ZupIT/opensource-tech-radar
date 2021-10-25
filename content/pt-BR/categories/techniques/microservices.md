@@ -2,7 +2,7 @@
 name="Microservices"
 image="/images/techniques/tdd.png"
 category="Techniques"
-ring="Essential"
+ring="Essencial"
 type="post"
 layout="details"
 +++

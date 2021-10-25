@@ -2,7 +2,7 @@
 name="Swagger"
 image="/images/platforms/swagger.png"
 category="Platforms"
-ring="Strategic"
+ring="Estratégico"
 type="post"
 layout="details"
 +++

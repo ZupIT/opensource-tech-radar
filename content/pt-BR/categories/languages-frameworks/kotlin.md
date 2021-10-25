@@ -2,7 +2,7 @@
 name="Kotlin"
 image="/images/languages-frameworks/kotlin.png"
 category="Languages-Frameworks"
-ring="Strategic"
+ring="Estratégico"
 type="post"
 layout="details"
 +++

@@ -2,7 +2,7 @@
 name="Gorm"
 image="/images/languages-frameworks/go.png"
 category="Languages-Frameworks"
-ring="Deprecated"
+ring="Descontinuado"
 type="post"
 layout="details"
 +++

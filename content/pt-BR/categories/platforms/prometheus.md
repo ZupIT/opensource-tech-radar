@@ -2,7 +2,7 @@
 name="Prometheus"
 image="/images/platforms/prometheus.png"
 category="Platforms"
-ring="Strategic"
+ring="Estratégico"
 type="post"
 layout="details"
 +++

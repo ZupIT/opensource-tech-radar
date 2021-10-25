@@ -2,7 +2,7 @@
 name="C4 model"
 image="/images/techniques/c4-model.png"
 category="Techniques"
-ring="Potential"
+ring="Potencial"
 type="post"
 layout="details"
 +++
