@@ -126,10 +126,12 @@
   }
 
   function createHomeLink(pageElement) {
+    const backButtonText = document.querySelector('.pg-radar-back-button-text').innerText;
+
     if (pageElement.select(".home-link").empty()) {
       const buttonContainer = pageElement
         .append("div")
-        .html("<span>Voltar para o radar</span>")
+        .html(`<span>${backButtonText}</span>`)
         .classed("home-link", true)
         .classed("selected", true)
         .on("click", redrawFullRadar)
