@@ -207,12 +207,6 @@
   }
 
   function handleSidebarItemsPageRadar() {
-    // const tip = d3tip()
-    //   .attr("class", "d3-tip")
-    //   .html(function(text) {
-    //     return text;
-    //   });
-
     const radarSidebarItems = $('.pg-radar-category-list-item a');
 
     radarSidebarItems.on('mouseover', (e) => {
@@ -222,13 +216,11 @@
       if (group) {
         d3.selectAll("g.blip-link").attr("opacity", 0.3);
         group.attr("opacity", 1.0);
-        // tip.show(name, group.node());
       }
     })
 
     radarSidebarItems.on("mouseout", (e) => {
       d3.selectAll("g.blip-link").attr("opacity", 1.0);
-      // tip.hide().style("left", 0).style("top", 0);
     })
   }
 })();
