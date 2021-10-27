@@ -131,7 +131,7 @@
               $entry.append(
                 $('<span>')
                   .addClass('col-auto cp-search-results-found-item-title')
-                  .text(r.ref)
+                  .text(doc.title)
               )
 
               // $entry.append(
@@ -144,7 +144,7 @@
                 $('<span>')
                   .addClass('col-auto')
                   .append(
-                    `<a href="${href}"><img src="${baseURL}/icons/arrow-right.svg" alt="Ir"></a>`
+                    `<a href="${r.ref}"><img src="${baseURL}/icons/arrow-right.svg" alt="Ir"></a>`
                   )
               )
 
