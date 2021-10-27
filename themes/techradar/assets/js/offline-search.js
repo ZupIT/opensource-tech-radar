@@ -4,6 +4,7 @@
   'use strict'
 
   $(document).ready(function () {
+    const CURRENT_LANGUAGE = $('html').attr('lang')
     const $searchInput = $('.cp-search-bar-field')
 
     if ($searchInput && $searchInput.length) {
@@ -50,18 +51,18 @@
           // Here you can specify searchable fields to the search index - e.g. individual toxonomies for you project
           // With "boost" you can add weighting for specific (default weighting without boost: 1)
           this.field('title', { boost: 5 })
-          this.field('categories', { boost: 3 })
-          this.field('tags', { boost: 3 })
           // this.field('projects', { boost: 3 }); // example for an individual toxonomy called projects
           this.field('description', { boost: 2 })
           this.field('body')
+          this.field('language')
 
           data.forEach(doc => {
             this.add(doc)
 
             resultDetails.set(doc.ref, {
               title: doc.title,
-              excerpt: doc.excerpt
+              excerpt: doc.excerpt,
+              language: doc.language
             })
           })
         })
@@ -85,8 +86,10 @@
         const results = idx
           .query(q => {
             const tokens = lunr.tokenizer(searchQuery.toLowerCase())
+
             tokens.forEach(token => {
               const queryString = token.toString()
+
               q.term(queryString, {
                 boost: 100
               })
@@ -99,6 +102,14 @@
                 editDistance: 2
               })
             })
+
+            // TODO: Filtrar busca por idioma
+
+            // q.term(`${CURRENT_LANGUAGE}`, {
+            //   fields: ['language'],
+            //   wildcard: lunr.Query.wildcard.LEADING | lunr.Query.wildcard.TRAILING,
+            //   presence: lunr.Query.presence.REQUIRED
+            // })
           })
           .slice(0, $targetSearchInput.data('offline-search-max-results'))
 
@@ -153,9 +164,25 @@
           })
         }
 
-        $('.cp-search-bar-button').on('click', () => {
+        const handleSearchReset = () => {
           $targetSearchInput.val('')
           $targetSearchInput.trigger('change')
+        }
+
+        $('.cp-search-bar-button').on('click', () => {
+          handleSearchReset()
+        })
+
+        $(document).keydown(function (e) {
+          if (e.keyCode == 27) {
+            handleSearchReset()
+          }
+        })
+
+        $(document).click(event => {
+          if (!$(event.target).closest('.cp-search').length) {
+            handleSearchReset()
+          }
         })
       }
     }

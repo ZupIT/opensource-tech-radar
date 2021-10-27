@@ -1,8 +1,8 @@
 {{- $.Scratch.Add "offline-search-index" slice -}}
 {{- $rings := where .Site.Pages "Params.category" "rings" -}}
 {{- range $ring := $rings -}}
-  {{- range where .Site.Pages "Params.ring" $ring.Title -}}
-    {{- $.Scratch.Add "offline-search-index" (dict "ref" .Permalink "title" .Params.Name "categories" (.Params.categories | default "") "tags" (.Params.tags | default "") "description" (.Description | default "") "body" (.Plain | htmlUnescape) "excerpt" ((.Description | default .Plain) | htmlUnescape | truncate (.Site.Params.offlineSearchSummaryLength | default 70) | htmlUnescape)) -}}
+  {{- range where .Site.AllPages ".Params.exclude_search" "!=" true -}}
+    {{- $.Scratch.Add "offline-search-index" (dict "language" .Site.Params.contentdir "ref" .Permalink "title" .Params.Name "categories" (.Params.categories | default "") "tags" (.Params.tags | default "") "description" (.Description | default "") "body" (.Plain | htmlUnescape) "excerpt" ((.Description | default .Plain) | htmlUnescape | truncate (.Site.Params.offlineSearchSummaryLength | default 70) | htmlUnescape))  -}}
   {{- end -}}
 {{- end -}}
 {{- $.Scratch.Get "offline-search-index" | jsonify -}}

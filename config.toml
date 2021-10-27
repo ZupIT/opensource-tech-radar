@@ -39,7 +39,7 @@ offlineSearchMaxResults = 7
     url = "/about"
 
   [languages.pt-BR]
-    contentDir = 'content/pt-BR'
+    contentDir = 'content/pt-br'
     languageName = 'Português'
     weight = 20
 
