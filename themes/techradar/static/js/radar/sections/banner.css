@@ -1,0 +1,10 @@
+.sc-banner {
+  margin: -36px 0 -96px;
+  
+}
+
+.sc-banner .cp-card {
+  padding: 42px 40px;
+  position: relative;
+  z-index: 7;
+}
