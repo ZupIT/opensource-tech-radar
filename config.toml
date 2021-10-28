@@ -9,6 +9,9 @@ canonifyURLs = true
 
 theme = ["techradar"]
 
+[outputs]
+    page = ["html", "json"]
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

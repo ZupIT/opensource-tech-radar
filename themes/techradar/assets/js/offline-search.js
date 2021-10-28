@@ -105,11 +105,11 @@
 
             // TODO: Filtrar busca por idioma
 
-            // q.term(`${CURRENT_LANGUAGE}`, {
+            // q.term(`content/${CURRENT_LANGUAGE}`, {
             //   fields: ['language'],
             //   wildcard: lunr.Query.wildcard.LEADING | lunr.Query.wildcard.TRAILING,
             //   presence: lunr.Query.presence.REQUIRED
-            // })
+            // }) 
           })
           .slice(0, $targetSearchInput.data('offline-search-max-results'))
 
