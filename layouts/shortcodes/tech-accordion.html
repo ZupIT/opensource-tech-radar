@@ -9,7 +9,7 @@
                     {{ $category.Name }}
                 </h4>
                 <div class="px-2">
-                    <span class="px-1">{{ i18n "common.see-more"}}</span>
+                    <span class="px-1">{{ i18n "common.see-more" }}</span>
                     <img src="/images/icons/view-more.svg" alt='{{ i18n "common.see-more" }}'>
                 </div>
             </div>
@@ -18,7 +18,7 @@
         <div id="{{ $collapseId }}" class="accordion-collapse collapse" aria-labelledby="{{ $cardId }}" data-bs-parent="#accordion">
             <div class="accordion-body">
                 <div class="row">
-                    <div class="col-1">
+                    <div class="col-2">
                         <p class="fw-bold">
                             {{ i18n "common.rings" }}
                         </p>
@@ -33,7 +33,7 @@
                 {{ range $ring := where .Site.Pages "Params.category" "rings"}}
                     {{ range $technique := where (where .Site.Pages "Params.category" $category.Title) "Params.ring" $ring.Params.Name }}
                             <div class="row technologies-row">
-                                <div class="col-1">
+                                <div class="col-2">
                                     <span class="badge badge-{{ lower $ring.Params.Color }}">{{ $ring.Name }}</span>
                                 </div>
                                 <div class="col">

@@ -20,9 +20,9 @@
   {{ $isActive := eq .p1 .p2 }}
   <li class="breadcrumb-item{{ if $isActive }} active{{ end }}" {{ if $isActive }}aria-current="page" {{ end }}>
     {{ if $isActive }}
-     {{ (.p1.LinkTitle) }}
+     {{ or .p1.LinkTitle .p1.Params.Name }}
     {{ else }}
-    <a href="{{ .p1.Permalink }}">{{ .p1.LinkTitle }}</a>
+    <a href="{{ .p1.Permalink }}">{{ or .p1.LinkTitle .p1.Params.Name }}</a>
     {{ end }}
   </li>
 {{ end }}
