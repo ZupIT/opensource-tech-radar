@@ -6,6 +6,7 @@ ring="Potential"
 type="post"
 layout="details"
 isNew="true"
+description="Allure Framework is a flexible lightweight multi-language test report tool that not only shows a very concise representation of what have been tested in a neat web report form, but allows everyone participating in the development process to extract maximum of useful information from everyday execution of tests."
 +++
 
 {{% tabs/group %}}
