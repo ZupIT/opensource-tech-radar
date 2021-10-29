@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "React",
+  "image" : "/images/languages-frameworks/react.png",
+  "category" : "Languages-Frameworks",
+  "description" : "<no value>",
+  "ring" : "Strategic",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/react/",
+  "related": [
+    
+    
+      {
+        "name": "Spock",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/java.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/spock/"
+      },
+    
+      {
+        "name": "Swift",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/swift.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/swift/"
+      },
+    
+      {
+        "name": "Android",
+        "ring": "Strategic",
+        "image": "/images/platforms/android.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/android/"
+      },
+    
+    {}
+  ]
+} 
+}

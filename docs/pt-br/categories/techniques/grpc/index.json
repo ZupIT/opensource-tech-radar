@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "gRPC",
+  "image" : "/images/techniques/grpc.png",
+  "category" : "Techniques",
+  "description" : "<no value>",
+  "ring" : "Essencial",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/grpc/",
+  "related": [
+    
+    
+      {
+        "name": "Java",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/java.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/java/"
+      },
+    
+      {
+        "name": "JUnit 5",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/junit-5.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/junit/"
+      },
+    
+      {
+        "name": "Quarkus",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/quarkus.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/quarkus/"
+      },
+    
+    {}
+  ]
+} 
+}

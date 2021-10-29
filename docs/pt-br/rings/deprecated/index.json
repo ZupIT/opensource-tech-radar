@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Deprecated",
+  "image" : "images/rings/deprecated.png",
+  "category" : "rings",
+  "description" : "Se uma tecnologia está nesse anel, evite. Já testamos, nossa experiência foi ruim e não queremos que você perca seu tempo.",
+  "ring" : "<no value>",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/rings/deprecated/",
+  "related": [
+    
+    
+      {
+        "name": "<no value>",
+        "ring": "<no value>",
+        "image": "<no value>",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/docs/"
+      },
+    
+      {
+        "name": "Strategic",
+        "ring": "<no value>",
+        "image": "images/rings/strategic.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/rings/strategic/"
+      },
+    
+      {
+        "name": "Essential",
+        "ring": "<no value>",
+        "image": "images/rings/essential.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/rings/essential/"
+      },
+    
+    {}
+  ]
+} 
+}

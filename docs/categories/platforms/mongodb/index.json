@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "MongoDB",
+  "image" : "/images/platforms/mongodb.png",
+  "category" : "Platforms",
+  "description" : "<no value>",
+  "ring" : "Deprecated",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/mongodb/",
+  "related": [
+    
+    
+      {
+        "name": "GorillaMux",
+        "ring": "Deprecated",
+        "image": "/images/languages-frameworks/gorila-mux.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/gorilla-mux/"
+      },
+    
+      {
+        "name": "Gorm",
+        "ring": "Deprecated",
+        "image": "/images/languages-frameworks/go.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/gorm/"
+      },
+    
+      {
+        "name": "Groovy",
+        "ring": "Deprecated",
+        "image": "/images/languages-frameworks/groovy.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/groovy/"
+      },
+    
+    {}
+  ]
+} 
+}

@@ -1,0 +1,145 @@
+.pg-radar {
+  padding: 56px 0;
+  background: #EDEDED;
+}
+
+.pg-radar-category {
+  margin-top: 24px;
+}
+
+.pg-radar-category:first-of-type {
+  margin-top: 0;
+}
+
+.pg-radar-category-head {
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+}
+
+.pg-radar-category-head h3 {
+  color: #1A2138;
+  margin-right: 16px;
+}
+
+.pg-radar-category-list-item {
+  margin-top: 10px;
+}
+
+.pg-radar-category-list-item:first-of-type {
+  margin-top: 0;
+}
+
+.pg-radar-category-list-item a {
+  color: #8C909C;
+  text-decoration: none;
+}
+
+.pg-radar-main-foot {
+  margin-top: 21px;
+  text-align: right;
+}
+
+.pg-radar-quadrant-groups {
+  padding: 0;
+  margin: 0 0 32px;
+  display: flex;
+}
+
+.pg-radar-quadrant-groups-item {
+  margin-left: 17px;
+  border: 1px solid #113B65;
+  border-radius: 20px;
+  padding: 4px 12px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+
+  display: flex;
+  align-items: center;
+}
+
+.pg-radar-quadrant-groups-item:hover, .pg-radar-quadrant-groups-item.is-active {
+  background: #D7D8DC;
+}
+
+.pg-radar-quadrant-groups-item:first-of-type {
+  margin-left: 0;
+}
+
+.pg-radar-quadrant-groups-item span { 
+  font-size: 12px;
+  line-height: 16px;
+  color: #113B65;
+}
+
+.pg-radar-quadrant-groups-item span:first-of-type {
+  margin-right: 10.29px;
+}
+
+.pg-radar-caption {
+  margin-bottom: 15px;
+}
+
+.pg-radar-caption-item {
+  margin-top: 5px;
+
+  display: flex;
+  align-items: center;
+}
+
+.pg-radar-caption-item span {
+  font-size: 10px;
+  line-height: 16px;
+  color: #000;
+}
+
+.pg-radar-caption-item span:first-of-type {
+  text-align: center;
+  min-width: 16px;
+  margin-right: 7px;
+}
+
+.pg-radar-caption-item:first-of-type {
+  margin-top: 0;
+}
+
+.cp-tech-radar {
+  width: 700px;
+}
+
+.pg-radar-ringname {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 14;
+}
+
+.pg-radar-ringname-item {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 18px;
+  text-align: center;
+  text-transform: uppercase;
+  opacity: 0.5;
+}
+
+.pg-radar-ringname-item.one {
+  color: #E17055;
+  margin-top: 15px;
+}
+
+.pg-radar-ringname-item.two {
+  color: #0984E3;
+  margin-top: 25px;
+}
+
+.pg-radar-ringname-item.three {
+  color: #006B69;
+  margin-top: 51px;
+}
+
+.pg-radar-ringname-item.four {
+  color: #FF6D00;
+  margin-top: 74px;
+}

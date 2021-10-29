@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Allure",
+  "image" : "/images/languages-frameworks/allure.png",
+  "category" : "Languages-Frameworks",
+  "description" : "<no value>",
+  "ring" : "Potencial",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/allure/",
+  "related": [
+    
+    
+      {
+        "name": "Go",
+        "ring": "Potencial",
+        "image": "/images/languages-frameworks/go.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/go/"
+      },
+    
+      {
+        "name": "C4 model",
+        "ring": "Potencial",
+        "image": "/images/techniques/c4-model.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/c4-model/"
+      },
+    
+      {
+        "name": "Cognitive-Driven Development",
+        "ring": "Potencial",
+        "image": "/images/techniques/tdd.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/cdd/"
+      },
+    
+    {}
+  ]
+} 
+}

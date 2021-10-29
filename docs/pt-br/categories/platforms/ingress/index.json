@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Ingress",
+  "image" : "/images/platforms/kubernetes.png",
+  "category" : "Platforms",
+  "description" : "<no value>",
+  "ring" : "Estratégico",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/ingress/",
+  "related": [
+    
+    
+      {
+        "name": "Kotlin",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/kotlin.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/kotlin/"
+      },
+    
+      {
+        "name": "React",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/react.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/react/"
+      },
+    
+      {
+        "name": "Spock",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/java.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/spock/"
+      },
+    
+    {}
+  ]
+} 
+}

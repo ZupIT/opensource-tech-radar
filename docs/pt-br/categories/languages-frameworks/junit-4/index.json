@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "JUnit 4",
+  "image" : "/images/languages-frameworks/junit-4.png",
+  "category" : "Languages-Frameworks",
+  "description" : "<no value>",
+  "ring" : "Descontinuado",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/junit-4/",
+  "related": [
+    
+    
+      {
+        "name": "GorillaMux",
+        "ring": "Descontinuado",
+        "image": "/images/languages-frameworks/gorila-mux.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/gorilla-mux/"
+      },
+    
+      {
+        "name": "Gorm",
+        "ring": "Descontinuado",
+        "image": "/images/languages-frameworks/go.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/gorm/"
+      },
+    
+      {
+        "name": "Groovy",
+        "ring": "Descontinuado",
+        "image": "/images/languages-frameworks/groovy.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/groovy/"
+      },
+    
+    {}
+  ]
+} 
+}

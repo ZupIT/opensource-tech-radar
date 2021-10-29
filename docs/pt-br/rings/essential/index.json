@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Essential",
+  "image" : "images/rings/essential.png",
+  "category" : "rings",
+  "description" : "As tecnologias desse anel já foram testadas, mas não estão completamente maduras. Os times que utilizam precisam de capacitação e/ou experiência para garantir o sucesso do projeto. ",
+  "ring" : "<no value>",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/rings/essential/",
+  "related": [
+    
+    
+      {
+        "name": "<no value>",
+        "ring": "<no value>",
+        "image": "<no value>",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/docs/"
+      },
+    
+      {
+        "name": "Strategic",
+        "ring": "<no value>",
+        "image": "images/rings/strategic.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/rings/strategic/"
+      },
+    
+      {
+        "name": "<no value>",
+        "ring": "<no value>",
+        "image": "<no value>",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/radar/"
+      },
+    
+    {}
+  ]
+} 
+}

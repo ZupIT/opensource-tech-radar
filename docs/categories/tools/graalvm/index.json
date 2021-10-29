@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "GraalVM",
+  "image" : "/images/tools/graalvm.png",
+  "category" : "Tools",
+  "description" : "<no value>",
+  "ring" : "Potential",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/tools/graalvm/",
+  "related": [
+    
+    
+      {
+        "name": "Allure",
+        "ring": "Potential",
+        "image": "/images/languages-frameworks/allure.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/allure/"
+      },
+    
+      {
+        "name": "Go",
+        "ring": "Potential",
+        "image": "/images/languages-frameworks/go.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/go/"
+      },
+    
+      {
+        "name": "C4 model",
+        "ring": "Potential",
+        "image": "/images/techniques/c4-model.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/techniques/c4-model/"
+      },
+    
+    {}
+  ]
+} 
+}

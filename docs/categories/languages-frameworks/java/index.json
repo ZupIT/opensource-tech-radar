@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Java",
+  "image" : "/images/languages-frameworks/java.png",
+  "category" : "Languages-Frameworks",
+  "description" : "<no value>",
+  "ring" : "Essential",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/java/",
+  "related": [
+    
+    
+      {
+        "name": "JUnit 5",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/junit-5.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/junit/"
+      },
+    
+      {
+        "name": "Quarkus",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/quarkus.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/quarkus/"
+      },
+    
+      {
+        "name": "Spring",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/spring.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/spring/"
+      },
+    
+    {}
+  ]
+} 
+}

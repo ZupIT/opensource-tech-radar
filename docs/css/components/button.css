@@ -1,0 +1,22 @@
+.cp-button {
+  width: 100%;
+  padding: 12px 0;
+  background: #FF6D00;
+  display: inline-block;
+  border: 0;
+  border-radius: 4px;
+
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: all 0.3s ease-in-out;
+}
+
+.cp-button:hover {
+  color: #fff;
+  opacity: 0.85;
+}

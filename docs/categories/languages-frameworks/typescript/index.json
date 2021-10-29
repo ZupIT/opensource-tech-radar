@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "TypeScript",
+  "image" : "/images/languages-frameworks/typescript.png",
+  "category" : "Languages-Frameworks",
+  "description" : "<no value>",
+  "ring" : "Deprecated",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/typescript/",
+  "related": [
+    
+    
+      {
+        "name": "GorillaMux",
+        "ring": "Deprecated",
+        "image": "/images/languages-frameworks/gorila-mux.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/gorilla-mux/"
+      },
+    
+      {
+        "name": "Gorm",
+        "ring": "Deprecated",
+        "image": "/images/languages-frameworks/go.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/gorm/"
+      },
+    
+      {
+        "name": "Groovy",
+        "ring": "Deprecated",
+        "image": "/images/languages-frameworks/groovy.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/groovy/"
+      },
+    
+    {}
+  ]
+} 
+}
