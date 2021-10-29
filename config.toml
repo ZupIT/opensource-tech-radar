@@ -1,8 +1,8 @@
-baseURL = "/"
+baseURL = "https://zupit.github.io/opensource-tech-radar"
 
 title = "Tech Radar - Opensource - Zup I.T"
 
-publishDir = "docs"
+publishDir = "docs" 
 
 relativeURLs = true
 canonifyURLs = true
@@ -41,22 +41,22 @@ offlineSearchMaxResults = 7
     weight = 3
     url = "/about"
 
-  [languages.pt-BR]
+  [languages.pt-br]
     contentDir = 'content/pt-br'
     languageName = 'Português'
     weight = 20
 
-    [[languages.pt-BR.menu.main]]
+    [[languages.pt-br.menu.main]]
     name = "Documentação"
     weight = 1
     url = "/docs"
   
-    [[languages.pt-BR.menu.main]]
+    [[languages.pt-br.menu.main]]
       name = "Radar"
       weight = 2
       url = "/radar"
 
-      [[languages.pt-BR.menu.main]]
+      [[languages.pt-br.menu.main]]
       name = "Sobre"
       weight = 3
       url = "/about"

@@ -1,553 +1,775 @@
 <!DOCTYPE html>
-<html><!doctype html>
 <html lang="en">
-<head>
-	<meta name="generator" content="Hugo 0.88.1" />
-  <title>Tech radar at Open Source of Zup Innovation</title>
+  <head>
+    <meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="msapplication-TileColor" content="#ffffff">
-  <meta name="theme-color" content="#ffffff">
+<meta name="generator" content="Hugo 0.68.3" />
 
-  <meta name="author" content="Zup Innovation Open Source">
-  <meta name="description" content="This site helps the Open Source team in the Zup innovation drive the organization's knowledge and technology watch.">
-  <link rel="icon" type="image/png" href="./images/favicon.png">
-  <meta property="og:url"                content="" />
-  <meta property="og:type"               content="Website" />
-  <meta property="og:title"              content="Open source Tech Radar" />
-  <meta property="og:description"        content="This site helps the Open Source team in the Zup innovation drive the organization's knowledge and technology watch." />
-  <meta property="og:image"              content="https://raw.githubusercontent.com/otaviojava/open-source-tech-radar/main/static/images/thumbnail.png" />
+  <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-  <link rel="stylesheet" type="text/css" href="./css/main.719059a0f7a50dcd153e.css">
-  <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Nunito:400,300,600,700,800,900,300italic,600italic">
-  <link rel="stylesheet" type="text/css" href="./css/buddy.plugins.css">
-  <link rel="stylesheet" type="text/css" href="./css/style.css">
-  <script type="text/javascript" src="./js/buddy.js"></script>
-  <script type="text/javascript" src="./js/konami.js"></script>
-  
-</head><body>
-<body>
-  <header class="page-header">
-    <div class="page-wrapper grid-flex v-align-middle grid-title">
-          <div class="column">
-            <h1 class="logo"><a href="./">Zup Open Source Tech Radar</a></h1>
-          </div>
 
-          <div class="column">
-            <div class="input">
-    <div class="input-search">
-        <form action="./search" method="get">
-            <div class="input-search">
-                <input type="text" id="search-box" name="query">
-                <button type="submit" class="btn-square bg-main-color" data-modal="modal-search-results"><i class="fas fa-search"></i></button>
-            </div>         
-        </form>
-    </div>
-</div>
+<link rel="alternate" type="application/rss&#43;xml" href="https://zupit.github.io/opensource-tech-radar/index.xml">
 
-<script>
-  window.store = {
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet" />
+
+
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous" />
+
+
+
+<link rel="stylesheet" href="./css/radar/main.b2b59ce6da2e94acad70.css">
+
+
+<link rel="stylesheet" href="./css/app.css" />
+
+    <title>
+      
+        Tech Radar - Opensource - Zup I.T
+      
+    </title>
+  </head>
+
+  <body>
+    <header class="sc-header">
+  <div class="wrapper">
+     <div class="container-fluid gx-0">
+      <div class="row align-items-center justify-content-between">
+        <div class="col-auto">
+          <a href="./">
+            <img src="./logos/tech-radar.svg" alt="Tech Radar | Zup I.T" style="float: left;">
+          </a>
+        </div>
+
+        <div class="col-auto">
+          <div class="row align-items-center justify-content-between">
+            <div class="col-auto">
+              <nav class="sc-header-navbar">
+  <ul>
     
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/languages-frameworks\/allure\/": {
-            "title": "Allure",
-            "category": "Languages-Frameworks",
-            "ring": "Potencial",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/languages-frameworks\/allure\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/languages-frameworks\/go\/": {
-            "title": "Go",
-            "category": "Languages-Frameworks",
-            "ring": "Potencial",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/languages-frameworks\/go\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/languages-frameworks\/gorilla-mux\/": {
-            "title": "GorillaMux",
-            "category": "Languages-Frameworks",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/languages-frameworks\/gorilla-mux\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/languages-frameworks\/gorm\/": {
-            "title": "Gorm",
-            "category": "Languages-Frameworks",
-            "ring": "Deprecated",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/languages-frameworks\/gorm\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/languages-frameworks\/groovy\/": {
-            "title": "Groovy",
-            "category": "Languages-Frameworks",
-            "ring": "Deprecated",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/languages-frameworks\/groovy\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/languages-frameworks\/java\/": {
-            "title": "Java",
-            "category": "Languages-Frameworks",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/languages-frameworks\/java\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/languages-frameworks\/junit-4\/": {
-            "title": "JUnit 4",
-            "category": "Languages-Frameworks",
-            "ring": "Deprecated",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/languages-frameworks\/junit-4\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/languages-frameworks\/junit\/": {
-            "title": "JUnit 5",
-            "category": "Languages-Frameworks",
-            "ring": "Essencial",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/languages-frameworks\/junit\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/languages-frameworks\/kotlin\/": {
-            "title": "Kotlin",
-            "category": "Languages-Frameworks",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/languages-frameworks\/kotlin\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/languages-frameworks\/quarkus\/": {
-            "title": "Quarkus",
-            "category": "Languages-Frameworks",
-            "ring": "Essencial",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/languages-frameworks\/quarkus\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/languages-frameworks\/react\/": {
-            "title": "React",
-            "category": "Languages-Frameworks",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/languages-frameworks\/react\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/languages-frameworks\/spock\/": {
-            "title": "Spock",
-            "category": "Languages-Frameworks",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/languages-frameworks\/spock\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/languages-frameworks\/spring\/": {
-            "title": "Spring",
-            "category": "Languages-Frameworks",
-            "ring": "Essencial",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/languages-frameworks\/spring\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/languages-frameworks\/swift\/": {
-            "title": "Swift",
-            "category": "Languages-Frameworks",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/languages-frameworks\/swift\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/languages-frameworks\/typescript\/": {
-            "title": "TypeScript",
-            "category": "Languages-Frameworks",
-            "ring": "Deprecated",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/languages-frameworks\/typescript\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/libs\/tdd\/": {
-            "title": "Test Driven Development",
-            "category": "Libs",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/libs\/tdd\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/android\/": {
-            "title": "Android",
-            "category": "Platforms",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/android\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/bucket-s3\/": {
-            "title": "Bucket S3",
-            "category": "Platforms",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/bucket-s3\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/docker\/": {
-            "title": "Docker",
-            "category": "Platforms",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/docker\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/elasticsearch\/": {
-            "title": "Elasticsearch",
-            "category": "Platforms",
-            "ring": "Deprecated",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/elasticsearch\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/envoy\/": {
-            "title": "Envoy",
-            "category": "Platforms",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/envoy\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/github\/": {
-            "title": "GitHub",
-            "category": "Platforms",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/github\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/ingress\/": {
-            "title": "Ingress",
-            "category": "Platforms",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/ingress\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/ios\/": {
-            "title": "iOS",
-            "category": "Platforms",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/ios\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/istio\/": {
-            "title": "Istio",
-            "category": "Platforms",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/istio\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/keycloak\/": {
-            "title": "Keycloak",
-            "category": "Platforms",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/keycloak\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/kubernetes\/": {
-            "title": "Kubernetes",
-            "category": "Platforms",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/kubernetes\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/mongodb\/": {
-            "title": "MongoDB",
-            "category": "Platforms",
-            "ring": "Deprecated",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/mongodb\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/nodejs\/": {
-            "title": "Node.js",
-            "category": "Platforms",
-            "ring": "Deprecated",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/nodejs\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/postgresql\/": {
-            "title": "PostgreSQL",
-            "category": "Platforms",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/postgresql\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/prometheus\/": {
-            "title": "Prometheus",
-            "category": "Platforms",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/prometheus\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/rabbitmq\/": {
-            "title": "RabbitMQ",
-            "category": "Platforms",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/rabbitmq\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/redis\/": {
-            "title": "Redis",
-            "category": "Platforms",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/redis\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/swagger\/": {
-            "title": "Swagger",
-            "category": "Platforms",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/swagger\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/vcluster\/": {
-            "title": "vCluster",
-            "category": "Platforms",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/platforms\/vcluster\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/techniques\/bdd\/": {
-            "title": "Behavior-driven development",
-            "category": "Techniques",
-            "ring": "Essencial",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/techniques\/bdd\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/techniques\/c4-model\/": {
-            "title": "C4 model",
-            "category": "Techniques",
-            "ring": "Potencial",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/techniques\/c4-model\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/techniques\/cdd\/": {
-            "title": "Cognitive-Driven Development",
-            "category": "Techniques",
-            "ring": "Potencial",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/techniques\/cdd\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/techniques\/clean-architecture\/": {
-            "title": "Clean Architecture",
-            "category": "Techniques",
-            "ring": "Essencial",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/techniques\/clean-architecture\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/techniques\/ddd\/": {
-            "title": "Domain-driven design",
-            "category": "Techniques",
-            "ring": "Essencial",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/techniques\/ddd\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/techniques\/grpc\/": {
-            "title": "gRPC",
-            "category": "Techniques",
-            "ring": "Essencial",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/techniques\/grpc\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/techniques\/microservices\/": {
-            "title": "Microservices",
-            "category": "Techniques",
-            "ring": "Essencial",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/techniques\/microservices\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/techniques\/okr\/": {
-            "title": "Objectives and Key Results",
-            "category": "Techniques",
-            "ring": "Potencial",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/techniques\/okr\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/techniques\/server-driven-ui\/": {
-            "title": "Server Driven UI",
-            "category": "Techniques",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/techniques\/server-driven-ui\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/techniques\/six-pagers\/": {
-            "title": "Amazon 6-pager",
-            "category": "Techniques",
-            "ring": "Potencial",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/techniques\/six-pagers\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/techniques\/tdd\/": {
-            "title": "Test Driven Development",
-            "category": "Techniques",
-            "ring": "Potencial",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/techniques\/tdd\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/casbin\/": {
-            "title": "Casbin",
-            "category": "Tools",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/casbin\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/chai\/": {
-            "title": "Chai",
-            "category": "Tools",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/chai\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/codecov\/": {
-            "title": "Codecov",
-            "category": "Tools",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/codecov\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/dependabot\/": {
-            "title": "Dependabot",
-            "category": "Tools",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/dependabot\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/git\/": {
-            "title": "Git",
-            "category": "Tools",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/git\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/gitguardian\/": {
-            "title": "Gitguardian",
-            "category": "Tools",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/gitguardian\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/github-action\/": {
-            "title": "GitHub Action",
-            "category": "Tools",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/github-action\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/github-app-dco\/": {
-            "title": "GitHub App DCO",
-            "category": "Tools",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/github-app-dco\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/graalvm\/": {
-            "title": "GraalVM",
-            "category": "Tools",
-            "ring": "Potencial",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/graalvm\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/helm\/": {
-            "title": "Helm",
-            "category": "Tools",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/helm\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/hugo\/": {
-            "title": "Hugo",
-            "category": "Tools",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/hugo\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/intellij\/": {
-            "title": "Intellij",
-            "category": "Tools",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/intellij\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/kubectl\/": {
-            "title": "Kubectl",
-            "category": "Tools",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/kubectl\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/maven\/": {
-            "title": "Maven",
-            "category": "Tools",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/maven\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/npm\/": {
-            "title": "NPM",
-            "category": "Tools",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/npm\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/supertest\/": {
-            "title": "Supertest",
-            "category": "Tools",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/supertest\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/vscode\/": {
-            "title": "VsCode",
-            "category": "Tools",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/vscode\/"
-      },
-        "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/yarn\/": {
-            "title": "Yarn",
-            "category": "Tools",
-            "ring": "Strategic",
-            "url": "https:\/\/zupit.github.io\/opensource-tech-radar\/tools\/yarn\/"
-      },
-    }
-</script>
-          </div>
+    
+    
+    
+    
+    
+      <li class="sc-header-navbar-item ">
+        <a href="./docs">Documentation</a> 
+      </li>
+    
+    
+    
+    
+    
+      <li class="sc-header-navbar-item ">
+        <a href="./radar">Radar</a> 
+      </li>
+    
+    
+    
+    
+    
+      <li class="sc-header-navbar-item ">
+        <a href="./about">About</a> 
+      </li>
+    
+  </ul>
+</nav>
+            </div>
 
-          <div class="column text-right">
-            <ul class="list-social">
-            </ul>
-          </div>
+            <div class="col-auto ms-5">
+              
+<div class="cp-dropdown">
+  <div class="cp-dropdown-head">
+    <span class="cp-dropdown-head-label">English</span>
+
+    <span class="cp-dropdown-head-icon">
+      <img src="./icons/arrow-down.svg" alt="Abrir" />
+    </span>
   </div>
-</header><main class="page-homepage">
 
-            <section class="section-intro">
-                <div class="page-wrapper">
-                    <div class="grid-flex">
-                        <div class="column w-40">
-                            <h2>Tech radar</h2>
-                            <p>
-                                The Radar is a document that sets out the changes that are currently interesting regarding software development in our organization. <br />
-                                It is a knowledge base about where we are today as an organization and where we want to go.
-                            </p>
-                        </div>
-
-                        <div class="column o-20 w-40">
-                            <div class="has-background">
-                                <h2>Aim of the tech radar</h2>
-                                <p>
-                                    It centralizes things in motion that we should pay attention to and consider using in our projects. <br />
-                                    The original concept comes from thoughtworks, you can read more about it <a href="https://www.thoughtworks.com/radar/faq">here</a>.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="section-go-to-radar">
-                <div class="page-wrapper">
-                    <div class="grid-flex">
-                        <div class="column"><a href="radar/" class="btn bg-gradient-main-color">Go to the radar</a></div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="section-categories">
-                <div class="page-wrapper">
-                    <h2 class="text-center">4 categories</h2>
-                    <div class="grid-flex">
-                        <div class="column"><a href="./languages-frameworks/" class="btn bg-gradient-green">Lang-Frameworks</a></div>
-                        <div class="column"><a href="./platforms/" class="btn bg-gradient-blue">Platforms</a></div>
-                        <div class="column"><a href="./techniques/" class="btn bg-gradient-yellow">Techniques</a></div>
-                        <div class="column"><a href="./tools/" class="btn  bg-gradient-main-color">Tools</a></div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="section-categories">
-
-                <div class="page-wrapper">
-                    <h2 class="text-center">4 rings</h2>
-            
-                    <div class="grid-flex">
-                        <div class="column w-50">
-                            <h2 id="strategic"><a href="#strategic">Strategic</a></h2>
-                            <p>We have capacity to use these solutions, they have already been deployed in production.<br>
-                            First choices to start a new project.</p>
-                        </div>
-                        <div class="column w-50">
-                            <h2 id="can-use"><a href="#essential">Essential</a></h2>
-                            <p>Pertinence of those solutions have been demonstrated.
-                            You can use it on your project but you need to provide a reason to not use the default choice.</p>
-                        </div>
-                        <div class="column w-50">
-                            <h2 id="potencial"><a href="#potencial">Potencial</a></h2>
-                            <p>These solutions may bring values.
-                            It is necessary to assess and test them in our environment to confirm or not this vision.</p>
-                        </div>
-                        <div class="column w-50">
-                            <h2 id="deprecatedrejected"><a href="#deprecated">Deprecated/ Rejected</a></h2>
-                            <p>For various reasons, these solutions are no longer the first choices or are not recommended (anymore).</p>
-                        </div>
-                    </div>
-            
-            </section>
-        </main>
-    </div><div>
-    <img id="konamiImage" class="konami" src="./images/konami.gif"/>
-    <script>
-    function launchEgg() {
-        return new Promise(function (resolve, reject) {
-                var konamiImage = document.getElementById("konamiImage");
-                konamiImage.style.display = 'inherit';
-                var currentPosition = 0;
-                
-                var id = setInterval(() => {
-                    if (currentPosition == document.body.offsetWidth) {
-                        clearInterval(id);
-                        konamiImage.style.display = 'none';
-                        resolve();                     
-                    } else {
-                        currentPosition++; 
-                        konamiImage.style.left = currentPosition + 'px'; 
-                    }
-            }, 10);
-        }); 
-    }
-
-    var konami = new Konami(launchEgg);
-    konami.load();
-
-    </script>
-</div><footer class="page-footer">
-<div class="page-wrapper">
-    © 2021 <a href="https://opensource.zup.com.br/" target="_blank">Zup Innovation</a> 
-    <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons</a><img src="./images/ico-footer.png" alt=""  /></a>
+  <div class="cp-dropdown-list">
+    
+      <div class="cp-dropdown-list-item" data-value="/pt-br/">Português</div>
+    
+  </div>
 </div>
-</footer></body>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+    <section class="sc-welcome">
+      <div class="wrapper">
+        <div class="container-fluid gx-0">
+          <div class="row justify-content-center">
+            <div class="col-8">
+              <div class="row">
+                <div class="col-12">
+                  <h1 class="sc-welcome-title">Tech Radar</h1>
+
+                  <p class="sc-welcome-description">Keep up with the latest technology trends with our open source radar.</p>
+                </div>
+              </div>
+
+              <div class="row mt-5">
+                <div class="col-12">
+                  
+
+  
+  
+
+
+<div class="cp-search">
+  <div class="cp-search-bar">
+    <input type="text" placeholder="Search technology /" class="cp-search-bar-field" data-offline-search-index-json-src="./offline-search-index.192e657f637e15c937a3d2ad66e09dd3.json" data-offline-search-base-href="./"
+    data-offline-search-max-results="7">
+
+    <span class="cp-search-bar-button">
+      <img src="./icons/remove.svg" alt="Limpar">
+    </span>
+  </div>
+</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="sc-banner">
+      <div class="wrapper">
+        <div class="cp-card">
+          <div class="container-fluid gx-0">
+            <div class="row align-items-center justify-content-between">
+              <div class="col-auto">
+                <div class="row align-items-center">
+                  <div class="col-auto">
+                    <img src="./icons/radar.svg" alt="Icone">
+                  </div>
+
+                  <div class="col-auto">
+                    <p>
+                      Check out our complete Radar and find out what you <br />
+                      should consider in your projects.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-3">
+                <a href="./radar" class="cp-button">See radar</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="sc-categories">
+      <div class="wrapper">
+        <div class="container-fluid gx-0">
+          <div class="row justify-content-center">
+            <div class="col-auto">
+              <h2>Categories</h2>
+            </div>
+          </div>
+
+          <div class="row justify-content-center mt-3">
+            <div class="col-auto">
+              <p>Choose a strategic technology and start using it right away.</p>
+            </div>
+          </div>
+
+          <div class="row mt-5">
+            
+            <div class="col-3">
+              <div class="cp-card">
+                <div class="row flex-column justify-content-between" style="height: 100%;">
+                  <div class="col-auto">
+                    <div class="row flex-column">
+                      <div class="col-auto">
+                        <img src="./images/icons/code.svg" alt="Icone">
+                      </div>
+    
+                      <div class="col-12 mt-3">
+                        <h3>Languages-Frameworks</h3>
+                      </div>
+    
+                      <div class="col-12 mt-3">
+                        <ul class="sc-categories-list">
+                          
+                          <li class="sc-categories-list-item">
+                            <span>Allure</span>
+
+                            <span>
+                              <a href="./categories/languages-frameworks/allure/">
+                                <img src="./icons/light-big.svg" alt="Icone">
+                              </a>
+                            </span>
+                          </li>
+                          
+                          <li class="sc-categories-list-item">
+                            <span>Go</span>
+
+                            <span>
+                              <a href="./categories/languages-frameworks/go/">
+                                <img src="./icons/light-big.svg" alt="Icone">
+                              </a>
+                            </span>
+                          </li>
+                          
+                          <li class="sc-categories-list-item">
+                            <span>GorillaMux</span>
+
+                            <span>
+                              <a href="./categories/languages-frameworks/gorilla-mux/">
+                                <img src="./icons/light-big.svg" alt="Icone">
+                              </a>
+                            </span>
+                          </li>
+                          
+                          <li class="sc-categories-list-item">
+                            <span>Gorm</span>
+
+                            <span>
+                              <a href="./categories/languages-frameworks/gorm/">
+                                <img src="./icons/light-big.svg" alt="Icone">
+                              </a>
+                            </span>
+                          </li>
+                          
+                          <li class="sc-categories-list-item">
+                            <span>Groovy</span>
+
+                            <span>
+                              <a href="./categories/languages-frameworks/groovy/">
+                                <img src="./icons/light-big.svg" alt="Icone">
+                              </a>
+                            </span>
+                          </li>
+                          
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-auto mt-3">
+                    <div class="col-12">
+                      <a href="./categories/languages-frameworks/" class="sc-categories-all">See all</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+            <div class="col-3">
+              <div class="cp-card">
+                <div class="row flex-column justify-content-between" style="height: 100%;">
+                  <div class="col-auto">
+                    <div class="row flex-column">
+                      <div class="col-auto">
+                        <img src="./images/icons/hierarchy-3.svg" alt="Icone">
+                      </div>
+    
+                      <div class="col-12 mt-3">
+                        <h3>Platforms</h3>
+                      </div>
+    
+                      <div class="col-12 mt-3">
+                        <ul class="sc-categories-list">
+                          
+                          <li class="sc-categories-list-item">
+                            <span>Android</span>
+
+                            <span>
+                              <a href="./categories/platforms/android/">
+                                <img src="./icons/light-big.svg" alt="Icone">
+                              </a>
+                            </span>
+                          </li>
+                          
+                          <li class="sc-categories-list-item">
+                            <span>Bucket S3</span>
+
+                            <span>
+                              <a href="./categories/platforms/bucket-s3/">
+                                <img src="./icons/light-big.svg" alt="Icone">
+                              </a>
+                            </span>
+                          </li>
+                          
+                          <li class="sc-categories-list-item">
+                            <span>Docker</span>
+
+                            <span>
+                              <a href="./categories/platforms/docker/">
+                                <img src="./icons/light-big.svg" alt="Icone">
+                              </a>
+                            </span>
+                          </li>
+                          
+                          <li class="sc-categories-list-item">
+                            <span>Elasticsearch</span>
+
+                            <span>
+                              <a href="./categories/platforms/elasticsearch/">
+                                <img src="./icons/light-big.svg" alt="Icone">
+                              </a>
+                            </span>
+                          </li>
+                          
+                          <li class="sc-categories-list-item">
+                            <span>Envoy</span>
+
+                            <span>
+                              <a href="./categories/platforms/envoy/">
+                                <img src="./icons/light-big.svg" alt="Icone">
+                              </a>
+                            </span>
+                          </li>
+                          
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-auto mt-3">
+                    <div class="col-12">
+                      <a href="./categories/platforms/" class="sc-categories-all">See all</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+            <div class="col-3">
+              <div class="cp-card">
+                <div class="row flex-column justify-content-between" style="height: 100%;">
+                  <div class="col-auto">
+                    <div class="row flex-column">
+                      <div class="col-auto">
+                        <img src="./images/icons/lock-network.svg" alt="Icone">
+                      </div>
+    
+                      <div class="col-12 mt-3">
+                        <h3>Techniques</h3>
+                      </div>
+    
+                      <div class="col-12 mt-3">
+                        <ul class="sc-categories-list">
+                          
+                          <li class="sc-categories-list-item">
+                            <span>C4 model</span>
+
+                            <span>
+                              <a href="./categories/techniques/c4-model/">
+                                <img src="./icons/light-big.svg" alt="Icone">
+                              </a>
+                            </span>
+                          </li>
+                          
+                          <li class="sc-categories-list-item">
+                            <span>Cognitive-Driven Development</span>
+
+                            <span>
+                              <a href="./categories/techniques/cdd/">
+                                <img src="./icons/light-big.svg" alt="Icone">
+                              </a>
+                            </span>
+                          </li>
+                          
+                          <li class="sc-categories-list-item">
+                            <span>Clean Architecture</span>
+
+                            <span>
+                              <a href="./categories/techniques/clean-architecture/">
+                                <img src="./icons/light-big.svg" alt="Icone">
+                              </a>
+                            </span>
+                          </li>
+                          
+                          <li class="sc-categories-list-item">
+                            <span>Domain-driven design</span>
+
+                            <span>
+                              <a href="./categories/techniques/ddd/">
+                                <img src="./icons/light-big.svg" alt="Icone">
+                              </a>
+                            </span>
+                          </li>
+                          
+                          <li class="sc-categories-list-item">
+                            <span>gRPC</span>
+
+                            <span>
+                              <a href="./categories/techniques/grpc/">
+                                <img src="./icons/light-big.svg" alt="Icone">
+                              </a>
+                            </span>
+                          </li>
+                          
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-auto mt-3">
+                    <div class="col-12">
+                      <a href="./categories/techniques/" class="sc-categories-all">See all</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+            <div class="col-3">
+              <div class="cp-card">
+                <div class="row flex-column justify-content-between" style="height: 100%;">
+                  <div class="col-auto">
+                    <div class="row flex-column">
+                      <div class="col-auto">
+                        <img src="./images/icons/cog-desktop.svg" alt="Icone">
+                      </div>
+    
+                      <div class="col-12 mt-3">
+                        <h3>Tools</h3>
+                      </div>
+    
+                      <div class="col-12 mt-3">
+                        <ul class="sc-categories-list">
+                          
+                          <li class="sc-categories-list-item">
+                            <span>Casbin</span>
+
+                            <span>
+                              <a href="./categories/tools/casbin/">
+                                <img src="./icons/light-big.svg" alt="Icone">
+                              </a>
+                            </span>
+                          </li>
+                          
+                          <li class="sc-categories-list-item">
+                            <span>Chai</span>
+
+                            <span>
+                              <a href="./categories/tools/chai/">
+                                <img src="./icons/light-big.svg" alt="Icone">
+                              </a>
+                            </span>
+                          </li>
+                          
+                          <li class="sc-categories-list-item">
+                            <span>Codecov</span>
+
+                            <span>
+                              <a href="./categories/tools/codecov/">
+                                <img src="./icons/light-big.svg" alt="Icone">
+                              </a>
+                            </span>
+                          </li>
+                          
+                          <li class="sc-categories-list-item">
+                            <span>Dependabot</span>
+
+                            <span>
+                              <a href="./categories/tools/dependabot/">
+                                <img src="./icons/light-big.svg" alt="Icone">
+                              </a>
+                            </span>
+                          </li>
+                          
+                          <li class="sc-categories-list-item">
+                            <span>Git</span>
+
+                            <span>
+                              <a href="./categories/tools/git/">
+                                <img src="./icons/light-big.svg" alt="Icone">
+                              </a>
+                            </span>
+                          </li>
+                          
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-auto mt-3">
+                    <div class="col-12">
+                      <a href="./categories/tools/" class="sc-categories-all">See all</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+                 
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="sc-rings">
+      <div class="wrapper">
+        <div class="container-fluid gx-0">
+          <div class="row justify-content-center">
+            <div class="col-auto">
+              <h2>Rings</h2>
+            </div>
+          </div>
+
+          <div class="row justify-content-center mt-3">
+            <div class="col-auto">
+              <p>Rings are a sign of success. The closer to the center, the better the technology.</p>
+            </div>
+          </div>
+
+          <div class="row justify-content-between mt-5">
+            <div class="col-4">
+              <div class="cp-card" style="padding: 4px; height: 100%">
+                <div class="cp-rings-card" id="cp-rings-card"></div>
+              </div>
+            </div>
+          
+            <div class="col-7">
+              <div class="row">
+                <div class="col-auto">
+                  <div id="cp-rings-boxes" class="cp-rings-boxes"></div>
+                </div>
+          
+                <div class="col-8">
+                  
+
+                  
+                    <div class="cp-rings-circles-item-data d-none" data-title="Strategic" data-image="https://zupit.github.io/opensource-tech-radar/images/rings/strategic.png" data-caption="Technologies within the Strategic Ring are fundamental to the projects. The teams that tested have knowledge, confidence and fluency."></div>
+                  
+                    <div class="cp-rings-circles-item-data d-none" data-title="Essential" data-image="https://zupit.github.io/opensource-tech-radar/images/rings/essential.png" data-caption="The technologies in this ring have been tested but are not fully mature. The teams that use it need training and/or experience to ensure the project&#39;s success."></div>
+                  
+                    <div class="cp-rings-circles-item-data d-none" data-title="Potential" data-image="https://zupit.github.io/opensource-tech-radar/images/rings/potential.png" data-caption="Potential Technologies, as the name implies, have many chances of being adopted in current projects or in future engagements. For this, it is necessary to carry out studies and tests."></div>
+                  
+                    <div class="cp-rings-circles-item-data d-none" data-title="Deprecated" data-image="https://zupit.github.io/opensource-tech-radar/images/rings/deprecated.png" data-caption="If a technology is in that ring, avoid it. We&#39;ve already tested it, our experience was bad and we don&#39;t want you to waste your time."></div>
+                  
+
+                  <div id="cp-rings-circles" class="cp-rings-circles"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+    </section>
+
+    <footer class="sc-footer">
+  <div class="wrapper">
+    <div class="container-fluid gx-0">
+      <div class="row justify-content-between">
+        <div class="col-auto">
+          <div class="row">
+            <div class="col-12">
+              <a href="./">
+                <img src="./logos/open-source.svg" alt="Open Source - Zup I.T">
+              </a>
+            </div>
+          </div>
+
+          <div class="row mt-3">
+            <div class="col-12">
+              <a href="./">
+                <img src="./logos/zup.svg" alt="Zup I.T">
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-10">
+          <div class="row">
+            <div class="col-3">
+              <div class="row">
+                <div class="col-12">
+                  <span class="sc-footer-title">Tech Radar</span>
+                </div>
+              </div>
+
+              <div class="row mt-4">
+                <ul class="sc-footer-list">
+                  <li class="sc-footer-list-item">
+                    <a href="./radar">
+                      <span>Technologies</span>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="col-3">
+              <div class="row">
+                <div class="col-12">
+                  <span class="sc-footer-title">Community</span>
+                </div>
+              </div>
+
+              <div class="row mt-4">
+                <ul class="sc-footer-list">
+                  <li class="sc-footer-list-item">
+                    <a href="https://www.zup.com.br/blog" target="_blank">
+                      <span>Blog</span>
+                    </a>
+                  </li>
+
+                  <li class="sc-footer-list-item">
+                    <a href="./radar">
+                      <span>Tech Radar</span>
+                    </a>
+                  </li>
+
+                  <li class="sc-footer-list-item">
+                    <a href="https://www.zup.com.br/eventos" target="_blank">
+                      <span>Events</span>
+                    </a>
+                  </li>
+                  
+                  <li class="sc-footer-list-item">
+                    <a href="http://forum.zup.com.br/" target="_blank">
+                      <span>Forum</span>
+                    </a>
+                  </li>
+                  
+                  <li class="sc-footer-list-item">
+                    <a href="https://www.zup.com.br/politica-de-privacidade?=cookies" target="_blank">
+                      <span>Privacy Policy</span>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="col-3">
+              <div class="row">
+                <div class="col-12">
+                  <span class="sc-footer-title">Social networks</span>
+                </div>
+              </div>
+
+              <div class="row mt-4">
+                <ul class="sc-footer-list">
+                  <li class="sc-footer-list-item">
+                    <a href="https://twitter.com/ZupInnovation" target="_blank">
+                      <span>
+                        <img src="./icons/twitter.svg" alt="Twitter">
+                      </span>
+
+                      <span>Twitter</span>
+                    </a>
+                  </li>
+
+                  <li class="sc-footer-list-item">
+                    <a href="https://www.youtube.com/channel/UCJWZyJ-36yNscqnnHiwjkhQ" target="_blank">
+                      <span>
+                        <img src="./icons/youtube.svg" alt="Youtube">
+                      </span>
+
+                      <span>Youtube</span>
+                    </a>
+                  </li>
+
+                  <li class="sc-footer-list-item">
+                    <a href="https://github.com/ZupIT/" target="_blank">
+                      <span>
+                        <img src="./icons/github.svg" alt="Github">
+                      </span>
+
+                      <span>Github</span>
+                    </a>
+                  </li>
+                  
+                  <li class="sc-footer-list-item">
+                    <a href="https://www.linkedin.com/company/zup-it-solutions/" target="_blank">
+                      <span>
+                        <img src="./icons/linkedin.svg" alt="Linkedin">
+                      </span>
+
+                      <span>Linkedin</span>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="col-3">
+              <div class="row">
+                <div class="col-12">
+                  <span class="sc-footer-title">Who we are</span>
+                </div>
+              </div>
+
+              <div class="row mt-4">
+                <ul class="sc-footer-list">
+                  <li class="sc-footer-list-item">
+                    <a href="./about">
+                      <span>About us</span>
+                    </a>
+                  </li>
+
+                  <li class="sc-footer-list-item">
+                    <a href="./contact">
+                      <span>Contact</span>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row justify-content-center mt-5">
+        <div class="col-auto">
+          <p class="sc-footer-copyright"></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+    
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+
+
+<script
+  src="https://unpkg.com/lunr@2.3.8/lunr.min.js"
+  integrity="sha384-vRQ9bDyE0Wnu+lMfm57BlYLO0/XauFuKpVsZPs7KEDwYKktWi5+Kz3MP8++DFlRY"
+  crossorigin="anonymous"></script>  
+
+
+
+
+
+
+
+<script src="./js/main.min.e9ca9ccf385bbc94d6daeadb2dcc224b7eae11f0c13f510c4645b0168017f837.js" integrity="sha256-6cqczzhbvJTW2urbLcwiS36uEfDBP1EMRkWwFoAX&#43;Dc=" crossorigin="anonymous"></script>
+
+
+
+<script src="./js/components/rings.js"></script>
+<script src="./js/components/accordion.js"></script>
+<script src="./js/components/tabs.js"></script>
+<script src="./js/components/dropdown.js"></script>
+
+ 
+ <script src="./js/radar/main.b2b59ce6da2e94acad70.js" defer></script>
+ 
+
+ <script src="./js/app.js"></script>
+  </body>
 </html>
