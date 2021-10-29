@@ -4,11 +4,7 @@
     <title>Tech Radar - Opensource - Zup I.T</title>
     <link>https://zupit.github.io/opensource-tech-radar/pt-br/</link>
     <description>Recent content on Tech Radar - Opensource - Zup I.T</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	<atom:link href="https://zupit.github.io/opensource-tech-radar/pt-br/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://zupit.github.io/opensource-tech-radar/pt-br/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Estratégico</title>
       <link>https://zupit.github.io/opensource-tech-radar/pt-br/rings/strategic/</link>
@@ -209,7 +205,7 @@ Why ? For who ?  Beagle Framework  Resources  homepage Documentation  Resources 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/bucket-s3/</guid>
-      <description>What is it ? An Amazon S3 bucket is a public cloud storage resource available in Amazon Web Services&amp;rsquo; (AWS) Simple Storage Service (S3), an object storage offering. Amazon S3 buckets, which are similar to file folders, store objects, which consist of data and its descriptive metadata.
+      <description>What is it ? An Amazon S3 bucket is a public cloud storage resource available in Amazon Web Services&#39; (AWS) Simple Storage Service (S3), an object storage offering. Amazon S3 buckets, which are similar to file folders, store objects, which consist of data and its descriptive metadata.
 Why ? Store data in Amazon S3 and secure it from unauthorized access with encryption features and access management tools. S3 is the only object storage service that allows you to block public access to all of objects at the bucket or the account level with S3 Block Public Access.</description>
     </item>
     
@@ -451,7 +447,7 @@ Why ? gRPC uses HTTP/2 to support highly performant and scalable API&amp;rsquo;s
       
       <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/microservices/</guid>
       <description>What is it ? Microservice architecture – a variant of the service-oriented architecture structural style – arranges an application as a collection of loosely-coupled services. In a microservices architecture, services are fine-grained and the protocols are lightweight.
-Why ? With microservices, multiple teams work on independent services, enabling you to deploy more quickly — and pivot more easily when you need to. Development time is reduced, and your teams&amp;rsquo; code will be more reusable.</description>
+Why ? With microservices, multiple teams work on independent services, enabling you to deploy more quickly — and pivot more easily when you need to. Development time is reduced, and your teams&#39; code will be more reusable.</description>
     </item>
     
     <item>
@@ -471,7 +467,7 @@ Why ? OKRs (objectives and key results) can help you achieve those goals—no ma
       
       <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/server-driven-ui/</guid>
       <description>What is it ? Microservice architecture – a variant of the service-oriented architecture structural style – arranges an application as a collection of loosely-coupled services. In a microservices architecture, services are fine-grained and the protocols are lightweight.
-Why ? With microservices, multiple teams work on independent services, enabling you to deploy more quickly — and pivot more easily when you need to. Development time is reduced, and your teams&amp;rsquo; code will be more reusable.</description>
+Why ? With microservices, multiple teams work on independent services, enabling you to deploy more quickly — and pivot more easily when you need to. Development time is reduced, and your teams&#39; code will be more reusable.</description>
     </item>
     
     <item>
@@ -551,7 +547,7 @@ Why ? Git is the most commonly used version control system. Git tracks the chang
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/gitguardian/</guid>
-      <description>What is it ? GitGuardian Internal Repositories Monitoring focuses on repositories owned by your company, both public and private. These are the repositories that you know exist, where you have full authority to enforce your security policies (as opposed to your developers&amp;rsquo; personal repositories for example).
+      <description>What is it ? GitGuardian Internal Repositories Monitoring focuses on repositories owned by your company, both public and private. These are the repositories that you know exist, where you have full authority to enforce your security policies (as opposed to your developers&#39; personal repositories for example).
 Why ? For who ?  CharlesCD  Resources  homepage  Resources (Portuguese)    </description>
     </item>
     
