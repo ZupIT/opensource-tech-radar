@@ -24,7 +24,7 @@ This is Zup Open Source Tech-radar contributing guide. Please read the following
 ### **Before you contribute**
 
 ### **Code of Conduct**
-Please follow the [**Code of Conduct**](opensource-tech-radar/blob/main/CODE_OF_CONDUCT.md) in all your interactions with our project.
+Please follow the [**Code of Conduct**](CODE_OF_CONDUCT.md) in all your interactions with our project.
 
 ### **Legal**
 - Tech Rahdar is licensed over [**MIT License**](LICENSE).
@@ -87,11 +87,7 @@ Contributing to a new feature is only allowed in the [**main repository**](https
 If you want to add an improvement, a new feature or bugfix, follow the steps to contribute: 
 
 **Step 1:** Make sure your branch is based on main;
-**Step 2:** When opening an issue, choose a template to answer the questions regarding the what you want to contribute: 
-- [**Bug Report**](https://github.com/ZupIT/horusec/blob/main/.github/ISSUE_TEMPLATE/bug_report.md)
-- [**Feature request**](https://github.com/ZupIT/horusec/blob/main/.github/ISSUE_TEMPLATE/feature_request.md)
-- [**Improvement**](https://github.com/ZupIT/horusec/blob/main/.github/ISSUE_TEMPLATE/improvement.md)
-- [**Support request**](https://github.com/ZupIT/horusec/blob/main/.github/ISSUE_TEMPLATE/support_request.md)
+**Step 2:** Open an issue
 
 **Step 3:** Make your changes and open a GitHub pull request;
 
