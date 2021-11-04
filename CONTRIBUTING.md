@@ -24,16 +24,16 @@ This is Zup Open Source Tech-radar contributing guide. Please read the following
 ### **Before you contribute**
 
 ### **Code of Conduct**
-Please follow the [**Code of Conduct**](https://github.com/ZupIT/horusec/blob/main/CODE_OF_CONDUCT.md) in all your interactions with our project.
+Please follow the [**Code of Conduct**](opensource-tech-radar/blob/main/CODE_OF_CONDUCT.md) in all your interactions with our project.
 
 ### **Legal**
-- Horusec is licensed over [**ASL - Apache License**](https://github.com/ZupIT/charlescd/blob/main/LICENSE), version 2, so new files must have the ASL version 2 header. For more information, please check out [**Apache license**](https://www.apache.org/licenses/LICENSE-2.0).
+- Tech Rahdar is licensed over [**MIT License**](LICENSE).
 
 - All contributions are subject to the [**Developer Certificate of Origin (DCO)**](https://developercertificate.org). 
 When you commit, use the ```**-s** ``` option to include the Signed-off-by line at the end of the commit log message.
 
 ## **Prerequisites**
-Check out the requisites before contributing to Horusec:
+Check out the requisites before contributing to Tech-Radar:
 
 ### **Developer Certificate of Origin - DCO**
 
@@ -70,57 +70,18 @@ When you open a PR, follow the requisites below:
 - You need to add a title describing the issue. 
 - Answer the questions about what you did, how to verify it and a description for the changelog, see an example:
 
-<p align="center" margin="20 0"><img src="assets/horusec-pr.PNG" alt="architecture" width="100%" style="max-width:100%;"/></p>
 
 
 ## **How to contribute?** 
 See the guidelines to submit your changes: 
 
 ### **Prepare your development environment**
-To start contributing with Horusec you first need to install [Go](https://golang.org/dl/). The minimal version required to build is 1.17.
-[GNU Make](https://www.gnu.org/software/make/) is also required to development.
+To start contributing with Tech-radar you first need to install [Go](https://golang.org/dl/). The minimal version required to build is 1.17. Then install [Hugo](https://gohugo.io/getting-started/installing/)
 
-After installing Go you can build using `make build-dev`.
-
-
-#### **Testing**
-Horusec has a suite of unit and end-to-end tests you can run them using the following commands. 
-
-```
-make test
-
-make test-e2e
-```
-
-Make sure all the tests pass before you commit and push :)
-
-#### **Coverage**
-You can get the test coverage using the following command.
-
-```bash
-make coverage
-
-go tool cover -html=coverage.out # Open coverage status in your browser
-``` 
-
-#### **Repositories**
-Horusec has other repositories and you can check the README for each one of them: 
-
-- [**Admin**](https://github.com/ZupIT/horusec-admin)
-- [**Charts**](https://github.com/ZupIT/charlescd/tree/main/circle-matcher)
-- [**Devkit**](https://github.com/ZupIT/horusec-devkit)
-- [**Engine**](https://github.com/ZupIT/horusec-engine)
-- [**Jenkins**](https://github.com/ZupIT/horusec-jenkins-sharedlib)
-- [**Operator**](https://github.com/ZupIT/horusec-operator)
-- [**Platform**](https://github.com/ZupIT/horusec-platform)
-- [**VSCode plugin**](https://github.com/ZupIT/horusec-vscode-plugin)
-- [**Kotlin**](https://github.com/ZupIT/horusec-tree-sitter-kotlin)
-- [**Vulnerabilities**](https://github.com/ZupIT/horusec-examples-vulnerabilities)
 
 ### **First contribution**
-Contributing to a new feature is only allowed in the [**main repository**](https://github.com/ZupIT/horusec).
+Contributing to a new feature is only allowed in the [**main repository**](https://github.com/ZupIT/opensource-tech-radar).
 
-Before contributing to this repository, please discuss the changes you wish to make via e-mail or [**forum**](https://forum.zup.com.br/c/en/horusec/14). 
 
 ### **Add new feature, bugfixing or improvement**
 If you want to add an improvement, a new feature or bugfix, follow the steps to contribute: 
@@ -152,9 +113,6 @@ Your pull request is approved when:
 
 ## **Community**
 
-- Do you have any question about Horusec in our [**mailing list**](horusec@zup.com.br) 
 - Let's chat in our [**forum**](https://forum.zup.com.br/c/en/horusec/14).
 
 Thank you for your contribution, you rock! 🚀
-
-**Horusec team** 
