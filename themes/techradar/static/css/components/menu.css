@@ -1,0 +1,50 @@
+.overlay {
+    position: fixed;
+    background: #FF8429;
+    top: 0;
+    left: 0;
+    width: 100%;
+    max-width: 100vw;
+    height: 0%;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.35s, visibility 0.35s, height 0.35s;
+    overflow: scroll;
+    z-index: 9999;
+}
+
+.overlay.open {
+    opacity: 1;
+    visibility: visible;
+    height: 100%;
+}
+
+.overlay-menu .sc-header-navbar ul {
+    flex-direction: column;
+}
+
+.overlay-menu .sc-header-navbar .sc-header-navbar-item {
+    margin: 0;
+}
+
+.overlay-menu .sc-header-navbar .sc-header-navbar-item>a {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: calc(100vw/12);
+    line-height: 48px;
+    color: #FFFFFF;
+}
+
+.overlay-menu .socials img {
+    filter: brightness(100);
+}
+
+.overlay-menu .cp-dropdown-head-label,
+.overlay-menu .cp-dropdown-head,
+.overlay-menu .cp-dropdown-head-icon {
+    border: none !important;
+    color: #FFFFFF !important;
+    filter: brightness(100) !important;
+    padding: 0;
+}
