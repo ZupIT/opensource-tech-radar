@@ -26,3 +26,14 @@
 .sc-welcome-description {
   text-align: center;
 }
+
+
+@media (max-width: 767px) {
+  .sc-welcome-description {
+    font-family: Montserrat;
+    color: #404659;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 40px;
+  }
+}

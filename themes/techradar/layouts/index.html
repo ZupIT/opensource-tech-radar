@@ -21,11 +21,10 @@
       <div class="wrapper">
         <div class="container-fluid gx-0">
           <div class="row justify-content-center">
-            <div class="col-8">
+            <div class="col-md-8 col-12">
               <div class="row">
                 <div class="col-12">
-                  <h1 class="sc-welcome-title">Tech Radar</h1>
-
+                  <h1 class="sc-welcome-title d-none d-md-block">Tech Radar</h1>
                   <p class="sc-welcome-description">{{ i18n "home_welcome_text" }}</p>
                 </div>
               </div>
@@ -45,15 +44,15 @@
       <div class="wrapper">
         <div class="cp-card">
           <div class="container-fluid gx-0">
-            <div class="row align-items-center justify-content-between">
+            <div class="row align-items-center justify-content-center justify-content-md-between">
               <div class="col-auto">
-                <div class="row align-items-center">
+                <div class="row justify-content-center align-items-center">
                   <div class="col-auto">
                     <img src="/icons/radar.svg" alt="Icone">
                   </div>
 
                   <div class="col-auto">
-                    <p>
+                    <p class="text-center text-md-start">
                       {{ i18n "ui_show_radar_banner_text_line_1" }} <br />
                       {{ i18n "ui_show_radar_banner_text_line_2" }}
                     </p>
@@ -61,7 +60,7 @@
                 </div>
               </div>
 
-              <div class="col-3">
+              <div class="col-10 col-md-3 my-3">
                 <a href="{{ .URL | relLangURL }}radar" class="cp-button">{{i18n "ui_show_radar_button_text"}}</a>
               </div>
             </div>
