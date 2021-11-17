@@ -1,5 +1,5 @@
 +++
-name="Docker SDK"
+name="Docker-SDK"
 image="/images/languages-frameworks/docker.png"
 category="Languages-Frameworks"
 ring="Potential"
