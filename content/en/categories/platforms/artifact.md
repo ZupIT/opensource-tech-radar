@@ -1,6 +1,6 @@
 +++
 name="Artifact io"
-image="/images/platforms/shortcut.png"
+image="/images/platforms/artifact.png"
 category="Platforms"
 ring="Estrategic"
 type="post"
