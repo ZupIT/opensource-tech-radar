@@ -1,6 +1,6 @@
 +++
 name="Amazon AWS"
-image="/images/languages-frameworks/allure.png"
+image="/images/platforms/aws.png"
 category="Platforms"
 ring="Potential"
 type="post"

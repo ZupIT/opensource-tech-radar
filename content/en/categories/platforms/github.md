@@ -1,6 +1,6 @@
 +++
 name="Github"
-image="/images/languages-frameworks/github.png"
+image="/images/platforms/github.png"
 category="Platforms"
 ring="Estrategic"
 type="post"
