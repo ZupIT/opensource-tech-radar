@@ -6,7 +6,7 @@ ring="Strategic"
 type="post"
 layout="details"
 isNew="true"
-description="SDK que fornece uma API para interagir com o daemon Docker (chamado Docker Engine API), bem como SDKs para Go e Python. Permite que você crie e dimensione aplicativos e soluções Docker com rapidez e facilidade."
+
 +++
 
 {{% tabs/group %}}
