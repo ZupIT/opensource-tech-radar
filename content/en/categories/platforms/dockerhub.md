@@ -1,6 +1,6 @@
 +++
 name="Dockerhub"
-image="/images/platforms/github.png"
+image="/images/platforms/dockerhub.png"
 category="Platforms"
 ring="Estrategic"
 type="post"
@@ -17,5 +17,5 @@ description="Dockerhub é uma ferramenta de gerenciamento de projeto elaborada e
   {{% tabs/item id="2" title="For who ?" content="
   <a href='https://horusec.io/site/'>Horusec</a><br />" %}}
 
-  {{% tabs/item id="3" title="Resources" content="<a href='https://shortcut.com/'>Homepage</a> <br /> <a href='https://shortcut.com/webinars'>Documentation</a>" %}}
+  {{% tabs/item id="3" title="Resources" content="<a href='https://hub.docker.com/'>Homepage</a> <br /> <a href='https://docs.docker.com/docker-hub/'>Documentation</a>" %}}
 {{% /tabs/group %}}
