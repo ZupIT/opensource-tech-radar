@@ -6,8 +6,7 @@ ring="Strategic"
 type="post"
 layout="details"
 isNew="true"
-description="Go é uma linguagem de programação criada pela Google e lançada em código livre em novembro de 2009. É uma linguagem compilada e focada em produtividade e programação concorrente.
-"
+description="Go é uma linguagem de programação criada pela Google e lançada em código livre em novembro de 2009. É uma linguagem compilada e focada em produtividade e programação concorrente."
 +++
 
 {{% tabs/group %}}
