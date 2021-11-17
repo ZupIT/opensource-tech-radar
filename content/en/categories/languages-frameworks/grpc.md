@@ -6,8 +6,7 @@ ring="Essential"
 type="post"
 layout="details"
 isNew="true"
-description="GRPC é um sistema de chamada de procedimento remoto de código aberto desenvolvido inicialmente no Google em 2015 como a próxima geração da infraestrutura RPC Stubby.
-"
+description="GRPC é um sistema de chamada de procedimento remoto de código aberto desenvolvido inicialmente no Google em 2015 como a próxima geração da infraestrutura RPC Stubby."
 +++
 
 {{% tabs/group %}}
