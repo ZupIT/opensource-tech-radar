@@ -12,8 +12,7 @@ description="GRPC é um sistema de chamada de procedimento remoto de código abe
 {{% tabs/group %}}
   {{% tabs/item id="0" title="What is it ?" content="<p>GRPC é um sistema de chamada de procedimento remoto de código aberto desenvolvido inicialmente no Google em 2015 como a próxima geração da infraestrutura RPC Stubby.</p>" %}}
   
-  {{% tabs/item id="1" title="Why ?" content="<p>Usamos para realizar a comunicação interna entre alguns microsserviços do Horusec.
-</p>" %}}
+  {{% tabs/item id="1" title="Why ?" content="<p>Usamos para realizar a comunicação interna entre alguns microsserviços do Horusec.</p>" %}}
   
   {{% tabs/item id="2" title="For who ?" content="<a href='https://horusec.io/site/'>Horusec</a>" %}}
 
