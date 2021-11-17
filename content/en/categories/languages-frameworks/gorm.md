@@ -2,7 +2,7 @@
 name="GORM"
 image="/images/languages-frameworks/gorm.png"
 category="Languages-Frameworks"
-ring="Strategic"
+ring="Essential"
 type="post"
 layout="details"
 isNew="true"
