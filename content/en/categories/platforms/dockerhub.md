@@ -14,8 +14,7 @@ description="Dockerhub é uma ferramenta de gerenciamento de projeto elaborada e
   
   {{% tabs/item id="1" title="Why ?" content="<p>Publicamos os contêineres do ecossistema Horusec no Dockerhub.</p>" %}}
   
-  {{% tabs/item id="2" title="For who ?" content="
-  <a href='https://horusec.io/site/'>Horusec</a><br />" %}}
+  {{% tabs/item id="2" title="For who ?" content="<a href='https://horusec.io/site/'>Horusec</a><br />" %}}
 
   {{% tabs/item id="3" title="Resources" content="<a href='https://hub.docker.com/'>Homepage</a> <br /> <a href='https://docs.docker.com/docker-hub/'>Documentation</a>" %}}
 {{% /tabs/group %}}
