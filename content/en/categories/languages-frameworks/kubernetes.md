@@ -16,5 +16,4 @@ description="Kubernetes é um componente do Operator Framework, um kit de ferram
   
   {{% tabs/item id="2" title="For who ?" content="<a href='https://horusec.io/site/'>Horusec</a>" %}}
 
-  {{% tabs/item id="3" title="Resources" content="<a href='https://go.dev/blog/wire'>Home</a></br><a href='https://github.com/google/wire'>Source Repository</a>" %}}
-{{% /tabs/group %}}
+  {{% tabs/item id="3" title="Resources" content="<a href='https://go.dev/blog/wire'>Home</a></br><a href='https://github.com/google/wire'>Source Repository</a>" %}}{{% /tabs/group %}}
