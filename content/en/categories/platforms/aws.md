@@ -1,7 +1,7 @@
 +++
 name="Amazon AWS"
 image="/images/languages-frameworks/allure.png"
-category="Languages-Frameworks"
+category="Platforms"
 ring="Potential"
 type="post"
 layout="details"
