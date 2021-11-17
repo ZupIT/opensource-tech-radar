@@ -12,8 +12,7 @@ description="Artifact io é um aplicativo web que permite localizar, instalar e 
 {{% tabs/group %}}
   {{% tabs/item id="0" title="What is it ?" content="<p>Shortcut é uma ferramenta de gerenciamento de projeto elaborada especificamente para equipes de desenvolvimento de software. Oferece uma interface simples, em estilo Kanban, contribuindo para uma experiência descomplicada para melhor colaboração em equipe.</p>" %}}
   
-  {{% tabs/item id="1" title="Why ?" content="<p>Usamos para gerenciar e monitorar as tarefas internas dos mantainers.
-</p>" %}}
+  {{% tabs/item id="1" title="Why ?" content="<p>Usamos para gerenciar e monitorar as tarefas internas dos mantainers.</p>" %}}
   
   {{% tabs/item id="2" title="For who ?" content="
   <a href='https://horusec.io/site/'>Horusec</a><br />" %}}
