@@ -6,9 +6,7 @@ ring="Essential"
 type="post"
 layout="details"
 isNew="true"
-description="React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web. É mantido pelo Facebook, Instagram, além de outras empresas e uma comunidade de desenvolvedores individuais.
-
-"
+description="React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web. É mantido pelo Facebook, Instagram, além de outras empresas e uma comunidade de desenvolvedores individuais."
 +++
 
 {{% tabs/group %}}
