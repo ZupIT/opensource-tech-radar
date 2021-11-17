@@ -2,32 +2,20 @@
 name="Go"
 image="/images/languages-frameworks/go.png"
 category="Languages-Frameworks"
-ring="Potential"
+ring="Strategic"
 type="post"
 layout="details"
+isNew="true"
+description="Go é uma linguagem de programação criada pela Google e lançada em código livre em novembro de 2009. É uma linguagem compilada e focada em produtividade e programação concorrente.
+"
 +++
 
-# What is it ?
+{{% tabs/group %}}
+  {{% tabs/item id="0" title="What is it ?" content="<p>Go é uma linguagem de programação criada pela Google e lançada em código livre em novembro de 2009. É uma linguagem compilada e focada em produtividade e programação concorrente.</p>" %}}
+  
+  {{% tabs/item id="1" title="Why ?" content="<p>como principal linguagem de programação do ecossistema do Horusec, usamos tanto na CLI quanto nos serviços Web, principalmente devido à facilidade em lidar com concorrência.</p>" %}}
+  
+  {{% tabs/item id="2" title="For who ?" content="<a href='https://horusec.io/site/'>Horusec</a>" %}}
 
-Go is a statically typed, compiled programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson. Go is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency.
-
-
-# Why ?
-
-It is tested and proved that applications that are written on Go are highly performant and scalable. Golang is a very efficient language, just like C/C++, handling parallelisms like Java, and has easy code readability like Python and pearl. Golang has indisputable architectural advantages over its predecessors.
-
-# For who ?
-
-* [CharlesCD](https://charlescd.io/)
-* [Horusec](https://horusec.io/site/)
-* [Ritchie CLI](https://ritchiecli.io/)
-
-# Resources
-
-* [homepage](https://golang.org/)
-* [Documentation](https://golang.org/doc/)
-* [Source code](https://github.com/google/go-github)
-
-
-# Resources (Portuguese)
-
+  {{% tabs/item id="3" title="Resources" content="<a href='https://golang.org/'>Homepage</a> <br /> <a href='https://golang.org/doc/'>Documentation</a>" %}}
+{{% /tabs/group %}}

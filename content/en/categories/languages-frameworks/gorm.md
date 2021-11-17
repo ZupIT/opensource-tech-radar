@@ -1,42 +1,20 @@
 +++
-name="Gorm"
-image="/images/languages-frameworks/go.png"
+name="GORM"
+image="/images/languages-frameworks/gorm.png"
 category="Languages-Frameworks"
-ring="Deprecated"
+ring="Essential"
 type="post"
 layout="details"
+isNew="true"
+description="GORM é biblioteca de mapeamento objeto relacional para Golang com foco em ser amigável e aumentar produtividade de quem desenvolve."
 +++
 
-# What is it ?
+{{% tabs/group %}}
+  {{% tabs/item id="0" title="What is it ?" content="<p>GORM é biblioteca de mapeamento objeto relacional para Golang com foco em ser amigável e aumentar produtividade de quem desenvolve.</p>" %}}
+  
+  {{% tabs/item id="1" title="Why ?" content="<p>Usamos os serviços web do Horusec para realizar operações com o banco de dados.</p>" %}}
+  
+  {{% tabs/item id="2" title="For who ?" content="<a href='https://horusec.io/site/'>Horusec</a>" %}}
 
-The fantastic ORM library for Golang aims to be developer friendly.
-
-
-# Why ?
-
-* Full-Featured ORM
-As* sociations (Has One, Has Many, Belongs To, Many To Many, Polymorphism, Single-table inheritance)
-* Hooks (Before/After Create/Save/Update/Delete/Find)
-* Eager loading with Preload, Joins
-* Transactions, Nested Transactions, Save Point, RollbackTo to Saved Point
-* Context, Prepared Statement Mode, DryRun Mode
-* Batch Insert, FindInBatches, Find/Create with Map, CRUD with SQL Expr and Context Valuer
-* SQL Builder, Upsert, Locking, Optimizer/Index/Comment Hints, Named Argument, SubQuery
-* Composite Primary Key, Indexes, Constraints
-* Auto Migrations
-* Logger
-* Extendable, flexible plugin API: Database Resolver (Multiple Databases, Read/Write Splitting) / Prometheus…
-* Every feature comes with tests
-* Developer Friendly
-
-# For who ?
-* [CharlesCD](https://charlescd.io/)
-
-# Resources
-* [homepage](https://golang.org/)
-* [Documentation](https://gorm.io/docs/index.html)
-* [Source code](https://github.com/go-gorm/gorm)
-
-
-# Resources (Portuguese)
-
+  {{% tabs/item id="3" title="Resources" content="<a href='https://gorm.io/'>Home</a>" %}}
+{{% /tabs/group %}}
