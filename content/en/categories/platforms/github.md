@@ -15,8 +15,7 @@ description="Github é uma plataforma de hospedagem de código fonte e de arquiv
   {{% tabs/item id="1" title="Why ?" content="<p>Hospedamos todo nosso código fonte no github.</p>" %}}
   
   {{% tabs/item id="2" title="For who ?" content="
-  <a href='https://charlescd.io/'>Charles C.D</a><br />
-  <a href='https://horusec.io/site/'>Horusec</a><br />" %}}
+  <a href='https://charlescd.io/'>Charles C.D</a><br /><a href='https://horusec.io/site/'>Horusec</a><br />" %}}
 
   {{% tabs/item id="3" title="Resources" content="<a href='https://github.com/'>Homepage</a> <br /> <a href='https://docs.github.com/en/get-started'>Documentation</a>" %}}
 {{% /tabs/group %}}
