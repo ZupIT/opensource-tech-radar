@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Shortcut",
+  "image" : "/images/platforms/shortcut.png",
+  "category" : "Platforms",
+  "description" : "Shortcut é uma ferramenta de gerenciamento de projeto elaborada especificamente para equipes de desenvolvimento de software. Oferece uma interface simples, em estilo Kanban, contribuindo para uma experiência descomplicada para melhor colaboração em equipe.",
+  "ring" : "Estrategic",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/shortcut/",
+  "related": [
+    
+    
+      {
+        "name": "Artifact io",
+        "ring": "Estrategic",
+        "image": "/images/platforms/artifact.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/artifact/"
+      },
+    
+      {
+        "name": "Dockerhub",
+        "ring": "Estrategic",
+        "image": "/images/platforms/dockerhub.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/dockerhub/"
+      },
+    
+      {
+        "name": "Github",
+        "ring": "Estrategic",
+        "image": "/images/platforms/github.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/github/"
+      },
+    
+    {}
+  ]
+} 
+}

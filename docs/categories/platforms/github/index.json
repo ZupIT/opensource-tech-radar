@@ -1,33 +1,33 @@
 {
   "data" :  {
-  "name": "GitHub",
+  "name": "Github",
   "image" : "/images/platforms/github.png",
   "category" : "Platforms",
-  "description" : "<no value>",
-  "ring" : "Strategic",
+  "description" : "Github é uma plataforma de hospedagem de código fonte e de arquivos com controle de versão usando o Git.",
+  "ring" : "Estrategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/github/",
   "related": [
     
     
       {
-        "name": "React",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/react.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/react/"
+        "name": "Artifact io",
+        "ring": "Estrategic",
+        "image": "/images/platforms/artifact.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/artifact/"
       },
     
       {
-        "name": "Spock",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/java.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/spock/"
+        "name": "Dockerhub",
+        "ring": "Estrategic",
+        "image": "/images/platforms/dockerhub.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/dockerhub/"
       },
     
       {
-        "name": "Swift",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/swift.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/swift/"
+        "name": "Shortcut",
+        "ring": "Estrategic",
+        "image": "/images/platforms/shortcut.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/shortcut/"
       },
     
     {}

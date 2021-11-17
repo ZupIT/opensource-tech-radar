@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Horusec Engine",
+  "image" : "/images/languages-frameworks/horusec.png",
+  "category" : "Languages-Frameworks",
+  "description" : "Horusec é um motor SAST autônomo usado pelo projeto Horusec. O objetivo dele é fornecer uma funcionalidade de linha de base e os blocos de construção básicos para você construir sua própria ferramenta SAST.",
+  "ring" : "Strategic",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/horusec/",
+  "related": [
+    
+    
+      {
+        "name": "Go",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/go.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/go/"
+      },
+    
+      {
+        "name": "JavaScript",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/js.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/javascript/"
+      },
+    
+      {
+        "name": "Typescript",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/typescript.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/typescript/"
+      },
+    
+    {}
+  ]
+} 
+}

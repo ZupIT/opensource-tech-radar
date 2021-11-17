@@ -1,33 +1,33 @@
 {
   "data" :  {
-  "name": "Gorm",
-  "image" : "/images/languages-frameworks/go.png",
+  "name": "GORM",
+  "image" : "/images/languages-frameworks/gorm.png",
   "category" : "Languages-Frameworks",
-  "description" : "<no value>",
-  "ring" : "Descontinuado",
+  "description" : "GORM é biblioteca de mapeamento objeto relacional para Golang com foco em ser amigável e aumentar produtividade de quem desenvolve.",
+  "ring" : "Essential",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/gorm/",
   "related": [
     
     
       {
-        "name": "GorillaMux",
-        "ring": "Descontinuado",
-        "image": "/images/languages-frameworks/gorila-mux.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/gorilla-mux/"
+        "name": "Enry",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/enry.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/enry/"
       },
     
       {
-        "name": "Groovy",
-        "ring": "Descontinuado",
-        "image": "/images/languages-frameworks/groovy.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/groovy/"
+        "name": "GRPC",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/grpc.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/grpc/"
       },
     
       {
-        "name": "JUnit 4",
-        "ring": "Descontinuado",
-        "image": "/images/languages-frameworks/junit-4.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/junit-4/"
+        "name": "Kubernetes",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/kubernetes.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/kubernetes/"
       },
     
     {}

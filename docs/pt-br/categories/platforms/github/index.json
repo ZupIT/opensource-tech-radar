@@ -1,33 +1,33 @@
 {
   "data" :  {
-  "name": "GitHub",
+  "name": "Github",
   "image" : "/images/platforms/github.png",
   "category" : "Platforms",
-  "description" : "<no value>",
-  "ring" : "Estratégico",
+  "description" : "Github é uma plataforma de hospedagem de código fonte e de arquivos com controle de versão usando o Git.",
+  "ring" : "Estrategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/github/",
   "related": [
     
     
       {
-        "name": "Kotlin",
-        "ring": "Estratégico",
-        "image": "/images/languages-frameworks/kotlin.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/kotlin/"
+        "name": "Artifact io",
+        "ring": "Estrategic",
+        "image": "/images/platforms/artifact.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/artifact/"
       },
     
       {
-        "name": "React",
-        "ring": "Estratégico",
-        "image": "/images/languages-frameworks/react.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/react/"
+        "name": "Dockerhub",
+        "ring": "Estrategic",
+        "image": "/images/platforms/dockerhub.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/dockerhub/"
       },
     
       {
-        "name": "Spock",
-        "ring": "Estratégico",
-        "image": "/images/languages-frameworks/java.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/spock/"
+        "name": "Shortcut",
+        "ring": "Estrategic",
+        "image": "/images/platforms/shortcut.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/shortcut/"
       },
     
     {}

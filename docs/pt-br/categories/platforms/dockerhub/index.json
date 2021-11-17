@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Dockerhub",
+  "image" : "/images/platforms/dockerhub.png",
+  "category" : "Platforms",
+  "description" : "Dockerhub é uma ferramenta de gerenciamento de projeto elaborada especificamente para equipes de desenvolvimento de software. Oferece uma interface simples, em estilo Kanban, contribuindo para uma experiência descomplicada para melhor colaboração em equipe.",
+  "ring" : "Estrategic",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/dockerhub/",
+  "related": [
+    
+    
+      {
+        "name": "Artifact io",
+        "ring": "Estrategic",
+        "image": "/images/platforms/artifact.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/artifact/"
+      },
+    
+      {
+        "name": "Github",
+        "ring": "Estrategic",
+        "image": "/images/platforms/github.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/github/"
+      },
+    
+      {
+        "name": "Shortcut",
+        "ring": "Estrategic",
+        "image": "/images/platforms/shortcut.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/shortcut/"
+      },
+    
+    {}
+  ]
+} 
+}

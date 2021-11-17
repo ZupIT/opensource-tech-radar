@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Enry",
+  "image" : "/images/languages-frameworks/enry.png",
+  "category" : "Languages-Frameworks",
+  "description" : "Enry é detector de linguagens de programação contidas em um projeto.",
+  "ring" : "Essential",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/enry/",
+  "related": [
+    
+    
+      {
+        "name": "GORM",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/gorm.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/gorm/"
+      },
+    
+      {
+        "name": "GRPC",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/grpc.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/grpc/"
+      },
+    
+      {
+        "name": "Kubernetes",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/kubernetes.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/kubernetes/"
+      },
+    
+    {}
+  ]
+} 
+}

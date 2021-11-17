@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Artifact io",
+  "image" : "/images/platforms/artifact.png",
+  "category" : "Platforms",
+  "description" : "Artifact io é um aplicativo web que permite localizar, instalar e publicar pacotes e configurações para projetos CNCF.",
+  "ring" : "Estrategic",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/artifact/",
+  "related": [
+    
+    
+      {
+        "name": "Dockerhub",
+        "ring": "Estrategic",
+        "image": "/images/platforms/dockerhub.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/dockerhub/"
+      },
+    
+      {
+        "name": "Github",
+        "ring": "Estrategic",
+        "image": "/images/platforms/github.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/github/"
+      },
+    
+      {
+        "name": "Shortcut",
+        "ring": "Estrategic",
+        "image": "/images/platforms/shortcut.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/shortcut/"
+      },
+    
+    {}
+  ]
+} 
+}
