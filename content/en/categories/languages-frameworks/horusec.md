@@ -6,8 +6,7 @@ ring="Strategic"
 type="post"
 layout="details"
 isNew="true"
-description="Horusec é um motor SAST autônomo usado pelo projeto Horusec. O objetivo dele é fornecer uma funcionalidade de linha de base e os blocos de construção básicos para você construir sua própria ferramenta SAST.
-"
+description="Horusec é um motor SAST autônomo usado pelo projeto Horusec. O objetivo dele é fornecer uma funcionalidade de linha de base e os blocos de construção básicos para você construir sua própria ferramenta SAST."
 +++
 
 {{% tabs/group %}}
@@ -17,7 +16,5 @@ description="Horusec é um motor SAST autônomo usado pelo projeto Horusec. O ob
   
   {{% tabs/item id="2" title="For who ?" content="<a href='https://horusec.io/site/'>Horusec</a>" %}}
 
-  {{% tabs/item id="3" title="Resources" content="<a href='https://horusec.io/site/'>Home</a></br>
-  <a href='https://docs.horusec.io/docs/overview/'>Documentation</a></br>
-  <a href='https://github.com/ZupIT/horusec-engine'>Source Repository</a>" %}}
+  {{% tabs/item id="3" title="Resources" content="<a href='https://horusec.io/site/'>Home</a></br><a href='https://docs.horusec.io/docs/overview/'>Documentation</a></br><a href='https://github.com/ZupIT/horusec-engine'>Source Repository</a>" %}}
 {{% /tabs/group %}}
