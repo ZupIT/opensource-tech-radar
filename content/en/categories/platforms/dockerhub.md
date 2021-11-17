@@ -1,5 +1,5 @@
 +++
-name="Github"
+name="Dockerhub"
 image="/images/platforms/github.png"
 category="Platforms"
 ring="Estrategic"
