@@ -1,7 +1,7 @@
 +++
 name="Microsserviços"
 image="/images/techiques/microservices.png"
-category="Techiniques"
+category="Techniques"
 ring="Estrategic"
 type="post"
 layout="details"

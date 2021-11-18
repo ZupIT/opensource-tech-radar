@@ -1,7 +1,7 @@
 +++
 name="Visitor"
 image="/images/techiques/visitor.png"
-category="Techiniques"
+category="Techniques"
 ring="Essential"
 type="post"
 layout="details"

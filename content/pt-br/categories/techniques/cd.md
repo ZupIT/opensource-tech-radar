@@ -2,7 +2,7 @@
 name="Implantação Contínua"
 image="/images/techiques/ic.png"
 category="Platforms"
-ring="Techiniques"
+ring="Techniques"
 type="post"
 layout="details"
 isNew="true"
