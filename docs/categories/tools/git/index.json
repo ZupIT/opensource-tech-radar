@@ -3,31 +3,31 @@
   "name": "Git",
   "image" : "/images/tools/git.png",
   "category" : "Tools",
-  "description" : "<no value>",
+  "description" : "Um sistema de controle de versões distribuído, que é usado para registrar o histórico de edições de qualquer tipo de arquivo.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/tools/git/",
   "related": [
     
     
       {
-        "name": "React",
+        "name": "Go",
         "ring": "Strategic",
-        "image": "/images/languages-frameworks/react.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/react/"
+        "image": "/images/languages-frameworks/go.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/go/"
       },
     
       {
-        "name": "Spock",
+        "name": "Horusec Engine",
         "ring": "Strategic",
-        "image": "/images/languages-frameworks/java.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/spock/"
+        "image": "/images/languages-frameworks/horusec.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/horusec/"
       },
     
       {
-        "name": "Swift",
+        "name": "JavaScript",
         "ring": "Strategic",
-        "image": "/images/languages-frameworks/swift.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/swift/"
+        "image": "/images/languages-frameworks/js.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/javascript/"
       },
     
     {}

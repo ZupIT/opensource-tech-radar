@@ -3,31 +3,31 @@
   "name": "Git",
   "image" : "/images/tools/git.png",
   "category" : "Tools",
-  "description" : "<no value>",
-  "ring" : "Estratégico",
+  "description" : "Um sistema de controle de versões distribuído, que é usado para registrar o histórico de edições de qualquer tipo de arquivo.",
+  "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/git/",
   "related": [
     
     
       {
-        "name": "Kotlin",
-        "ring": "Estratégico",
-        "image": "/images/languages-frameworks/kotlin.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/kotlin/"
+        "name": "Docker SDK",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/docker.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/docker/"
       },
     
       {
-        "name": "React",
-        "ring": "Estratégico",
-        "image": "/images/languages-frameworks/react.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/react/"
+        "name": "Go",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/go.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/go/"
       },
     
       {
-        "name": "Spock",
-        "ring": "Estratégico",
-        "image": "/images/languages-frameworks/java.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/spock/"
+        "name": "Horusec Engine",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/horusec.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/horusec/"
       },
     
     {}

@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Integração Contínua",
+  "image" : "/images/techiques/ic.png",
+  "category" : "Techniques",
+  "description" : "No contexto de Engenharia de Software, a Integração Contínua (IC) - do inglês, a Integração Contínua (IC) -, é a prática de mesclar todas as cópias de trabalho dos desenvolvedores em uma linha principal compartilhada, várias vezes ao dia.",
+  "ring" : "Strategic",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/techniques/ic/",
+  "related": [
+    
+    
+      {
+        "name": "Go",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/go.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/go/"
+      },
+    
+      {
+        "name": "Horusec Engine",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/horusec.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/horusec/"
+      },
+    
+      {
+        "name": "JavaScript",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/js.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/javascript/"
+      },
+    
+    {}
+  ]
+} 
+}

@@ -4,30 +4,30 @@
   "image" : "/images/platforms/artifact.png",
   "category" : "Platforms",
   "description" : "Artifact io é um aplicativo web que permite localizar, instalar e publicar pacotes e configurações para projetos CNCF.",
-  "ring" : "Estrategic",
+  "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/artifact/",
   "related": [
     
     
       {
-        "name": "Dockerhub",
-        "ring": "Estrategic",
-        "image": "/images/platforms/dockerhub.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/dockerhub/"
+        "name": "Docker SDK",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/docker.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/docker/"
       },
     
       {
-        "name": "Github",
-        "ring": "Estrategic",
-        "image": "/images/platforms/github.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/github/"
+        "name": "Go",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/go.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/go/"
       },
     
       {
-        "name": "Shortcut",
-        "ring": "Estrategic",
-        "image": "/images/platforms/shortcut.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/shortcut/"
+        "name": "Horusec Engine",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/horusec.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/horusec/"
       },
     
     {}

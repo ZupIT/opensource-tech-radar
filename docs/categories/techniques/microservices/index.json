@@ -1,33 +1,33 @@
 {
   "data" :  {
-  "name": "Microservices",
-  "image" : "/images/techniques/tdd.png",
+  "name": "Microsserviços",
+  "image" : "/images/techiques/microservices.png",
   "category" : "Techniques",
-  "description" : "<no value>",
-  "ring" : "Essential",
+  "description" : "Modelo de arquitetura no qual os serviços são refinados e os protocolos são leves e, por isso, são chamados de microsserviços. O objetivo é que as equipes possam levar seus serviços independentes dos outros.",
+  "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/techniques/microservices/",
   "related": [
     
     
       {
-        "name": "Java",
-        "ring": "Essential",
-        "image": "/images/languages-frameworks/java.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/java/"
+        "name": "Go",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/go.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/go/"
       },
     
       {
-        "name": "JUnit 5",
-        "ring": "Essential",
-        "image": "/images/languages-frameworks/junit-5.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/junit/"
+        "name": "Horusec Engine",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/horusec.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/horusec/"
       },
     
       {
-        "name": "Quarkus",
-        "ring": "Essential",
-        "image": "/images/languages-frameworks/quarkus.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/quarkus/"
+        "name": "JavaScript",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/js.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/javascript/"
       },
     
     {}

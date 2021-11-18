@@ -325,6 +325,118 @@
   </url>
   
   <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/categories/techniques/cd/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/cd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/techniques/cd/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/categories/techniques/ic/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/ic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/techniques/ic/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/categories/techniques/microfrontend/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/microfrontend/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/techniques/microfrontend/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/categories/techniques/microservices/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/microservices/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/techniques/microservices/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/categories/techniques/monorepo/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/monorepo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/techniques/monorepo/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/categories/techniques/visitor/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/visitor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/techniques/visitor/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/categories/tools/git/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/git/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/tools/git/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/categories/tools/helm/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/helm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/tools/helm/"
+                />
+  </url>
+  
+  <url>
     <loc>https://zupit.github.io/opensource-tech-radar/rings/</loc>
     <xhtml:link
                 rel="alternate"

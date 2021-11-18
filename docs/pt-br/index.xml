@@ -142,6 +142,15 @@
     
     <item>
       <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/abstract-syntax-tree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/abstract-syntax-tree/</guid>
+      <description>What is it ?  Why ?  For who ?  Resources    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/artifact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -178,10 +187,91 @@
     
     <item>
       <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/parsetree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/parsetree/</guid>
+      <description>What is it ?  Why ?  For who ?  Resources    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/shortcut/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/shortcut/</guid>
+      <description>What is it ?  Why ?  For who ?  Resources    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/cd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/cd/</guid>
+      <description>What is it ?  Why ?  For who ?  Resources    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/ic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/ic/</guid>
+      <description>What is it ?  Why ?  For who ?  Resources    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/microfrontend/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/microfrontend/</guid>
+      <description>What is it ?  Why ?  For who ?  Resources    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/microservices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/microservices/</guid>
+      <description>What is it ?  Why ?  For who ?  Resources    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/monorepo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/monorepo/</guid>
+      <description>What is it ?  Why ?  For who ?  Resources    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/visitor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/visitor/</guid>
+      <description>What is it ?  Why ?  For who ?  Resources    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/git/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/git/</guid>
+      <description>What is it ?  Why ?  For who ?  Resources    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/helm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/helm/</guid>
       <description>What is it ?  Why ?  For who ?  Resources    </description>
     </item>
     

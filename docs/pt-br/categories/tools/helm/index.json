@@ -3,31 +3,31 @@
   "name": "Helm",
   "image" : "/images/tools/helm.png",
   "category" : "Tools",
-  "description" : "<no value>",
-  "ring" : "Estratégico",
+  "description" : "Uma ferramenta que ajuda nos processos de definição, configuração, instalação e atualização de aplicações em Kubernetes.",
+  "ring" : "Essential",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/helm/",
   "related": [
     
     
       {
-        "name": "Kotlin",
-        "ring": "Estratégico",
-        "image": "/images/languages-frameworks/kotlin.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/kotlin/"
+        "name": "Enry",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/enry.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/enry/"
       },
     
       {
-        "name": "React",
-        "ring": "Estratégico",
-        "image": "/images/languages-frameworks/react.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/react/"
+        "name": "GORM",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/gorm.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/gorm/"
       },
     
       {
-        "name": "Spock",
-        "ring": "Estratégico",
-        "image": "/images/languages-frameworks/java.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/spock/"
+        "name": "GRPC",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/grpc.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/grpc/"
       },
     
     {}

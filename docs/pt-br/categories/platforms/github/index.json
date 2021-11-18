@@ -4,30 +4,30 @@
   "image" : "/images/platforms/github.png",
   "category" : "Platforms",
   "description" : "Github é uma plataforma de hospedagem de código fonte e de arquivos com controle de versão usando o Git.",
-  "ring" : "Estrategic",
+  "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/github/",
   "related": [
     
     
       {
-        "name": "Artifact io",
-        "ring": "Estrategic",
-        "image": "/images/platforms/artifact.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/artifact/"
+        "name": "Docker SDK",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/docker.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/docker/"
       },
     
       {
-        "name": "Dockerhub",
-        "ring": "Estrategic",
-        "image": "/images/platforms/dockerhub.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/dockerhub/"
+        "name": "Go",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/go.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/go/"
       },
     
       {
-        "name": "Shortcut",
-        "ring": "Estrategic",
-        "image": "/images/platforms/shortcut.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/shortcut/"
+        "name": "Horusec Engine",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/horusec.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/horusec/"
       },
     
     {}
