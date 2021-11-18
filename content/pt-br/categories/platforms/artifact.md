@@ -2,7 +2,7 @@
 name="Artifact io"
 image="/images/platforms/artifact.png"
 category="Platforms"
-ring="Estrategic"
+ring="Strategic"
 type="post"
 layout="details"
 isNew="true"

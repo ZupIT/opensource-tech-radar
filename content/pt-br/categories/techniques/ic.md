@@ -2,7 +2,7 @@
 name="Integração Contínua"
 image="/images/techiques/ic.png"
 category="Techniques"
-ring="Estrategic"
+ring="Strategic"
 type="post"
 layout="details"
 isNew="true"

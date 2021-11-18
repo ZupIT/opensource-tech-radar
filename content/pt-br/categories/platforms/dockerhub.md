@@ -2,7 +2,7 @@
 name="Dockerhub"
 image="/images/platforms/dockerhub.png"
 category="Platforms"
-ring="Estrategic"
+ring="Strategic"
 type="post"
 layout="details"
 isNew="true"
