@@ -24,6 +24,9 @@ People who wants to document something just need to push a new md file in the re
 
 ![tech-radar](/static/images/preview-rings.png)
 
+## **Assets information**
+
+The logos of each technology must be square, preferably 58x58 px
 
 ## Setup your dev environment
 [Install hugo](https://gohugo.io/getting-started/installing/) or simply add the binary file at the root of the repository
