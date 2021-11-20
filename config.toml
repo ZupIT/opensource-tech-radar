@@ -7,7 +7,7 @@ publishDir = "docs"
 relativeURLs = true
 canonifyURLs = true
 
-theme = ["techradar"]
+theme = ["darwin"]
 
 [outputs]
     page = ["html", "json"]
