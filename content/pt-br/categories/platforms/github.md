@@ -2,7 +2,7 @@
 name="GitHub "
 image="/images/platforms/github.png"
 category="Platforms"
-ring="Strategic"
+ring="Estratégico"
 type="post"
 layout="details"
 isNew="false"
