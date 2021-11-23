@@ -2,19 +2,15 @@
 name="Shortcut"
 image="/images/platforms/shortcut.png"
 category="Platforms"
-<<<<<<< HEAD
 ring="Estratégico"
-=======
-ring="Strategic"
->>>>>>> main
 type="post"
 layout="details"
 isNew="false"
-description=" Shortcut é uma ferramenta de gerenciamento de projeto projetada especificamente para equipes de desenvolvimento de software. Com uma interface simples no estilo Kanban, ele oferece uma experiência descomplicada para uma melhor colaboração em equipe."
+description="Shortcut é uma ferramenta de gerenciamento de projeto projetada especificamente para equipes de desenvolvimento de software. Com uma interface simples no estilo Kanban, ele oferece uma experiência descomplicada para uma melhor colaboração em equipe."
 +++
 
 {{% tabs/group %}}
-  {{% tabs/item id="0" title="O que é?" content="<p> Shortcut é uma ferramenta de gerenciamento de projeto projetada especificamente para equipes de desenvolvimento de software. Com uma interface simples no estilo Kanban, ele oferece uma experiência descomplicada para uma melhor colaboração em equipe.</p>" %}}
+  {{% tabs/item id="0" title="O que é?" content="<p>Shortcut é uma ferramenta de gerenciamento de projeto projetada especificamente para equipes de desenvolvimento de software. Com uma interface simples no estilo Kanban, ele oferece uma experiência descomplicada para uma melhor colaboração em equipe.</p>" %}}
 
   {{% tabs/item id="1" title="Como utilizamos?" content="<p>Utilizamos como ferramenta kanban para gerenciar e monitorar as tarefas internas dos colaboradores.</p>" %}}
 
