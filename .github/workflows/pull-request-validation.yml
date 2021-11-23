@@ -3,11 +3,20 @@ name: Pull request Validation
 on:
   pull_request:
     branch: [main]
+    tags-ignore:
+      - '*.*' 
+    paths-ignore: 
+      - .\docs
 
 jobs:
   build:
     runs-on: ubuntu-18.04
     steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: true  
+          fetch-depth: 0    
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
