@@ -1,11 +1,11 @@
 {
   "data" :  {
-  "name": "Shortcut",
-  "image" : "/images/platforms/shortcut.png",
+  "name": "Amazon CodeBuild",
+  "image" : "/images/platforms/aws-codebuild.png",
   "category" : "Platforms",
-  "description" : " Shortcut é uma ferramenta de gerenciamento de projeto projetada especificamente para equipes de desenvolvimento de software. Com uma interface simples no estilo Kanban, ele oferece uma experiência descomplicada para uma melhor colaboração em equipe.",
+  "description" : "O AWS CodeBuild é um serviço de integração contínua totalmente gerenciado que compila o código-fonte, realiza testes e produz pacotes de software prontos para implantação.",
   "ring" : "Strategic",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/shortcut/",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/amazon-codebuild/",
   "related": [
     
     

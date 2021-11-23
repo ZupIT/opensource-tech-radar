@@ -255,49 +255,23 @@
   </url>
   
   <url>
-    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/abstract-syntax-tree/</loc>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/amazon-cloud-front/</loc>
   </url>
   
   <url>
-    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/artifact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zupit.github.io/opensource-tech-radar/categories/platforms/artifact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/artifact/"
-                />
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/amazon-cloud-watch/</loc>
   </url>
   
   <url>
-    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/aws/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zupit.github.io/opensource-tech-radar/categories/platforms/aws/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/aws/"
-                />
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/amazon-codebuild/</loc>
   </url>
   
   <url>
-    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/dockerhub/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zupit.github.io/opensource-tech-radar/categories/platforms/dockerhub/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/dockerhub/"
-                />
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/amazon-ecr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/amazon-s3/</loc>
   </url>
   
   <url>
@@ -315,7 +289,7 @@
   </url>
   
   <url>
-    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/parsetree/</loc>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/iam/</loc>
   </url>
   
   <url>

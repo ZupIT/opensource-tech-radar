@@ -1,11 +1,11 @@
 {
   "data" :  {
-  "name": "Shortcut",
-  "image" : "/images/platforms/shortcut.png",
+  "name": "Amazon Cloud Watch",
+  "image" : "/images/platforms/aws-cloud-watch.png",
   "category" : "Platforms",
-  "description" : " Shortcut é uma ferramenta de gerenciamento de projeto projetada especificamente para equipes de desenvolvimento de software. Com uma interface simples no estilo Kanban, ele oferece uma experiência descomplicada para uma melhor colaboração em equipe.",
+  "description" : "O Amazon CloudWatch é um serviço de monitoramento e observação criado para engenheiros de DevOps, desenvolvedores, Site Reliability Engineers (SREs – Engenheiros de confiabilidade de sites) e gerentes de TI.",
   "ring" : "Strategic",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/shortcut/",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/amazon-cloud-watch/",
   "related": [
     
     

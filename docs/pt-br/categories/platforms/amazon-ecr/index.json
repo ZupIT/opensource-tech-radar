@@ -1,11 +1,11 @@
 {
   "data" :  {
-  "name": "Shortcut",
-  "image" : "/images/platforms/shortcut.png",
+  "name": "Amazon ECR",
+  "image" : "/images/platforms/aws-ecr.png",
   "category" : "Platforms",
-  "description" : " Shortcut é uma ferramenta de gerenciamento de projeto projetada especificamente para equipes de desenvolvimento de software. Com uma interface simples no estilo Kanban, ele oferece uma experiência descomplicada para uma melhor colaboração em equipe.",
+  "description" : "O Amazon Elastic Container Registry (Amazon ECR) é um registro de contêiner totalmente gerenciado que facilita o armazenamento, o gerenciamento, o compartilhamento e a implantação de imagens e artefatos de contêiner em qualquer lugar.",
   "ring" : "Strategic",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/shortcut/",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/amazon-ecr/",
   "related": [
     
     

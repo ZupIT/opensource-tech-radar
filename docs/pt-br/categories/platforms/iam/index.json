@@ -1,11 +1,11 @@
 {
   "data" :  {
-  "name": "Shortcut",
-  "image" : "/images/platforms/shortcut.png",
+  "name": "IAM",
+  "image" : "/images/platforms/aws-iam.png",
   "category" : "Platforms",
-  "description" : " Shortcut é uma ferramenta de gerenciamento de projeto projetada especificamente para equipes de desenvolvimento de software. Com uma interface simples no estilo Kanban, ele oferece uma experiência descomplicada para uma melhor colaboração em equipe.",
+  "description" : "O AWS Identity and Access Management (IAM) permite que você gerencie com segurança o acesso aos serviços e recursos da AWS.",
   "ring" : "Strategic",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/shortcut/",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/iam/",
   "related": [
     
     

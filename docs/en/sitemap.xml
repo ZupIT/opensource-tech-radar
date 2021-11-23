@@ -256,44 +256,14 @@
   
   <url>
     <loc>https://zupit.github.io/opensource-tech-radar/categories/platforms/artifact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/artifact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zupit.github.io/opensource-tech-radar/categories/platforms/artifact/"
-                />
   </url>
   
   <url>
     <loc>https://zupit.github.io/opensource-tech-radar/categories/platforms/aws/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/aws/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zupit.github.io/opensource-tech-radar/categories/platforms/aws/"
-                />
   </url>
   
   <url>
     <loc>https://zupit.github.io/opensource-tech-radar/categories/platforms/dockerhub/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/dockerhub/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zupit.github.io/opensource-tech-radar/categories/platforms/dockerhub/"
-                />
   </url>
   
   <url>
