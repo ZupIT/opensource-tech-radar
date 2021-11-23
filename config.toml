@@ -5,7 +5,7 @@ title = "Tech Radar - Opensource - Zup I.T"
 publishDir = "docs" 
 
 relativeURLs = true
-canonifyURLs = true
+canonifyURLs = true 
 
 theme = ["techradar"]
 
