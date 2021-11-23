@@ -2,7 +2,11 @@
 name="Shortcut"
 image="/images/platforms/shortcut.png"
 category="Platforms"
+<<<<<<< HEAD
 ring="Estratégico"
+=======
+ring="Strategic"
+>>>>>>> main
 type="post"
 layout="details"
 isNew="false"
