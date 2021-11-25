@@ -2,7 +2,7 @@
 name="Micro Frontend"
 image="/images/techiques/microfrontend.png"
 category="Techniques"
-ring="Deprecated"
+ring="Descontinuado"
 type="post"
 layout="details"
 isNew="true"

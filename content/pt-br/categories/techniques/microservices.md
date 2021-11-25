@@ -2,7 +2,7 @@
 name="Microsserviços"
 image="/images/techiques/microservices.png"
 category="Techniques"
-ring="Strategic"
+ring="Estratégico"
 type="post"
 layout="details"
 isNew="true"

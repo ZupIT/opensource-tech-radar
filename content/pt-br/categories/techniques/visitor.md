@@ -2,7 +2,7 @@
 name="Visitor"
 image="/images/techiques/visitor.png"
 category="Techniques"
-ring="Essential"
+ring="Essencial"
 type="post"
 layout="details"
 isNew="true"
