@@ -6,13 +6,13 @@ ring="Strategic"
 type="post"
 layout="details"
 isNew="true"
-description="Modelo de arquitetura no qual os serviços são refinados e os protocolos são leves e, por isso, são chamados de microsserviços. O objetivo é que as equipes possam levar seus serviços independentes dos outros."
+description="MIt is an architecture model where the services are refined and the protocols are light, and that is why they are called microservices. The goal is for teams to be able to carry out their services independently of others."
 +++
 
 {{% tabs/group %}}
-  {{% tabs/item id="0" title="What is it ?" content="<p>Modelo de arquitetura no qual os serviços são refinados e os protocolos são leves e, por isso, são chamados de microsserviços. O objetivo é que as equipes possam levar seus serviços independentes dos outros.</p>" %}}
+  {{% tabs/item id="0" title="What is it ?" content="<p>It is an architecture model where the services are refined and the protocols are light, and that is why they are called microservices. The goal is for teams to be able to carry out their services independently of others.</p>" %}}
   
-  {{% tabs/item id="1" title="Why ?" content="<p>Usado no Horusec-Platform para subir todos os seus serviços web que são: “Auth”, “Api”, “Analytics”, “Core”, “Manager”, “Messages”, “Vulnerability”, “Webhook”, “Migrations”. Estes serviços centralizam as informações e podem realizar a gestão das vulnerabilidades e controle de acesso à plataforma.</p>" %}}
+  {{% tabs/item id="1" title="Why ?" content="<p>We use in Horusec-Platform to upload all its web services such as:  "Auth", "Api", "Analytics", "Core", "Manager", "Messages", "Vulnerability", "Webhook", "Migrations". These services centralize the information and can perform vulnerability management and control access to the platform.</p>" %}}
   
   {{% tabs/item id="2" title="For who ?" content="<a href='https://horusec.io/site/'>Horusec</a><br />" %}}
 

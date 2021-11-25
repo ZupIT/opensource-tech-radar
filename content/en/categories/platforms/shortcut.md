@@ -6,13 +6,13 @@ ring="Strategic"
 type="post"
 layout="details"
 isNew="true"
-description="Shortcut é uma ferramenta de gerenciamento de projeto elaborada especificamente para equipes de desenvolvimento de software. Oferece uma interface simples, em estilo Kanban, contribuindo para uma experiência descomplicada para melhor colaboração em equipe."
+description="Shortcut is a project management tool created specifically for software development teams. It offers a simple interface in Kanban style, contributing with an uncomplicated experience for better team collaboration."
 +++
 
 {{% tabs/group %}}
-  {{% tabs/item id="0" title="What is it ?" content="<p>Shortcut é uma ferramenta de gerenciamento de projeto elaborada especificamente para equipes de desenvolvimento de software. Oferece uma interface simples, em estilo Kanban, contribuindo para uma experiência descomplicada para melhor colaboração em equipe.</p>" %}}
+  {{% tabs/item id="0" title="What is it ?" content="<p>Shortcut is a project management tool created specifically for software development teams. It offers a simple interface in Kanban style, contributing with an uncomplicated experience for better team collaboration.</p>" %}}
   
-  {{% tabs/item id="1" title="Why ?" content="<p>Usamos para gerenciar e monitorar as tarefas internas dos mantainers.</p>" %}}
+  {{% tabs/item id="1" title="Why ?" content="<p>We use it to manage and monitor the maintainers' internal tasks.</p>" %}}
   
   {{% tabs/item id="2" title="For who ?" content="<a href='https://horusec.io/site/'>Horusec</a><br />" %}}
 

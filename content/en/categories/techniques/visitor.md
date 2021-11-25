@@ -6,13 +6,13 @@ ring="Essential"
 type="post"
 layout="details"
 isNew="true"
-description="Um padrão de projeto comportamental que representa uma operação a ser realizada sobre elementos da estrutura de um objeto. O Visitor permite que se crie uma nova operação sem que se mude a classe dos elementos sob as quais ela opera. É uma maneira de separar um algoritmo da estrutura de um objeto. Um resultado prático é a habilidade de adicionar novas funcionalidades a estruturas de um objeto pré-existente sem a necessidade de modificá-las."
+description="It is a behavioral project standard that represents an operation to be performed on the elements of an object's structure. The visitor allows the creation of a new operation without changing the class of the elements in which it operates. It is a way of separating an algorithm from the object's structure. A practical result is the ability to add new functionalities to the structures of a pre-existing object without having to modify them. "
 +++
 
 {{% tabs/group %}}
-  {{% tabs/item id="0" title="What is it ?" content="<p>Um padrão de projeto comportamental que representa uma operação a ser realizada sobre elementos da estrutura de um objeto. O Visitor permite que se crie uma nova operação sem que se mude a classe dos elementos sob as quais ela opera. É uma maneira de separar um algoritmo da estrutura de um objeto. Um resultado prático é a habilidade de adicionar novas funcionalidades a estruturas de um objeto pré-existente sem a necessidade de modificá-las.</p>" %}}
+  {{% tabs/item id="0" title="What is it ?" content="<p>It is a behavioral project standard that represents an operation to be performed on the elements of an object's structure. The visitor allows the creation of a new operation without changing the class of the elements in which it operates. It is a way of separating an algorithm from the object's structure. A practical result is the ability to add new functionalities to the structures of a pre-existing object without having to modify them. </p>" %}}
   
-  {{% tabs/item id="1" title="Why ?" content="<p>usamos para navegar pela Parse Tree e Abstract Syntax Tree.</p>" %}}
+  {{% tabs/item id="1" title="Why ?" content="<p> We use it to navigate through the Parse Tree and the Abstract Syntax Tree. </p>" %}}
   
   {{% tabs/item id="2" title="For who ?" content="<a href='https://horusec.io/site/'>Horusec</a><br />" %}}
 

@@ -6,13 +6,13 @@ ring="Strategic"
 type="post"
 layout="details"
 isNew="true"
-description="Go é uma linguagem de programação criada pela Google e lançada em código livre em novembro de 2009. É uma linguagem compilada e focada em produtividade e programação concorrente."
+description="Go is a programming language created by Google and released as open source in 2009. It is a compiled language focused on productivity and concurrent programming."
 +++
 
 {{% tabs/group %}}
-  {{% tabs/item id="0" title="What is it ?" content="<p>Go é uma linguagem de programação criada pela Google e lançada em código livre em novembro de 2009. É uma linguagem compilada e focada em produtividade e programação concorrente.</p>" %}}
+  {{% tabs/item id="0" title="What is it ?" content="<p>Go is a programming language created by Google and released as open source in 2009. It is a compiled language focused on productivity and concurrent programming.</p>" %}}
   
-  {{% tabs/item id="1" title="Why ?" content="<p>como principal linguagem de programação do ecossistema do Horusec, usamos tanto na CLI quanto nos serviços Web, principalmente devido à facilidade em lidar com concorrência.</p>" %}}
+  {{% tabs/item id="1" title="Why ?" content="<p>as the main programming language of Horusec's ecosystem, we use both in CLI and Web services, mainly due to the ease in dealing with concurrency.</p>" %}}
   
   {{% tabs/item id="2" title="For who ?" content="<a href='https://horusec.io/site/'>Horusec</a>" %}}
 

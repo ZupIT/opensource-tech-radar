@@ -6,13 +6,13 @@ ring="Techniques"
 type="post"
 layout="details"
 isNew="true"
-description="Uma abordagem de Engenharia de Software em que as funcionalidades do software são entregues com frequência por meio de implantações automatizadas."
+description="A Software Engineering approach in which software functionalitites are frequently delivered through automated deployments."
 +++
 
 {{% tabs/group %}}
-  {{% tabs/item id="0" title="What is it ?" content="<p>Uma abordagem de Engenharia de Software em que as funcionalidades do software são entregues com frequência por meio de implantações automatizadas.</p>" %}}
+  {{% tabs/item id="0" title="What is it ?" content="<p>A Software Engineering approach in which software functionalitites are frequently delivered through automated deployments.</p>" %}}
   
-  {{% tabs/item id="1" title="Why ?" content="<p>Usamos o Github workflow para publicar releases dos artefatos que o Horusec produz.</p>" %}}
+  {{% tabs/item id="1" title="Why ?" content="<p>UWe use GitHub workflow to publish releases of the artifacts that Horusec produces.</p>" %}}
   
   {{% tabs/item id="2" title="For who ?" content="<a href='https://charlescd.io/'>Charles C.D</a><br /><a href='https://horusec.io/site/'>Horusec</a><br />" %}}
 
