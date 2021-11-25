@@ -2,7 +2,7 @@
 name="Helm"
 image="/images/tools/helm.png"
 category="Tools"
-ring="Essential"
+ring="Essencial"
 type="post"
 layout="details"
 isNew="true"
