@@ -6,11 +6,11 @@ ring="Estratégico"
 type="post"
 layout="details"
 isNew="true"
-description="CI/CD, continuous integration/continuous delivery, é um método para entregar aplicações com frequência aos clientes. Para isso, é aplicada a automação nas etapas do desenvolvimento de aplicações. Os principais conceitos atribuídos a esse método são integração, entrega e implantação contínuas. Com o CI/CD, é possível solucionar os problemas que a integração de novos códigos pode causar para as equipes de operações e desenvolvimento (o famoso "inferno de integração")."
+description="CI/CD, continuous integration/continuous delivery, é um método para entregar aplicações com frequência aos clientes. Para isso, é aplicada a automação nas etapas do desenvolvimento de aplicações. Os principais conceitos atribuídos a esse método são integração, entrega e implantação contínuas. Com o CI/CD, é possível solucionar os problemas que a integração de novos códigos pode causar para as equipes de operações e desenvolvimento (o famoso 'inferno de integração')."
 +++
 
 {{% tabs/group %}}
-  {{% tabs/item id="0" title="O que é?" content="<p>CI/CD, continuous integration/continuous delivery, é um método para entregar aplicações com frequência aos clientes. Para isso, é aplicada a automação nas etapas do desenvolvimento de aplicações. Os principais conceitos atribuídos a esse método são integração, entrega e implantação contínuas. Com o CI/CD, é possível solucionar os problemas que a integração de novos códigos pode causar para as equipes de operações e desenvolvimento (o famoso "inferno de integração").</p>" %}}
+  {{% tabs/item id="0" title="O que é?" content="<p>CI/CD, continuous integration/continuous delivery, é um método para entregar aplicações com frequência aos clientes. Para isso, é aplicada a automação nas etapas do desenvolvimento de aplicações. Os principais conceitos atribuídos a esse método são integração, entrega e implantação contínuas. Com o CI/CD, é possível solucionar os problemas que a integração de novos códigos pode causar para as equipes de operações e desenvolvimento (o famoso 'inferno de integração').</p>" %}}
   
   {{% tabs/item id="1" title="Como utilizamos?" content="<p><strong>Beagle:</strong> Construindo GitHub workflows para automatizar processos de pull requests, testes e publicações (novas versões, página do projeto, etc).</p><br /><p><strong>Ritchie CLI:</strong> Utilizamos o Github workflow para a cada alteração no código verificar se o funcionamento está como o esperado e para publicar releases dos artefatos que o Horusec produz.</p>" %}}
   

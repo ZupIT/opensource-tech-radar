@@ -16,5 +16,5 @@ description="Implementação que permite a compatibilidade da API window.fetch e
   
   {{% tabs/item id="2" title="Onde ?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a>" %}}
 
-  {{% tabs/item id="3" title="Recursos" content="<a href='https://www.npmjs.com/package/node-fetch' target='_blank'>Material de estudo</a>%}}
+  {{% tabs/item id="3" title="Recursos" content="<a href='https://www.npmjs.com/package/node-fetch' target='_blank'>Material de estudo</a>" %}}
 {{% /tabs/group %}}

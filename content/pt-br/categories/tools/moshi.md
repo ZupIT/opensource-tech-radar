@@ -16,5 +16,5 @@ description="Moshi é uma biblioteca JSON moderna para Android e Java que conver
   
   {{% tabs/item id="2" title="Onde ?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a>" %}}
 
-  {{% tabs/item id="3" title="Recursos" content="<a href='https://github.com/square/moshi' target='_blank'>Material de estudo</a>%}}
+  {{% tabs/item id="3" title="Recursos" content="<a href='https://github.com/square/moshi' target='_blank'>Material de estudo</a>" %}}
 {{% /tabs/group %}}
