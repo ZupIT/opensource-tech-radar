@@ -6,15 +6,15 @@ ring="Strategic"
 type="post"
 layout="details"
 isNew="true"
-description="Artifact io é um aplicativo web que permite localizar, instalar e publicar pacotes e configurações para projetos CNCF."
+description="Artifact io is a web application that allows you to locate, install and publish packages and configurations for CNCF projects."
 +++
 
 {{% tabs/group %}}
-  {{% tabs/item id="0" title="What is it ?" content="<p>Shortcut é uma ferramenta de gerenciamento de projeto elaborada especificamente para equipes de desenvolvimento de software. Oferece uma interface simples, em estilo Kanban, contribuindo para uma experiência descomplicada para melhor colaboração em equipe.</p>" %}}
+  {{% tabs/item id="0" title="What is it ?" content="<p>Artifact io is a web application that allows you to locate, install and publish packages and configurations for CNCF projects.</p>" %}}
   
-  {{% tabs/item id="1" title="Why ?" content="<p>Usamos para gerenciar e monitorar as tarefas internas dos mantainers.</p>" %}}
+  {{% tabs/item id="1" title="Why ?" content="<p>We use it to publish the Horusec-Operator artifact and all of the Horusec-Platform services.</p>" %}}
   
   {{% tabs/item id="2" title="For who ?" content="<a href='https://horusec.io/site/'>Horusec</a><br />" %}}
 
-  {{% tabs/item id="3" title="Resources" content="<a href='https://shortcut.com/'>Homepage</a> <br /> <a href='https://shortcut.com/webinars'>Documentation</a>" %}}
+  {{% tabs/item id="3" title="Resources" content="<a href='https://artifacthub.io/'>Homepage</a> <br /> <a href='https://artifacthub.io/docs/'>Documentation</a>" %}}
 {{% /tabs/group %}}

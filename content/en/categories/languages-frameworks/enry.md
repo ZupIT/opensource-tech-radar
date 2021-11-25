@@ -6,13 +6,13 @@ ring="Essential"
 type="post"
 layout="details"
 isNew="true"
-description="Enry é detector de linguagens de programação contidas em um projeto."
+description="Enry is a detector of programming languages contained in a project."
 +++
 
 {{% tabs/group %}}
-  {{% tabs/item id="0" title="What is it ?" content="<p>Enry é detector de linguagens de programação contidas em um projeto.</p>" %}}
+  {{% tabs/item id="0" title="What is it ?" content="<p>Enry is a detector of programming languages contained in a project.</p>" %}}
   
-  {{% tabs/item id="1" title="Why ?" content="<p>Usamos a CLI do Horusec para detecção das linguagens de programação contidas naquele projeto.</p>" %}}
+  {{% tabs/item id="1" title="Why ?" content="<p>We use Horusec's CLI to detect the programming languages contained in that project.</p>" %}}
   
   {{% tabs/item id="2" title="For who ?" content="<a href='https://horusec.io/site/'>Horusec</a>" %}}
 

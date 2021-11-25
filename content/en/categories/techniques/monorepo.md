@@ -6,13 +6,13 @@ ring="Deprecated"
 type="post"
 layout="details"
 isNew="true"
-description="Em sistemas de controle de versão, um monorepo (sendo mono significa único e repo, a abreviação de repositório) é uma estratégia de desenvolvimento de software em que o código de muitos projetos é armazenado no mesmo repositório."
+description="In version control systems, a monorepo (where "mono" means 'single' and ‘repo’ is the abbreviation of 'repository') is a software development strategy in which the code of many projects is stored in the same repository."
 +++
 
 {{% tabs/group %}}
-  {{% tabs/item id="0" title="What is it ?" content="<p>Em sistemas de controle de versão, um monorepo (sendo mono significa único e repo, a abreviação de repositório) é uma estratégia de desenvolvimento de software em que o código de muitos projetos é armazenado no mesmo repositório.</p>" %}}
+  {{% tabs/item id="0" title="What is it ?" content="<p>In version control systems, a monorepo (where "mono" means 'single' and ‘repo’ is the abbreviation of 'repository') is a software development strategy in which the code of many projects is stored in the same repository.</p>" %}}
   
-  {{% tabs/item id="1" title="Why ?" content="<p>Funciona como um único repositório Horusec que contempla CLI, Manager, Devkit, e Engine.</p>" %}}
+  {{% tabs/item id="1" title="Why ?" content="<p>It works as a single Horusec repository which includes CLI, Manager, Devkit and Engine.</p>" %}}
   
   {{% tabs/item id="2" title="For who ?" content="<a href='https://horusec.io/site/'>Horusec</a><br />" %}}
 
