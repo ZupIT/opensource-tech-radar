@@ -14,7 +14,7 @@ description="Shortcut é uma ferramenta de gerenciamento de projeto projetada es
 
   {{% tabs/item id="1" title="Como utilizamos?" content="<p>Utilizamos como ferramenta kanban para gerenciar e monitorar as tarefas internas dos colaboradores.</p>" %}}
 
-  {{% tabs/item id="2" title="Onde ?" content="<a href='https://usebeagle.io/' target="_blank">Beagle</a>" %}}
+  {{% tabs/item id="2" title="Onde ?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a>" %}}
 
-  {{% tabs/item id="3" title="Recursos" content="<a href='https://shortcut.com/webinars' target="_blank">Materiais de estudo</a>" %}}
+  {{% tabs/item id="3" title="Recursos" content="<a href='https://shortcut.com/webinars' target='_blank'>Materiais de estudo</a>" %}}
 {{% /tabs/group %}}

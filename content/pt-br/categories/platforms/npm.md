@@ -14,7 +14,7 @@ description="O NPM é uma ferramenta do Node.js para o gerenciamento de pacotes.
 
   {{% tabs/item id="1" title="Como utilizamos?" content="<p>Publicando os artefatos do Beagle Web para que possam ser instalados a partir do repositório npm</p>" %}}
 
-  {{% tabs/item id="2" title="Onde ?" content="<a href='https://usebeagle.io/' target="_blank">Beagle</a>" %}}
+  {{% tabs/item id="2" title="Onde ?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a>" %}}
 
-  {{% tabs/item id="3" title="Recursos" content="<a href='https://www.npmjs.com/' target="_blank">Materiais de estudo</a>" %}}
+  {{% tabs/item id="3" title="Recursos" content="<a href='https://www.npmjs.com/' target='_blank'>Materiais de estudo</a>" %}}
 {{% /tabs/group %}}
