@@ -3,7 +3,7 @@
   "name": "GRPC",
   "image" : "/images/languages-frameworks/grpc.png",
   "category" : "Languages-Frameworks",
-  "description" : "GRPC é um sistema de chamada de procedimento remoto de código aberto desenvolvido inicialmente no Google em 2015 como a próxima geração da infraestrutura RPC Stubby.",
+  "description" : "GRPC is an open source procedure call system developed by Google in 2015 as the next generation of the RPC Stubby infrastructure.",
   "ring" : "Essential",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/grpc/",
   "related": [

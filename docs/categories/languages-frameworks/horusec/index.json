@@ -3,7 +3,7 @@
   "name": "Horusec Engine",
   "image" : "/images/languages-frameworks/horusec.png",
   "category" : "Languages-Frameworks",
-  "description" : "Horusec é um motor SAST autônomo usado pelo projeto Horusec. O objetivo dele é fornecer uma funcionalidade de linha de base e os blocos de construção básicos para você construir sua própria ferramenta SAST.",
+  "description" : "Horusec is an autonomous SAST engine used by the Horusec project. Its purpose is to provide baseline functionality and the basic building blocks for you to build your own SAST tool.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/horusec/",
   "related": [

@@ -3,7 +3,7 @@
   "name": "Docker-SDK",
   "image" : "/images/languages-frameworks/docker.png",
   "category" : "Languages-Frameworks",
-  "description" : "SDK que fornece uma API para interagir com o daemon Docker (chamado Docker Engine API), bem como SDKs para Go e Python. Permite que você crie e dimensione aplicativos e soluções Docker com rapidez e facilidade.",
+  "description" : "SDK that provides an API to interact with daemon Docker (called Docker Engine API), as well as SDKs for Go and Python. Allows you to quickly build and scale applications and Docker solutions.",
   "ring" : "Potential",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/docker/",
   "related": [

@@ -3,7 +3,7 @@
   "name": "Git",
   "image" : "/images/tools/git.png",
   "category" : "Tools",
-  "description" : "Um sistema de controle de versões distribuído, que é usado para registrar o histórico de edições de qualquer tipo de arquivo.",
+  "description" : "It is a distributed version control system, used to register the history of edits in any type of file.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/tools/git/",
   "related": [

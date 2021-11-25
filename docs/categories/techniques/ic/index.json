@@ -3,7 +3,7 @@
   "name": "Integração Contínua",
   "image" : "/images/techiques/ic.png",
   "category" : "Techniques",
-  "description" : "No contexto de Engenharia de Software, a Integração Contínua (IC) - do inglês, a Integração Contínua (IC) -, é a prática de mesclar todas as cópias de trabalho dos desenvolvedores em uma linha principal compartilhada, várias vezes ao dia.",
+  "description" : "In the Software Engineering context, Continuous Integration (CI) is the practice of merging all developers' work copies in a shared trunk, several times a day.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/techniques/ic/",
   "related": [

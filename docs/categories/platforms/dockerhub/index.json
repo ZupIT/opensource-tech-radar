@@ -3,7 +3,7 @@
   "name": "Dockerhub",
   "image" : "/images/platforms/dockerhub.png",
   "category" : "Platforms",
-  "description" : "Dockerhub é uma ferramenta de gerenciamento de projeto elaborada especificamente para equipes de desenvolvimento de software. Oferece uma interface simples, em estilo Kanban, contribuindo para uma experiência descomplicada para melhor colaboração em equipe.",
+  "description" : "Dockerhub is a public repository where companies can publish their solution in the form of a container.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/dockerhub/",
   "related": [
