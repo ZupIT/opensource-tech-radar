@@ -1,7 +1,7 @@
 +++
 name="Dart Programming Language"
 image="/images/languages-frameworks/dart.png"
-category="Linguagens-e-Frameworks"
+category="Languages-Frameworks"
 ring="Estratégico"
 type="post"
 layout="details"

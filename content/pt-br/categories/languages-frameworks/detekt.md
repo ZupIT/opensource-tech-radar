@@ -1,7 +1,7 @@
 +++
 name="Detekt"
 image="/images/languages-frameworks/detekt.png"
-category="Linguagens-e-Frameworks"
+category="Languages-Frameworks"
 ring="Estratégico"
 type="post"
 layout="details"

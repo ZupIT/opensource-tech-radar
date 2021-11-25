@@ -1,7 +1,7 @@
 +++
 name="Yoga "
 image="/images/languages-frameworks/spring-boot.png"
-category="Linguagens-e-Frameworks"
+category="Languages-Frameworks"
 ring="Essencial"
 type="post"
 layout="details"

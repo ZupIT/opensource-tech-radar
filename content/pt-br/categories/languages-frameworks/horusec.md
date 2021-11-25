@@ -1,7 +1,7 @@
 +++
 name="Horusec"
 image="/images/languages-frameworks/horusec.png"
-category="Linguagens-e-Frameworks"
+category="Languages-Frameworks"
 ring="Estratégico"
 type="post"
 layout="details"

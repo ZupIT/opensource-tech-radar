@@ -1,7 +1,7 @@
 +++
 name="JUnit / MockK / Robolectric"
 image="/images/languages-frameworks/junit.png"
-category="Linguagens-e-Frameworks"
+category="Languages-Frameworks"
 ring="Essencial"
 type="post"
 layout="details"

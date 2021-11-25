@@ -1,7 +1,7 @@
 +++
 name="Micronaut"
 image="/images/languages-frameworks/micronaut.png"
-category="Linguagens-e-Frameworks"
+category="Languages-Frameworks"
 ring="Estratégico"
 type="post"
 layout="details"

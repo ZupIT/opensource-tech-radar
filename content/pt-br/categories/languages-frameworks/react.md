@@ -1,7 +1,7 @@
 +++
 name="React"
 image="/images/languages-frameworks/react.png"
-category="Linguagens-e-Frameworks"
+category="Languages-Frameworks"
 ring="Essencial"
 type="post"
 layout="details"
