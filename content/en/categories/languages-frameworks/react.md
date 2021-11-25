@@ -1,20 +1,20 @@
 +++
 name="React"
 image="/images/languages-frameworks/react.png"
-category="Languages and Frameworks"
+category="Languages-Frameworks"
 ring="Essential"
 type="post"
 layout="details"
-isNew="false"
-description="O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web. É mantido pelo Facebook, Instagram, outras empresas e uma comunidade de desenvolvedores individuais."
+isNew="true"
+description="React is an open source JavaScript library focused on creating user interfaces in web pages. It is maintained by Facebook, Instagram, besides other companies and a community of individual developers."
 +++
 
 {{% tabs/group %}}
-  {{% tabs/item id="0" title="O que é?" content="<p>O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web. É mantido pelo Facebook, Instagram, outras empresas e uma comunidade de desenvolvedores individuais.</p>" %}}
+  {{% tabs/item id="0" title="What is it?" content="<p>React is an open source JavaScript library focused on creating user interfaces in web pages. It is maintained by Facebook, Instagram, besides other companies and a community of individual developers.</p>" %}}
+  
+  {{% tabs/item id="1" title="Why?" content="<p>We use it for the development of Horusec's graphic interface.</p>" %}}
+  
+  {{% tabs/item id="2" title="For who?" content="<a href='https://horusec.io/site/'>Horusec</a>" %}}
 
-  {{% tabs/item id="1" title="Como utilizamos?" content="<p>Utilizado para o desenvolvimento da biblioteca específica para React - Beagle Web React</p>" %}}
-
-  {{% tabs/item id="2" title="Onde ?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a><br /><a href='https://ritchiecli.io/' target='_blank'>Ritchie CLI</a>" %}}
-
-  {{% tabs/item id="3" title="Recursos" content="<a href='https://reactjs.org/' target='_blank'>Material de estudo</a>" %}}
+  {{% tabs/item id="3" title="Resources" content="<a href='https://reactjs.org/'>Home</a>" %}}
 {{% /tabs/group %}}

@@ -1,20 +1,20 @@
 +++
-name="GitHub"
+name="Github"
 image="/images/platforms/github.png"
 category="Platforms"
 ring="Strategic"
 type="post"
 layout="details"
-isNew="false"
-description="GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git."
+isNew="true"
+description="GitHub is a hosting platform for source codes and files with version control using Git."
 +++
 
 {{% tabs/group %}}
-  {{% tabs/item id="0" title="O que é?" content="<p>GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git.</p>" %}}
+  {{% tabs/item id="0" title="What is it?" content="<p>GitHub is a hosting platform for source codes and files with version control using Git.</p>" %}}
+  
+  {{% tabs/item id="1" title="Why?" content="<p>We host all our source code in GitHub.</p>" %}}
+  
+  {{% tabs/item id="2" title="For who?" content="<a href='https://charlescd.io/'>Charles C.D</a><br /><a href='https://horusec.io/site/'>Horusec</a><br />" %}}
 
-  {{% tabs/item id="1" title="Como utilizamos?" content="<p>Hospedamos todo nosso código fonte no GitHub.</p>" %}}
-
-  {{% tabs/item id="2" title="Onde ?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a><br /><a href='https://ritchiecli.io/' target='_blank'>Ritchie CLI</a>" %}}
-
-  {{% tabs/item id="3" title="Recursos" content="<a href='https://docs.github.com/pt/get-started' target='_blank'>Materiais de estudo</a>" %}}
+  {{% tabs/item id="3" title="Resources" content="<a href='https://github.com/'>Homepage</a> <br /> <a href='https://docs.github.com/en/get-started'>Documentation</a>" %}}
 {{% /tabs/group %}}

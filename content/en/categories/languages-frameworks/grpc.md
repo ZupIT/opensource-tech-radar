@@ -1,20 +1,20 @@
 +++
 name="GRPC"
 image="/images/languages-frameworks/grpc.png"
-category="Languages and Frameworks"
-ring="Strategic"
+category="Languages-Frameworks"
+ring="Essential"
 type="post"
 layout="details"
-isNew="false"
-description="É um sistema de chamada de procedimento remoto de código aberto desenvolvido inicialmente no Google em 2015 como a próxima geração da infraestrutura RPC Stubby."
+isNew="true"
+description="GRPC is an open source procedure call system developed by Google in 2015 as the next generation of the RPC Stubby infrastructure."
 +++
 
 {{% tabs/group %}}
-  {{% tabs/item id="0" title="O que é?" content="<p>É um sistema de chamada de procedimento remoto de código aberto desenvolvido inicialmente no Google em 2015 como a próxima geração da infraestrutura RPC Stubby.</p>" %}}
+  {{% tabs/item id="0" title="What is it?" content="<p>GRPC is an open source procedure call system developed by Google in 2015 as the next generation of the RPC Stubby infrastructure.</p>" %}}
+  
+  {{% tabs/item id="1" title="Why?" content="<p>We use it to perform internal communication between some of the Horusec's microservices.</p>" %}}
+  
+  {{% tabs/item id="2" title="For who?" content="<a href='https://horusec.io/site/'>Horusec</a>" %}}
 
-  {{% tabs/item id="1" title="Como utilizamos?" content="<p>Conceito utilizado na criação de bibliotecas de apoio para incorporar a comunicação GRPC no framework Beagle.</p>" %}}
-
-  {{% tabs/item id="2" title="Onde ?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a><br /><a href='https://ritchiecli.io/' target='_blank'>Ritchie CLI</a>" %}}
-
-  {{% tabs/item id="3" title="Recursos" content="<a href='https://grpc.io/' target='_blank'>Material de estudo</a>" %}}
+  {{% tabs/item id="3" title="Resources" content="<a href='https://go.dev/blog/wire'>Home</a></br><a href='https://github.com/google/wire'>Source Repository</a>" %}}
 {{% /tabs/group %}}

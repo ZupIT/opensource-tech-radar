@@ -3,31 +3,28 @@
 This is Zup Open Source Tech-radar contributing guide. Please read the following sections to learn how to ask questions and how to work on something.
 
 ## **Table of contents**
-1. [**Getting Started**](#Getting-started)
-   1. [**Before you contribute**](#Before-you-contribute)
-   2. [**Code of Conduct**](#Code-of-Conduct)
-   3. [**Legal**](#Legal)
-2. [**Prerequisites**](#Prerequisites)
-   1. [**Developer Certificate of Origin**](#Developer-Certificate-of-Origin)
-   2. [**Code Review**](#Code-Review)
-   3. [**Pull Requests**](#Pull-Requests)    
-3. [**How to contribute?**](#How-to-contribute?)
-      1. [**Prepare your development environment**](#Prepare-your-development-environment)
-      2. [**First contribution**](#First-contribution)
-      4. [**Add new feature, bugfixing or improvement**](#Add-new-feature-bugfixing-or-improvement)
-      5. [**Pull Request's approval**](#Pull-Request's-approval)
-      6. [**After your pull request's approval**](#After-your-pull-request's-approval)
-4. [**Community**](#Community)
+1. [**Before you contribute**](#before-you-contribute)
+> #### 1.1. [**Code of Conduct**](#code-of-conduct)
+> #### 1.2. [**Legal**](#legal)
+2. [**Prerequisites**](#prerequisites)
+ > #### 2.1.   [**Developer Certificate of Origin**](#developer-certificate-of-origin)
+> #### 2.2.  [**Code Review**](#code-review)
+> #### 2.3. [**Pull Requests**](#pull-requests)    
+3. [**How to contribute?**](#how-to-contribute?)
+> #### 3.1. [**Prepare your development environment**](#prepare-your-development-environment)
+> #### 3.2.  [**First contribution**](#first-contribution)
+> #### 3.3. [**Add new feature, bug fixing or improvement**](#add-new-feature-bugfixing-or-improvement)
+> #### 3.4.  [**Pull Request's approval**](#pull-request-approval)
+> #### 3.5.   [**After your pull request's approval**](#after-your-pull-request-approval)
+4. [**Community**](#community)
 
-## **Getting started**
-
-### **Before you contribute**
+## **Before you contribute**
 
 ### **Code of Conduct**
 Please follow the [**Code of Conduct**](CODE_OF_CONDUCT.md) in all your interactions with our project.
 
 ### **Legal**
-- Tech Rahdar is licensed over [**MIT License**](LICENSE).
+- Tech Radar is licensed over [**MIT License**](LICENSE).
 
 - All contributions are subject to the [**Developer Certificate of Origin (DCO)**](https://developercertificate.org). 
 When you commit, use the ```**-s** ``` option to include the Signed-off-by line at the end of the commit log message.
@@ -39,55 +36,61 @@ Check out the requisites before contributing to Tech-Radar:
 
  This is a security layer for the project and for the developers. It is mandatory.
  
- There are two ways to use DCO, see them below: 
+ Follow one of these two methods to add DCO to your commits:
  
 **1. Command line**
  Follow the steps: 
- **Step 1:** Check out your local git:
+ **Step 1:** Configure your local git environment adding the same name and e-mail configured at your GitHub account. It helps to sign commits manually during reviews and suggestions.
 
  ```
 git config --global user.name “Name”
 git config --global user.email “email@domain.com.br”
 ```
-**Step 2:** When you commit, add the sigoff via `-s` flag:
+**Step 2:** Add the Signed-off-by line with the `'-s'` flag in the git commit command:
 
 ```
 $ git commit -s -m "This is my commit message"
 ```
 **2. GitHub website**
 
-**Step 1:** When the commit changes box opens, add 
+You can also manually sign your commits during GitHub reviews and suggestions, follow the steps below: 
+
+**Step 1:** When the commit changes box opens, manually type or paste your signature in the comment box, see the example:
+
 ```
-$ git commit -m “My signed commit” Signed-off-by: username <email address>
+Signed-off-by: Name < e-mail address >
 ```
-Note: For this option, your e-mail must be the same in registered in GitHub. 
+
+For this method, your name and e-mail must be the same registered on your GitHub account.
 
 ### **Code Review**
 - All your submissions needs a review.
 
 ### **Pull Requests**
-When you open a PR, follow the requisites below:
-- You need to add a title describing the issue. 
-- Answer the questions about what you did, how to verify it and a description for the changelog, see an example:
-
+When you open a Pull Request, follow the requirements below:
+1. You need to add a title describing the issue. 
+2. Answer the questions about what you did, how to verify it and a description for the changelog, see an example:
 
 
 ## **How to contribute?** 
 See the guidelines to submit your changes: 
 
 ### **Prepare your development environment**
-To start contributing with Tech-radar you first need to install [Go](https://golang.org/dl/). The minimal version required to build is 1.17. Then install [Hugo](https://gohugo.io/getting-started/installing/)
+To start contributing with Tech-radar you first need to:
+- Install [**Go**](https://golang.org/dl/). The minimal version required to build is 1.17. 
+- Install [**Hugo**](https://gohugo.io/getting-started/installing/).
 
 
 ### **First contribution**
 Contributing to a new feature is only allowed in the [**main repository**](https://github.com/ZupIT/opensource-tech-radar).
 
 
-### **Add new feature, bugfixing or improvement**
+### **Add new feature, bug fixing or improvement**
 If you want to add an improvement, a new feature or bugfix, follow the steps to contribute: 
 
 **Step 1:** Make sure your branch is based on main;
-**Step 2:** Open an issue
+
+**Step 2:** Open an issue;
 
 **Step 3:** Make your changes and open a GitHub pull request;
 
@@ -104,11 +107,11 @@ Your pull request is approved when:
 - Pass all GitHub actions checking process (lint, test, coverage, license, build, e2e, security, dco).
 
 ### **After your pull request's approval**
-- If it is a bugfix, the team will perform the changes and there will be a new release.
+- If it is a bug fix, the team will perform the changes and there will be a new release.
 - If it is a feature, it will be in the next release. 
 
 ## **Community**
 
-- Let's chat in our [**forum**](https://forum.zup.com.br/c/en/horusec/14).
+- Let's chat in our [**forum**](https://forum.zup.com.br).
 
 Thank you for your contribution, you rock! 🚀
