@@ -1,6 +1,6 @@
 +++
 name="Concorrência"
-image="/images/techiques/concorrencia.png"
+image="/images/default-logo.png"
 category="Techniques"
 ring="Estratégico"
 type="post"

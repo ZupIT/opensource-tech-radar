@@ -1,6 +1,6 @@
 +++
 name="Micro serviços"
-image="/images/techiques/micro-servicos.png"
+image="/images/default-logo.png"
 category="Techniques"
 ring="Estratégico"
 type="post"

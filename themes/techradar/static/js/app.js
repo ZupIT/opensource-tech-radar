@@ -266,7 +266,7 @@
 
             delete related[3];
 
-            if (related) {
+            if (related && related[0].name) {
               related.forEach((item) => {
                 relatedContainer.append(`
                 <div class="col-4">

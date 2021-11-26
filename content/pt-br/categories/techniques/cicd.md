@@ -1,6 +1,6 @@
 +++
 name="CI/CD"
-image="/images/techiques/cicd.png"
+image="/images/default-logo.png"
 category="Techniques"
 ring="Estratégico"
 type="post"

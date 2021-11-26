@@ -1,6 +1,6 @@
 +++
 name="Lerna"
-image="/images/tools/lerna.png"
+image="/images/default-logo.png"
 category="Tools"
 ring="Estratégico"
 type="post"

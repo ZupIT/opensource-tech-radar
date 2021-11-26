@@ -1,6 +1,6 @@
 +++
 name="Monorepo"
-image="/images/techiques/monorepo.png"
+image="/images/default-logo.png"
 category="Techniques"
 ring="Descontinuado"
 type="post"
