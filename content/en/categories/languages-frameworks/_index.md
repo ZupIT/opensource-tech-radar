@@ -1,5 +1,5 @@
 +++
-title="Languages-Frameworks"
+title="Languages and Frameworks"
 description="Languages, frameworks and libraries."
 type="pages"
 layout="category"

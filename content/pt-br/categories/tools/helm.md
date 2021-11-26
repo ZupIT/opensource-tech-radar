@@ -1,8 +1,8 @@
 +++
 name="Helm"
 image="/images/tools/helm.png"
-category="Tools"
-ring="Essential"
+category="Ferramentas"
+ring="Essencial"
 type="post"
 layout="details"
 isNew="true"
