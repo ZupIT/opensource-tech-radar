@@ -8,7 +8,7 @@
 ### 5. [**Serve the radar**](#serve-the-radar)
 ### 6. [**Build the website**](#build-the-website)
 ### 7. [**Documentation**](#documentation)       
-### 7. [**Contributing**](#contributing)
+### 8. [**Contributing**](#contributing)
 ### 9. [**Code of Conduct**](#code-of-conduct)
 ### 10. [**License**](#license)
 ### 11. [**Community**](#community)
