@@ -1,20 +1,20 @@
 +++
-name="Horusec Engine"
+name="Horusec"
 image="/images/languages-frameworks/horusec.png"
-category="Languages-Frameworks"
-ring="Strategic"
+category="Linguagens e Frameworks"
+ring="Estratégico"
 type="post"
 layout="details"
-isNew="true"
-description="Horusec é um motor SAST autônomo usado pelo projeto Horusec. O objetivo dele é fornecer uma funcionalidade de linha de base e os blocos de construção básicos para você construir sua própria ferramenta SAST."
+isNew="false"
+description="O Horusec é uma ferramenta open source que realiza análise estática de códigos para identificar falhas de segurança durante o processo de desenvolvimento."
 +++
 
 {{% tabs/group %}}
-  {{% tabs/item id="0" title="What is it ?" content="<p>Horusec é um motor SAST autônomo usado pelo projeto Horusec. O objetivo dele é fornecer uma funcionalidade de linha de base e os blocos de construção básicos para você construir sua própria ferramenta SAST.</p>" %}}
-  
-  {{% tabs/item id="1" title="Why ?" content="<p>Usamos esse motor na Horusec-CLI para realizar a sua análise de segurança em conjunto com as suas regras.</p>" %}}
-  
-  {{% tabs/item id="2" title="For who ?" content="<a href='https://horusec.io/site/'>Horusec</a>" %}}
+  {{% tabs/item id="0" title="O que é?" content="<p>O Horusec é uma ferramenta open source que realiza análise estática de códigos para identificar falhas de segurança durante o processo de desenvolvimento.</p>" %}}
 
-  {{% tabs/item id="3" title="Resources" content="<a href='https://horusec.io/site/'>Home</a></br><a href='https://docs.horusec.io/docs/overview/'>Documentation</a></br><a href='https://github.com/ZupIT/horusec-engine'>Source Repository</a>" %}}
+  {{% tabs/item id="1" title="Como utilizamos?" content="<p>A ferramenta é utilizada em um GitHub Actions para realizar análise estática (SAST) do código buscando possíveis falhas de segurança</p>" %}}
+
+  {{% tabs/item id="2" title="Onde ?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a>" %}}
+
+  {{% tabs/item id="3" title="Recursos" content="<a href='https://horusec.io/site/' target='_blank'>Material de estudo</a>" %}}
 {{% /tabs/group %}}

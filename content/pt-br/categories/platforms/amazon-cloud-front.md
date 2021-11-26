@@ -1,8 +1,8 @@
 +++
 name="Amazon Cloud Front"
 image="/images/platforms/aws-cloud-front.png"
-category="Platforms"
-ring="Strategic"
+category="Plataformas"
+ring="Estratégico"
 type="post"
 layout="details"
 isNew="false"
@@ -14,7 +14,7 @@ description="O Amazon CloudFront é um serviço rápido de rede de entrega de co
 
   {{% tabs/item id="1" title="Como utilizamos?" content="<p>Utilizado para redirecionar tráfego para sites estáticos: c4 model, documentação, landing page.</p>" %}}
 
-  {{% tabs/item id="2" title="Onde ?" content="<a href='https://usebeagle.io/'>Beagle</a>" %}}
+  {{% tabs/item id="2" title="Onde ?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a><br /><a href='https://ritchiecli.io/' target='_blank'>Ritchie CLI</a>" %}}
 
   {{% tabs/item id="3" title="Recursos" content="<a href='https://aws.amazon.com/pt/training/?nc2=h_ql_le_tc' target='_blank'>Material de estudo</a>" %}}
 {{% /tabs/group %}}

@@ -1,20 +1,20 @@
 +++
 name="Monorepo"
-image="/images/techiques/monorepo.png"
+image="/images/default-logo.png"
 category="Techniques"
 ring="Deprecated"
 type="post"
 layout="details"
 isNew="true"
-description="In version control systems, a monorepo (where mono means single and repo is the abbreviation of repository) is a software development strategy in which the code of many projects is stored in the same repository."
+description="Em sistemas de controle de versão, um monorepo ('mono' significa 'único' e 'repo' sendo a abreviação0 de 'repositório') é uma estratégia de desenvolvimento de software em que o código de muitos projetos é armazenado no mesmo repositório."
 +++
 
 {{% tabs/group %}}
-  {{% tabs/item id="0" title="What is it ?" content="<p>In version control systems, a monorepo (where \"mono\" means \'single\' and \‘repo\’ is the abbreviation of \'repository\') is a software development strategy in which the code of many projects is stored in the same repository.</p>" %}}
+  {{% tabs/item id="0" title="O que é?" content="<p>Em sistemas de controle de versão, um monorepo ('mono' significa 'único' e 'repo' sendo a abreviação0 de 'repositório') é uma estratégia de desenvolvimento de software em que o código de muitos projetos é armazenado no mesmo repositório.</p>" %}}
   
-  {{% tabs/item id="1" title="Why ?" content="<p>It works as a single Horusec repository which includes CLI, Manager, Devkit and Engine.</p>" %}}
+  {{% tabs/item id="1" title="Como utilizamos?" content="<p>Um único repositório contém o código legado (até a versão 1.9.X) do Beagle para Android, iOS e Backend</p>" %}}
   
-  {{% tabs/item id="2" title="For who ?" content="<a href='https://horusec.io/site/'>Horusec</a><br />" %}}
+  {{% tabs/item id="2" title="Onde ?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a><br /><a href='https://ritchiecli.io/' target='_blank'>Ritchie CLI</a>" %}}
 
-  {{% tabs/item id="3" title="Resources" content="" %}}
+  {{% tabs/item id="3" title="Recursos" content="<a href='https://github.com/ZupIT/beagle' target='_blank'>Material de estudo</a>" %}}
 {{% /tabs/group %}}

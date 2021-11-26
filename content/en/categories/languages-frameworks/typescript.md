@@ -1,20 +1,20 @@
 +++
-name="Typescript"
+name="TypeScript"
 image="/images/languages-frameworks/typescript.png"
-category="Languages-Frameworks"
+category="Languages and Frameworks"
 ring="Strategic"
 type="post"
 layout="details"
-isNew="true"
-description="Typescript is an open source programming language developed by Microsoft, It is a strit syntactic superset of JavaScript and adds optional static typing to the language."
+isNew="false"
+description="TypeScript é uma linguagem de programação de código aberto desenvolvida pela Microsoft. É um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem."
 +++
 
 {{% tabs/group %}}
-  {{% tabs/item id="0" title="What is it ?" content="<p>Typescript is an open source programming language developed by Microsoft, It is a strit syntactic superset of JavaScript and adds optional static typing to the language.</p>" %}}
-  
-  {{% tabs/item id="1" title="Why ?" content="<p>We use it in the development of the Visual Studio Code (VSCode) plugin.</p>" %}}
-  
-  {{% tabs/item id="2" title="For who ?" content="<a href='https://horusec.io/site/'>Horusec</a>" %}}
+  {{% tabs/item id="0" title="O que é?" content="<p>TypeScript é uma linguagem de programação de código aberto desenvolvida pela Microsoft. É um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem.</p>" %}}
 
-  {{% tabs/item id="3" title="Resources" content="<a href='https://www.typescriptlang.org/'>Documentation</a>" %}}
+  {{% tabs/item id="1" title="Como utilizamos?" content="<p>Principal linguagem utilizada no código fonte dos projetos Beagle Web Core, Beagle Web Angular e Beagle Web React</p>" %}}
+
+  {{% tabs/item id="2" title="Onde ?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a>" %}}
+
+  {{% tabs/item id="3" title="Recursos" content="<a href='https://www.typescriptlang.org/' target='_blank'>Material de estudo</a>" %}}
 {{% /tabs/group %}}
