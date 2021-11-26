@@ -2,7 +2,7 @@
 name="IntelliJ"
 image="/images/tools/intellij.png"
 category="Tools"
-ring="Estratégico"
+ring="Strategic"
 type="post"
 layout="details"
 isNew="true"

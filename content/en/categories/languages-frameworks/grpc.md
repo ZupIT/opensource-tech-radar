@@ -1,8 +1,8 @@
 +++
 name="GRPC"
 image="/images/languages-frameworks/grpc.png"
-category="Languages-Frameworks"
-ring="Estratégico"
+category="Languages and Frameworks"
+ring="Strategic"
 type="post"
 layout="details"
 isNew="false"

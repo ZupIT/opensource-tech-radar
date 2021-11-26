@@ -2,7 +2,7 @@
 name="Programação Funcional"
 image="/images/default-logo.png"
 category="Techniques"
-ring="Essencial"
+ring="Essential"
 type="post"
 layout="details"
 isNew="true"

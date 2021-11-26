@@ -1,8 +1,8 @@
 +++
 name="Jest"
 image="/images/languages-frameworks/jest.png"
-category="Languages-Frameworks"
-ring="Estratégico"
+category="Languages and Frameworks"
+ring="Strategic"
 type="post"
 layout="details"
 isNew="false"

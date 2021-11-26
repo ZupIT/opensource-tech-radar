@@ -2,7 +2,7 @@
 name="Git"
 image="/images/tools/git.png"
 category="Tools"
-ring="Estratégico"
+ring="Strategic"
 type="post"
 layout="details"
 isNew="true"

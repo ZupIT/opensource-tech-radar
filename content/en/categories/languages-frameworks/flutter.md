@@ -1,8 +1,8 @@
 +++
 name="Flutter"
 image="/images/languages-frameworks/flutter.png"
-category="Languages-Frameworks"
-ring="Essencial"
+category="Languages and Frameworks"
+ring="Essential"
 type="post"
 layout="details"
 isNew="false"

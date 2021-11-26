@@ -1,8 +1,8 @@
 +++
 name="Kotlin Coroutines"
 image="/images/languages-frameworks/kotlin-coroutines.png"
-category="Languages-Frameworks"
-ring="Estratégico"
+category="Languages and Frameworks"
+ring="Strategic"
 type="post"
 layout="details"
 isNew="false"

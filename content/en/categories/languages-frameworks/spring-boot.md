@@ -1,8 +1,8 @@
 +++
 name="Spring Boot"
 image="/images/languages-frameworks/spring-boot.png"
-category="Languages-Frameworks"
-ring="Estratégico"
+category="Languages and Frameworks"
+ring="Strategic"
 type="post"
 layout="details"
 isNew="false"

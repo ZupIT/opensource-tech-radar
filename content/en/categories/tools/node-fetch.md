@@ -2,7 +2,7 @@
 name="Node Fetch"
 image="/images/tools/node-fetch.png"
 category="Tools"
-ring="Estratégico"
+ring="Strategic"
 type="post"
 layout="details"
 isNew="true"

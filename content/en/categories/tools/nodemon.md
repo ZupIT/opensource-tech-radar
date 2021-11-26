@@ -2,7 +2,7 @@
 name="Nodemon"
 image="/images/tools/nodemon.png"
 category="Tools"
-ring="Estratégico"
+ring="Strategic"
 type="post"
 layout="details"
 isNew="true"

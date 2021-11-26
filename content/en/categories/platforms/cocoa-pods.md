@@ -2,7 +2,7 @@
 name="Cocoa Pods"
 image="/images/platforms/cocoa-pods.png"
 category="Platforms"
-ring="Essencial"
+ring="Essential"
 type="post"
 layout="details"
 isNew="false"

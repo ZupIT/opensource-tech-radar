@@ -1,8 +1,8 @@
 +++
 name="Dart Programming Language"
 image="/images/languages-frameworks/dart.png"
-category="Languages-Frameworks"
-ring="Estratégico"
+category="Languages and Frameworks"
+ring="Strategic"
 type="post"
 layout="details"
 isNew="false"

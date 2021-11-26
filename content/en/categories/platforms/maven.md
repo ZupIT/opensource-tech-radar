@@ -2,7 +2,7 @@
 name="Maven"
 image="/images/platforms/maven.png"
 category="Platforms"
-ring="Essencial"
+ring="Essential"
 type="post"
 layout="details"
 isNew="false"

@@ -2,7 +2,7 @@
 name="WebSocket"
 image="/images/techniques/websocket.png"
 category="Techniques"
-ring="Essencial"
+ring="Essential"
 type="post"
 layout="details"
 isNew="true"

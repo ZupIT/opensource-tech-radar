@@ -2,7 +2,7 @@
 name="Monorepo"
 image="/images/default-logo.png"
 category="Techniques"
-ring="Descontinuado"
+ring="Deprecated"
 type="post"
 layout="details"
 isNew="true"

@@ -2,7 +2,7 @@
 name="Micro serviços"
 image="/images/default-logo.png"
 category="Techniques"
-ring="Estratégico"
+ring="Strategic"
 type="post"
 layout="details"
 isNew="true"

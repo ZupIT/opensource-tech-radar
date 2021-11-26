@@ -2,7 +2,7 @@
 name="Shortcut"
 image="/images/platforms/shortcut.png"
 category="Platforms"
-ring="Estratégico"
+ring="Strategic"
 type="post"
 layout="details"
 isNew="false"

@@ -2,7 +2,7 @@
 name="Pubdev"
 image="/images/platforms/pubdev.png"
 category="Platforms"
-ring="Essencial"
+ring="Essential"
 type="post"
 layout="details"
 isNew="false"

@@ -1,8 +1,8 @@
 +++
 name="TypeScript"
 image="/images/languages-frameworks/typescript.png"
-category="Languages-Frameworks"
-ring="Estratégico"
+category="Languages and Frameworks"
+ring="Strategic"
 type="post"
 layout="details"
 isNew="false"

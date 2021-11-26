@@ -2,7 +2,7 @@
 name="Android Studio"
 image="/images/tools/android-studio.png"
 category="Tools"
-ring="Estratégico"
+ring="Strategic"
 type="post"
 layout="details"
 isNew="true"

@@ -2,7 +2,7 @@
 name="IAM"
 image="/images/platforms/aws-iam.png"
 category="Platforms"
-ring="Estratégico"
+ring="Strategic"
 type="post"
 layout="details"
 isNew="false"

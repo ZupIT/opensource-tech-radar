@@ -2,7 +2,7 @@
 name="Moshi"
 image="/images/default-logo.png"
 category="Tools"
-ring="Essencial"
+ring="Essential"
 type="post"
 layout="details"
 isNew="true"

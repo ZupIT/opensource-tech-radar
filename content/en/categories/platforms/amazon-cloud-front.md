@@ -2,7 +2,7 @@
 name="Amazon Cloud Front"
 image="/images/platforms/aws-cloud-front.png"
 category="Platforms"
-ring="Estratégico"
+ring="Strategic"
 type="post"
 layout="details"
 isNew="false"

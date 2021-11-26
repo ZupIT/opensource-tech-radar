@@ -1,8 +1,8 @@
 +++
 name="Cypress"
 image="/images/languages-frameworks/cypress.png"
-category="Languages-Frameworks"
-ring="Essencial"
+category="Languages and Frameworks"
+ring="Essential"
 type="post"
 layout="details"
 isNew="false"

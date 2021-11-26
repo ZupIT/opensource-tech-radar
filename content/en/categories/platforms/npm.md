@@ -2,7 +2,7 @@
 name="NPM"
 image="/images/platforms/npm.png"
 category="Platforms"
-ring="Essencial"
+ring="Essential"
 type="post"
 layout="details"
 isNew="false"
