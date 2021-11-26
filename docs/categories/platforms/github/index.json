@@ -1,9 +1,9 @@
 {
   "data" :  {
-  "name": "GitHub",
+  "name": "Github",
   "image" : "/images/platforms/github.png",
   "category" : "Platforms",
-  "description" : "GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git.",
+  "description" : "GitHub is a hosting platform for source codes and files with version control using Git.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/github/",
   "related": [

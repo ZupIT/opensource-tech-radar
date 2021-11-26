@@ -885,20 +885,6 @@
   </url>
   
   <url>
-    <loc>https://zupit.github.io/opensource-tech-radar/rings/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://zupit.github.io/opensource-tech-radar/pt-br/rings/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zupit.github.io/opensource-tech-radar/rings/"
-                />
-  </url>
-  
-  <url>
     <loc>https://zupit.github.io/opensource-tech-radar/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -965,6 +951,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://zupit.github.io/opensource-tech-radar/categories/platforms/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/rings/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/rings/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/rings/"
                 />
   </url>
   

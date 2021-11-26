@@ -3,7 +3,7 @@
   "name": "Shortcut",
   "image" : "/images/platforms/shortcut.png",
   "category" : "Platforms",
-  "description" : "Shortcut é uma ferramenta de gerenciamento de projeto projetada especificamente para equipes de desenvolvimento de software. Com uma interface simples no estilo Kanban, ele oferece uma experiência descomplicada para uma melhor colaboração em equipe.",
+  "description" : "Shortcut is a project management tool created specifically for software development teams. It offers a simple interface in Kanban style, contributing with an uncomplicated experience for better team collaboration.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/shortcut/",
   "related": [

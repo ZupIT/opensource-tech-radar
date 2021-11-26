@@ -2,8 +2,8 @@
   "data" :  {
   "name": "React",
   "image" : "/images/languages-frameworks/react.png",
-  "category" : "Languages and Frameworks",
-  "description" : "O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web. É mantido pelo Facebook, Instagram, outras empresas e uma comunidade de desenvolvedores individuais.",
+  "category" : "Languages-Frameworks",
+  "description" : "React is an open source JavaScript library focused on creating user interfaces in web pages. It is maintained by Facebook, Instagram, besides other companies and a community of individual developers.",
   "ring" : "Essential",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/react/",
   "related": [

@@ -3,7 +3,7 @@
   "name": "GORM",
   "image" : "/images/languages-frameworks/gorm.png",
   "category" : "Languages-Frameworks",
-  "description" : "GORM is the object relational mapping for Golang with focus in being friendly and increase the productivity of the developer.",
+  "description" : "GORM is the object-relational mapping for Golang focused on being friendly and increasing the productivity of the developer.",
   "ring" : "Essential",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/gorm/",
   "related": [

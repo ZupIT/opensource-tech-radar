@@ -1,9 +1,9 @@
 {
   "data" :  {
   "name": "Monorepo",
-  "image" : "/images/default-logo.png",
+  "image" : "/images/techiques/monorepo.png",
   "category" : "Techniques",
-  "description" : "Em sistemas de controle de versão, um monorepo ('mono' significa 'único' e 'repo' sendo a abreviação0 de 'repositório') é uma estratégia de desenvolvimento de software em que o código de muitos projetos é armazenado no mesmo repositório.",
+  "description" : "In version control systems, a monorepo (where mono means single and repo is the abbreviation of the repository) is a software development strategy in which the code of many projects is stored in the same repository.",
   "ring" : "Deprecated",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/techniques/monorepo/",
   "related": [

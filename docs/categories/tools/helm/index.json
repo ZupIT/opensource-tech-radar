@@ -3,7 +3,7 @@
   "name": "Helm",
   "image" : "/images/tools/helm.png",
   "category" : "Tools",
-  "description" : "It is a tool that helps in the processes of definition, configuration, installation and update of Kubernetes applications.",
+  "description" : "It is a tool that helps in the processes of definition, configuration, installation, and update of Kubernetes applications.",
   "ring" : "Essential",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/tools/helm/",
   "related": [

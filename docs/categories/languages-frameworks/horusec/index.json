@@ -1,9 +1,9 @@
 {
   "data" :  {
-  "name": "Horusec",
+  "name": "Horusec Engine",
   "image" : "/images/languages-frameworks/horusec.png",
-  "category" : "Languages and Frameworks",
-  "description" : "O Horusec é uma ferramenta open source que realiza análise estática de códigos para identificar falhas de segurança durante o processo de desenvolvimento.",
+  "category" : "Languages-Frameworks",
+  "description" : "Horusec is an autonomous SAST engine used by the Horusec project. The purpose is to provide baseline functionality and the basic building blocks for you to build your own SAST tool.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/horusec/",
   "related": [

@@ -3,7 +3,7 @@
   "name": "Artifact io",
   "image" : "/images/platforms/artifact.png",
   "category" : "Platforms",
-  "description" : "Artifact io is a web application that allows you to locate, install and publish packages and configurations for CNCF projects.",
+  "description" : "Artifact IO is a web application that allows you to locate, install and publish packages and configurations for CNCF projects.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/artifact/",
   "related": [

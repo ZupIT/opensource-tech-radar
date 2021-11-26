@@ -3,7 +3,7 @@
   "name": "Amazon AWS",
   "image" : "/images/platforms/aws.png",
   "category" : "Platforms",
-  "description" : "AWS is the team's official cloud provider, offering services that facilitate day-to-day activities, and that are well consolidated in the maket, for example, storage, network, analytics, etc.",
+  "description" : "AWS is the team's official cloud provider. It offers services to make day-to-day activities easier, for example, storage, network, analytics, etc.",
   "ring" : "Potential",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/aws/",
   "related": [

@@ -2,32 +2,32 @@
   "data" :  {
   "name": "GRPC",
   "image" : "/images/languages-frameworks/grpc.png",
-  "category" : "Languages and Frameworks",
-  "description" : "É um sistema de chamada de procedimento remoto de código aberto desenvolvido inicialmente no Google em 2015 como a próxima geração da infraestrutura RPC Stubby.",
-  "ring" : "Strategic",
+  "category" : "Languages-Frameworks",
+  "description" : "GRPC is an open source procedure call system developed by Google in 2015 as the next generation of the RPC Stubby infrastructure.",
+  "ring" : "Essential",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/grpc/",
   "related": [
     
     
       {
-        "name": "Appium",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/appium.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/appium/"
+        "name": "Angular",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/angular.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/angular/"
       },
     
       {
-        "name": "Dart Programming Language",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/dart.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/dart/"
+        "name": "Cypress",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/cypress.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/cypress/"
       },
     
       {
-        "name": "Detekt",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/detekt.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/detekt/"
+        "name": "Enry",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/enry.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/enry/"
       },
     
     {}
