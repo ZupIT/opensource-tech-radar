@@ -1,7 +1,7 @@
 +++
 name="Visual Studio Code"
 image="/images/tools/vscode.png"
-category="Tools"
+category="Ferramentas"
 ring="Estratégico"
 type="post"
 layout="details"

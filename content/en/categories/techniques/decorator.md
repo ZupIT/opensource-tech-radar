@@ -1,6 +1,6 @@
 +++
 name="Decorator"
-image="/images/techiques/decorator.png"
+image="/images/default-logo.png"
 category="Techniques"
 ring="Essencial"
 type="post"

@@ -1,7 +1,7 @@
 +++
 name="Nock"
 image="/images/default-logo.png"
-category="Tools"
+category="Ferramentas"
 ring="Estratégico"
 type="post"
 layout="details"

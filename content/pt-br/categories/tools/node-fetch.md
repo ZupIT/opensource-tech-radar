@@ -1,7 +1,7 @@
 +++
 name="Node Fetch"
 image="/images/tools/node-fetch.png"
-category="Tools"
+category="Ferramentas"
 ring="Estratégico"
 type="post"
 layout="details"

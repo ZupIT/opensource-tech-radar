@@ -1,7 +1,7 @@
 +++
 name="XCode"
 image="/images/tools/xcode.png"
-category="Tools"
+category="Ferramentas"
 ring="Estratégico"
 type="post"
 layout="details"

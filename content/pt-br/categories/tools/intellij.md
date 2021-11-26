@@ -1,7 +1,7 @@
 +++
 name="IntelliJ"
 image="/images/tools/intellij.png"
-category="Tools"
+category="Ferramentas"
 ring="Estratégico"
 type="post"
 layout="details"

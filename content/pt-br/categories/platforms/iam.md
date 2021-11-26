@@ -1,7 +1,7 @@
 +++
 name="IAM"
 image="/images/platforms/aws-iam.png"
-category="Platforms"
+category="Plataformas"
 ring="Estratégico"
 type="post"
 layout="details"

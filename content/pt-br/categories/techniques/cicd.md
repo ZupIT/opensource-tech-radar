@@ -1,7 +1,7 @@
 +++
 name="CI/CD"
 image="/images/default-logo.png"
-category="Techniques"
+category="Técnicas"
 ring="Estratégico"
 type="post"
 layout="details"

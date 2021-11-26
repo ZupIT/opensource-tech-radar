@@ -1,7 +1,7 @@
 +++
 name="Nodemon"
 image="/images/tools/nodemon.png"
-category="Tools"
+category="Ferramentas"
 ring="Estratégico"
 type="post"
 layout="details"

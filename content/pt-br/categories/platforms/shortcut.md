@@ -1,7 +1,7 @@
 +++
 name="Shortcut"
 image="/images/platforms/shortcut.png"
-category="Platforms"
+category="Plataformas"
 ring="Estratégico"
 type="post"
 layout="details"

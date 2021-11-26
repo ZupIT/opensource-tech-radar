@@ -1,7 +1,7 @@
 +++
 name="Composite"
 image="/images/default-logo.png"
-category="Techniques"
+category="Técnicas"
 ring="Essencial"
 type="post"
 layout="details"

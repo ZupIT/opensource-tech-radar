@@ -1,7 +1,7 @@
 +++
 name="Yoga"
 image="/images/languages-frameworks/yoga.png"
-category="Languages-Frameworks"
+category="Linguagens e Frameworks"
 ring="Essencial"
 type="post"
 layout="details"

@@ -1,6 +1,6 @@
 +++
 name="Nock"
-image="/images/tools/nock.png"
+image="/images/default-logo.png"
 category="Tools"
 ring="Estratégico"
 type="post"

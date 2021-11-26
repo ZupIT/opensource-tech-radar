@@ -1,7 +1,7 @@
 +++
 name="Spring Boot"
 image="/images/languages-frameworks/spring-boot.png"
-category="Languages-Frameworks"
+category="Linguagens e Frameworks"
 ring="Estratégico"
 type="post"
 layout="details"

@@ -1,7 +1,7 @@
 +++
 name="Moshi"
 image="/images/default-logo.png"
-category="Tools"
+category="Ferramentas"
 ring="Essencial"
 type="post"
 layout="details"

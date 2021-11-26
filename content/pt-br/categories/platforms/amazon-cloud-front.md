@@ -1,7 +1,7 @@
 +++
 name="Amazon Cloud Front"
 image="/images/platforms/aws-cloud-front.png"
-category="Platforms"
+category="Plataformas"
 ring="Estratégico"
 type="post"
 layout="details"

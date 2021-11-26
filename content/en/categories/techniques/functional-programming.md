@@ -1,6 +1,6 @@
 +++
 name="Programação Funcional"
-image="/images/techiques/programacao-funcional.png"
+image="/images/default-logo.png"
 category="Techniques"
 ring="Essencial"
 type="post"

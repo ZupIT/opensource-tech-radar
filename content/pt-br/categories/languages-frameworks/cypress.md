@@ -1,7 +1,7 @@
 +++
 name="Cypress"
 image="/images/languages-frameworks/cypress.png"
-category="Languages-Frameworks"
+category="Linguagens e Frameworks"
 ring="Essencial"
 type="post"
 layout="details"

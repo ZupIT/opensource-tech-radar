@@ -1,6 +1,6 @@
 +++
 name="Composite"
-image="/images/techiques/composite.png"
+image="/images/default-logo.png"
 category="Techniques"
 ring="Essencial"
 type="post"

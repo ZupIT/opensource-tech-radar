@@ -1,6 +1,6 @@
 +++
-name="Yoga "
-image="/images/languages-frameworks/spring-boot.png"
+name="Yoga"
+image="/images/languages-frameworks/yoga.png"
 category="Languages-Frameworks"
 ring="Essencial"
 type="post"

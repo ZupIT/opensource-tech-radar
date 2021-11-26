@@ -1,7 +1,7 @@
 +++
 name="WebSocket"
 image="/images/techniques/websocket.png"
-category="Techniques"
+category="Técnicas"
 ring="Essencial"
 type="post"
 layout="details"

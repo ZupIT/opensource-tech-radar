@@ -1,7 +1,7 @@
 +++
 name="Husky"
 image="/images/tools/husky.png"
-category="Tools"
+category="Ferramentas"
 ring="Estratégico"
 type="post"
 layout="details"

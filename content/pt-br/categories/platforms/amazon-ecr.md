@@ -1,7 +1,7 @@
 +++
 name="Amazon ECR"
 image="/images/platforms/aws-ecr.png"
-category="Platforms"
+category="Plataformas"
 ring="Estratégico"
 type="post"
 layout="details"

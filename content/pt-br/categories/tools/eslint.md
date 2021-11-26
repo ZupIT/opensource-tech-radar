@@ -1,7 +1,7 @@
 +++
 name="ESLint"
 image="/images/tools/eslint.png"
-category="Tools"
+category="Ferramentas"
 ring="Estratégico"
 type="post"
 layout="details"

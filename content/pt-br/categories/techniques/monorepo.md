@@ -1,7 +1,7 @@
 +++
 name="Monorepo"
 image="/images/default-logo.png"
-category="Techniques"
+category="Técnicas"
 ring="Descontinuado"
 type="post"
 layout="details"

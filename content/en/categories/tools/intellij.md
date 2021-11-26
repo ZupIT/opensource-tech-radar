@@ -6,7 +6,7 @@ ring="Estratégico"
 type="post"
 layout="details"
 isNew="true"
-description="O Visual Studio Code é um editor de código-fonte, Open Source, desenvolvido pela Microsoft."
+description="Editor de código fonte"
 +++
 
 {{% tabs/group %}}

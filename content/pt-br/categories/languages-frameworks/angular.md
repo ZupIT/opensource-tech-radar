@@ -1,7 +1,7 @@
 +++
 name="Angular"
 image="/images/languages-frameworks/angular.png"
-category="Languages-Frameworks"
+category="Linguagens e Frameworks"
 ring="Essencial"
 type="post"
 layout="details"

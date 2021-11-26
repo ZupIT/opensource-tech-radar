@@ -1,7 +1,7 @@
 +++
 name="XCTest / SnapshotTesting"
 image="/images/languages-frameworks/xctest.png"
-category="Languages-Frameworks"
+category="Linguagens e Frameworks"
 ring="Essencial"
 type="post"
 layout="details"

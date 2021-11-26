@@ -1,7 +1,7 @@
 +++
 name="Swift"
 image="/images/languages-frameworks/swift.png"
-category="Languages-Frameworks"
+category="Linguagens e Frameworks"
 ring="Estratégico"
 type="post"
 layout="details"

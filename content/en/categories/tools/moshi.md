@@ -1,6 +1,6 @@
 +++
 name="Moshi"
-image="/images/tools/moshi.png"
+image="/images/default-logo.png"
 category="Tools"
 ring="Essencial"
 type="post"

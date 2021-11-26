@@ -1,7 +1,7 @@
 +++
 name="Android Studio"
 image="/images/tools/android-studio.png"
-category="Tools"
+category="Ferramentas"
 ring="Estratégico"
 type="post"
 layout="details"

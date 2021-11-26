@@ -1,6 +1,6 @@
 +++
 name="WebSocket"
-image="/images/techiques/websocket.png"
+image="/images/techniques/websocket.png"
 category="Techniques"
 ring="Essencial"
 type="post"

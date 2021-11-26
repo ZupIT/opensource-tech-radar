@@ -1,7 +1,7 @@
 +++
 name="Git"
 image="/images/tools/git.png"
-category="Tools"
+category="Ferramentas"
 ring="Estratégico"
 type="post"
 layout="details"

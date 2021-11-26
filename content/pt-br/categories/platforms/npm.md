@@ -1,7 +1,7 @@
 +++
 name="NPM"
 image="/images/platforms/npm.png"
-category="Platforms"
+category="Plataformas"
 ring="Essencial"
 type="post"
 layout="details"

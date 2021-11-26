@@ -1,7 +1,7 @@
 +++
 name="GitHub"
 image="/images/platforms/github.png"
-category="Platforms"
+category="Plataformas"
 ring="Estratégico"
 type="post"
 layout="details"
