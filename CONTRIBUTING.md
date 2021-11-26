@@ -1,6 +1,6 @@
 # **Contributing Guide**
 
-This is Zup Open Source Tech-radar contributing guide. Please read the following sections to learn how to ask questions and how to work on something.
+This is Zup Open Source Tech-Radar contributing guide. Please read the following sections to learn how to ask questions and how to work on something.
 
 ## **Table of contents**
 1. [**Before you contribute**](#before-you-contribute)
@@ -24,7 +24,7 @@ This is Zup Open Source Tech-radar contributing guide. Please read the following
 Please follow the [**Code of Conduct**](CODE_OF_CONDUCT.md) in all your interactions with our project.
 
 ### **Legal**
-- Tech Radar is licensed over [**MIT License**](LICENSE).
+- Tech-Radar  is licensed over [**MIT License**](LICENSE).
 
 - All contributions are subject to the [**Developer Certificate of Origin (DCO)**](https://developercertificate.org). 
 When you commit, use the ```**-s** ``` option to include the Signed-off-by line at the end of the commit log message.
@@ -76,7 +76,7 @@ When you open a Pull Request, follow the requirements below:
 See the guidelines to submit your changes: 
 
 ### **Prepare your development environment**
-To start contributing with Tech-radar you first need to:
+To start contributing with Tech-Radar you first need to:
 - Install [**Go**](https://golang.org/dl/). The minimal version required to build is 1.17. 
 - Install [**Hugo**](https://gohugo.io/getting-started/installing/).
 

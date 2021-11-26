@@ -6,11 +6,11 @@ ring="Essential"
 type="post"
 layout="details"
 isNew="true"
-description="Kubernetes is a component of the Operator Framework. It is an open-source toolkit to manage native Kubernetes applications called Operators, in an efficient, automated, and scalable way."
+description="Kubernetes is a component of the Operator Framework. It is an open source toolkit to manage native Kubernetes applications called Operators, in an efficient, automated, and scalable way."
 +++
 
 {{% tabs/group %}}
-  {{% tabs/item id="0" title="What is it?" content="<p>Kubernetes is a component of the Operator Framework. It is an open-source toolkit to manage native Kubernetes applications called Operators, in an efficient, automated, and scalable way.</p>" %}}
+  {{% tabs/item id="0" title="What is it?" content="<p>Kubernetes is a component of the Operator Framework. It is an open source toolkit to manage native Kubernetes applications called Operators, in an efficient, automated, and scalable way.</p>" %}}
   
   {{% tabs/item id="1" title="Why?" content="<p>We use the Operator-SDK in the Horusec-Operator project to perform the installation of all Horusec-Platform web services in a Kubernetes cluster.</p>" %}}
   

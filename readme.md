@@ -1,4 +1,4 @@
-# **Tech radar**
+# **Tech-Radar**
 
 ## **Table of contents**
 1. [**What is Tech-Radar?**](#what-is-tech-radar?)
