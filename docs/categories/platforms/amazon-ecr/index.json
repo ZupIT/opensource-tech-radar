@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Amazon ECR",
+  "image" : "/images/platforms/aws-ecr.png",
+  "category" : "Platforms",
+  "description" : "O Amazon Elastic Container Registry (Amazon ECR) é um registro de contêiner totalmente gerenciado que facilita o armazenamento, o gerenciamento, o compartilhamento e a implantação de imagens e artefatos de contêiner em qualquer lugar.",
+  "ring" : "Strategic",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/amazon-ecr/",
+  "related": [
+    
+    
+      {
+        "name": "Appium",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/appium.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/appium/"
+      },
+    
+      {
+        "name": "Dart Programming Language",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/dart.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/dart/"
+      },
+    
+      {
+        "name": "Detekt",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/detekt.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/detekt/"
+      },
+    
+    {}
+  ]
+} 
+}

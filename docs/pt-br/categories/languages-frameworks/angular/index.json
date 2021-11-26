@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Angular",
+  "image" : "/images/languages-frameworks/angular.png",
+  "category" : "Linguagens e Frameworks",
+  "description" : "O Angular é um framework de código aberto usado para construir aplicativos para web baseados em uma única página dinâmica. Os desenvolvedores também usam essa ferramenta para criar menus animados para páginas de internet baseadas em HTML.",
+  "ring" : "Essencial",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/angular/",
+  "related": [
+    
+    
+      {
+        "name": "Cypress",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/cypress.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/cypress/"
+      },
+    
+      {
+        "name": "Flutter",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/flutter.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/flutter/"
+      },
+    
+      {
+        "name": "JUnit / MockK / Robolectric",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/junit.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/junit/"
+      },
+    
+    {}
+  ]
+} 
+}

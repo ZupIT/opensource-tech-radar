@@ -10,13 +10,6 @@
     
     
       {
-        "name": "Allure",
-        "ring": "Potential",
-        "image": "/images/languages-frameworks/allure.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/allure/"
-      },
-    
-      {
         "name": "Docker-SDK",
         "ring": "Potential",
         "image": "/images/languages-frameworks/docker.png",

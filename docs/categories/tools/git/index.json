@@ -3,31 +3,31 @@
   "name": "Git",
   "image" : "/images/tools/git.png",
   "category" : "Tools",
-  "description" : "It is a distributed version control system, used to register the history of edits in any type of file.",
+  "description" : "Git é um sistema de controle de versões distribuído, que é usado para registrar o histórico de edições de qualquer tipo de arquivo.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/tools/git/",
   "related": [
     
     
       {
-        "name": "Go",
+        "name": "Appium",
         "ring": "Strategic",
-        "image": "/images/languages-frameworks/go.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/go/"
+        "image": "/images/languages-frameworks/appium.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/appium/"
       },
     
       {
-        "name": "Horusec Engine",
+        "name": "Dart Programming Language",
         "ring": "Strategic",
-        "image": "/images/languages-frameworks/horusec.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/horusec/"
+        "image": "/images/languages-frameworks/dart.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/dart/"
       },
     
       {
-        "name": "JavaScript",
+        "name": "Detekt",
         "ring": "Strategic",
-        "image": "/images/languages-frameworks/js.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/javascript/"
+        "image": "/images/languages-frameworks/detekt.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/detekt/"
       },
     
     {}

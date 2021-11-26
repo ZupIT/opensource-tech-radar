@@ -1,33 +1,33 @@
 {
   "data" :  {
-  "name": "Horusec Engine",
+  "name": "Horusec",
   "image" : "/images/languages-frameworks/horusec.png",
-  "category" : "Languages-Frameworks",
-  "description" : "Horusec is an autonomous SAST engine used by the Horusec project. Its purpose is to provide baseline functionality and the basic building blocks for you to build your own SAST tool.",
+  "category" : "Languages and Frameworks",
+  "description" : "O Horusec é uma ferramenta open source que realiza análise estática de códigos para identificar falhas de segurança durante o processo de desenvolvimento.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/horusec/",
   "related": [
     
     
       {
-        "name": "Go",
+        "name": "Appium",
         "ring": "Strategic",
-        "image": "/images/languages-frameworks/go.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/go/"
+        "image": "/images/languages-frameworks/appium.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/appium/"
       },
     
       {
-        "name": "JavaScript",
+        "name": "Dart Programming Language",
         "ring": "Strategic",
-        "image": "/images/languages-frameworks/js.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/javascript/"
+        "image": "/images/languages-frameworks/dart.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/dart/"
       },
     
       {
-        "name": "Typescript",
+        "name": "Detekt",
         "ring": "Strategic",
-        "image": "/images/languages-frameworks/typescript.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/typescript/"
+        "image": "/images/languages-frameworks/detekt.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/detekt/"
       },
     
     {}

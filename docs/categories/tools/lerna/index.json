@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Lerna",
+  "image" : "/images/default-logo.png",
+  "category" : "Tools",
+  "description" : "Ferramenta que ajuda no gerenciamento de projetos JavaScript com múltiplos pacotes.",
+  "ring" : "Strategic",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/tools/lerna/",
+  "related": [
+    
+    
+      {
+        "name": "Appium",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/appium.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/appium/"
+      },
+    
+      {
+        "name": "Dart Programming Language",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/dart.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/dart/"
+      },
+    
+      {
+        "name": "Detekt",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/detekt.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/detekt/"
+      },
+    
+    {}
+  ]
+} 
+}

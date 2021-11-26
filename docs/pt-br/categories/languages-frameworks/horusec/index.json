@@ -1,33 +1,33 @@
 {
   "data" :  {
-  "name": "Horusec Engine",
+  "name": "Horusec",
   "image" : "/images/languages-frameworks/horusec.png",
-  "category" : "Languages-Frameworks",
-  "description" : "Horusec é um motor SAST autônomo usado pelo projeto Horusec. O objetivo dele é fornecer uma funcionalidade de linha de base e os blocos de construção básicos para você construir sua própria ferramenta SAST.",
-  "ring" : "Strategic",
+  "category" : "Linguagens e Frameworks",
+  "description" : "O Horusec é uma ferramenta open source que realiza análise estática de códigos para identificar falhas de segurança durante o processo de desenvolvimento.",
+  "ring" : "Estratégico",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/horusec/",
   "related": [
     
     
       {
-        "name": "Docker SDK",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/docker.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/docker/"
+        "name": "Appium",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/appium.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/appium/"
       },
     
       {
-        "name": "Go",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/go.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/go/"
+        "name": "Dart Programming Language",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/dart.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/dart/"
       },
     
       {
-        "name": "JavaScript",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/js.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/javascript/"
+        "name": "Detekt",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/detekt.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/detekt/"
       },
     
     {}

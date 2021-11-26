@@ -2,32 +2,32 @@
   "data" :  {
   "name": "Kotlin",
   "image" : "/images/languages-frameworks/kotlin.png",
-  "category" : "Languages-Frameworks",
-  "description" : "<no value>",
+  "category" : "Languages and Frameworks",
+  "description" : "Kotlin é uma Linguagem de programação multiplataforma desenvolvida pela JetBrains em 2011. É orientada a objetos e funcional, concisa e estaticamente tipada, que compila para a Máquina virtual Java e que também pode ser traduzida para a linguagem JavaScript e compilada para código nativo.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/kotlin/",
   "related": [
     
     
       {
-        "name": "React",
+        "name": "Appium",
         "ring": "Strategic",
-        "image": "/images/languages-frameworks/react.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/react/"
+        "image": "/images/languages-frameworks/appium.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/appium/"
       },
     
       {
-        "name": "Spock",
+        "name": "Dart Programming Language",
         "ring": "Strategic",
-        "image": "/images/languages-frameworks/java.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/spock/"
+        "image": "/images/languages-frameworks/dart.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/dart/"
       },
     
       {
-        "name": "Swift",
+        "name": "Detekt",
         "ring": "Strategic",
-        "image": "/images/languages-frameworks/swift.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/swift/"
+        "image": "/images/languages-frameworks/detekt.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/detekt/"
       },
     
     {}

@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Decorator",
+  "image" : "/images/default-logo.png",
+  "category" : "Techniques",
+  "description" : "É um padrão de design estrutural que permite anexar novos comportamentos a objetos, colocando esses objetos dentro de objetos de invólucro especiais que contêm esses comportamentos.",
+  "ring" : "Essential",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/techniques/decorator/",
+  "related": [
+    
+    
+      {
+        "name": "Angular",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/angular.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/angular/"
+      },
+    
+      {
+        "name": "Cypress",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/cypress.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/cypress/"
+      },
+    
+      {
+        "name": "Enry",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/enry.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/enry/"
+      },
+    
+    {}
+  ]
+} 
+}

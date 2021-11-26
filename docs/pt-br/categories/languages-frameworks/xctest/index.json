@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "XCTest / SnapshotTesting",
+  "image" : "/images/languages-frameworks/xctest.png",
+  "category" : "Linguagens e Frameworks",
+  "description" : "Bibliotecas de testes unitários implementados em aplicações iOS.",
+  "ring" : "Essencial",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/xctest/",
+  "related": [
+    
+    
+      {
+        "name": "Angular",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/angular.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/angular/"
+      },
+    
+      {
+        "name": "Cypress",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/cypress.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/cypress/"
+      },
+    
+      {
+        "name": "Flutter",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/flutter.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/flutter/"
+      },
+    
+    {}
+  ]
+} 
+}

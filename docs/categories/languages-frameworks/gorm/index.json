@@ -10,24 +10,24 @@
     
     
       {
+        "name": "Angular",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/angular.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/angular/"
+      },
+    
+      {
+        "name": "Cypress",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/cypress.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/cypress/"
+      },
+    
+      {
         "name": "Enry",
         "ring": "Essential",
         "image": "/images/languages-frameworks/enry.png",
         "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/enry/"
-      },
-    
-      {
-        "name": "GRPC",
-        "ring": "Essential",
-        "image": "/images/languages-frameworks/grpc.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/grpc/"
-      },
-    
-      {
-        "name": "Kubernetes",
-        "ring": "Essential",
-        "image": "/images/languages-frameworks/kubernetes.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/kubernetes/"
       },
     
     {}

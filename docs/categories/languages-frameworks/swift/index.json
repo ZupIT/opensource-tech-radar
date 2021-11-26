@@ -2,32 +2,32 @@
   "data" :  {
   "name": "Swift",
   "image" : "/images/languages-frameworks/swift.png",
-  "category" : "Languages-Frameworks",
-  "description" : "<no value>",
+  "category" : "Languages and Frameworks",
+  "description" : "Swift é uma linguagem de programação desenvolvida pela Apple para desenvolvimento no iOS, macOS, watchOS, tvOS e Linux. Swift foi desenvolvida para manter compatibilidade com a API Cocoa e com código existente em Objective-C.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/swift/",
   "related": [
     
     
       {
-        "name": "React",
+        "name": "Appium",
         "ring": "Strategic",
-        "image": "/images/languages-frameworks/react.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/react/"
+        "image": "/images/languages-frameworks/appium.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/appium/"
       },
     
       {
-        "name": "Spock",
+        "name": "Dart Programming Language",
         "ring": "Strategic",
-        "image": "/images/languages-frameworks/java.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/spock/"
+        "image": "/images/languages-frameworks/dart.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/dart/"
       },
     
       {
-        "name": "Android",
+        "name": "Detekt",
         "ring": "Strategic",
-        "image": "/images/platforms/android.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/android/"
+        "image": "/images/languages-frameworks/detekt.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/detekt/"
       },
     
     {}

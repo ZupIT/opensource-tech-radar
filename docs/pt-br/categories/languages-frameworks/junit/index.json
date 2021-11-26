@@ -1,33 +1,33 @@
 {
   "data" :  {
-  "name": "JUnit 5",
-  "image" : "/images/languages-frameworks/junit-5.png",
-  "category" : "Languages-Frameworks",
-  "description" : "<no value>",
+  "name": "JUnit / MockK / Robolectric",
+  "image" : "/images/languages-frameworks/junit.png",
+  "category" : "Linguagens e Frameworks",
+  "description" : "Bibliotecas de testes unitários implementados em aplicações Android. O JUnit e MockK também são utilizados em testes no Backend.",
   "ring" : "Essencial",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/junit/",
   "related": [
     
     
       {
-        "name": "Java",
+        "name": "Angular",
         "ring": "Essencial",
-        "image": "/images/languages-frameworks/java.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/java/"
+        "image": "/images/languages-frameworks/angular.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/angular/"
       },
     
       {
-        "name": "Quarkus",
+        "name": "Cypress",
         "ring": "Essencial",
-        "image": "/images/languages-frameworks/quarkus.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/quarkus/"
+        "image": "/images/languages-frameworks/cypress.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/cypress/"
       },
     
       {
-        "name": "Spring",
+        "name": "Flutter",
         "ring": "Essencial",
-        "image": "/images/languages-frameworks/spring.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/spring/"
+        "image": "/images/languages-frameworks/flutter.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/flutter/"
       },
     
     {}

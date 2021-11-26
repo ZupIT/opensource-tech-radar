@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Cocoa Pods",
+  "image" : "/images/platforms/cocoa-pods.png",
+  "category" : "Plataformas",
+  "description" : "CocoaPods é um gerenciador de dependências para projetos Swift e Objective-C Cocoa.",
+  "ring" : "Essencial",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/cocoa-pods/",
+  "related": [
+    
+    
+      {
+        "name": "Angular",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/angular.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/angular/"
+      },
+    
+      {
+        "name": "Cypress",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/cypress.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/cypress/"
+      },
+    
+      {
+        "name": "Flutter",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/flutter.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/flutter/"
+      },
+    
+    {}
+  ]
+} 
+}

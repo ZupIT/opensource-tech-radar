@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Appium",
+  "image" : "/images/languages-frameworks/appium.png",
+  "category" : "Linguagens e Frameworks",
+  "description" : "O Appium automatiza uma estrutura de teste de qualquer aplicativo móvel de qualquer linguagem, com acesso total a APIs e bancos de dados de back-end a partir do código de teste.",
+  "ring" : "Estratégico",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/appium/",
+  "related": [
+    
+    
+      {
+        "name": "Dart Programming Language",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/dart.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/dart/"
+      },
+    
+      {
+        "name": "Detekt",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/detekt.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/detekt/"
+      },
+    
+      {
+        "name": "GRPC",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/grpc.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/grpc/"
+      },
+    
+    {}
+  ]
+} 
+}

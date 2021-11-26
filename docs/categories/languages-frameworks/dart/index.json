@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Dart Programming Language",
+  "image" : "/images/languages-frameworks/dart.png",
+  "category" : "Languages and Frameworks",
+  "description" : "Linguagem de programação otimizada para o desenvolvimento de aplicações multi-plataforma.",
+  "ring" : "Strategic",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/dart/",
+  "related": [
+    
+    
+      {
+        "name": "Appium",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/appium.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/appium/"
+      },
+    
+      {
+        "name": "Detekt",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/detekt.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/detekt/"
+      },
+    
+      {
+        "name": "Go",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/go.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/go/"
+      },
+    
+    {}
+  ]
+} 
+}

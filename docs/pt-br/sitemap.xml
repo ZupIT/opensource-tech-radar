@@ -101,72 +101,86 @@
   </url>
   
   <url>
-    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/allure/</loc>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/angular/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/allure/"
+                href="https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/angular/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/allure/"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/angular/"
                 />
   </url>
   
   <url>
-    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/docker/</loc>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/appium/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/docker/"
+                href="https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/appium/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/docker/"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/appium/"
                 />
   </url>
   
   <url>
-    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/enry/</loc>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/cypress/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/enry/"
+                href="https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/cypress/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/enry/"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/cypress/"
                 />
   </url>
   
   <url>
-    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/go/</loc>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/dart/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/go/"
+                href="https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/dart/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/go/"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/dart/"
                 />
   </url>
   
   <url>
-    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/gorm/</loc>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/detekt/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/gorm/"
+                href="https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/detekt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/gorm/"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/detekt/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/flutter/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/flutter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/flutter/"
                 />
   </url>
   
@@ -199,30 +213,72 @@
   </url>
   
   <url>
-    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/javascript/</loc>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/jest/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/javascript/"
+                href="https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/jest/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/javascript/"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/jest/"
                 />
   </url>
   
   <url>
-    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/kubernetes/</loc>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/junit/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/kubernetes/"
+                href="https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/junit/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/kubernetes/"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/junit/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/kotlin-coroutines/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/kotlin-coroutines/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/kotlin-coroutines/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/kotlin/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/kotlin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/kotlin/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/micronaut/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/micronaut/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/micronaut/"
                 />
   </url>
   
@@ -241,6 +297,34 @@
   </url>
   
   <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/spring-boot/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/spring-boot/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/spring-boot/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/swift/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/swift/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/swift/"
+                />
+  </url>
+  
+  <url>
     <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/typescript/</loc>
     <xhtml:link
                 rel="alternate"
@@ -255,23 +339,115 @@
   </url>
   
   <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/xctest/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/xctest/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/xctest/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/yoga/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/yoga/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/yoga/"
+                />
+  </url>
+  
+  <url>
     <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/amazon-cloud-front/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/platforms/amazon-cloud-front/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/amazon-cloud-front/"
+                />
   </url>
   
   <url>
     <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/amazon-cloud-watch/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/platforms/amazon-cloud-watch/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/amazon-cloud-watch/"
+                />
   </url>
   
   <url>
     <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/amazon-codebuild/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/platforms/amazon-codebuild/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/amazon-codebuild/"
+                />
   </url>
   
   <url>
     <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/amazon-ecr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/platforms/amazon-ecr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/amazon-ecr/"
+                />
   </url>
   
   <url>
     <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/amazon-s3/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/platforms/amazon-s3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/amazon-s3/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/cocoa-pods/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/platforms/cocoa-pods/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/cocoa-pods/"
+                />
   </url>
   
   <url>
@@ -290,6 +466,58 @@
   
   <url>
     <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/iam/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/platforms/iam/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/iam/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/maven/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/platforms/maven/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/maven/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/npm/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/platforms/npm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/npm/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/pubdev/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/platforms/pubdev/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/pubdev/"
+                />
   </url>
   
   <url>
@@ -307,58 +535,86 @@
   </url>
   
   <url>
-    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/cd/</loc>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/cicd/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zupit.github.io/opensource-tech-radar/categories/techniques/cd/"
+                href="https://zupit.github.io/opensource-tech-radar/categories/techniques/cicd/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/cd/"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/cicd/"
                 />
   </url>
   
   <url>
-    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/ic/</loc>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/composite/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zupit.github.io/opensource-tech-radar/categories/techniques/ic/"
+                href="https://zupit.github.io/opensource-tech-radar/categories/techniques/composite/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/ic/"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/composite/"
                 />
   </url>
   
   <url>
-    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/microfrontend/</loc>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/concurrence/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zupit.github.io/opensource-tech-radar/categories/techniques/microfrontend/"
+                href="https://zupit.github.io/opensource-tech-radar/categories/techniques/concurrence/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/microfrontend/"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/concurrence/"
                 />
   </url>
   
   <url>
-    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/microservices/</loc>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/decorator/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zupit.github.io/opensource-tech-radar/categories/techniques/microservices/"
+                href="https://zupit.github.io/opensource-tech-radar/categories/techniques/decorator/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/microservices/"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/decorator/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/functional-programming/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/techniques/functional-programming/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/functional-programming/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/micro-services/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/techniques/micro-services/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/micro-services/"
                 />
   </url>
   
@@ -377,16 +633,44 @@
   </url>
   
   <url>
-    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/visitor/</loc>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/websocket/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zupit.github.io/opensource-tech-radar/categories/techniques/visitor/"
+                href="https://zupit.github.io/opensource-tech-radar/categories/techniques/websocket/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/visitor/"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/websocket/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/android-studio/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/tools/android-studio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/android-studio/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/eslint/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/tools/eslint/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/eslint/"
                 />
   </url>
   
@@ -415,6 +699,132 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/helm/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/husky/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/tools/husky/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/husky/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/intellij/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/tools/intellij/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/intellij/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/lerna/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/tools/lerna/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/lerna/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/moshi/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/tools/moshi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/moshi/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/nock/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/tools/nock/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/nock/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/node-fetch/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/tools/node-fetch/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/node-fetch/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/nodemon/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/tools/nodemon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/nodemon/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/visual-studio-code/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/tools/visual-studio-code/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/visual-studio-code/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/xcode/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/tools/xcode/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/xcode/"
                 />
   </url>
   
@@ -471,6 +881,20 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="https://zupit.github.io/opensource-tech-radar/pt-br/csv/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/tools/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/"
                 />
   </url>
   
@@ -555,20 +979,6 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zupit.github.io/opensource-tech-radar/categories/tools/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/"
                 />
   </url>
   

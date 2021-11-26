@@ -2,32 +2,32 @@
   "data" :  {
   "name": "Amazon ECR",
   "image" : "/images/platforms/aws-ecr.png",
-  "category" : "Platforms",
+  "category" : "Plataformas",
   "description" : "O Amazon Elastic Container Registry (Amazon ECR) é um registro de contêiner totalmente gerenciado que facilita o armazenamento, o gerenciamento, o compartilhamento e a implantação de imagens e artefatos de contêiner em qualquer lugar.",
-  "ring" : "Strategic",
+  "ring" : "Estratégico",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/amazon-ecr/",
   "related": [
     
     
       {
-        "name": "Docker SDK",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/docker.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/docker/"
+        "name": "Appium",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/appium.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/appium/"
       },
     
       {
-        "name": "Go",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/go.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/go/"
+        "name": "Dart Programming Language",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/dart.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/dart/"
       },
     
       {
-        "name": "Horusec Engine",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/horusec.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/horusec/"
+        "name": "Detekt",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/detekt.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/detekt/"
       },
     
     {}

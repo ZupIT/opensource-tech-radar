@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Yoga",
+  "image" : "/images/languages-frameworks/yoga.png",
+  "category" : "Languages and Frameworks",
+  "description" : "É um motor de layout responsável por posicionar elementos em tela e criar layouts flexíveis em qualquer plataforma com um mecanismo de layout de código aberto altamente otimizado, projetado para velocidade, tamanho e facilidade de uso.",
+  "ring" : "Essential",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/yoga/",
+  "related": [
+    
+    
+      {
+        "name": "Angular",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/angular.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/angular/"
+      },
+    
+      {
+        "name": "Cypress",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/cypress.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/cypress/"
+      },
+    
+      {
+        "name": "Enry",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/enry.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/enry/"
+      },
+    
+    {}
+  ]
+} 
+}

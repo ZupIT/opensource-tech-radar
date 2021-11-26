@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Spring Boot",
+  "image" : "/images/languages-frameworks/spring-boot.png",
+  "category" : "Languages and Frameworks",
+  "description" : "O Spring é um dos frameworks Java mais conhecidos e utilizados. Trata-se de um ecossistema de desenvolvimento que facilita a criação de aplicações Java utilizando diversos módulos independentes.",
+  "ring" : "Strategic",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/spring-boot/",
+  "related": [
+    
+    
+      {
+        "name": "Appium",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/appium.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/appium/"
+      },
+    
+      {
+        "name": "Dart Programming Language",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/dart.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/dart/"
+      },
+    
+      {
+        "name": "Detekt",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/detekt.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/detekt/"
+      },
+    
+    {}
+  ]
+} 
+}

@@ -3,31 +3,31 @@
   "name": "Shortcut",
   "image" : "/images/platforms/shortcut.png",
   "category" : "Platforms",
-  "description" : "Shortcut is a project management tool created specifically for software development teams. It offers a simple interface in Kanban style, contributing with an uncomplicated experience for better team collaboration.",
+  "description" : "Shortcut é uma ferramenta de gerenciamento de projeto projetada especificamente para equipes de desenvolvimento de software. Com uma interface simples no estilo Kanban, ele oferece uma experiência descomplicada para uma melhor colaboração em equipe.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/shortcut/",
   "related": [
     
     
       {
-        "name": "Go",
+        "name": "Appium",
         "ring": "Strategic",
-        "image": "/images/languages-frameworks/go.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/go/"
+        "image": "/images/languages-frameworks/appium.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/appium/"
       },
     
       {
-        "name": "Horusec Engine",
+        "name": "Dart Programming Language",
         "ring": "Strategic",
-        "image": "/images/languages-frameworks/horusec.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/horusec/"
+        "image": "/images/languages-frameworks/dart.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/dart/"
       },
     
       {
-        "name": "JavaScript",
+        "name": "Detekt",
         "ring": "Strategic",
-        "image": "/images/languages-frameworks/js.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/javascript/"
+        "image": "/images/languages-frameworks/detekt.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/detekt/"
       },
     
     {}

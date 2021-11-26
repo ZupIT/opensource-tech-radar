@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Detekt",
+  "image" : "/images/languages-frameworks/detekt.png",
+  "category" : "Languages and Frameworks",
+  "description" : "O detekt é uma ferramenta de análise de código estático para a linguagem de programação Kotlin. Ele opera na árvore de sintaxe abstrata fornecida pelo compilador Kotlin.",
+  "ring" : "Strategic",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/detekt/",
+  "related": [
+    
+    
+      {
+        "name": "Appium",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/appium.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/appium/"
+      },
+    
+      {
+        "name": "Dart Programming Language",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/dart.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/dart/"
+      },
+    
+      {
+        "name": "Go",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/go.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/go/"
+      },
+    
+    {}
+  ]
+} 
+}

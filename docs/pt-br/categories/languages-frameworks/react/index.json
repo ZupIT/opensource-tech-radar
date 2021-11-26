@@ -2,32 +2,32 @@
   "data" :  {
   "name": "React",
   "image" : "/images/languages-frameworks/react.png",
-  "category" : "Languages-Frameworks",
-  "description" : "React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web. É mantido pelo Facebook, Instagram, além de outras empresas e uma comunidade de desenvolvedores individuais.",
-  "ring" : "Essential",
+  "category" : "Linguagens e Frameworks",
+  "description" : "O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web. É mantido pelo Facebook, Instagram, outras empresas e uma comunidade de desenvolvedores individuais.",
+  "ring" : "Essencial",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/react/",
   "related": [
     
     
       {
-        "name": "Enry",
-        "ring": "Essential",
-        "image": "/images/languages-frameworks/enry.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/enry/"
+        "name": "Angular",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/angular.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/angular/"
       },
     
       {
-        "name": "GORM",
-        "ring": "Essential",
-        "image": "/images/languages-frameworks/gorm.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/gorm/"
+        "name": "Cypress",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/cypress.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/cypress/"
       },
     
       {
-        "name": "GRPC",
-        "ring": "Essential",
-        "image": "/images/languages-frameworks/grpc.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/grpc/"
+        "name": "Flutter",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/flutter.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/flutter/"
       },
     
     {}

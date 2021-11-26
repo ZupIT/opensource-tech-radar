@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "WebSocket",
+  "image" : "/images/techniques/websocket.png",
+  "category" : "Techniques",
+  "description" : "Permite a criação de uma conexão bidirecional e persistente que se mantém aberta, cliente e servidor podem então trocar mensagens a qualquer momento. ",
+  "ring" : "Essential",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/techniques/websocket/",
+  "related": [
+    
+    
+      {
+        "name": "Angular",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/angular.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/angular/"
+      },
+    
+      {
+        "name": "Cypress",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/cypress.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/cypress/"
+      },
+    
+      {
+        "name": "Enry",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/enry.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/enry/"
+      },
+    
+    {}
+  ]
+} 
+}

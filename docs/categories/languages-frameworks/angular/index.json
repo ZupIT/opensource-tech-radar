@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Angular",
+  "image" : "/images/languages-frameworks/angular.png",
+  "category" : "Languages and Frameworks",
+  "description" : "O Angular é um framework de código aberto usado para construir aplicativos para web baseados em uma única página dinâmica. Os desenvolvedores também usam essa ferramenta para criar menus animados para páginas de internet baseadas em HTML.",
+  "ring" : "Essential",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/angular/",
+  "related": [
+    
+    
+      {
+        "name": "Cypress",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/cypress.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/cypress/"
+      },
+    
+      {
+        "name": "Enry",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/enry.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/enry/"
+      },
+    
+      {
+        "name": "Flutter",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/flutter.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/flutter/"
+      },
+    
+    {}
+  ]
+} 
+}

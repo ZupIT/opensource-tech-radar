@@ -1,33 +1,33 @@
 {
   "data" :  {
-  "name": "Typescript",
+  "name": "TypeScript",
   "image" : "/images/languages-frameworks/typescript.png",
-  "category" : "Languages-Frameworks",
-  "description" : "Typescript is an open source programming language developed by Microsoft, It is a strit syntactic superset of JavaScript and adds optional static typing to the language.",
+  "category" : "Languages and Frameworks",
+  "description" : "TypeScript é uma linguagem de programação de código aberto desenvolvida pela Microsoft. É um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/typescript/",
   "related": [
     
     
       {
-        "name": "Go",
+        "name": "Appium",
         "ring": "Strategic",
-        "image": "/images/languages-frameworks/go.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/go/"
+        "image": "/images/languages-frameworks/appium.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/appium/"
       },
     
       {
-        "name": "Horusec Engine",
+        "name": "Dart Programming Language",
         "ring": "Strategic",
-        "image": "/images/languages-frameworks/horusec.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/horusec/"
+        "image": "/images/languages-frameworks/dart.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/dart/"
       },
     
       {
-        "name": "JavaScript",
+        "name": "Detekt",
         "ring": "Strategic",
-        "image": "/images/languages-frameworks/js.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/javascript/"
+        "image": "/images/languages-frameworks/detekt.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/detekt/"
       },
     
     {}

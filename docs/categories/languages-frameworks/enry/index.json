@@ -10,24 +10,24 @@
     
     
       {
-        "name": "GORM",
+        "name": "Angular",
         "ring": "Essential",
-        "image": "/images/languages-frameworks/gorm.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/gorm/"
+        "image": "/images/languages-frameworks/angular.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/angular/"
       },
     
       {
-        "name": "GRPC",
+        "name": "Cypress",
         "ring": "Essential",
-        "image": "/images/languages-frameworks/grpc.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/grpc/"
+        "image": "/images/languages-frameworks/cypress.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/cypress/"
       },
     
       {
-        "name": "Kubernetes",
+        "name": "Flutter",
         "ring": "Essential",
-        "image": "/images/languages-frameworks/kubernetes.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/kubernetes/"
+        "image": "/images/languages-frameworks/flutter.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/flutter/"
       },
     
     {}

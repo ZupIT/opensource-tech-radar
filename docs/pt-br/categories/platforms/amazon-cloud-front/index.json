@@ -2,32 +2,32 @@
   "data" :  {
   "name": "Amazon Cloud Front",
   "image" : "/images/platforms/aws-cloud-front.png",
-  "category" : "Platforms",
+  "category" : "Plataformas",
   "description" : "O Amazon CloudFront é um serviço rápido de rede de entrega de conteúdo (CDN) que entrega dados, vídeos, aplicações e APIs a clientes em todo o mundo com segurança, baixa latência e altas velocidades de transferência em um ambiente de uso facilitado para desenvolvedores. ",
-  "ring" : "Strategic",
+  "ring" : "Estratégico",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/amazon-cloud-front/",
   "related": [
     
     
       {
-        "name": "Docker SDK",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/docker.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/docker/"
+        "name": "Appium",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/appium.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/appium/"
       },
     
       {
-        "name": "Go",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/go.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/go/"
+        "name": "Dart Programming Language",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/dart.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/dart/"
       },
     
       {
-        "name": "Horusec Engine",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/horusec.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/horusec/"
+        "name": "Detekt",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/detekt.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/detekt/"
       },
     
     {}

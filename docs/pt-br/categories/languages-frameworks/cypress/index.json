@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Cypress",
+  "image" : "/images/languages-frameworks/cypress.png",
+  "category" : "Linguagens e Frameworks",
+  "description" : "Biblioteca de testes funcionais implementados em aplicações Web.",
+  "ring" : "Essencial",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/cypress/",
+  "related": [
+    
+    
+      {
+        "name": "Angular",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/angular.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/angular/"
+      },
+    
+      {
+        "name": "Flutter",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/flutter.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/flutter/"
+      },
+    
+      {
+        "name": "JUnit / MockK / Robolectric",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/junit.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/junit/"
+      },
+    
+    {}
+  ]
+} 
+}
