@@ -6,13 +6,13 @@ ring="Essential"
 type="post"
 layout="details"
 isNew="true"
-description="Uma ferramenta que ajuda nos processos de definição, configuração, instalação e atualização de aplicações em Kubernetes."
+description="It is a tool that helps in the processes of definition, configuration, installation and update of Kubernetes applications."
 +++
 
 {{% tabs/group %}}
-  {{% tabs/item id="0" title="What is it ?" content="<p>Uma ferramenta que ajuda nos processos de definição, configuração, instalação e atualização de aplicações em Kubernetes.</p>" %}}
+  {{% tabs/item id="0" title="What is it ?" content="<p>It is a tool that helps in the processes of definition, configuration, installation and update of Kubernetes applications.</p>" %}}
   
-  {{% tabs/item id="1" title="Why ?" content="<p>Usamos para disponibilizar a instalação da aplicação web (Horusec-Platform) através do Helm Chart.</p>" %}}
+  {{% tabs/item id="1" title="Why ?" content="<p>We use it to provide the installation of the web application (Horusec-Platform) through Helm Chart.</p>" %}}
   
   {{% tabs/item id="2" title="For who ?" content="<a href='https://horusec.io/site/'>Horusec</a><br />" %}}
 

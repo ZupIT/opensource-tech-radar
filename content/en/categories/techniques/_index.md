@@ -7,10 +7,10 @@ category="categories"
 image="/images/icons/lock-network.svg"
 +++
 
-# Tecnicas
+# Techniques
 
-# Ferramentas
+# Tools
 
-# Linguagens e Frameworks
+# Languages and Frameworks
 
-# Serviços
+# Services

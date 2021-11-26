@@ -3,7 +3,7 @@
   "name": "Typescript",
   "image" : "/images/languages-frameworks/typescript.png",
   "category" : "Languages-Frameworks",
-  "description" : "Typescript é uma linguagem de programação de código aberto desenvolvida pela Microsoft. É um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem.",
+  "description" : "Typescript is an open source programming language developed by Microsoft, It is a strit syntactic superset of JavaScript and adds optional static typing to the language.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/typescript/",
   "related": [

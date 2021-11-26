@@ -3,7 +3,7 @@
   "name": "Implantação Contínua",
   "image" : "/images/techiques/ic.png",
   "category" : "Platforms",
-  "description" : "Uma abordagem de Engenharia de Software em que as funcionalidades do software são entregues com frequência por meio de implantações automatizadas.",
+  "description" : "A Software Engineering approach in which software functionalitites are frequently delivered through automated deployments.",
   "ring" : "Techniques",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/techniques/cd/",
   "related": [

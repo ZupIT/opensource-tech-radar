@@ -3,7 +3,7 @@
   "name": "Enry",
   "image" : "/images/languages-frameworks/enry.png",
   "category" : "Languages-Frameworks",
-  "description" : "Enry é detector de linguagens de programação contidas em um projeto.",
+  "description" : "Enry is a detector of programming languages contained in a project.",
   "ring" : "Essential",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/enry/",
   "related": [
