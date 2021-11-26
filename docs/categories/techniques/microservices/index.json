@@ -3,7 +3,7 @@
   "name": "Microsserviços",
   "image" : "/images/techiques/microservices.png",
   "category" : "Techniques",
-  "description" : "Modelo de arquitetura no qual os serviços são refinados e os protocolos são leves e, por isso, são chamados de microsserviços. O objetivo é que as equipes possam levar seus serviços independentes dos outros.",
+  "description" : "MIt is an architecture model where the services are refined and the protocols are light, and that is why they are called microservices. The goal is for teams to be able to carry out their services independently of others.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/techniques/microservices/",
   "related": [
