@@ -6,15 +6,15 @@ ring="Strategic"
 type="post"
 layout="details"
 isNew="true"
-description="Implementação que permite a compatibilidade da API window.fetch em ambiente Node.js. "
+description="Implementation that allows the compatibility of window.fetch API in a Node.js environment."
 +++
 
 {{% tabs/group %}}
-  {{% tabs/item id="0" title="O que é?" content="<p>Implementação que permite a compatibilidade da API window.fetch em ambiente Node.js. </p>" %}}
+  {{% tabs/item id="0" title="What is it?" content="<p>Implementation that allows the compatibility of window.fetch API in a Node.js environment.</p>" %}}
   
-  {{% tabs/item id="1" title="Como utilizamos?" content="<p>Utilizado nas aplicações Web que precisam fazer uso das ações de fetch fora do navegador.</p>" %}}
+  {{% tabs/item id="1" title="Why?" content="<p>It is used in Web applications that have to make use of  the fetch actions outside the browser.</p>" %}}
   
-  {{% tabs/item id="2" title="Onde ?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a>" %}}
+  {{% tabs/item id="2" title="For who?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a>" %}}
 
-  {{% tabs/item id="3" title="Recursos" content="<a href='https://www.npmjs.com/package/node-fetch' target='_blank'>Material de estudo</a>" %}}
+  {{% tabs/item id="3" title="Resources" content="<a href='https://www.npmjs.com/package/node-fetch' target='_blank'>Documentation</a>" %}}
 {{% /tabs/group %}}

@@ -6,15 +6,15 @@ ring="Strategic"
 type="post"
 layout="details"
 isNew="false"
-description="O Spring é um dos frameworks Java mais conhecidos e utilizados. Trata-se de um ecossistema de desenvolvimento que facilita a criação de aplicações Java utilizando diversos módulos independentes."
+description="Spring is one of the best-known and most used Java frameworks. It is a development ecosystem that makes it easier to create Java applications using different independent modules."
 +++
 
 {{% tabs/group %}}
-  {{% tabs/item id="0" title="O que é?" content="<p>O Spring é um dos frameworks Java mais conhecidos e utilizados. Trata-se de um ecossistema de desenvolvimento que facilita a criação de aplicações Java utilizando diversos módulos independentes.</p>" %}}
+  {{% tabs/item id="0" title="What is it?" content="<p>Spring is one of the best-known and most used Java frameworks. It is a development ecosystem that makes it easier to create Java applications using different independent modules.</p>" %}}
 
-  {{% tabs/item id="1" title="Como utilizamos?" content="<p>É integrado na configuração automática de projetos Beagle backend que escolhem usar como base o Spring.</p>" %}}
+  {{% tabs/item id="1" title="Why?" content="<p>It is integrated with the automatic configuration of Beagle’s backend projects that choose to use Spring as a basis.</p>" %}}
 
-  {{% tabs/item id="2" title="Onde ?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a>" %}}
+  {{% tabs/item id="2" title="For who?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a>" %}}
 
-  {{% tabs/item id="3" title="Recursos" content="<a href='https://spring.io/' target='_blank'>Material de estudo</a>" %}}
+  {{% tabs/item id="3" title="Resources" content="<a href='https://spring.io/' target='_blank'>Home</a>" %}}
 {{% /tabs/group %}}

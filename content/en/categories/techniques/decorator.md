@@ -6,15 +6,15 @@ ring="Essential"
 type="post"
 layout="details"
 isNew="true"
-description="É um padrão de design estrutural que permite anexar novos comportamentos a objetos, colocando esses objetos dentro de objetos de invólucro especiais que contêm esses comportamentos."
+description="It is a structural design pattern that allows attaching new behaviors to objects, by placing these objects inside special wrapping objects that contain these behaviors."
 +++
 
 {{% tabs/group %}}
-  {{% tabs/item id="0" title="O que é?" content="<p>É um padrão de design estrutural que permite anexar novos comportamentos a objetos, colocando esses objetos dentro de objetos de invólucro especiais que contêm esses comportamentos.</p>" %}}
+  {{% tabs/item id="0" title="What is it?" content="<p>It is a structural design pattern that allows attaching new behaviors to objects, by placing these objects inside special wrapping objects that contain these behaviors.</p>" %}}
   
-  {{% tabs/item id="1" title="Como utilizamos?" content="<p>É utilizado no componente Touchable do Beagle. Esse componente torna a view filha em uma view clicável.</p>" %}}
+  {{% tabs/item id="1" title="Why?" content="<p>It is used in the Beagle component, Touchable. This component turns a child view into a clickable view.</p>" %}}
   
-  {{% tabs/item id="2" title="Onde ?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a>" %}}
+  {{% tabs/item id="2" title="For who?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a>" %}}
 
-  {{% tabs/item id="3" title="Recursos" content="<a href='https://refactoring.guru/design-patterns/decorator' target='_blank'>Material de estudo</a>" %}}
+  {{% tabs/item id="3" title="Resources" content="<a href='https://refactoring.guru/design-patterns/decorator' target='_blank'>Documentation</a>" %}}
 {{% /tabs/group %}}

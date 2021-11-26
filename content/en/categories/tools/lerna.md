@@ -6,15 +6,15 @@ ring="Strategic"
 type="post"
 layout="details"
 isNew="true"
-description="Ferramenta que ajuda no gerenciamento de projetos JavaScript com múltiplos pacotes."
+description="Tool that helps manage JavaScript projects with multiple packages."
 +++
 
 {{% tabs/group %}}
-  {{% tabs/item id="0" title="O que é?" content="<p>Ferramenta que ajuda no gerenciamento de projetos JavaScript com múltiplos pacotes.</p>" %}}
+  {{% tabs/item id="0" title="What is it?" content="<p>Tool that helps manage JavaScript projects with multiple packages.</p>" %}}
   
-  {{% tabs/item id="1" title="Como utilizamos?" content="<p>Os projetos Beagle React e Beagle React Native compartilham um mesmo módulo em comum. Utilizamos o Lerna para o gerenciamento desses três pacotes.</p>" %}}
+  {{% tabs/item id="1" title="Why?" content="<p>The Beagle React and Beagle React Native projects share the same common module. We use Lerna to manage these three packages.</p>" %}}
   
-  {{% tabs/item id="2" title="Onde ?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a>" %}}
+  {{% tabs/item id="2" title="For who?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a>" %}}
 
-  {{% tabs/item id="3" title="Recursos" content="<a href='https://github.com/lerna/lerna' target='_blank'>Material de estudo</a>" %}}
+  {{% tabs/item id="3" title="Resources" content="<a href='https://github.com/lerna/lerna' target='_blank'>Home</a>" %}}
 {{% /tabs/group %}}
