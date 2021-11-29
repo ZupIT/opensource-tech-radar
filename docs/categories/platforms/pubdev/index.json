@@ -3,7 +3,7 @@
   "name": "Pubdev",
   "image" : "/images/platforms/pubdev.png",
   "category" : "Platforms",
-  "description" : "O pub.dev é um repositório de pacotes para aplicações Dart e Flutter.",
+  "description" : "The pub.dev is a package repository for Dart and Flutter.",
   "ring" : "Essential",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/pubdev/",
   "related": [

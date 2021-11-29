@@ -3,7 +3,7 @@
   "name": "CI/CD",
   "image" : "/images/default-logo.png",
   "category" : "Techniques",
-  "description" : "CI/CD, continuous integration/continuous delivery, é um método para entregar aplicações com frequência aos clientes. Para isso, é aplicada a automação nas etapas do desenvolvimento de aplicações. Os principais conceitos atribuídos a esse método são integração, entrega e implantação contínuas. Com o CI/CD, é possível solucionar os problemas que a integração de novos códigos pode causar para as equipes de operações e desenvolvimento (o famoso 'inferno de integração').",
+  "description" : "CI/CD, continuous integration/continuous delivery, is a method to frequently deliver applications to clients. For this, automation is applied in the application development stages. The main concepts attributed to this method are continuous integration, delivery, and deployment. With CI/CD it is possible to troubleshoot problems that the integration of new codes can cause to the operation and development teams (the famous "Integration Hell")",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/techniques/cicd/",
   "related": [

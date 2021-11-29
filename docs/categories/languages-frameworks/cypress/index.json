@@ -3,7 +3,7 @@
   "name": "Cypress",
   "image" : "/images/languages-frameworks/cypress.png",
   "category" : "Languages and Frameworks",
-  "description" : "Biblioteca de testes funcionais implementados em aplicações Web.",
+  "description" : "Library of functional tests implemented in Web applications.",
   "ring" : "Essential",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/cypress/",
   "related": [

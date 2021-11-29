@@ -3,7 +3,7 @@
   "name": "Amazon ECR",
   "image" : "/images/platforms/aws-ecr.png",
   "category" : "Platforms",
-  "description" : "O Amazon Elastic Container Registry (Amazon ECR) é um registro de contêiner totalmente gerenciado que facilita o armazenamento, o gerenciamento, o compartilhamento e a implantação de imagens e artefatos de contêiner em qualquer lugar.",
+  "description" : "Amazon Elastic Container Registry (Amazon ECR)  is a  managed container registry. It is easier to store, manage, and deploy images and container artifacts anywhere.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/amazon-ecr/",
   "related": [

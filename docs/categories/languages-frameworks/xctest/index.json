@@ -3,7 +3,7 @@
   "name": "XCTest / SnapshotTesting",
   "image" : "/images/languages-frameworks/xctest.png",
   "category" : "Languages and Frameworks",
-  "description" : "Bibliotecas de testes unitários implementados em aplicações iOS.",
+  "description" : "Unitary test libraries implemented in iOS applications.",
   "ring" : "Essential",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/xctest/",
   "related": [

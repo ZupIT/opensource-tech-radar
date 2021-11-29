@@ -3,7 +3,7 @@
   "name": "Micronaut",
   "image" : "/images/languages-frameworks/micronaut.png",
   "category" : "Languages and Frameworks",
-  "description" : "Framework para criação de serviços baseados em Java, Kotlin ou Groovy.",
+  "description" : "It is a framework to create services based on Java, Kotlin, or Groovy.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/micronaut/",
   "related": [

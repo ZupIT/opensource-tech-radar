@@ -3,7 +3,7 @@
   "name": "JUnit / MockK / Robolectric",
   "image" : "/images/languages-frameworks/junit.png",
   "category" : "Languages and Frameworks",
-  "description" : "Bibliotecas de testes unitários implementados em aplicações Android. O JUnit e MockK também são utilizados em testes no Backend.",
+  "description" : "Unitary test libraries implemented in Android applications. JUnit and MockK are also used in Backend tests.",
   "ring" : "Essential",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/junit/",
   "related": [

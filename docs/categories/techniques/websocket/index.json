@@ -3,7 +3,7 @@
   "name": "WebSocket",
   "image" : "/images/techniques/websocket.png",
   "category" : "Techniques",
-  "description" : "Permite a criação de uma conexão bidirecional e persistente que se mantém aberta, cliente e servidor podem então trocar mensagens a qualquer momento. ",
+  "description" : "It allows the creation of a bidirectional and persistent connection that remains open, then client and server can exchange messages at any time.",
   "ring" : "Essential",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/techniques/websocket/",
   "related": [

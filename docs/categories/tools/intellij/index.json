@@ -3,7 +3,7 @@
   "name": "IntelliJ",
   "image" : "/images/tools/intellij.png",
   "category" : "Tools",
-  "description" : "Editor de código fonte",
+  "description" : "Source code editor.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/tools/intellij/",
   "related": [

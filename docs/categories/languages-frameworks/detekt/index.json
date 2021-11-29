@@ -3,7 +3,7 @@
   "name": "Detekt",
   "image" : "/images/languages-frameworks/detekt.png",
   "category" : "Languages and Frameworks",
-  "description" : "O detekt é uma ferramenta de análise de código estático para a linguagem de programação Kotlin. Ele opera na árvore de sintaxe abstrata fornecida pelo compilador Kotlin.",
+  "description" : "Detekt is a static code analysis tool for the Kotlin programming language. It operates in the abstract syntax tree provided by the Kotlin compiler.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/detekt/",
   "related": [

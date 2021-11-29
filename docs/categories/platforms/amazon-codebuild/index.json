@@ -3,7 +3,7 @@
   "name": "Amazon CodeBuild",
   "image" : "/images/platforms/aws-codebuild.png",
   "category" : "Platforms",
-  "description" : "O AWS CodeBuild é um serviço de integração contínua totalmente gerenciado que compila o código-fonte, realiza testes e produz pacotes de software prontos para implantação.",
+  "description" : "AWS CodeBuild is a totally managed continuous integration service that compiles the source code, performs tests and produces ready-to-deploy software packages.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/amazon-codebuild/",
   "related": [

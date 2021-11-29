@@ -3,7 +3,7 @@
   "name": "Appium",
   "image" : "/images/languages-frameworks/appium.png",
   "category" : "Languages and Frameworks",
-  "description" : "O Appium automatiza uma estrutura de teste de qualquer aplicativo móvel de qualquer linguagem, com acesso total a APIs e bancos de dados de back-end a partir do código de teste.",
+  "description" : "Appium automates a test structure of any mobile application of any language, with total access to APIs and backend databases from the test code.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/appium/",
   "related": [

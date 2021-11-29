@@ -3,7 +3,7 @@
   "name": "Husky",
   "image" : "/images/tools/husky.png",
   "category" : "Tools",
-  "description" : "Ferramenta que ajuda na integração com eventos Git.",
+  "description" : "Tool that helps in the integration of Git events.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/tools/husky/",
   "related": [
