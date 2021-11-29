@@ -1,5 +1,4 @@
-name: Github Pages
-
+name: S3 Production Upload
 on:
   pull_request:
     branches:
