@@ -6,15 +6,15 @@ ring="Strategic"
 type="post"
 layout="details"
 isNew="false"
-description="O Amazon CloudFront é um serviço rápido de rede de entrega de conteúdo (CDN) que entrega dados, vídeos, aplicações e APIs a clientes em todo o mundo com segurança, baixa latência e altas velocidades de transferência em um ambiente de uso facilitado para desenvolvedores. "
+description="Amazon CloudFront is a fast content delivery network (CDN). It transfers data, videos, applications and APIs to clients all over the world with security, low latency, and high transfer speeds in an easy-to-use environment for developers. "
 +++
 
 {{% tabs/group %}}
-  {{% tabs/item id="0" title="O que é?" content="<p>O Amazon CloudFront é um serviço rápido de rede de entrega de conteúdo (CDN) que entrega dados, vídeos, aplicações e APIs a clientes em todo o mundo com segurança, baixa latência e altas velocidades de transferência em um ambiente de uso facilitado para desenvolvedores. </p>" %}}
+  {{% tabs/item id="0" title="What is it?" content="<p>Amazon CloudFront is a fast content delivery network (CDN). It transfers data, videos, applications and APIs to clients all over the world with security, low latency, and high transfer speeds in an easy-to-use environment for developers.</p>" %}}
 
-  {{% tabs/item id="1" title="Como utilizamos?" content="<p>Utilizado para redirecionar tráfego para sites estáticos: c4 model, documentação, landing page.</p>" %}}
+  {{% tabs/item id="1" title="How we use it?" content="<p>It is used to redirect traffic to static sites like the ones from C4-model, documentation, and landing pages.</p>" %}}
 
-  {{% tabs/item id="2" title="Onde ?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a><br /><a href='https://ritchiecli.io/' target='_blank'>Ritchie CLI</a>" %}}
+  {{% tabs/item id="2" title="For who?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a><br /><a href='https://ritchiecli.io/' target='_blank'>Ritchie CLI</a>" %}}
 
-  {{% tabs/item id="3" title="Recursos" content="<a href='https://aws.amazon.com/pt/training/?nc2=h_ql_le_tc' target='_blank'>Material de estudo</a>" %}}
+  {{% tabs/item id="3" title="Resources" content="<a href='https://aws.amazon.com/pt/training/?nc2=h_ql_le_tc' target='_blank'>Documentation</a>" %}}
 {{% /tabs/group %}}

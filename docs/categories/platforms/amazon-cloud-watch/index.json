@@ -3,7 +3,7 @@
   "name": "Amazon Cloud Watch",
   "image" : "/images/platforms/aws-cloud-watch.png",
   "category" : "Platforms",
-  "description" : "O Amazon CloudWatch é um serviço de monitoramento e observação criado para engenheiros de DevOps, desenvolvedores, Site Reliability Engineers (SREs – Engenheiros de confiabilidade de sites) e gerentes de TI.",
+  "description" : "Amazon CloudWatch is a monitoring and observation service created for DevOps engineers, developers, Site Reliability Engineers, and IT managers.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/amazon-cloud-watch/",
   "related": [

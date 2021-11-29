@@ -3,7 +3,7 @@
   "name": "Concorrência",
   "image" : "/images/default-logo.png",
   "category" : "Techniques",
-  "description" : "Em ciência da computação, a concorrência ocorre quando existem dois ou mais processos executados em simultâneo; mais especificamente, o termo é utilizado quando processos disputam o acesso a recursos partilhados",
+  "description" : "In the Computer Science context, concurrency occurs when there are two or more processes executed simultaneously. More specifically, this term is used when processes dispute access to shared resources.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/techniques/concurrence/",
   "related": [

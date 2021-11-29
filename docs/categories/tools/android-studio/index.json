@@ -3,7 +3,7 @@
   "name": "Android Studio",
   "image" : "/images/tools/android-studio.png",
   "category" : "Tools",
-  "description" : "Editor de código fonte",
+  "description" : "Source code editor.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/tools/android-studio/",
   "related": [

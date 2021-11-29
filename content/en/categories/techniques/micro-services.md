@@ -6,15 +6,15 @@ ring="Strategic"
 type="post"
 layout="details"
 isNew="true"
-description="Em uma arquitetura de microsserviços, os serviços são refinados e os protocolos são leves. O objetivo é que as equipes possam levar seus serviços independentes dos outros"
+description="It is an architecture model where the services are refined and the protocols are light, and that is why they are called microservices. The goal is for teams to be able to carry out their services independently of others."
 +++
 
 {{% tabs/group %}}
-  {{% tabs/item id="0" title="O que é?" content="<p>Em uma arquitetura de microsserviços, os serviços são refinados e os protocolos são leves. O objetivo é que as equipes possam levar seus serviços independentes dos outros</p>" %}}
+  {{% tabs/item id="0" title="What is it?" content="<p>It is an architecture model where the services are refined and the protocols are light, and that is why they are called microservices. The goal is for teams to be able to carry out their services independently of others.</p>" %}}
   
-  {{% tabs/item id="1" title="Como utilizamos?" content="<p>A Técnica de micro serviços é utilizada no horusec-platform para subir todos os seus serviços web que são: “auth”, “api”, “analytic”, “core”, “manager”, “messages”, “vulnerability”, “webhook”, “migrations”. Estes serviços centralizam as informações e podem realizar a gestão das vulnerabilidades e controle de acesso à plataforma..</p>" %}}
+  {{% tabs/item id="1" title="How we use it??" content="<p>It is used in Horusec-Platform to upload all its web services such as:  \"Auth\", \"Api\", \"Analytics\", \"Core\", \"Manager\", \"Messages\", \"Vulnerability\", \"Webhook\", \"Migrations\". These services centralize the information and can perform vulnerability management and control access to the platform..</p>" %}}
   
-  {{% tabs/item id="2" title="Onde ?" content="<a href='https://ritchiecli.io/' target='_blank'>Ritchie CLI</a>" %}}
+  {{% tabs/item id="2" title="For who" content="<a href='https://ritchiecli.io/' target='_blank'>Ritchie CLI</a>" %}}
 
-  {{% tabs/item id="3" title="Recursos" content="" %}}
+  {{% tabs/item id="3" title="Resources" content="" %}}
 {{% /tabs/group %}}

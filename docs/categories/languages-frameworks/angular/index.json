@@ -3,7 +3,7 @@
   "name": "Angular",
   "image" : "/images/languages-frameworks/angular.png",
   "category" : "Languages and Frameworks",
-  "description" : "O Angular é um framework de código aberto usado para construir aplicativos para web baseados em uma única página dinâmica. Os desenvolvedores também usam essa ferramenta para criar menus animados para páginas de internet baseadas em HTML.",
+  "description" : "Angular is an open source framework used to build web applications based in a single dynamic page. The developers also use this tool to create animated menus for internet pages based on HTML.",
   "ring" : "Essential",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/angular/",
   "related": [

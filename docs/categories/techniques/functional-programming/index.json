@@ -3,7 +3,7 @@
   "name": "Programação Funcional",
   "image" : "/images/default-logo.png",
   "category" : "Techniques",
-  "description" : "Programação funcional é o processo de construir software através de composição de funções puras, evitando compartilhamento de estados, dados mutáveis e efeitos colaterais.",
+  "description" : "Functional programming is the process of building software through the composition of pure functions, avoiding sharing states, changing data and collateral effects.",
   "ring" : "Essential",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/techniques/functional-programming/",
   "related": [

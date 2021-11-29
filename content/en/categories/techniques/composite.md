@@ -6,15 +6,15 @@ ring="Essential"
 type="post"
 layout="details"
 isNew="true"
-description="Padrão usado em aplicações que contém estruturas de dados representadas em árvores. Permite que a cada nível de aninhamento você encapsule o comportamento do objeto, criando uma estrutura que pode ser tratada como um todo, similar a hierarquia onde o pai engloba os itens filhos."
+description="Patterns used in applications that contain data structures represented in trees. It allows that at each alignment level, you encapsulate the object's behavior, creating a structure that can be treated as a whole, similar to the hierarchy in which the parent englobes the child items."
 +++
 
 {{% tabs/group %}}
-  {{% tabs/item id="0" title="O que é?" content="<p>Padrão usado em aplicações que contém estruturas de dados representadas em árvores. Permite que a cada nível de aninhamento você encapsule o comportamento do objeto, criando uma estrutura que pode ser tratada como um todo, similar a hierarquia onde o pai engloba os itens filhos.</p>" %}}
+  {{% tabs/item id="0" title="What is it?" content="<p>Patterns used in applications that contain data structures represented in trees. It allows that at each alignment level, you encapsulate the object's behavior, creating a structure that can be treated as a whole, similar to the hierarchy in which the parent englobes the child items.</p>" %}}
   
-  {{% tabs/item id="1" title="Como utilizamos?" content="<p>O Beagle utiliza esse padrão de projeto para compor e criar a árvore de componente que representa uma tela na aplicação</p>" %}}
+  {{% tabs/item id="1" title="How we use it?" content="<p>Beagle uses this pattern to compose and create the component tree that represents a screen in the application.</p>" %}}
   
-  {{% tabs/item id="2" title="Onde ?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a>" %}}
+  {{% tabs/item id="2" title="For who?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a>" %}}
 
-  {{% tabs/item id="3" title="Recursos" content="<a href='https://refactoring.guru/pt-br/design-patterns/composite' target='_blank'>Material de estudo</a>" %}}
+  {{% tabs/item id="3" title="Resources" content="<a href='https://refactoring.guru/pt-br/design-patterns/composite' target='_blank'>Documentation</a>" %}}
 {{% /tabs/group %}}

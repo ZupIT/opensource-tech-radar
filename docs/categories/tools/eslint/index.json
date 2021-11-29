@@ -3,7 +3,7 @@
   "name": "ESLint",
   "image" : "/images/tools/eslint.png",
   "category" : "Tools",
-  "description" : "ESLint é uma ferramenta para identificar e relatar padrões encontrados no código ECMAScript/JavaScript.",
+  "description" : "ESLint is a tool to identify and report patterns found in ECMAScript/JavaScript codes.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/tools/eslint/",
   "related": [

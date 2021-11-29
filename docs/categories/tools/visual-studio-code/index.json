@@ -3,7 +3,7 @@
   "name": "Visual Studio Code",
   "image" : "/images/tools/vscode.png",
   "category" : "Tools",
-  "description" : "O Visual Studio Code é um editor de código-fonte, Open Source, desenvolvido pela Microsoft.",
+  "description" : "Visual Studio Code is an open source, source code editor developed by Microsoft.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/tools/visual-studio-code/",
   "related": [

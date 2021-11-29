@@ -3,7 +3,7 @@
   "name": "Moshi",
   "image" : "/images/default-logo.png",
   "category" : "Tools",
-  "description" : "Moshi é uma biblioteca JSON moderna para Android e Java que converte objetos JSON em objetos JAVA. Ele também é responsável por serializar objetos JAVA para objetos JSON.",
+  "description" : "Moshi is a modern JSON library for Android and Java that converts JSON objects into Java objects. It is also responsible for serializing Java objects to JSON objects.",
   "ring" : "Essential",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/tools/moshi/",
   "related": [

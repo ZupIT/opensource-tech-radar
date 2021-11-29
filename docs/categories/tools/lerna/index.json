@@ -3,7 +3,7 @@
   "name": "Lerna",
   "image" : "/images/default-logo.png",
   "category" : "Tools",
-  "description" : "Ferramenta que ajuda no gerenciamento de projetos JavaScript com múltiplos pacotes.",
+  "description" : "Tool that helps manage JavaScript projects with multiple packages.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/tools/lerna/",
   "related": [

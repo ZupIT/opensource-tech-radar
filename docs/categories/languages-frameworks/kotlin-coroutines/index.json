@@ -3,7 +3,7 @@
   "name": "Kotlin Coroutines",
   "image" : "/images/languages-frameworks/kotlin-coroutines.png",
   "category" : "Languages and Frameworks",
-  "description" : "Coroutines são componentes de programas de computador que generalizam sub-rotinas para multitarefa, permitindo que a execução seja suspensa e reiniciada. As coroutines são adequadas para implementar componentes de programa como tarefas cooperativas, exceções, loops de eventos, iteradores, listas infinitas e canais.",
+  "description" : "Coroutines are components of computer programs that generalize subroutines for multitasking, allowing the execution to be suspended and restarted. They are adequate to implement components of programs such as cooperative tasks, exceptions, event loops, iterators, infinite lists, and channels.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/kotlin-coroutines/",
   "related": [

@@ -3,7 +3,7 @@
   "name": "Node Fetch",
   "image" : "/images/tools/node-fetch.png",
   "category" : "Tools",
-  "description" : "Implementação que permite a compatibilidade da API window.fetch em ambiente Node.js. ",
+  "description" : "Implementation that allows the compatibility of window.fetch API in a Node.js environment.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/tools/node-fetch/",
   "related": [

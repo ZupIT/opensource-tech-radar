@@ -3,7 +3,7 @@
   "name": "Spring Boot",
   "image" : "/images/languages-frameworks/spring-boot.png",
   "category" : "Languages and Frameworks",
-  "description" : "O Spring é um dos frameworks Java mais conhecidos e utilizados. Trata-se de um ecossistema de desenvolvimento que facilita a criação de aplicações Java utilizando diversos módulos independentes.",
+  "description" : "Spring is one of the best-known and most used Java frameworks. It is a development ecosystem that makes it easier to create Java applications using different independent modules.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/spring-boot/",
   "related": [

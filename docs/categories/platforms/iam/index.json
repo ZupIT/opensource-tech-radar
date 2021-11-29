@@ -3,7 +3,7 @@
   "name": "IAM",
   "image" : "/images/platforms/aws-iam.png",
   "category" : "Platforms",
-  "description" : "O AWS Identity and Access Management (IAM) permite que você gerencie com segurança o acesso aos serviços e recursos da AWS.",
+  "description" : "AWS Identity and Access Management (IAM) allow you to safely manage access to the AWS services and resources.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/iam/",
   "related": [

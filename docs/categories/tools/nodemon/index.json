@@ -3,7 +3,7 @@
   "name": "Nodemon",
   "image" : "/images/tools/nodemon.png",
   "category" : "Tools",
-  "description" : "Nodemon é uma ferramenta que otimiza o tempo do desenvolvedor, com ela é possível reiniciar automaticamente projetos com base no node.js quando mudanças nos arquivos são detectadas.",
+  "description" : "Nodemon is a tool that optimizes the developers' time. You can automatically restart projects based on node.js when changes in the files are detected.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/tools/nodemon/",
   "related": [

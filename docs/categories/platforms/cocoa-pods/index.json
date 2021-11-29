@@ -3,7 +3,7 @@
   "name": "Cocoa Pods",
   "image" : "/images/platforms/cocoa-pods.png",
   "category" : "Platforms",
-  "description" : "CocoaPods é um gerenciador de dependências para projetos Swift e Objective-C Cocoa.",
+  "description" : " CocoaPods is a dependency manager for Swift and Objective-C Cocoa projects.",
   "ring" : "Essential",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/cocoa-pods/",
   "related": [

@@ -3,7 +3,7 @@
   "name": "Decorator",
   "image" : "/images/default-logo.png",
   "category" : "Techniques",
-  "description" : "É um padrão de design estrutural que permite anexar novos comportamentos a objetos, colocando esses objetos dentro de objetos de invólucro especiais que contêm esses comportamentos.",
+  "description" : "It is a structural design pattern that allows attaching new behaviors to objects, by placing them inside special wrapping objects that contain these behaviors.",
   "ring" : "Essential",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/techniques/decorator/",
   "related": [
