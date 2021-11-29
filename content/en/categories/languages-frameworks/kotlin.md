@@ -12,7 +12,7 @@ description="Kotlin is a multiplatform programming language developed by JetBrai
 {{% tabs/group %}}
   {{% tabs/item id="0" title="What is it?" content="<p>Kotlin is a multiplatform programming language developed by JetBrains in 2011. It is oriented to objects and functional, concise, and statically typed, it compiles to the Java virtual machine and can also be translated to JavaScript language and compiled to the native code.</p>" %}}
 
-  {{% tabs/item id="1" title="Why?" content="<p>It is the main language used in the source code of the Beagle Backend and Beagle Android projects.</p>" %}}
+  {{% tabs/item id="1" title="How we use it?" content="<p>It is the main language used in the source code of the Beagle Backend and Beagle Android projects.</p>" %}}
 
   {{% tabs/item id="2" title="For who?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a>" %}}
 

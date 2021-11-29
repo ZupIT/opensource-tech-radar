@@ -12,7 +12,7 @@ description="Horusec is an autonomous SAST engine used by the Horusec project. T
 {{% tabs/group %}}
   {{% tabs/item id="0" title="What is it?" content="<p>Horusec is an autonomous SAST engine used by the Horusec project. The purpose is to provide baseline functionality and the basic building blocks for you to build your own SAST tool.</p>" %}}
   
-  {{% tabs/item id="1" title="Why?" content="<p>We use this engine in Horusec-CLI to perform its security analysis together with its rules.</p>" %}}
+  {{% tabs/item id="1" title="How we use it?" content="<p>We use this engine in Horusec-CLI to perform its security analysis together with its rules.</p>" %}}
 
   {{% tabs/item id="2" title="For who?" content="<a href='https://horusec.io/site/'>Horusec</a>" %}}
 

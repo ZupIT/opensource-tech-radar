@@ -12,7 +12,7 @@ description="Visual Studio Code is an open source, source code editor developed 
 {{% tabs/group %}}
   {{% tabs/item id="0" title="What is it?" content="<p>Visual Studio Code is an open source, source code editor developed by Microsoft.</p>" %}}
   
-  {{% tabs/item id="1" title="Why?" content="<p>The Beagle team uses it to edit the source code, mainly in the Beagle Web projects.</p>" %}}
+  {{% tabs/item id="1" title="How we use it?" content="<p>The Beagle team uses it to edit the source code, mainly in the Beagle Web projects.</p>" %}}
   
   {{% tabs/item id="2" title="For who?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a>" %}}
 

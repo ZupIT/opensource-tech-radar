@@ -12,7 +12,7 @@ description=" CocoaPods is a dependency manager for Swift and Objective-C Cocoa 
 {{% tabs/group %}}
   {{% tabs/item id="0" title="What is it?" content="<p> CocoaPods is a dependency manager for Swift and Objective-C Cocoa projects.</p>" %}}
 
-  {{% tabs/item id="1" title="Why?" content="<p>Publishing Beagle iOS artifacts.</p>" %}}
+  {{% tabs/item id="1" title="How we use it?" content="<p>It is used to publish Beagle iOS artifacts.</p>" %}}
 
   {{% tabs/item id="2" title="For who?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a>" %}}
 

@@ -12,7 +12,7 @@ description="Swift is a programming language developed by Apple for development 
 {{% tabs/group %}}
   {{% tabs/item id="0" title="What is it?" content="<p>Swift is a programming language developed by Apple for development on iOS, macOS, watchOS, tvOS and Linux. Swift was developed to keep compatibility with the Cocoa API, and with the existing Objective-C code.</p>" %}}
 
-  {{% tabs/item id="1" title="Why?" content="<p>It is the main language used in the source code of the Beagle iOS projects.</p>" %}}
+  {{% tabs/item id="1" title="How we use it?" content="<p>It is the main language used in the source code of the Beagle iOS projects.</p>" %}}
 
   {{% tabs/item id="2" title="For who?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a>" %}}
 
