@@ -6,15 +6,15 @@ ring="Strategic"
 type="post"
 layout="details"
 isNew="false"
-description="O Amazon CloudWatch é um serviço de monitoramento e observação criado para engenheiros de DevOps, desenvolvedores, Site Reliability Engineers (SREs – Engenheiros de confiabilidade de sites) e gerentes de TI."
+description="Amazon CloudWatch is a monitoring and observation service created for DevOps engineers, developers, Site Reliability Engineers, and IT managers."
 +++
 
 {{% tabs/group %}}
-  {{% tabs/item id="0" title="O que é?" content="<p>O Amazon CloudWatch é um serviço de monitoramento e observação criado para engenheiros de DevOps, desenvolvedores, Site Reliability Engineers (SREs – Engenheiros de confiabilidade de sites) e gerentes de TI.</p>" %}}
+  {{% tabs/item id="0" title="What is it?" content="<p>Amazon CloudWatch is a monitoring and observation service created for DevOps engineers, developers, Site Reliability Engineers, and IT managers.</p>" %}}
 
-  {{% tabs/item id="1" title="Como utilizamos?" content="<p>Utilizado para monitoração de todos aplicativos gerenciados no ambiente AWS.</p>" %}}
+  {{% tabs/item id="1" title="How we use it?" content="<p>Used to monitor all applications managed in the AWS environment.</p>" %}}
 
-  {{% tabs/item id="2" title="Onde ?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a>" %}}
+  {{% tabs/item id="2" title="For who?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a>" %}}
 
-  {{% tabs/item id="3" title="Recursos" content="<a href='https://aws.amazon.com/pt/training/?nc2=h_ql_le_tc' target='_blank'>Material de estudo</a>" %}}
+  {{% tabs/item id="3" title="Resources" content="<a href='https://aws.amazon.com/pt/training/?nc2=h_ql_le_tc' target='_blank'>Documentation</a>" %}}
 {{% /tabs/group %}}
