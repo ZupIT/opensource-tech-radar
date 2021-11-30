@@ -1,7 +1,7 @@
 +++
 name="Kubernetes"
 image="/images/languages-frameworks/kubernetes.png"
-category="Languages-Frameworks"
+category="Languages and Frameworks"
 ring="Essential"
 type="post"
 layout="details"

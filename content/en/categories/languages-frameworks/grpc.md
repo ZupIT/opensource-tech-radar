@@ -1,7 +1,7 @@
 +++
 name="GRPC"
 image="/images/languages-frameworks/grpc.png"
-category="Languages-Frameworks"
+category="Languages and Frameworks"
 ring="Essential"
 type="post"
 layout="details"
