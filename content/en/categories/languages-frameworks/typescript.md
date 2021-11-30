@@ -1,7 +1,7 @@
 +++
 name="Typescript"
 image="/images/languages-frameworks/typescript.png"
-category="Languages-Frameworks"
+category="Languages and Frameworks"
 ring="Strategic"
 type="post"
 layout="details"

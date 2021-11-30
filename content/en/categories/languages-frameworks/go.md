@@ -1,7 +1,7 @@
 +++
 name="Go"
 image="/images/languages-frameworks/go.png"
-category="Languages-Frameworks"
+category="Languages and Frameworks"
 ring="Strategic"
 type="post"
 layout="details"
