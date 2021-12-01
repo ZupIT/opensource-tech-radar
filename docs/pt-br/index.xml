@@ -88,10 +88,46 @@
     
     <item>
       <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/docker-sdk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/docker-sdk/</guid>
+      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/enry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/enry/</guid>
+      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/flutter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/flutter/</guid>
+      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/golang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/golang/</guid>
+      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/gorm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/gorm/</guid>
       <description>O que é? Como utilizamos? Onde ? Recursos   </description>
     </item>
     
@@ -106,10 +142,28 @@
     
     <item>
       <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/horusec-engine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/horusec-engine/</guid>
+      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/horusec/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/horusec/</guid>
+      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/javascript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/javascript/</guid>
       <description>O que é? Como utilizamos? Onde ? Recursos   </description>
     </item>
     
@@ -146,6 +200,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/kotlin/</guid>
+      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/kubernetes-operator-sdk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/kubernetes-operator-sdk/</guid>
       <description>O que é? Como utilizamos? Onde ? Recursos   </description>
     </item>
     
@@ -191,6 +254,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/typescript/</guid>
+      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/wire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/wire/</guid>
       <description>O que é? Como utilizamos? Onde ? Recursos   </description>
     </item>
     
@@ -250,6 +322,15 @@
     
     <item>
       <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/amazon-eks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/amazon-eks/</guid>
+      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/amazon-s3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -259,10 +340,28 @@
     
     <item>
       <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/artifacthub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/artifacthub/</guid>
+      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/cocoa-pods/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/cocoa-pods/</guid>
+      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/dockerhub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/dockerhub/</guid>
       <description>O que é? Como utilizamos? Onde ? Recursos   </description>
     </item>
     
@@ -295,6 +394,15 @@
     
     <item>
       <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/miro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/miro/</guid>
+      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/npm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -318,6 +426,15 @@
       
       <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/shortcut/</guid>
       <description>O que é? Como utilizamos? Onde ? Recursos   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/abstract-syntax-tree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/abstract-syntax-tree/</guid>
+      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
     </item>
     
     <item>
@@ -349,6 +466,15 @@
     
     <item>
       <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/continuous-integration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/continuous-integration/</guid>
+      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/decorator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -362,6 +488,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/functional-programming/</guid>
+      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/micro-frontend/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/micro-frontend/</guid>
       <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
     </item>
     
@@ -385,6 +520,24 @@
     
     <item>
       <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/parse-tree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/parse-tree/</guid>
+      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/visitor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/visitor/</guid>
+      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/websocket/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -403,10 +556,64 @@
     
     <item>
       <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/bandit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/bandit/</guid>
+      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/brakeman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/brakeman/</guid>
+      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/bundler-audit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/bundler-audit/</guid>
+      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/checkov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/checkov/</guid>
+      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/dotnet-cli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/dotnet-cli/</guid>
+      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/eslint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/eslint/</guid>
+      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/flawfinder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/flawfinder/</guid>
       <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
     </item>
     
@@ -448,6 +655,33 @@
     
     <item>
       <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/jaeger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/jaeger/</guid>
+      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/keycloak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/keycloak/</guid>
+      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/ldap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/ldap/</guid>
+      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/lerna/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -457,10 +691,37 @@
     
     <item>
       <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/mix-audit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/mix-audit/</guid>
+      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/moshi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/moshi/</guid>
+      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/nancy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/nancy/</guid>
+      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/neovim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/neovim/</guid>
       <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
     </item>
     
@@ -493,6 +754,132 @@
     
     <item>
       <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/npm-audit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/npm-audit/</guid>
+      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/owsap-dependency-check/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/owsap-dependency-check/</guid>
+      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/php-code-scan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/php-code-scan/</guid>
+      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/postgres/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/postgres/</guid>
+      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/rabbitmq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/rabbitmq/</guid>
+      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/safety/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/safety/</guid>
+      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/security-code-scan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/security-code-scan/</guid>
+      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/semgrep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/semgrep/</guid>
+      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/shellcheck/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/shellcheck/</guid>
+      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/sobelow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/sobelow/</guid>
+      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/spotbugs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/spotbugs/</guid>
+      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/tfsec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/tfsec/</guid>
+      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/tree-sitter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/tree-sitter/</guid>
+      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/trivy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/trivy/</guid>
+      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/visual-studio-code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -506,6 +893,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/xcode/</guid>
+      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/yarn-audit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/yarn-audit/</guid>
       <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
     </item>
     

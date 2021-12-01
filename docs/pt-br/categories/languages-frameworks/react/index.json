@@ -24,10 +24,10 @@
       },
     
       {
-        "name": "Flutter",
+        "name": "Enry",
         "ring": "Essencial",
-        "image": "/images/languages-frameworks/flutter.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/flutter/"
+        "image": "/images/default-logo.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/enry/"
       },
     
     {}

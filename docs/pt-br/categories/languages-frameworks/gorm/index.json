@@ -1,33 +1,33 @@
 {
   "data" :  {
-  "name": "GORM",
-  "image" : "/images/languages-frameworks/gorm.png",
-  "category" : "Languages-Frameworks",
-  "description" : "GORM é biblioteca de mapeamento objeto relacional para Golang com foco em ser amigável e aumentar produtividade de quem desenvolve.",
-  "ring" : "Essential",
+  "name": "Gorm",
+  "image" : "/images/languages-frameworks/javascript.png",
+  "category" : "Linguagens e Frameworks",
+  "description" : "Biblioteca de mapeamento objeto relacional para Golang com foco em ser amigável e aumentar produtividade de quem desenvolve.",
+  "ring" : "Essencial",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/gorm/",
   "related": [
     
     
       {
+        "name": "Angular",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/angular.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/angular/"
+      },
+    
+      {
+        "name": "Cypress",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/cypress.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/cypress/"
+      },
+    
+      {
         "name": "Enry",
-        "ring": "Essential",
-        "image": "/images/languages-frameworks/enry.png",
+        "ring": "Essencial",
+        "image": "/images/default-logo.png",
         "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/enry/"
-      },
-    
-      {
-        "name": "GRPC",
-        "ring": "Essential",
-        "image": "/images/languages-frameworks/grpc.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/grpc/"
-      },
-    
-      {
-        "name": "Kubernetes",
-        "ring": "Essential",
-        "image": "/images/languages-frameworks/kubernetes.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/kubernetes/"
       },
     
     {}

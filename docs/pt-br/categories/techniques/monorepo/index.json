@@ -9,6 +9,20 @@
   "related": [
     
     
+      {
+        "name": "Micro Frontend",
+        "ring": "Descontinuado",
+        "image": "/images/default-logo.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/micro-frontend/"
+      },
+    
+      {
+        "name": "Spotbugs",
+        "ring": "Descontinuado",
+        "image": "/images/default-logo.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/spotbugs/"
+      },
+    
     {}
   ]
 } 
