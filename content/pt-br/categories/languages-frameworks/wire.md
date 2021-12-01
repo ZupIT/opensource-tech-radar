@@ -1,6 +1,6 @@
 +++
 name="Wire"
-image="/images/languages-frameworks/wire.png"
+image="/images/default-logo.png"
 category="Linguagens e Frameworks"
 ring="Essencial"
 type="post"

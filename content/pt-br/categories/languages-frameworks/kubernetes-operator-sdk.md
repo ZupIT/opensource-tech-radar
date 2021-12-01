@@ -1,6 +1,6 @@
 +++
 name="Kubernetes Operator SDK"
-image="/images/languages-frameworks/wire.png"
+image="/images/languages-frameworks/kubernetes-operator-sdk.png"
 category="Linguagens e Frameworks"
 ring="Essencial"
 type="post"

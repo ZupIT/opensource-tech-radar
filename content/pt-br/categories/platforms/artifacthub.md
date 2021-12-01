@@ -1,6 +1,6 @@
 +++
-name="Artifact io"
-image="/images/platforms/artifactio.png"
+name="Artifact Hub"
+image="/images/platforms/artifacthub.png"
 category="Plataformas"
 ring="Potencial"
 type="post"

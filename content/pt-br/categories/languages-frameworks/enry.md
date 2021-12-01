@@ -1,6 +1,6 @@
 +++
 name="Enry"
-image="/images/languages-frameworks/javascript.png"
+image="/images/default-logo.png"
 category="Linguagens e Frameworks"
 ring="Essencial"
 type="post"
