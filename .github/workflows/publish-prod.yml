@@ -1,13 +1,8 @@
 name: S3 Production Upload
 
-# on:
-#   release:
-#     types: [published]
-
 on:
-  pull_request:
-    branches:
-      - main
+  release:
+    types: [published]
 
 jobs:
   deploy:
@@ -23,6 +18,7 @@ jobs:
         with:
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID_PROD }}
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY_PROD }}
+          aws-session-token: ${{ secrets.AWS_SESSION_TOKEN_PROD }}
           aws-region: ${{ secrets.AWS_REGION_PROD }}    
 
       - name: Setup Hugo
@@ -34,5 +30,5 @@ jobs:
       - name: Build
         run: hugo -D
               
-      # - name: Upload to AWS S3 Bucket
-      #   run: aws s3 sync --follow-symlinks docs s3://${{ secrets.AWS_S3_BUCKET_PROD }}/radar --delete
+      - name: Upload to AWS S3 Bucket
+        run: aws s3 sync --follow-symlinks docs s3://${{ secrets.AWS_S3_BUCKET_PROD }}/radar --delete
