@@ -1,33 +1,33 @@
 {
   "data" :  {
   "name": "Enry",
-  "image" : "/images/languages-frameworks/enry.png",
-  "category" : "Languages-Frameworks",
-  "description" : "Enry é detector de linguagens de programação contidas em um projeto.",
-  "ring" : "Essential",
+  "image" : "/images/default-logo.png",
+  "category" : "Linguagens e Frameworks",
+  "description" : "Detector de linguagens de programação contidas em um projeto.",
+  "ring" : "Essencial",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/enry/",
   "related": [
     
     
       {
-        "name": "GORM",
-        "ring": "Essential",
-        "image": "/images/languages-frameworks/gorm.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/gorm/"
+        "name": "Angular",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/angular.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/angular/"
       },
     
       {
-        "name": "GRPC",
-        "ring": "Essential",
-        "image": "/images/languages-frameworks/grpc.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/grpc/"
+        "name": "Cypress",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/cypress.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/cypress/"
       },
     
       {
-        "name": "Kubernetes",
-        "ring": "Essential",
-        "image": "/images/languages-frameworks/kubernetes.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/kubernetes/"
+        "name": "Flutter",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/flutter.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/flutter/"
       },
     
     {}

@@ -2,7 +2,7 @@
   "data" :  {
   "name": "JavaScript",
   "image" : "/images/languages-frameworks/js.png",
-  "category" : "Languages-Frameworks",
+  "category" : "Languages and Frameworks",
   "description" : "JavaScript an interpreted, structured, high-level scripting programming language with weak dynamic typing and multiparadigm. Along with HTML and CSS, JavaScript is one of the main three technologies on the World Wide Web (WWW).",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/javascript/",

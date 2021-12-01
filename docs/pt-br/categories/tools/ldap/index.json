@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "LDAP",
+  "image" : "/images/default-logo.png",
+  "category" : "Ferramentas",
+  "description" : "Conjunto de serviços de diretório, como o Active Directory, que armazenam informações de usuário e conta e informações de segurança, como senhas. O serviço permite o compartilhamento das informações com outros dispositivos na rede, além de aplicativos empresariais, como e-mail, CRMs (gerenciadores de relacionamento com o cliente) e software de RH (recursos humanos), que podem usar o LDAP para autenticar, acessar e localizar informações.",
+  "ring" : "Estratégico",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/ldap/",
+  "related": [
+    
+    
+      {
+        "name": "Appium",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/appium.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/appium/"
+      },
+    
+      {
+        "name": "Dart Programming Language",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/dart.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/dart/"
+      },
+    
+      {
+        "name": "Detekt",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/detekt.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/detekt/"
+      },
+    
+    {}
+  ]
+} 
+}

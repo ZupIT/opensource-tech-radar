@@ -2,7 +2,7 @@
   "data" :  {
   "name": "Go",
   "image" : "/images/languages-frameworks/go.png",
-  "category" : "Languages-Frameworks",
+  "category" : "Languages and Frameworks",
   "description" : "Go is a programming language created by Google and released as open source in 2009. It is a compiled language focused on productivity and concurrent programming.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/go/",

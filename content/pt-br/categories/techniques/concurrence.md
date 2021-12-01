@@ -14,7 +14,7 @@ description="Em ciência da computação, a concorrência ocorre quando existem 
   
   {{% tabs/item id="1" title="Como utilizamos?" content="<p>Utilizamos concorrência para realizar múltiplas análises em arquivos diferentes simultaneamente.</p>" %}}
   
-  {{% tabs/item id="2" title="Onde ?" content="<a href='https://ritchiecli.io/' target='_blank'>Ritchie CLI</a>" %}}
+  {{% tabs/item id="2" title="Onde ?" content="<a href='https://ritchiecli.io/' target='_blank'>Ritchie CLI</a><br /><a href='https://horusec.io/' target='_blank'>Horusec</a>" %}}
 
   {{% tabs/item id="3" title="Recursos" content="<a href='https://en.wikipedia.org/wiki/Concurrency_(computer_science)' target='_blank'>Material de estudo</a>" %}}
 {{% /tabs/group %}}

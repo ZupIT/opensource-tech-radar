@@ -1,7 +1,7 @@
 +++
 name="Enry"
 image="/images/languages-frameworks/enry.png"
-category="Languages-Frameworks"
+category="Languages and Frameworks"
 ring="Essential"
 type="post"
 layout="details"

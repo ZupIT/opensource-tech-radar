@@ -1,7 +1,7 @@
 +++
 name="GORM"
 image="/images/languages-frameworks/gorm.png"
-category="Languages-Frameworks"
+category="Languages and Frameworks"
 ring="Essential"
 type="post"
 layout="details"

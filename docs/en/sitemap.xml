@@ -176,6 +176,16 @@
   
   <url>
     <loc>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/enry/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/enry/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/enry/"
+                />
   </url>
   
   <url>
@@ -198,6 +208,16 @@
   
   <url>
     <loc>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/gorm/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/gorm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/gorm/"
+                />
   </url>
   
   <url>
@@ -230,6 +250,16 @@
   
   <url>
     <loc>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/javascript/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/javascript/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/javascript/"
+                />
   </url>
   
   <url>
@@ -484,6 +514,16 @@
   
   <url>
     <loc>https://zupit.github.io/opensource-tech-radar/categories/platforms/dockerhub/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/dockerhub/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/platforms/dockerhub/"
+                />
   </url>
   
   <url>
@@ -686,6 +726,16 @@
   
   <url>
     <loc>https://zupit.github.io/opensource-tech-radar/categories/techniques/visitor/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/visitor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupit.github.io/opensource-tech-radar/categories/techniques/visitor/"
+                />
   </url>
   
   <url>

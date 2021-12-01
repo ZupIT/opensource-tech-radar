@@ -1,33 +1,33 @@
 {
   "data" :  {
-  "name": "Dockerhub",
+  "name": "Dockerhub ",
   "image" : "/images/platforms/dockerhub.png",
-  "category" : "Platforms",
-  "description" : "Dockerhub é uma ferramenta de gerenciamento de projeto elaborada especificamente para equipes de desenvolvimento de software. Oferece uma interface simples, em estilo Kanban, contribuindo para uma experiência descomplicada para melhor colaboração em equipe.",
-  "ring" : "Strategic",
+  "category" : "Plataformas",
+  "description" : "Um repositório público onde empresas podem publicar suas soluções em forma de contêiner.",
+  "ring" : "Estratégico",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/dockerhub/",
   "related": [
     
     
       {
-        "name": "Docker SDK",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/docker.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/docker/"
+        "name": "Appium",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/appium.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/appium/"
       },
     
       {
-        "name": "Go",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/go.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/go/"
+        "name": "Dart Programming Language",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/dart.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/dart/"
       },
     
       {
-        "name": "Horusec Engine",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/horusec.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/horusec/"
+        "name": "Detekt",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/detekt.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/detekt/"
       },
     
     {}

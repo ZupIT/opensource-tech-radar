@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Semgrep",
+  "image" : "/images/tools/semgrep.png",
+  "category" : "Ferramentas",
+  "description" : "Uma ferramenta SAST, que se destaca em expressar padrões de código - sem consultas complicadas - e detectar bugs no início do editor, commit e tempo de CI. Regras precisas se parecem com o código que você está pesquisando, sem precisar percorrer árvores de sintaxe abstratas ou lutar com regexes.",
+  "ring" : "Estratégico",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/semgrep/",
+  "related": [
+    
+    
+      {
+        "name": "Appium",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/appium.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/appium/"
+      },
+    
+      {
+        "name": "Dart Programming Language",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/dart.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/dart/"
+      },
+    
+      {
+        "name": "Detekt",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/detekt.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/detekt/"
+      },
+    
+    {}
+  ]
+} 
+}

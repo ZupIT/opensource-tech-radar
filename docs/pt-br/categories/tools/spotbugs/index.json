@@ -1,0 +1,29 @@
+{
+  "data" :  {
+  "name": "Spotbugs",
+  "image" : "/images/default-logo.png",
+  "category" : "Ferramentas",
+  "description" : "Um programa que usa análise estática para procurar bugs no código Java. Um fork do projeto findbugs.",
+  "ring" : "Descontinuado",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/spotbugs/",
+  "related": [
+    
+    
+      {
+        "name": "Micro Frontend",
+        "ring": "Descontinuado",
+        "image": "/images/default-logo.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/micro-frontend/"
+      },
+    
+      {
+        "name": "Monorepo",
+        "ring": "Descontinuado",
+        "image": "/images/default-logo.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/monorepo/"
+      },
+    
+    {}
+  ]
+} 
+}

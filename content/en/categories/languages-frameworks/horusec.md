@@ -1,7 +1,7 @@
 +++
 name="Horusec Engine"
 image="/images/languages-frameworks/horusec.png"
-category="Languages-Frameworks"
+category="Languages and Frameworks"
 ring="Strategic"
 type="post"
 layout="details"
