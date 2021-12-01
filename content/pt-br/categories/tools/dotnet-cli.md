@@ -1,6 +1,6 @@
 +++
 name="Dotnet CLI"
-image="/images/tools/dotnet-cli.png"
+image="/images/default-logo.png"
 category="Ferramentas"
 ring="Essencial"
 type="post"

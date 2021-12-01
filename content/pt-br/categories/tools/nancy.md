@@ -1,6 +1,6 @@
 +++
 name="Nancy"
-image="/images/tools/nancy.png"
+image="/images/default-logo.png"
 category="Ferramentas"
 ring="Estratégico"
 type="post"

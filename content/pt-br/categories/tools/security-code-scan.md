@@ -1,6 +1,6 @@
 +++
 name="Security Code Scan"
-image="/images/tools/security-code-scan.png"
+image="/images/default-logo.png"
 category="Ferramentas"
 ring="Essencial"
 type="post"

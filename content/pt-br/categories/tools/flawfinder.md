@@ -1,6 +1,6 @@
 +++
 name="Flawfinder"
-image="/images/tools/flawfinder.png"
+image="/images/default-logo.png"
 category="Ferramentas"
 ring="Estratégico"
 type="post"

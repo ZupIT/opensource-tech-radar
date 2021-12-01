@@ -1,6 +1,6 @@
 +++
 name="Tree-sitter"
-image="/images/tools/tree-sitter.png"
+image="/images/default-logo.png"
 category="Ferramentas"
 ring="Potencial"
 type="post"

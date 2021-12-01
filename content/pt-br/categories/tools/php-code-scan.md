@@ -1,6 +1,6 @@
 +++
 name="PHP code scan"
-image="/images/tools/php-code-scan.png"
+image="/images/default-logo.png"
 category="Ferramentas"
 ring="Estratégico"
 type="post"

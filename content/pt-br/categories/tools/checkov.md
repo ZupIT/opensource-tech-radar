@@ -1,6 +1,6 @@
 +++
 name="Checkov"
-image="/images/tools/checkov.png"
+image="/images/default-logo.png"
 category="Ferramentas"
 ring="Estratégico"
 type="post"

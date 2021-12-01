@@ -1,6 +1,6 @@
 +++
 name="Spotbugs"
-image="/images/tools/spotbugs.png"
+image="/images/default-logo.png"
 category="Ferramentas"
 ring="Descontinuado"
 type="post"
