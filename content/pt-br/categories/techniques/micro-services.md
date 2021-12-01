@@ -14,7 +14,7 @@ description="Em uma arquitetura de microsserviços, os serviços são refinados 
   
   {{% tabs/item id="1" title="Como utilizamos?" content="<p>A Técnica de micro serviços é utilizada no horusec-platform para subir todos os seus serviços web que são: “auth”, “api”, “analytic”, “core”, “manager”, “messages”, “vulnerability”, “webhook”, “migrations”. Estes serviços centralizam as informações e podem realizar a gestão das vulnerabilidades e controle de acesso à plataforma..</p>" %}}
   
-  {{% tabs/item id="2" title="Onde ?" content="<a href='https://ritchiecli.io/' target='_blank'>Ritchie CLI</a>" %}}
+  {{% tabs/item id="2" title="Onde ?" content="<a href='https://ritchiecli.io/' target='_blank'>Ritchie CLI</a><br /><a href='https://horusec.io/' target='_blank'>Horusec</a>" %}}
 
   {{% tabs/item id="3" title="Recursos" content="" %}}
 {{% /tabs/group %}}
