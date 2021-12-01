@@ -1,8 +1,13 @@
-name: S3 Production Upload
+name: S3 Development Upload
+
+# on:
+#   push:
+#     branches: [ main ]
 
 on:
-  release:
-    types: [published]
+  pull_request:
+    branches:
+      - main
 
 jobs:
   deploy:
@@ -16,9 +21,9 @@ jobs:
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@0d9a5be0dceea74e09396820e1e522ba4a110d2f #v1
         with:
-          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID_PROD }}
-          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY_PROD }}
-          aws-region: ${{ secrets.AWS_REGION_PROD }}    
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID_DEV }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY_DEV }}
+          aws-region: ${{ secrets.AWS_REGION_DEV }}    
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -30,4 +35,4 @@ jobs:
         run: hugo -D
               
       - name: Upload to AWS S3 Bucket
-        run: aws s3 sync --follow-symlinks docs s3://${{ secrets.AWS_S3_BUCKET_PROD }}/radar --delete
+        run: aws s3 sync --follow-symlinks docs s3://${{ secrets.AWS_S3_BUCKET_DEV }}/radar --delete
