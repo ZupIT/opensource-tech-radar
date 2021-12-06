@@ -5,7 +5,7 @@ name: S3 Development Upload
 #     branches: [ main ]
 
 on:
-  pull_request:
+  push:
     branches:
       - main
 
