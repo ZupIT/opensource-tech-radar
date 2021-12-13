@@ -1,8 +1,12 @@
 name: S3 Production Upload
 
+# on:
+#   release:
+#     types: [published]
+
 on:
-  release:
-    types: [published]
+  pull_request:
+    branches: [main]
 
 jobs:
   deploy:
@@ -18,8 +22,8 @@ jobs:
         with:
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID_PROD }}
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY_PROD }}
-          aws-session-token: ${{ secrets.AWS_SESSION_TOKEN_PROD }}
-          aws-region: ${{ secrets.AWS_REGION_PROD }}    
+          aws-region: ${{ secrets.AWS_REGION_PROD }}
+          role-to-assume: ${{ secrets.AWS_ROLE_TO_ASSUME_PROD }}    
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
