@@ -25,7 +25,8 @@ jobs:
           aws-region: ${{ secrets.AWS_REGION_PROD }}
           role-to-assume: ${{ secrets.AWS_ROLE_TO_ASSUME_PROD }}
           role-session-name: ProdTechRadarPublish
-          role-skip-session-tagging: true    
+          role-skip-session-tagging: true
+          role-duration-seconds: 1200    
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
