@@ -1,12 +1,8 @@
 name: S3 Production Upload
 
-# on:
-#   release:
-#     types: [published]
-
 on:
-  pull_request:
-    branches: [main]
+  release:
+    types: [published]
 
 jobs:
   deploy:
