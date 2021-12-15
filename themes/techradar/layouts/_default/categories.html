@@ -1,119 +1,119 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Language.Lang }}">
-  <head>
-    {{ partial "head.html" . }}
 
-    <title>
-      {{ if .IsHome }}
-        {{ .Site.Title }}
-      {{ else }}
-        {{ with .Title }}{{ . }} | {{ end }}
-        
-        {{ .Site.Title }}
-      {{ end }}
-    </title>
-  </head>
+<head>
+  {{ partial "head.html" . }}
 
-  <body>
-    {{ partial "header.html" . }}
+  <title>
+    {{ if .IsHome }}
+    {{ .Site.Title }}
+    {{ else }}
+    {{ with .Title }}{{ . }} | {{ end }}
 
-    <section class="sc-page-head">
-      <div class="wrapper">
-        <div class="container-fluid gx-0">
-          <div class="row justify-content-center">
-            <div class="col-auto">              
-                <h1>{{ i18n "ui_technologies" }}</h1>              
-            </div>
-          </div>          
-        </div>
-      </div>
-    </section>
+    {{ .Site.Title }}
+    {{ end }}
+  </title>
+</head>
 
-    <main class="pg-technologies">
-      <div class="wrapper">
-        <div class="container-fluid gx-0">
-          <div class="row">
-            <div class="col-12">
-              <div class="cp-accordion">
-                {{ range $elem_index, $category := where .Site.Pages "Params.category" "categories" }}
-                {{ $cardId := print "card" "-" $elem_index}}
-                {{ $collapseId := print "collapse-" $elem_index}}
-                  <div class="cp-accordion-item">
-                    <div class="cp-accordion-item-head">
-                      <div class="row align-items-center justify-content-between">
-                        <div class="col-auto">
-                          <h4 class="cp-accordion-item-head-title">{{ $category.Name }}</h4>
-                        </div>
-                
-                        <div class="col-auto">
-                          <div class="row align-items-center">
-                            <div class="col-auto">
-                              <a href="#" class="cp-accordion-item-head-toggle">
-                                <span class="cp-accordion-item-head-more">{{ i18n "ui_see_more" }}</span>
-                                <span class="cp-accordion-item-head-more">{{ i18n "ui_see_less" }}</span>
-                              </a>
-                            </div>
-                
-                            <div class="col-auto ms-2">
-                              <span class="cp-accordion-item-head-icon">
-                                <a href="#" class="cp-accordion-item-head-toggle">
-                                  <img src="/icons/arrow-down.svg" alt="Icone" />
-                                </a>
-                              </span>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                
-                    <div class="cp-accordion-item-content">
-                      <div class="row">
-                        <div class="col-2">
-                          <span class="pg-techlogies-head-text px-md-4">{{ i18n "ui_rings"}}</span>
-                        </div>
-    
-                        <div class="col-auto">
-                          <span class="pg-techlogies-head-text">{{ i18n "ui_technologies"}}</span>
-                        </div>
-                      </div>
-    
-                      <div class="row mt-3">
-                        <div class="col-12">
-                          {{ range $ring := where .Site.Pages "Params.category" "rings"}}
-                            {{ range $technique := where (where .Site.Pages "Params.category" $category.Title) "Params.ring" $ring.Params.Name }}
-                            <div class="cp-technology">
-                              <div class="row align-items-center justify-content-between">
-                                <div class="col-auto">
-                                  <span class="cp-badge {{ lower $ring.Params.Color }}">{{ $ring.Name }}</span>
-                                </div>
-                                
-                                <div class="col-9">
-                                  <p class="cp-technology-description">{{ $technique.Params.Name }}</p>
-                                </div>
-                            
-                                <div class="col-auto">
-                                  <a href="{{ $technique.URL }}">
-                                    <img src="/icons/external.svg" alt="Icone" />
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                            {{ end }}
-                          {{ end }}
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                {{ end }}
-              </div>
-            </div>
+<body>
+  {{ partial "header.html" . }}
+
+  <section class="sc-page-head">
+    <div class="wrapper">
+      <div class="container-fluid gx-0">
+        <div class="row justify-content-center">
+          <div class="col-auto">
+            <h1>{{ i18n "ui_technologies" }}</h1>
           </div>
         </div>
       </div>
-    </main>
+    </div>
+  </section>
 
-    {{ partial "footer.html" . }}
+  <main class="pg-technologies">
+    <div class="wrapper">
+      <div class="container">
 
-    {{ partial "scripts.html" . }}  
-  </body>
+        <div class="cp-accordion">
+          {{ range $elem_index, $category := where .Site.Pages "Params.category" "categories" }}
+          {{ $cardId := print "card" "-" $elem_index}}
+          {{ $collapseId := print "collapse-" $elem_index}}
+          <div class="cp-accordion-item">
+            <div class="cp-accordion-item-head">
+              <div class="row align-items-center justify-content-between">
+                <div class="col-auto">
+                  <h4 class="cp-accordion-item-head-title">{{ $category.Name }}</h4>
+                </div>
+
+                <div class="col-auto">
+                  <div class="row align-items-center">
+                    <div class="col-auto d-none d-md-block">
+                      <a href="#" class="cp-accordion-item-head-toggle">
+                        <span class="cp-accordion-item-head-more">{{ i18n "ui_see_more" }}</span>
+                        <span class="cp-accordion-item-head-more">{{ i18n "ui_see_less" }}</span>
+                      </a>
+                    </div>
+
+                    <div class="col-auto ms-2">
+                      <span class="cp-accordion-item-head-icon">
+                        <a href="#" class="cp-accordion-item-head-toggle">
+                          <img src="/icons/arrow-down.svg" alt="Icone" />
+                        </a>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="cp-accordion-item-content">
+              <div class="row">
+                <div class="col-2">
+                  <span class="pg-techlogies-head-text px-md-4">{{ i18n "ui_rings"}}</span>
+                </div>
+
+                <div class="col-auto">
+                  <span class="pg-techlogies-head-text">{{ i18n "ui_technologies"}}</span>
+                </div>
+              </div>
+
+              <div class="row mt-3">
+                <div class="col-12">
+                  {{ range $ring := where .Site.Pages "Params.category" "rings"}}
+                    {{ range $technique := where (where .Site.Pages "Params.category" $category.Title) "Params.ring" $ring.Params.Name }}
+                      <div class="cp-technology">
+                        <div class="row align-items-center justify-content-between">
+                          <div class="col-auto">
+                            <span class="cp-badge {{ lower $ring.Params.Color }}">{{ $ring.Name }}</span>
+                          </div>
+
+                          <div class="col-9">
+                            <p class="cp-technology-description">{{ $technique.Params.Name }}</p>
+                          </div>
+
+                          <div class="col-auto">
+                            <a href="{{ $technique.URL }}">
+                              <img src="/icons/external.svg" alt="Icone" />
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                    {{ end }}
+                  {{ end }}
+                </div>
+              </div>
+            </div>
+          </div>
+          {{ end }}
+        </div>
+
+      </div>
+    </div>
+  </main>
+
+  {{ partial "footer.html" . }}
+
+  {{ partial "scripts.html" . }}
+</body>
+
 </html>
