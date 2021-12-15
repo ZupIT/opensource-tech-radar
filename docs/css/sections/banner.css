@@ -1,6 +1,8 @@
 .sc-banner {
-  margin: -36px 0 -96px;
-  
+  position: absolute;
+  transform: translateY(-49%);
+  left: 0;
+  right: 0;
 }
 
 .sc-banner .cp-card {
