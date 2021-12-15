@@ -1,5 +1,5 @@
 +++
-title="Techniques"
+title="Técnicas"
 description="Languages, frameworks and libraries."
 type="pages"
 layout="category"

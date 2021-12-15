@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "NPM",
+  "image" : "/images/platforms/npm.png",
+  "category" : "Plataformas",
+  "description" : "O NPM é uma ferramenta do Node.js para o gerenciamento de pacotes. Ele permite instalar, desinstalar e atualizar dependências em uma aplicação Web.",
+  "ring" : "Essencial",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/npm/",
+  "related": [
+    
+    
+      {
+        "name": "Angular",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/angular.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/angular/"
+      },
+    
+      {
+        "name": "Cypress",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/cypress.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/cypress/"
+      },
+    
+      {
+        "name": "Enry",
+        "ring": "Essencial",
+        "image": "/images/default-logo.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/enry/"
+      },
+    
+    {}
+  ]
+} 
+}

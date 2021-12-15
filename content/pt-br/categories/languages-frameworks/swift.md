@@ -1,32 +1,20 @@
 +++
 name="Swift"
 image="/images/languages-frameworks/swift.png"
-category="Languages-Frameworks"
+category="Linguagens e Frameworks"
 ring="Estratégico"
 type="post"
 layout="details"
+isNew="false"
+description="Swift é uma linguagem de programação desenvolvida pela Apple para desenvolvimento no iOS, macOS, watchOS, tvOS e Linux. Swift foi desenvolvida para manter compatibilidade com a API Cocoa e com código existente em Objective-C."
 +++
 
-# What is it ?
+{{% tabs/group %}}
+  {{% tabs/item id="0" title="O que é?" content="<p>Swift é uma linguagem de programação desenvolvida pela Apple para desenvolvimento no iOS, macOS, watchOS, tvOS e Linux. Swift foi desenvolvida para manter compatibilidade com a API Cocoa e com código existente em Objective-C.</p>" %}}
 
-Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. and the open-source community.
+  {{% tabs/item id="1" title="Como utilizamos?" content="<p>Principal linguagem utilizada no código fonte dos projetos para Beagle iOS</p>" %}}
 
+  {{% tabs/item id="2" title="Onde ?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a>" %}}
 
-# Why ?
-
-Swift is a robust and intuitive programming language created by Apple for building apps for iOS, Mac, Apple TV, and Apple Watch. It's designed to give developers more freedom than ever. Swift is easy to use and open source, so anyone with an idea can create something incredible.
-
-# For who ?
-
-* [Beagle Framework](https://usebeagle.io/)
-
-# Resources
-
-* [homepage](https://swift.org/)
-* [Documentation](https://swift.org/documentation/)
-* [Getting Started](https://swift.org/getting-started/)
-* [Source code](https://github.com/google/go-github)
-
-
-# Resources (Portuguese)
-
+  {{% tabs/item id="3" title="Recursos" content="<a href='https://developer.apple.com/swift/' target='_blank'>Material de estudo</a>" %}}
+{{% /tabs/group %}}

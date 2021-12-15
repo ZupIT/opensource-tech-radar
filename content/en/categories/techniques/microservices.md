@@ -1,27 +1,20 @@
 +++
-name="Microservices"
-image="/images/techniques/tdd.png"
+name="Microsserviços"
+image="/images/techiques/microservices.png"
 category="Techniques"
-ring="Essential"
+ring="Strategic"
 type="post"
 layout="details"
+isNew="true"
+description="It is an architecture model where the services are refined and the protocols are light, and that is why they are called microservices. The goal is for teams to be able to carry out their services independently of others."
 +++
 
-# What is it ?
+{{% tabs/group %}}
+  {{% tabs/item id="0" title="What is it?" content="<p>It is an architecture model where the services are refined and the protocols are light, and that is why they are called microservices. The goal is for teams to be able to carry out their services independently of others.</p>" %}}
+  
+  {{% tabs/item id="1" title="How we use it?" content="<p>We use in Horusec-Platform to upload all its web services such as:  \"Auth\", \"Api\", \"Analytics\", \"Core\", \"Manager\", \"Messages\", \"Vulnerability\", \"Webhook\", \"Migrations\". These services centralize the information and can perform vulnerability management and control access to the platform.</p>" %}}
+  
+  {{% tabs/item id="2" title="For who?" content="<a href='https://horusec.io/site/'>Horusec</a><br />" %}}
 
-Microservice architecture – a variant of the service-oriented architecture structural style – arranges an application as a collection of loosely-coupled services. In a microservices architecture, services are fine-grained and the protocols are lightweight.
-
-# Why ?
-
-With microservices, multiple teams work on independent services, enabling you to deploy more quickly — and pivot more easily when you need to. Development time is reduced, and your teams' code will be more reusable. By decoupling services, you won't have to operate on expensive machines.
-
-# For who ?
-
-* [CharlesCD](https://charlescd.io/)
-
-# Resources
-
-* [Building Microservices: Designing Fine-Grained Systems](https://samnewman.io/books/building_microservices/)
-* [Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith](https://samnewman.io/books/monolith-to-microservices/)
-
-# Resources (Portuguese)
+  {{% tabs/item id="3" title="Resources" content="" %}}
+{{% /tabs/group %}}

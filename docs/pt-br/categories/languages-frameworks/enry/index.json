@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Enry",
+  "image" : "/images/default-logo.png",
+  "category" : "Linguagens e Frameworks",
+  "description" : "Detector de linguagens de programação contidas em um projeto.",
+  "ring" : "Essencial",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/enry/",
+  "related": [
+    
+    
+      {
+        "name": "Angular",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/angular.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/angular/"
+      },
+    
+      {
+        "name": "Cypress",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/cypress.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/cypress/"
+      },
+    
+      {
+        "name": "Flutter",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/flutter.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/flutter/"
+      },
+    
+    {}
+  ]
+} 
+}

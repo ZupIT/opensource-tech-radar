@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Docker SDK",
+  "image" : "/images/languages-frameworks/docker-sdk.png",
+  "category" : "Linguagens e Frameworks",
+  "description" : "SDK que fornece uma API para interagir com o daemon Docker (chamado Docker Engine API), bem como SDKs para Go e Python. Permite que você crie e dimensione aplicativos e soluções Docker com rapidez e facilidade.",
+  "ring" : "Estratégico",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/docker-sdk/",
+  "related": [
+    
+    
+      {
+        "name": "Appium",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/appium.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/appium/"
+      },
+    
+      {
+        "name": "Dart Programming Language",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/dart.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/dart/"
+      },
+    
+      {
+        "name": "Detekt",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/detekt.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/detekt/"
+      },
+    
+    {}
+  ]
+} 
+}

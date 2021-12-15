@@ -1,6 +1,6 @@
 {
   "data" :  {
-  "name": "Essential",
+  "name": "Essencial",
   "image" : "images/rings/essential.png",
   "category" : "rings",
   "description" : "As tecnologias desse anel já foram testadas, mas não estão completamente maduras. Os times que utilizam precisam de capacitação e/ou experiência para garantir o sucesso do projeto. ",
@@ -17,7 +17,7 @@
       },
     
       {
-        "name": "Strategic",
+        "name": "Estratégico",
         "ring": "<no value>",
         "image": "images/rings/strategic.png",
         "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/rings/strategic/"

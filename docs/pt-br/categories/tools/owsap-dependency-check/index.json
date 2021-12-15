@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Owsap Dependency Check",
+  "image" : "/images/default-logo.png",
+  "category" : "Ferramentas",
+  "description" : "Uma ferramenta Software Composition Analysis (SCA) que tenta detectar vulnerabilidades divulgadas publicamente contidas nas dependências de um projeto.",
+  "ring" : "Estratégico",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/owsap-dependency-check/",
+  "related": [
+    
+    
+      {
+        "name": "Appium",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/appium.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/appium/"
+      },
+    
+      {
+        "name": "Dart Programming Language",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/dart.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/dart/"
+      },
+    
+      {
+        "name": "Detekt",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/detekt.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/detekt/"
+      },
+    
+    {}
+  ]
+} 
+}

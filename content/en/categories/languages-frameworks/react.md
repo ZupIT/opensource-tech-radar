@@ -1,29 +1,20 @@
 +++
 name="React"
 image="/images/languages-frameworks/react.png"
-category="Languages-Frameworks"
-ring="Strategic"
+category="Languages and Frameworks"
+ring="Essential"
 type="post"
 layout="details"
+isNew="true"
+description="React is an open source JavaScript library focused on creating user interfaces in web pages. It is maintained by Facebook, Instagram, besides other companies and a community of individual developers."
 +++
 
-# What is it ?
-React is a free and open-source front-end JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
+{{% tabs/group %}}
+  {{% tabs/item id="0" title="What is it?" content="<p>React is an open source JavaScript library focused on creating user interfaces in web pages. It is maintained by Facebook, Instagram, besides other companies and a community of individual developers.</p>" %}}
+  
+  {{% tabs/item id="1" title="How we use it?" content="<p>We use it for the development of Horusec's graphic interface.</p>" %}}
+  
+  {{% tabs/item id="2" title="For who?" content="<a href='https://horusec.io/site/'>Horusec</a>" %}}
 
-# Why ?
-It's used for handling the view layer for web and mobile apps. React also allows us to create reusable UI components. React allows developers to create large web applications that can change data, without reloading the page. The main purpose of React is to be fast, scalable, and simple.
-
-# For who ?
-
-* [CharlesCD](https://charlescd.io/)
-* [Horusec](https://horusec.io/site/)
-
-# Resources
-
-* [homepage](https://reactjs.org/)
-* [Get Started](https://reactjs.org/docs/getting-started.html)
-* [Tutorial](https://reactjs.org/tutorial/tutorial.html)
-* [Source code](https://github.com/quarkusio/quarkus)
-
-
-# Resources (Portuguese)
+  {{% tabs/item id="3" title="Resources" content="<a href='https://reactjs.org/'>Home</a>" %}}
+{{% /tabs/group %}}

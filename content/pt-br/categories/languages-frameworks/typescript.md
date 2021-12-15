@@ -1,45 +1,20 @@
 +++
 name="TypeScript"
 image="/images/languages-frameworks/typescript.png"
-category="Languages-Frameworks"
-ring="Descontinuado"
+category="Linguagens e Frameworks"
+ring="Estratégico"
 type="post"
 layout="details"
+isNew="false"
+description="TypeScript é uma linguagem de programação de código aberto desenvolvida pela Microsoft. É um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem."
 +++
 
-# What is it ?
+{{% tabs/group %}}
+  {{% tabs/item id="0" title="O que é?" content="<p>TypeScript é uma linguagem de programação de código aberto desenvolvida pela Microsoft. É um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem.</p>" %}}
 
-TypeScript is a programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript and adds optional static typing to the language. TypeScript is designed for the development of large applications and transcompiles to JavaScript.
+  {{% tabs/item id="1" title="Como utilizamos?" content="<p>Principal linguagem utilizada no código fonte dos projetos Beagle Web Core, Beagle Web Angular e Beagle Web React</p>" %}}
 
+  {{% tabs/item id="2" title="Onde ?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a><br /><a href='https://horusec.io/' target='_blank'>Horusec</a>" %}}
 
-# Why ?
-
-* TypeScript simplifies JavaScript code, making it easier to read and debug.
-* TypeScript is open source.
-* TypeScript provides highly productive development tools for JavaScript IDEs and practices, like static checking.
-* TypeScript makes code easier to read and understand.
-* With TypeScript, we can make a huge improvement over plain JavaScript.
-* TypeScript gives us all the benefits of ES6 (ECMAScript 6), plus more productivity.
-* TypeScript can help us to avoid painful bugs that developers commonly run into when writing JavaScript by type checking the code.
-* Powerful type system, including generics.
-* TypeScript is nothing but JavaScript with some additional features.
-* Structural, rather than nominal.
-* TypeScript code can be compiled as per ES5 and ES6 standards to support the latest browser.
-* Aligned with ECMAScript for compatibility.
-* Starts and ends with JavaScript.
-* Supports static typing.
-* TypeScript will save developers time.
-* TypeScript is a superset of ES3, ES5, and ES6.
-
-
-# For who ?
-* [CharlesCD](https://charlescd.io/)
-
-# Resources
-* [homepage](https://www.typescriptlang.org/)
-* [Documentation](https://www.typescriptlang.org/docs/)
-* [Source code](https://github.com/microsoft/TypeScript)
-
-
-# Resources (Portuguese)
-
+  {{% tabs/item id="3" title="Recursos" content="<a href='https://www.typescriptlang.org/' target='_blank'>Material de estudo</a>" %}}
+{{% /tabs/group %}}

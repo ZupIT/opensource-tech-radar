@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Docker SDK",
+  "image" : "/images/languages-frameworks/docker.png",
+  "category" : "Languages-Frameworks",
+  "description" : "SDK que fornece uma API para interagir com o daemon Docker (chamado Docker Engine API), bem como SDKs para Go e Python. Permite que você crie e dimensione aplicativos e soluções Docker com rapidez e facilidade.",
+  "ring" : "Strategic",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/docker/",
+  "related": [
+    
+    
+      {
+        "name": "Go",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/go.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/go/"
+      },
+    
+      {
+        "name": "Horusec Engine",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/horusec.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/horusec/"
+      },
+    
+      {
+        "name": "JavaScript",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/js.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/javascript/"
+      },
+    
+    {}
+  ]
+} 
+}

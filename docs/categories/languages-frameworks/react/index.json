@@ -2,32 +2,32 @@
   "data" :  {
   "name": "React",
   "image" : "/images/languages-frameworks/react.png",
-  "category" : "Languages-Frameworks",
-  "description" : "<no value>",
-  "ring" : "Strategic",
+  "category" : "Languages and Frameworks",
+  "description" : "React is an open source JavaScript library focused on creating user interfaces in web pages. It is maintained by Facebook, Instagram, besides other companies and a community of individual developers.",
+  "ring" : "Essential",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/react/",
   "related": [
     
     
       {
-        "name": "Spock",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/java.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/spock/"
+        "name": "Angular",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/angular.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/angular/"
       },
     
       {
-        "name": "Swift",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/swift.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/swift/"
+        "name": "Cypress",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/cypress.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/cypress/"
       },
     
       {
-        "name": "Android",
-        "ring": "Strategic",
-        "image": "/images/platforms/android.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/android/"
+        "name": "Enry",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/enry.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/enry/"
       },
     
     {}

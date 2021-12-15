@@ -10,24 +10,17 @@
     
     
       {
-        "name": "Go",
+        "name": "Docker-SDK",
         "ring": "Potential",
-        "image": "/images/languages-frameworks/go.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/go/"
+        "image": "/images/languages-frameworks/docker.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/docker/"
       },
     
       {
-        "name": "C4 model",
+        "name": "Amazon AWS",
         "ring": "Potential",
-        "image": "/images/techniques/c4-model.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/techniques/c4-model/"
-      },
-    
-      {
-        "name": "Cognitive-Driven Development",
-        "ring": "Potential",
-        "image": "/images/techniques/tdd.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/techniques/cdd/"
+        "image": "/images/platforms/aws.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/aws/"
       },
     
     {}

@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Dart Programming Language",
+  "image" : "/images/languages-frameworks/dart.png",
+  "category" : "Linguagens e Frameworks",
+  "description" : "Linguagem de programação otimizada para o desenvolvimento de aplicações multi-plataforma.",
+  "ring" : "Estratégico",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/dart/",
+  "related": [
+    
+    
+      {
+        "name": "Appium",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/appium.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/appium/"
+      },
+    
+      {
+        "name": "Detekt",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/detekt.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/detekt/"
+      },
+    
+      {
+        "name": "Docker SDK",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/docker-sdk.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/docker-sdk/"
+      },
+    
+    {}
+  ]
+} 
+}

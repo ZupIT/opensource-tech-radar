@@ -1,26 +1,20 @@
 +++
-name="Intellij"
+name="IntelliJ"
 image="/images/tools/intellij.png"
-category="Tools"
+category="Ferramentas"
 ring="Estratégico"
 type="post"
 layout="details"
+isNew="true"
+description="Editor de código fonte"
 +++
 
-# What is it ?
+{{% tabs/group %}}
+  {{% tabs/item id="0" title="O que é?" content="<p>Editor de código fonte</p>" %}}
+  
+  {{% tabs/item id="1" title="Como utilizamos?" content="<p>O time do Beagle utiliza para edição de código fonte, principalmente nos projetos: Beagle Backend</p>" %}}
+  
+  {{% tabs/item id="2" title="Onde ?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a>" %}}
 
-IntelliJ IDEA is an integrated development environment written in Java for developing computer software. It is developed by JetBrains, and is available as an Apache 2 Licensed community edition, and in a proprietary commercial edition. Both can be used for commercial development.
-
-# Why ?
-
-IntelliJ IDEA analyzes your code, looking for connections between symbols across all project files and languages. Using this information it provides indepth coding assistance, quick navigation, clever error analysis, and, of course, refactorings.
-
-# For who ?
-* [CharlesCD](https://charlescd.io/)
-
-# Resources
-* [homepage](https://www.jetbrains.com/idea/)
-* [Documentation](https://www.jetbrains.com/help/idea/discover-intellij-idea.html)
-
-# Resources (Portuguese)
-* 
+  {{% tabs/item id="3" title="Recursos" content="<a href='https://www.jetbrains.com/pt-br/idea/' target='_blank'>Material de estudo</a>" %}}
+{{% /tabs/group %}}

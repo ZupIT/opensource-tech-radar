@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Husky",
+  "image" : "/images/tools/husky.png",
+  "category" : "Tools",
+  "description" : "Tool that helps in the integration of Git events.",
+  "ring" : "Strategic",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/tools/husky/",
+  "related": [
+    
+    
+      {
+        "name": "Appium",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/appium.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/appium/"
+      },
+    
+      {
+        "name": "Dart Programming Language",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/dart.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/dart/"
+      },
+    
+      {
+        "name": "Detekt",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/detekt.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/detekt/"
+      },
+    
+    {}
+  ]
+} 
+}

@@ -1,31 +1,20 @@
 +++
 name="GitHub"
 image="/images/platforms/github.png"
-category="Platforms"
+category="Plataformas"
 ring="Estratégico"
 type="post"
 layout="details"
+isNew="false"
+description="GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git."
 +++
 
-# What is it ?
+{{% tabs/group %}}
+  {{% tabs/item id="0" title="O que é?" content="<p>GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git.</p>" %}}
 
-GitHub, Inc. is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.
+  {{% tabs/item id="1" title="Como utilizamos?" content="<p>Hospedamos todo nosso código fonte no GitHub.</p>" %}}
 
-# Why ?
+  {{% tabs/item id="2" title="Onde ?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a><br /><a href='https://ritchiecli.io/' target='_blank'>Ritchie CLI</a><br /><a href='https://horusec.io/' target='_blank'>Horusec</a>" %}}
 
-GitHub is a website for developers and programmers to collaboratively work on code. The primary benefit of GitHub is its version control system, which allows for seamless collaboration without compromising the integrity of the original project.
-
-# For who ?
-
-* [CharlesCD](https://charlescd.io/)
-* [Horusec](https://horusec.io/site/)
-* [Ritchie CLI](https://ritchiecli.io/)
-* [Beagle Framework](https://usebeagle.io/)
-
-# Resources
-
-* [homepage](https://github.com/)
-* [Documentation](https://docs.github.com/en)
-
-
-# Resources (Portuguese)
+  {{% tabs/item id="3" title="Recursos" content="<a href='https://docs.github.com/pt/get-started' target='_blank'>Materiais de estudo</a>" %}}
+{{% /tabs/group %}}

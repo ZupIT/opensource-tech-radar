@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Amazon CodeBuild",
+  "image" : "/images/platforms/aws-codebuild.png",
+  "category" : "Platforms",
+  "description" : "AWS CodeBuild is a totally managed continuous integration service that compiles the source code, performs tests and produces ready-to-deploy software packages.",
+  "ring" : "Strategic",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/amazon-codebuild/",
+  "related": [
+    
+    
+      {
+        "name": "Appium",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/appium.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/appium/"
+      },
+    
+      {
+        "name": "Dart Programming Language",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/dart.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/dart/"
+      },
+    
+      {
+        "name": "Detekt",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/detekt.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/detekt/"
+      },
+    
+    {}
+  ]
+} 
+}

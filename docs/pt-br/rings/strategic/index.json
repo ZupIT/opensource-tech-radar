@@ -1,6 +1,6 @@
 {
   "data" :  {
-  "name": "Strategic",
+  "name": "Estratégico",
   "image" : "images/rings/strategic.png",
   "category" : "rings",
   "description" : "Tecnologias dentro do anel Estratégico são fundamentais para os projetos. Os times que testaram  têm conhecimento, segurança e fluência.",
@@ -17,7 +17,7 @@
       },
     
       {
-        "name": "Essential",
+        "name": "Essencial",
         "ring": "<no value>",
         "image": "images/rings/essential.png",
         "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/rings/essential/"

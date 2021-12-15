@@ -1,29 +1,20 @@
 +++
-title="Kotlin"
 name="Kotlin"
 image="/images/languages-frameworks/kotlin.png"
-category="Languages-Frameworks"
+category="Languages and Frameworks"
 ring="Strategic"
 type="post"
 layout="details"
+isNew="false"
+description="Kotlin is a multiplatform programming language developed by JetBrains in 2011. It is oriented to objects and functional, concise, and statically typed, it compiles to the Java virtual machine and can also be translated to JavaScript language and compiled to the native code."
 +++
 
-{{< tabs id="kotlin" >}}
-{{% tab name="What is it ?" %}}
-Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin's standard library depends on the Java Class Library, but type inference allows its syntax to be more concise. 
-{{% /tab %}}
+{{% tabs/group %}}
+  {{% tabs/item id="0" title="What is it?" content="<p>Kotlin is a multiplatform programming language developed by JetBrains in 2011. It is oriented to objects and functional, concise, and statically typed, it compiles to the Java virtual machine and can also be translated to JavaScript language and compiled to the native code.</p>" %}}
 
-{{% tab name="Why ?" %}}
-The most strongly supported JVM language in the Android ecosystem—aside from Java—is Kotlin, an open-source, statically typed language developed by JetBrains. JetBrains created one of the most popular IDEs, IntelliJ IDEA, as well as Android Studio, which Google crowned as the standard IDE for Android development.
-{{% /tab %}}
+  {{% tabs/item id="1" title="How we use it?" content="<p>It is the main language used in the source code of the Beagle Backend and Beagle Android projects.</p>" %}}
 
-{{% tab name="For who ?" %}}
-* [CharlesCD](https://charlescd.io/)
-* [Beagle Framework](https://usebeagle.io/)
-{{% /tab %}}
-{{% tab name="Resources" %}}
-* [homepage](https://kotlinlang.org/)
-* [Documentation](https://kotlinlang.org/docs/home.html)
-* [Source code](https://github.com/JetBrains/kotlin)
-{{% /tab %}}
-{{< /tabs >}}
+  {{% tabs/item id="2" title="For who?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a>" %}}
+
+  {{% tabs/item id="3" title="Resources" content="<a href='https://kotlinlang.org/' target='_blank'>Home</a>" %}}
+{{% /tabs/group %}}

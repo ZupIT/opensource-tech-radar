@@ -1,0 +1,29 @@
+{
+  "data" :  {
+  "name": "Micro Frontend",
+  "image" : "/images/default-logo.png",
+  "category" : "Técnicas",
+  "description" : "Abordagem que pensa em um site ou aplicativo da web como uma composição de recursos pertencentes a equipes independentes. Cada equipe tem uma área distinta de negócios ou missão com a qual se preocupa e é especializada.",
+  "ring" : "Descontinuado",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/micro-frontend/",
+  "related": [
+    
+    
+      {
+        "name": "Monorepo",
+        "ring": "Descontinuado",
+        "image": "/images/default-logo.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/monorepo/"
+      },
+    
+      {
+        "name": "Spotbugs",
+        "ring": "Descontinuado",
+        "image": "/images/default-logo.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/spotbugs/"
+      },
+    
+    {}
+  ]
+} 
+}

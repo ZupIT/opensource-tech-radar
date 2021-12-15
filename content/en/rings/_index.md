@@ -1,4 +1,4 @@
 +++
-title="Anéis"
+title="Rings"
 category="ring"
 +++

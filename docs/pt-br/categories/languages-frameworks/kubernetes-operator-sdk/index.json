@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Kubernetes Operator SDK",
+  "image" : "/images/languages-frameworks/kubernetes-operator-sdk.png",
+  "category" : "Linguagens e Frameworks",
+  "description" : "Um componente do Operator Framework, um kit de ferramentas de código aberto para gerenciar aplicativos nativos do Kubernetes, chamados de Operadores, de forma eficaz, automatizada e escalonável.",
+  "ring" : "Essencial",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/kubernetes-operator-sdk/",
+  "related": [
+    
+    
+      {
+        "name": "Angular",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/angular.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/angular/"
+      },
+    
+      {
+        "name": "Cypress",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/cypress.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/cypress/"
+      },
+    
+      {
+        "name": "Enry",
+        "ring": "Essencial",
+        "image": "/images/default-logo.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/enry/"
+      },
+    
+    {}
+  ]
+} 
+}

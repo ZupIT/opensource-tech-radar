@@ -1,6 +1,6 @@
 {
   "data" :  {
-  "name": "Potential",
+  "name": "Potencial",
   "image" : "images/rings/potential.png",
   "category" : "rings",
   "description" : "Tecnologias em Potencial, como o próprio nome diz, tem muitas chances de serem adotadas em projetos atuais ou em futuros engajamentos. Para isso, é necessário fazer estudos e testes.",
@@ -17,14 +17,14 @@
       },
     
       {
-        "name": "Strategic",
+        "name": "Estratégico",
         "ring": "<no value>",
         "image": "images/rings/strategic.png",
         "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/rings/strategic/"
       },
     
       {
-        "name": "Essential",
+        "name": "Essencial",
         "ring": "<no value>",
         "image": "images/rings/essential.png",
         "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/rings/essential/"

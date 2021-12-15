@@ -1,32 +1,20 @@
 +++
 name="Kotlin"
 image="/images/languages-frameworks/kotlin.png"
-category="Languages-Frameworks"
+category="Linguagens e Frameworks"
 ring="Estratégico"
 type="post"
 layout="details"
+isNew="false"
+description="Kotlin é uma Linguagem de programação multiplataforma desenvolvida pela JetBrains em 2011. É orientada a objetos e funcional, concisa e estaticamente tipada, que compila para a Máquina virtual Java e que também pode ser traduzida para a linguagem JavaScript e compilada para código nativo."
 +++
 
-{{< tabs >}}
-<!-- # What is it ?
+{{% tabs/group %}}
+  {{% tabs/item id="0" title="O que é?" content="<p>Kotlin é uma Linguagem de programação multiplataforma desenvolvida pela JetBrains em 2011. É orientada a objetos e funcional, concisa e estaticamente tipada, que compila para a Máquina virtual Java e que também pode ser traduzida para a linguagem JavaScript e compilada para código nativo.</p>" %}}
 
-Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin's standard library depends on the Java Class Library, but type inference allows its syntax to be more concise. 
+  {{% tabs/item id="1" title="Como utilizamos?" content="<p>Principal linguagem utilizada no código fonte dos projetos Beagle Backend e Beagle Android</p>" %}}
 
+  {{% tabs/item id="2" title="Onde ?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a>" %}}
 
-# Why ?
-
-The most strongly supported JVM language in the Android ecosystem—aside from Java—is Kotlin, an open-source, statically typed language developed by JetBrains. JetBrains created one of the most popular IDEs, IntelliJ IDEA, as well as Android Studio, which Google crowned as the standard IDE for Android development.
-
-
-# For who ?
-* [CharlesCD](https://charlescd.io/)
-* [Beagle Framework](https://usebeagle.io/)
-
-# Resources
-* [homepage](https://kotlinlang.org/)
-* [Documentation](https://kotlinlang.org/docs/home.html)
-* [Source code](https://github.com/JetBrains/kotlin)
-
-
-# Resources (Portuguese) -->
-
+  {{% tabs/item id="3" title="Recursos" content="<a href='https://kotlinlang.org/' target='_blank'>Material de estudo</a>" %}}
+{{% /tabs/group %}}

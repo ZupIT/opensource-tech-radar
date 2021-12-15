@@ -1,33 +1,33 @@
 {
   "data" :  {
-  "name": "Microservices",
-  "image" : "/images/techniques/tdd.png",
+  "name": "Microsserviços",
+  "image" : "/images/techiques/microservices.png",
   "category" : "Techniques",
-  "description" : "<no value>",
-  "ring" : "Essential",
+  "description" : "It is an architecture model where the services are refined and the protocols are light, and that is why they are called microservices. The goal is for teams to be able to carry out their services independently of others.",
+  "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/techniques/microservices/",
   "related": [
     
     
       {
-        "name": "Java",
-        "ring": "Essential",
-        "image": "/images/languages-frameworks/java.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/java/"
+        "name": "Appium",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/appium.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/appium/"
       },
     
       {
-        "name": "JUnit 5",
-        "ring": "Essential",
-        "image": "/images/languages-frameworks/junit-5.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/junit/"
+        "name": "Dart Programming Language",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/dart.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/dart/"
       },
     
       {
-        "name": "Quarkus",
-        "ring": "Essential",
-        "image": "/images/languages-frameworks/quarkus.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/quarkus/"
+        "name": "Detekt",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/detekt.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/detekt/"
       },
     
     {}
