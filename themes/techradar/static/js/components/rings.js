@@ -31,6 +31,8 @@
             selectRing(index)
           }
         })
+        // remove data rings
+        document.querySelectorAll('.cp-rings-circles-item-data').forEach(e => e.remove());
       }
   
       function createRingElement (ring, i) {
@@ -66,20 +68,27 @@
         const thumbnail = document.createElement('div')
         const content = document.createElement('div')
   
-        thumbnail.className = 'cp-rings-card-thumbnail'
+        thumbnail.className = 'cp-rings-card-thumbnail d-none d-md-block'
         content.className = 'cp-rings-card-content'
   
         const img = document.createElement('img')
         const title = document.createElement('h3')
         const caption = document.createElement('p')
+        const chevronIcon = document.createElement('img')
+        const titleWrapper = document.createElement('div')
   
         img.src = ring.image
         title.innerText = ring.title
         caption.innerText = ring.caption
-  
+        chevronIcon.src = '../images/icons/chevron-right.svg'
+        chevronIcon.onclick = () => selectRing( index === 4 ? 1 : index + 1)
+        chevronIcon.className = 'd-md-none'
+        
+        titleWrapper.append(title, chevronIcon)
+        titleWrapper.className = 'd-flex justify-content-between align-items-center'
+        content.append(titleWrapper, caption)
+        
         thumbnail.append(img)
-        content.append(title, caption)
-  
         cpRingsCard.append(thumbnail, content)
   
         Array.from(cpRingsBoxes.children).forEach((element, indexElement) => {

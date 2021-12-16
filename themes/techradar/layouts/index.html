@@ -133,33 +133,26 @@
 
     <section class="sc-rings">
       <div class="wrapper">
-        <div class="container-fluid gx-0">
-          <div class="row justify-content-center">
-            <div class="col-auto">
-              <h2>{{ i18n "ui_home_rings_section_title" }}</h2>
-            </div>
-          </div>
-
-          <div class="row justify-content-center mt-3">
-            <div class="col-auto">
-              <p>{{ i18n "ui_home_rings_section_description" }}</p>
-            </div>
-          </div>
+        <div class="container">
+      
+          <h2 class="text-center">{{ i18n "ui_home_rings_section_title" }}</h2>
+          <p class="text-center mt-3">{{ i18n "ui_home_rings_section_description" }}</p>
+    
 
           <div class="row justify-content-between mt-5">
-            <div class="col-4">
-              <div class="cp-card" style="padding: 4px; height: 100%">
+            <div class="col-md-12 col-lg-4">
+              <div class="cp-card mb-5 h-100" style="padding: 4px">
                 <div class="cp-rings-card" id="cp-rings-card"></div>
               </div>
             </div>
           
-            <div class="col-7">
+            <div class="col-md-12 col-lg-7 mt-5 mt-lg-0">
               <div class="row">
-                <div class="col-auto">
+                <div class="col-auto d-none d-md-block">
                   <div id="cp-rings-boxes" class="cp-rings-boxes"></div>
                 </div>
           
-                <div class="col-8">
+                <div class="col-sm-12 col-md-8">
                   {{ $rings := where .Site.Pages "Params.category" "rings" }}
 
                   {{ range $rings }}
