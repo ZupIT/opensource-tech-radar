@@ -21,10 +21,10 @@
 }
 
 .cp-dropdown-list {
-  width: 100%;
+  width: auto;
   position: absolute;
   top: 40px;
-  right: 0px;
+  left: 0px;
   z-index: 100;
   display: block;
   border-radius: 4.8px;
@@ -37,7 +37,7 @@
 
 .cp-dropdown-list-item {
   font-size: 13px;
-  padding: 15px 20px;
+  padding: 10px 20px;
   cursor: pointer;
   border-bottom: 1px solid rgba(200, 199, 204, 0.5);
 }
