@@ -1,182 +1,219 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Language.Lang }}">
-  <head>
-    {{ partial "head.html" . }}
 
-    <title>
-      {{ if .IsHome }}
-        {{ .Site.Title }}
-      {{ else }}
-        {{ with .Title }}{{ . }} | {{ end }}
-        
-        {{ .Site.Title }}
-      {{ end }}
-    </title>
-  </head>
+<head>
+  {{ partial "head.html" . }}
 
-  <body>
-    {{ partial "header.html" . }}
+  <title>
+    {{ if .IsHome }}
+    {{ .Site.Title }}
+    {{ else }}
+    {{ with .Title }}{{ . }} | {{ end }}
 
+    {{ .Site.Title }}
+    {{ end }}
+  </title>
+</head>
+
+<body>
+  {{ partial "header.html" . }}
+
+  <section class="sc-page-head">
+    <div class="pg-radar-image">
+      <div class="container d-flex justify-content-center align-items-center">
+        <img src='../images/radar.png' alt="">
+      </div>
+    </div>
+
+    <div class="wrapper">
+      <div class="container-fluid gx-0">
+        <div class="row justify-content-center">
+          <div class="col-auto">
+            <h1>{{ .Params.Title }}</h1>
+          </div>
+        </div>
+
+        {{ if .Params.About }}
+        <div class="row justify-content-center mt-3">
+          <div class="col-auto">
+            <p class="text-center">{{ .Params.About | safeHTML }}</p>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+
+
+    <div class="pg-radar-button">
+      <p> {{ i18n "ui_see_radar_in_browser" }} </p>
+    </div>
+
+  </section>
+  <div class="pg-radar-spacer"></div>
+
+  <main class="pg-radar d-none d-lg-block">
     {{ partial "pagetitle.html" .}}
+    <div class="wrapper">
+      <div class="container-fluid gx-0">
+        <div class="row gap-2 flex-nowrap justify-content-between">
+          <div class="col-4">
+            <div class="cp-card overflow-auto" style="max-height: 850px;">
+              <div class="pg-radar-back-button-text d-none">{{ i18n "ui_back_to_radar_button" }}</div>
 
-    <main class="pg-radar">
-      <div class="wrapper">
-        <div class="container-fluid gx-0">
-          <div class="row justify-content-between">
-            <div class="col-4">
-              <div class="cp-card">
-                <div class="pg-radar-back-button-text d-none">{{ i18n "ui_back_to_radar_button" }}</div>
-                
-                {{ $rings := where .Site.Pages "Params.category" "rings" }}
-                {{ range $ring := $rings }}
-                  <div class="pg-radar-category">
-                    <div class="pg-radar-category-head">
-                      <h3>{{ $ring.Title }}</h3>
-    
-                      <img src="/icons/question.svg" alt="Icone">
-                    </div>
-    
-                    <ul class="pg-radar-category-list">
-                      {{ range where .Site.Pages "Params.ring" $ring.Title }}
-                      <li class="pg-radar-category-list-item">
-                        <a href="#" data-id="{{ .Permalink }}" data-name="{{ .Params.name }}" data-ring="{{ .Params.ring }}" data-quadrant="{{ .Params.category }}" data-isNew='{{ (.Params.isNew | default "false") }}' data-description='{{ (.Description | default "") }}'  data-wasUpdated='{{ (.Params.wasUpdated | default "false") }}'>{{ .Params.name }}</a>
-                      </li>
-                      {{ end }}
-                    </ul>
-                  </div>
-                {{ end }}
+              {{ $rings := where .Site.Pages "Params.category" "rings" }}
+              {{ range $ring := $rings }}
+              <div class="pg-radar-category">
+                <div class="pg-radar-category-head">
+                  <h3>{{ $ring.Title }}</h3>
+
+                  <img src="/icons/question.svg" alt="Icone">
+                </div>
+
+                <ul class="pg-radar-category-list">
+                  {{ range where .Site.Pages "Params.ring" $ring.Title }}
+                  <li class="pg-radar-category-list-item">
+                    <a href="#" data-id="{{ .Permalink }}" data-name="{{ .Params.name }}" data-ring="{{ .Params.ring }}"
+                      data-quadrant="{{ .Params.category }}" data-isNew='{{ (.Params.isNew | default "false") }}'
+                      data-description='{{ (.Description | default "") }}'
+                      data-wasUpdated='{{ (.Params.wasUpdated | default "false") }}'>{{ .Params.name }}</a>
+                  </li>
+                  {{ end }}
+                </ul>
               </div>
+              {{ end }}
             </div>
-  
-            <div class="col-auto pos-rel">
-              <ul class="pg-radar-quadrant-groups">
-                <li class="pg-radar-quadrant-groups-item" data-order="first" data-startAngle="90">
-                  <span>
-                    <img src="/icons/icon-quadrant-1.svg" alt="Icone">
-                  </span>
-  
-                  <span>{{ i18n "ui_techniques"}}</span>
-                </li>
-  
-                <li class="pg-radar-quadrant-groups-item" data-order="second" data-startAngle="0">
-                  <span>
-                    <img src="/icons/icon-quadrant-2.svg" alt="Icone">
-                  </span>
-  
-                  <span>{{ i18n "ui_tools"}}</span>
-                </li>
-  
-                <li class="pg-radar-quadrant-groups-item" data-order="third" data-startAngle="-90">
-                  <span>
-                    <img src="/icons/icon-quadrant-3.svg" alt="Icone">
-                  </span>
-  
-                  <span>{{ i18n "ui_languages_and_frameworks"}}</span>
-                </li>
-  
-                <li class="pg-radar-quadrant-groups-item" data-order="fourth" data-startAngle="-180">
-                  <span>
-                    <img src="/icons/icon-quadrant-4.svg" alt="Icone">
-                  </span>
-  
-                  <span>{{ i18n "ui_services"}}</span>
-                </li>
-              </ul>
-  
-              <ul class="pg-radar-caption">
-                <li class="pg-radar-caption-item">
-                  <span>
-                    <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <circle cx="7.07197" cy="7.07197" r="4.576" fill="#404659" />
-                      <circle cx="7.072" cy="7.072" r="6.572" stroke="#8C909C" />
-                    </svg>
-                  </span>
-  
-                  <span>{{ i18n "ui_new"}}</span>
-                </li>
-  
-                <li class="pg-radar-caption-item">
-                  <span>
-                    <svg width="16" height="13" viewBox="0 0 16 13" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <circle cx="8.07201" cy="8.07197" r="4.576" transform="rotate(90 8.07201 8.07197)" fill="#404659" />
-                      <path d="M0.999982 8.072C0.999981 4.16624 4.16622 1 8.07198 1C11.9777 1 15.144 4.16624 15.144 8.072"
-                        stroke="#8C909C" stroke-linecap="round" />
-                    </svg>
-                  </span>
-  
-                  <span>{{ i18n "ui_updated"}}</span>
-                </li>
-  
-                <li class="pg-radar-caption-item">
-                  <span>
-                    <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <circle cx="4.576" cy="4.57598" r="4.576" transform="rotate(-90 4.576 4.57598)" fill="#404659" />
-                    </svg>
-                  </span>
-  
-                  <span>{{ i18n "ui_no_update"}}</span>
-                </li>
-              </ul>
-  
-              <div class="cp-tech-radar">  
-                <radar></radar>
-              </div>
+          </div>
+
+          <div class="col-auto pos-rel">
+            <ul class="pg-radar-quadrant-groups">
+              <li class="pg-radar-quadrant-groups-item" data-order="first" data-startAngle="90">
+                <span>
+                  <img src="/icons/icon-quadrant-1.svg" alt="Icone">
+                </span>
+
+                <span>{{ i18n "ui_techniques"}}</span>
+              </li>
+
+              <li class="pg-radar-quadrant-groups-item" data-order="second" data-startAngle="0">
+                <span>
+                  <img src="/icons/icon-quadrant-2.svg" alt="Icone">
+                </span>
+
+                <span>{{ i18n "ui_tools"}}</span>
+              </li>
+
+              <li class="pg-radar-quadrant-groups-item" data-order="third" data-startAngle="-90">
+                <span>
+                  <img src="/icons/icon-quadrant-3.svg" alt="Icone">
+                </span>
+
+                <span>{{ i18n "ui_languages_and_frameworks"}}</span>
+              </li>
+
+              <li class="pg-radar-quadrant-groups-item" data-order="fourth" data-startAngle="-180">
+                <span>
+                  <img src="/icons/icon-quadrant-4.svg" alt="Icone">
+                </span>
+
+                <span>{{ i18n "ui_services"}}</span>
+              </li>
+            </ul>
+
+            <ul class="pg-radar-caption">
+              <li class="pg-radar-caption-item">
+                <span>
+                  <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <circle cx="7.07197" cy="7.07197" r="4.576" fill="#404659" />
+                    <circle cx="7.072" cy="7.072" r="6.572" stroke="#8C909C" />
+                  </svg>
+                </span>
+
+                <span>{{ i18n "ui_new"}}</span>
+              </li>
+
+              <li class="pg-radar-caption-item">
+                <span>
+                  <svg width="16" height="13" viewBox="0 0 16 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <circle cx="8.07201" cy="8.07197" r="4.576" transform="rotate(90 8.07201 8.07197)" fill="#404659" />
+                    <path d="M0.999982 8.072C0.999981 4.16624 4.16622 1 8.07198 1C11.9777 1 15.144 4.16624 15.144 8.072"
+                      stroke="#8C909C" stroke-linecap="round" />
+                  </svg>
+                </span>
+
+                <span>{{ i18n "ui_updated"}}</span>
+              </li>
+
+              <li class="pg-radar-caption-item">
+                <span>
+                  <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <circle cx="4.576" cy="4.57598" r="4.576" transform="rotate(-90 4.576 4.57598)" fill="#404659" />
+                  </svg>
+                </span>
+
+                <span>{{ i18n "ui_no_update"}}</span>
+              </li>
+            </ul>
+
+            <div class="cp-tech-radar">
+              <radar></radar>
             </div>
           </div>
         </div>
       </div>
-    </main>
-
-    <div class="cp-modal">
-      <main>
-        <div class="container-fluid gx-0">
-          <div class="row mt-3 align-items-center">
-            <div class="col-12">
-              <img src="#" alt="#" id="pg-radar-modal-thumbnail" style="max-width: 58px">
-            </div>
-          </div>
-          
-          <div class="row mt-3 align-items-center">
-            <div class="col-auto">
-              <h2 id="pg-radar-modal-title"></h2>
-            </div>
-          </div>
-          
-          <div class="row mt-3 align-items-center">
-            <div class="col-auto">
-              <p id="pg-radar-modal-description"></p>
-            </div>
-          </div>
-  
-          <div class="row mt-3">
-            <div class="col-auto">
-              <span class="cp-badge" id="pg-radar-modal-ring"></span>
-            </div>
-  
-            <div class="col-auto">
-              <span class="cp-badge" id="pg-radar-modal-category"></span>
-            </div>
-          </div>
-  
-          <div class="row mt-5">
-            <div class="col-12">
-              <!-- {{ .Content }} -->
-            </div>
-          </div>
-  
-          <div class="row mt-5">
-            <div class="col-12">
-              <h4>{{ i18n "ui_also_use" }}:</h4>
-            </div>
-          </div>
-  
-          <div class="row mt-3" id="pg-radar-modal-related"></div>
-        </div>
-      </main>
     </div>
+  </main>
 
-    {{ partial "footer.html" . }}
+  <div class="cp-modal">
+    <main>
+      <div class="container-fluid gx-0">
+        <div class="row mt-3 align-items-center">
+          <div class="col-12">
+            <img src="#" alt="#" id="pg-radar-modal-thumbnail" style="max-width: 58px">
+          </div>
+        </div>
 
-    {{ partial "scripts.html" . }}  
-  </body>
+        <div class="row mt-3 align-items-center">
+          <div class="col-auto">
+            <h2 id="pg-radar-modal-title"></h2>
+          </div>
+        </div>
+
+        <div class="row mt-3 align-items-center">
+          <div class="col-auto">
+            <p id="pg-radar-modal-description"></p>
+          </div>
+        </div>
+
+        <div class="row mt-3">
+          <div class="col-auto">
+            <span class="cp-badge" id="pg-radar-modal-ring"></span>
+          </div>
+
+          <div class="col-auto">
+            <span class="cp-badge" id="pg-radar-modal-category"></span>
+          </div>
+        </div>
+
+        <div class="row mt-5">
+          <div class="col-12">
+            <!-- {{ .Content }} -->
+          </div>
+        </div>
+
+        <div class="row mt-5">
+          <div class="col-12">
+            <h4>{{ i18n "ui_also_use" }}:</h4>
+          </div>
+        </div>
+
+        <div class="row mt-3" id="pg-radar-modal-related"></div>
+      </div>
+    </main>
+  </div>
+
+  {{ partial "footer.html" . }}
+
+  {{ partial "scripts.html" . }}
+</body>
+
 </html>

@@ -21,4 +21,6 @@
 
 .sc-categories .cp-card {
   height: 100%;
+  min-width: 230px;
 }
+

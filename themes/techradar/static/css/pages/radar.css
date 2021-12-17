@@ -143,3 +143,43 @@
   color: #FF6D00;
   margin-top: 74px;
 }
+
+.pg-radar-button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 24px;
+
+  background: #FF6D00;
+  border-radius: 4px;
+
+  margin: 60px;
+
+  position: absolute;
+  transform: translateY(-49%);
+  left: 0;
+  right: 0;
+  margin-bottom: 150px;
+}
+
+.pg-radar-button > p{
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+
+.pg-radar-image {
+  padding-bottom: 50px;
+  background-color: #F5F6F7;
+}
+
+.pg-radar-spacer {
+  padding: 30px;
+  background: #F5F6F7;
+}

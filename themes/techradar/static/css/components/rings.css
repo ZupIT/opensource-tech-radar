@@ -16,8 +16,8 @@
   --size: calc(calc(var(--vWidth) / var(--rings)) * var(--index));
   width: var(--size);
   height: var(--size);
-  max-width: calc(calc(500px / var(--rings)) * var(--index));
-  max-height: calc(calc(500px / var(--rings)) * var(--index));
+  max-width: calc(calc(510px / var(--rings)) * var(--index));
+  max-height: calc(calc(510px / var(--rings)) * var(--index));
 
   border: 1px solid rgba(0, 0, 0, 0.3);
   border-bottom-right-radius: 100%;

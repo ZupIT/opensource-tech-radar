@@ -96,3 +96,7 @@ other = "Voltar para o radar"
 
 [home_welcome_text]
 other = "Acompanhe as últimas tendências tecnológicas com o nosso radar open source."
+
+
+[ui_see_radar_in_browser]
+other = "Ver radar no navegador"

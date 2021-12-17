@@ -80,7 +80,7 @@
         img.src = ring.image
         title.innerText = ring.title
         caption.innerText = ring.caption
-        chevronIcon.src = '../images/icons/chevron-right.svg'
+        chevronIcon.src = '../icons/chevron-right.svg'
         chevronIcon.onclick = () => selectRing( index === 4 ? 1 : index + 1)
         chevronIcon.className = 'd-md-none'
         
