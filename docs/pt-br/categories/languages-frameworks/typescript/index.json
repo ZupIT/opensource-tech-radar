@@ -2,32 +2,32 @@
   "data" :  {
   "name": "TypeScript",
   "image" : "/images/languages-frameworks/typescript.png",
-  "category" : "Languages-Frameworks",
-  "description" : "<no value>",
-  "ring" : "Descontinuado",
+  "category" : "Linguagens e Frameworks",
+  "description" : "TypeScript é uma linguagem de programação de código aberto desenvolvida pela Microsoft. É um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem.",
+  "ring" : "Estratégico",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/typescript/",
   "related": [
     
     
       {
-        "name": "GorillaMux",
-        "ring": "Descontinuado",
-        "image": "/images/languages-frameworks/gorila-mux.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/gorilla-mux/"
+        "name": "Appium",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/appium.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/appium/"
       },
     
       {
-        "name": "Gorm",
-        "ring": "Descontinuado",
-        "image": "/images/languages-frameworks/go.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/gorm/"
+        "name": "Dart Programming Language",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/dart.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/dart/"
       },
     
       {
-        "name": "Groovy",
-        "ring": "Descontinuado",
-        "image": "/images/languages-frameworks/groovy.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/groovy/"
+        "name": "Detekt",
+        "ring": "Estratégico",
+        "image": "/images/languages-frameworks/detekt.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/detekt/"
       },
     
     {}

@@ -1,33 +1,20 @@
 +++
 name="Go"
 image="/images/languages-frameworks/go.png"
-category="Languages-Frameworks"
-ring="Potential"
+category="Languages and Frameworks"
+ring="Strategic"
 type="post"
 layout="details"
+isNew="true"
+description="Go is a programming language created by Google and released as open source in 2009. It is a compiled language focused on productivity and concurrent programming."
 +++
 
-# What is it ?
+{{% tabs/group %}}
+  {{% tabs/item id="0" title="What is it?" content="<p>Go is a programming language created by Google and released as open source in 2009. It is a compiled language focused on productivity and concurrent programming.</p>" %}}
+  
+  {{% tabs/item id="1" title="How we use it?" content="<p>As the main programming language of Horusec's ecosystem, we use both CLI and Web services, mainly due to the ease of dealing with concurrency.</p>" %}}
+  
+  {{% tabs/item id="2" title="For who?" content="<a href='https://horusec.io/site/'>Horusec</a>" %}}
 
-Go is a statically typed, compiled programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson. Go is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency.
-
-
-# Why ?
-
-It is tested and proved that applications that are written on Go are highly performant and scalable. Golang is a very efficient language, just like C/C++, handling parallelisms like Java, and has easy code readability like Python and pearl. Golang has indisputable architectural advantages over its predecessors.
-
-# For who ?
-
-* [CharlesCD](https://charlescd.io/)
-* [Horusec](https://horusec.io/site/)
-* [Ritchie CLI](https://ritchiecli.io/)
-
-# Resources
-
-* [homepage](https://golang.org/)
-* [Documentation](https://golang.org/doc/)
-* [Source code](https://github.com/google/go-github)
-
-
-# Resources (Portuguese)
-
+  {{% tabs/item id="3" title="Resources" content="<a href='https://golang.org/'>Homepage</a> <br /> <a href='https://golang.org/doc/'>Documentation</a>" %}}
+{{% /tabs/group %}}

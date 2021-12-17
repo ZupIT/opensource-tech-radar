@@ -3,31 +3,31 @@
   "name": "Helm",
   "image" : "/images/tools/helm.png",
   "category" : "Tools",
-  "description" : "<no value>",
-  "ring" : "Strategic",
+  "description" : "It is a tool that helps in the processes of definition, configuration, installation, and update of Kubernetes applications.",
+  "ring" : "Essential",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/tools/helm/",
   "related": [
     
     
       {
-        "name": "React",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/react.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/react/"
+        "name": "Angular",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/angular.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/angular/"
       },
     
       {
-        "name": "Spock",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/java.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/spock/"
+        "name": "Cypress",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/cypress.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/cypress/"
       },
     
       {
-        "name": "Swift",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/swift.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/swift/"
+        "name": "Enry",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/enry.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/enry/"
       },
     
     {}

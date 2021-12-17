@@ -1,33 +1,33 @@
 {
   "data" :  {
-  "name": "GitHub",
+  "name": "Github",
   "image" : "/images/platforms/github.png",
   "category" : "Platforms",
-  "description" : "<no value>",
+  "description" : "GitHub is a hosting platform for source codes and files with version control using Git.",
   "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/github/",
   "related": [
     
     
       {
-        "name": "React",
+        "name": "Appium",
         "ring": "Strategic",
-        "image": "/images/languages-frameworks/react.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/react/"
+        "image": "/images/languages-frameworks/appium.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/appium/"
       },
     
       {
-        "name": "Spock",
+        "name": "Dart Programming Language",
         "ring": "Strategic",
-        "image": "/images/languages-frameworks/java.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/spock/"
+        "image": "/images/languages-frameworks/dart.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/dart/"
       },
     
       {
-        "name": "Swift",
+        "name": "Detekt",
         "ring": "Strategic",
-        "image": "/images/languages-frameworks/swift.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/swift/"
+        "image": "/images/languages-frameworks/detekt.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/detekt/"
       },
     
     {}

@@ -1,33 +1,33 @@
 {
   "data" :  {
   "name": "Gorm",
-  "image" : "/images/languages-frameworks/go.png",
-  "category" : "Languages-Frameworks",
-  "description" : "<no value>",
-  "ring" : "Descontinuado",
+  "image" : "/images/languages-frameworks/javascript.png",
+  "category" : "Linguagens e Frameworks",
+  "description" : "Biblioteca de mapeamento objeto relacional para Golang com foco em ser amigável e aumentar produtividade de quem desenvolve.",
+  "ring" : "Essencial",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/gorm/",
   "related": [
     
     
       {
-        "name": "GorillaMux",
-        "ring": "Descontinuado",
-        "image": "/images/languages-frameworks/gorila-mux.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/gorilla-mux/"
+        "name": "Angular",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/angular.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/angular/"
       },
     
       {
-        "name": "Groovy",
-        "ring": "Descontinuado",
-        "image": "/images/languages-frameworks/groovy.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/groovy/"
+        "name": "Cypress",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/cypress.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/cypress/"
       },
     
       {
-        "name": "JUnit 4",
-        "ring": "Descontinuado",
-        "image": "/images/languages-frameworks/junit-4.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/junit-4/"
+        "name": "Enry",
+        "ring": "Essencial",
+        "image": "/images/default-logo.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/enry/"
       },
     
     {}

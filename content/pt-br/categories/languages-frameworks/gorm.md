@@ -1,42 +1,20 @@
 +++
 name="Gorm"
-image="/images/languages-frameworks/go.png"
-category="Languages-Frameworks"
-ring="Descontinuado"
+image="/images/languages-frameworks/javascript.png"
+category="Linguagens e Frameworks"
+ring="Essencial"
 type="post"
 layout="details"
+isNew="false"
+description="Biblioteca de mapeamento objeto relacional para Golang com foco em ser amigável e aumentar produtividade de quem desenvolve."
 +++
 
-# What is it ?
+{{% tabs/group %}}
+  {{% tabs/item id="0" title="O que é?" content="<p>Biblioteca de mapeamento objeto relacional para Golang com foco em ser amigável e aumentar produtividade de quem desenvolve.</p>" %}}
 
-The fantastic ORM library for Golang aims to be developer friendly.
+  {{% tabs/item id="1" title="Como utilizamos?" content="<p>Usamos os serviços web do Horusec para realizar operações com o banco de dados.</p>" %}}
 
+  {{% tabs/item id="2" title="Onde ?" content="<a href='https://horusec.io/' target='_blank'>Horusec</a>" %}}
 
-# Why ?
-
-* Full-Featured ORM
-As* sociations (Has One, Has Many, Belongs To, Many To Many, Polymorphism, Single-table inheritance)
-* Hooks (Before/After Create/Save/Update/Delete/Find)
-* Eager loading with Preload, Joins
-* Transactions, Nested Transactions, Save Point, RollbackTo to Saved Point
-* Context, Prepared Statement Mode, DryRun Mode
-* Batch Insert, FindInBatches, Find/Create with Map, CRUD with SQL Expr and Context Valuer
-* SQL Builder, Upsert, Locking, Optimizer/Index/Comment Hints, Named Argument, SubQuery
-* Composite Primary Key, Indexes, Constraints
-* Auto Migrations
-* Logger
-* Extendable, flexible plugin API: Database Resolver (Multiple Databases, Read/Write Splitting) / Prometheus…
-* Every feature comes with tests
-* Developer Friendly
-
-# For who ?
-* [CharlesCD](https://charlescd.io/)
-
-# Resources
-* [homepage](https://golang.org/)
-* [Documentation](https://gorm.io/docs/index.html)
-* [Source code](https://github.com/go-gorm/gorm)
-
-
-# Resources (Portuguese)
-
+  {{% tabs/item id="3" title="Recursos" content="<a href='https://gorm.io/' target='_blank'>Material de estudo</a>" %}}
+{{% /tabs/group %}}

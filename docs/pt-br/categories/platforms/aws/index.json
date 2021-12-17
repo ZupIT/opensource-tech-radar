@@ -1,0 +1,22 @@
+{
+  "data" :  {
+  "name": "Amazon AWS",
+  "image" : "/images/platforms/aws.png",
+  "category" : "Platforms",
+  "description" : "A AWS é o provedor de nuvem oficial do time, oferecendo serviços que facilitam o dia a dia, bastante consolidados no mercado, por exemplo, armazenamento, rede, analytics, etc.",
+  "ring" : "Potential",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/aws/",
+  "related": [
+    
+    
+      {
+        "name": "Allure",
+        "ring": "Potential",
+        "image": "/images/languages-frameworks/allure.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/allure/"
+      },
+    
+    {}
+  ]
+} 
+}

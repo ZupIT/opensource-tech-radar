@@ -43,11 +43,74 @@
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/allure/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/angular/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/allure/</guid>
-      <description>What is it ?  Why ?  For who ?  Resources    </description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/angular/</guid>
+      <description>What is it? How we use it? For who? Resources   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/appium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/appium/</guid>
+      <description>What is it? How we use it? For who? Resources   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/cypress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/cypress/</guid>
+      <description>What is it? How we use it? For who? Resources   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/dart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/dart/</guid>
+      <description>What is it? How we use it? For who? Resources   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/detekt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/detekt/</guid>
+      <description>What is it? How we use it? For who? Resources   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/docker/</guid>
+      <description>What is it?  How we use it?  For who?  Resources    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/enry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/enry/</guid>
+      <description>What is it?  How we use it?  For who?  Resources    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/flutter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/flutter/</guid>
+      <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
@@ -56,18 +119,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/go/</guid>
-      <description>What is it ? Go is a statically typed, compiled programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson. Go is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency.
-Why ? It is tested and proved that applications that are written on Go are highly performant and scalable. Golang is a very efficient language, just like C/C++, handling parallelisms like Java, and has easy code readability like Python and pearl.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/gorilla-mux/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/gorilla-mux/</guid>
-      <description>What is it ? A powerful HTTP router and URL matcher for building Go web servers with
-Why ? For who ?  CharlesCD  Resources  homepage  Resources (Portuguese) </description>
+      <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
@@ -76,38 +128,43 @@ Why ? For who ?  CharlesCD  Resources  homepage  Resources (Portuguese) </descri
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/gorm/</guid>
-      <description>What is it ? The fantastic ORM library for Golang aims to be developer friendly.
-Why ?  Full-Featured ORM As* sociations (Has One, Has Many, Belongs To, Many To Many, Polymorphism, Single-table inheritance) Hooks (Before/After Create/Save/Update/Delete/Find) Eager loading with Preload, Joins Transactions, Nested Transactions, Save Point, RollbackTo to Saved Point Context, Prepared Statement Mode, DryRun Mode Batch Insert, FindInBatches, Find/Create with Map, CRUD with SQL Expr and Context Valuer SQL Builder, Upsert, Locking, Optimizer/Index/Comment Hints, Named Argument, SubQuery Composite Primary Key, Indexes, Constraints Auto Migrations Logger Extendable, flexible plugin API: Database Resolver (Multiple Databases, Read/Write Splitting) / Prometheus… Every feature comes with tests Developer Friendly  For who ?</description>
+      <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/groovy/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/grpc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/groovy/</guid>
-      <description>What is it ? Apache Groovy is a Java-syntax-compatible object-oriented programming language for the Java platform. It is both a static and dynamic language with features similar to those of Python, Ruby, and Smalltalk.
-Why ? Groovy is a Java enhancer because it provides greater flexibility and even introduces special features to applications (those that have already been developed can be improved or they can be made from scratch). Groovy is a Java-like syntax, but with the ease of more moldable languages like Python and Ruby.</description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/grpc/</guid>
+      <description>What is it?  How we use it?  For who?  Resources     </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/java/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/horusec/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/java/</guid>
-      <description>What is it ? Java is a set of computer software and specifications developed by James Gosling at Sun Microsystems, which was later acquired by the Oracle Corporation, that provides a system for developing application software and deploying it in a cross-platform computing environment.
-Why ? Nowadays, Java is often the default choice for scientific applications, including natural language processing. The main reason for this is because it is safe, portable, maintainable and comes with better high-level concurrency tools than C++ or any other language.</description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/horusec/</guid>
+      <description>What is it?  How we use it?  For who?  Resources     </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/junit-4/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/javascript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/junit-4/</guid>
-      <description>What is it ? JUnit is a simple framework to write repeatable tests. It is an instance of the xUnit architecture for unit testing frameworks.
-Why ? JUnit is an open source Unit Testing Framework for JAVA. It is useful for Java Developers to write and run repeatable tests. As the name implies, it is used for Unit Testing of a small chunk of code. Developers who are following test-driven methodology must write and execute unit test first before any code.</description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/javascript/</guid>
+      <description>What is it?  How we use it?  For who?  Resources    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/jest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/jest/</guid>
+      <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
@@ -116,18 +173,43 @@ Why ? JUnit is an open source Unit Testing Framework for JAVA. It is useful for 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/junit/</guid>
-      <description>What is it ? JUnit is a simple framework to write repeatable tests. It is an instance of the xUnit architecture for unit testing frameworks.
-Why ? JUnit is an open source Unit Testing Framework for JAVA. It is useful for Java Developers to write and run repeatable tests. As the name implies, it is used for Unit Testing of a small chunk of code. Developers who are following test-driven methodology must write and execute unit test first before any code.</description>
+      <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/quarkus/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/kotlin-coroutines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/quarkus/</guid>
-      <description>What is it ? Quarkus is a Kubernetes Native Java framework tailored for OpenJDK HotSpot and GraalVM, crafted from best-of-breed Java libraries and standards.
-Why ? Quarkus was designed to be easy to use right from the start, with features that wok rwell with little to no configuration. Developers can choose the Java frameworks they want for their applications, which can be run in JVM mode or compiled and run in native mode.</description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/kotlin-coroutines/</guid>
+      <description>What is it? How we use it? For who? Resources   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/kotlin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/kotlin/</guid>
+      <description>What is it? How we use it? For who? Resources   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/kubernetes/</guid>
+      <description>What is it?  How we use it?  For who?  Resources    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/micronaut/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/micronaut/</guid>
+      <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
@@ -136,28 +218,16 @@ Why ? Quarkus was designed to be easy to use right from the start, with features
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/react/</guid>
-      <description>What is it ? React is a free and open-source front-end JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
-Why ? It&amp;rsquo;s used for handling the view layer for web and mobile apps. React also allows us to create reusable UI components.</description>
+      <description>What is it?  How we use it?  For who?  Resources     </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/spock/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/spring-boot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/spock/</guid>
-      <description>What is it ? Spock is a Java testing framework capable of handling the full life cycle of a computer program. It was initially created in 2008 by Peter Niederwieser, a software engineer with GradleWare. A second Spock committer is Luke Daley who is also the creator of the popular Geb functional testing framework.
-Why ? Spock is a testing and specification framework for Java and Groovy applications. What makes it stand out from the crowd is its beautiful and highly expressive specification language.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/spring/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/spring/</guid>
-      <description>What is it ? The Spring Framework is an application framework and inversion of control container for the Java platform. The framework&amp;rsquo;s core features can be used by any Java application, but there are extensions for building web applications on top of the Jakarta EE platform.
-Why ? Spring is the most popular application development framework for enterprise Java. Millions of developers around the world use Spring Framework to create high performing, easily testable, and reusable code.</description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/spring-boot/</guid>
+      <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
@@ -166,8 +236,7 @@ Why ? Spring is the most popular application development framework for enterpris
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/swift/</guid>
-      <description>What is it ? Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. and the open-source community.
-Why ? Swift is a robust and intuitive programming language created by Apple for building apps for iOS, Mac, Apple TV, and Apple Watch. It&amp;rsquo;s designed to give developers more freedom than ever. Swift is easy to use and open source, so anyone with an idea can create something incredible.</description>
+      <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
@@ -176,58 +245,106 @@ Why ? Swift is a robust and intuitive programming language created by Apple for 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/typescript/</guid>
-      <description>What is it ? TypeScript is a programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript and adds optional static typing to the language. TypeScript is designed for the development of large applications and transcompiles to JavaScript.
-Why ?  TypeScript simplifies JavaScript code, making it easier to read and debug. TypeScript is open source. TypeScript provides highly productive development tools for JavaScript IDEs and practices, like static checking.</description>
+      <description>What is it?  How we use it?  For who?  Resources     </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/android/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/xctest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/android/</guid>
-      <description>What is it ? Android is a mobile operating system based on a modified version of the Linux kernel and other open source software, designed primarily for touchscreen mobile devices such as smartphones and tablets.
-Why ? For who ?  Beagle Framework  Resources  homepage Documentation  Resources (Portuguese) </description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/xctest/</guid>
+      <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/bucket-s3/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/yoga/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/bucket-s3/</guid>
-      <description>What is it ? An Amazon S3 bucket is a public cloud storage resource available in Amazon Web Services&#39; (AWS) Simple Storage Service (S3), an object storage offering. Amazon S3 buckets, which are similar to file folders, store objects, which consist of data and its descriptive metadata.
-Why ? Store data in Amazon S3 and secure it from unauthorized access with encryption features and access management tools. S3 is the only object storage service that allows you to block public access to all of objects at the bucket or the account level with S3 Block Public Access.</description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/yoga/</guid>
+      <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/docker/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/amazon-cloud-front/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/docker/</guid>
-      <description>What is it ? Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, libraries and configuration files; they can communicate with each other through well-defined channels.
-Why ? The Docker goal is to ease the creation, deploy and the delivery of an application using the so called Containers.</description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/amazon-cloud-front/</guid>
+      <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/elasticsearch/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/amazon-cloud-watch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/elasticsearch/</guid>
-      <description>What is it ? Elasticsearch is a search engine based on the Lucene library. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents.
-Why ? For who ? Resources  homepage The SSPL is Not an Open Source License  Resources (Portuguese) </description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/amazon-cloud-watch/</guid>
+      <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/envoy/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/amazon-codebuild/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/envoy/</guid>
-      <description>What is it ? Envoy Proxy is a modern, high performance, small footprint edge and service proxy. Envoy is most comparable to software load balancers such as NGINX and HAProxy. Originally written and deployed at Lyft, Envoy now has a vibrant contributor base and is an official Cloud Native Computing Foundation project.
-Why ? As on the ground microservice practitioners quickly realize, the majority of operational problems that arise when moving to a distributed architecture are ultimately grounded in two areas: networking and observability.</description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/amazon-codebuild/</guid>
+      <description>What is it? How we use it? How we use it? Resources   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/amazon-ecr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/amazon-ecr/</guid>
+      <description>What is it? How we use it? For who? Resources   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/amazon-s3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/amazon-s3/</guid>
+      <description>What is it? How we use it? For who? Resources   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/artifact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/artifact/</guid>
+      <description>What is it?  How we use it?  For who?  Resources    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/aws/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/aws/</guid>
+      <description>What is it?  How we use it?  For who ?  Resources    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/cocoa-pods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/cocoa-pods/</guid>
+      <description>What is it? How we use it? For who? Resources   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/dockerhub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/dockerhub/</guid>
+      <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
@@ -236,189 +353,133 @@ Why ? As on the ground microservice practitioners quickly realize, the majority 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/github/</guid>
-      <description>What is it ? GitHub, Inc. is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.
-Why ? GitHub is a website for developers and programmers to collaboratively work on code. The primary benefit of GitHub is its version control system, which allows for seamless collaboration without compromising the integrity of the original project.</description>
+      <description>What is it?  How we use it?  For who?  Resources     </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/ingress/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/iam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/ingress/</guid>
-      <description>What is it ? Ingress exposes HTTP and HTTPS routes from outside the cluster to services within the cluster. Traffic routing is controlled by rules defined on the Ingress resource.
-Why ? For who ?  CharlesCD  Resources  homepage  Resources (Portuguese) </description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/iam/</guid>
+      <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/ios/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/maven/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/ios/</guid>
-      <description>What is it ? iOS (formerly iPhone OS) is a mobile operating system created and developed by Apple Inc. exclusively for its hardware. It is the operating system that powers many of the company&amp;rsquo;s mobile devices, including the iPhone and iPod Touch; the term also included the versions running on iPads until the name iPadOS was introduced with version 13 in 2019. It is the world&amp;rsquo;s second-most widely installed mobile operating system, after Android.</description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/maven/</guid>
+      <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/istio/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/npm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/istio/</guid>
-      <description>What is it ? Istio extends Kubernetes to establish a programmable, application-aware network using the powerful Envoy service proxy. Working with both Kubernetes and traditional workloads, Istio brings standard, universal traffic management, telemetry, and security to complex deployments.
-Why ? Istio lets you connect, secure, control, and observe services. At a high level, Istio helps reduce the complexity of these deployments, and eases the strain on your development teams. It is a completely open source service mesh that layers transparently onto existing distributed applications.</description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/npm/</guid>
+      <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/keycloak/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/pubdev/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/keycloak/</guid>
-      <description>What is it ? Keycloak is an open source software product to allow single sign-on with Identity and Access Management aimed at modern applications and services. As of March 2018 this WildFly community project is under the stewardship of Red Hat who use it as the upstream project for their RH-SSO product.
-Why ? Keycloak offers everything a sophisticated user management tool needs – without having to log on repeatedly with every login and into every system-as well as system security, social logins, support for mobile apps and integration into other solutions.</description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/pubdev/</guid>
+      <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/kubernetes/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/shortcut/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/kubernetes/</guid>
-      <description>What is it ? Kubernetes is an open-source container-orchestration system for automating computer application deployment, scaling, and management. It was originally designed by Google and is now maintained by the Cloud Native Computing Foundation.
-Why ? Kubernetes is an open-source system to automate the deployment, scaling, and management of containerized applications. This container management system&amp;rsquo;s popularity soared with the rise of businesses operating on cloud infrastructure and technology
-For who ?</description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/shortcut/</guid>
+      <description>What is it ?  How we use it?  For who?  Resources     </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/mongodb/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/cd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/mongodb/</guid>
-      <description>What is it ? MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License.
-Why ? For who ? Resources  homepage The SSPL is Not an Open Source License  Resources (Portuguese) </description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/cd/</guid>
+      <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/nodejs/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/cicd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/nodejs/</guid>
-      <description>What is it ? Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.
-Why ? Node.js is primarily used for non-blocking, event-driven servers, due to its single-threaded nature. It&amp;rsquo;s used for traditional web sites and back-end API services, but was designed with real-time, push-based architectures in mind.
-For who ?  CharlesCD  Resources  homepage Documentation Source code  Resources (Portuguese) </description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/cicd/</guid>
+      <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/postgresql/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/composite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/postgresql/</guid>
-      <description>What is it ? PostgreSQL, also known as Postgres, is a free and open-source relational database management system emphasizing extensibility and SQL compliance. It was originally named POSTGRES, referring to its origins as a successor to the Ingres database developed at the University of California, Berkeley.
-Why ? It is an advanced open-source object-relational system which applies SQL language. Postgres allows you to store large and sophisticated data safely. It helps developers to build the most complex applications, run administrative tasks and create integral environments.</description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/composite/</guid>
+      <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/prometheus/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/concurrence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/prometheus/</guid>
-      <description>What is it ? Prometheus is a free software application used for event monitoring and alerting. It records real-time metrics in a time series database built using a HTTP pull model, with flexible queries and real-time alerting.
-Why ? For who ?  CharlesCD  Resources  homepage Documentation Source code  Resources (Portuguese) </description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/concurrence/</guid>
+      <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/rabbitmq/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/decorator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/rabbitmq/</guid>
-      <description>What is it ? RabbitMQ is an open-source message-broker software that originally implemented the Advanced Message Queuing Protocol and has since been extended with a plug-in architecture to support Streaming Text Oriented Messaging Protocol, MQ Telemetry Transport, and other protocols.
-Why ? RabbitMQ is therefore ideal for long-running tasks or blocking tasks, allowing web servers to respond quickly to requests instead of being forced to perform computationally intensive tasks on the spot.</description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/decorator/</guid>
+      <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/redis/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/functional-programming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/redis/</guid>
-      <description>What is it ? Redis is an in-memory data structure store, used as a distributed, in-memory key–value database, cache and message broker, with optional durability. Redis supports different kinds of abstract data structures, such as strings, lists, maps, sets, sorted sets, HyperLogLogs, bitmaps, streams, and spatial indices.
-Why ? Redis simplifies your code by enabling you to write fewer lines of code to store, access, and use data in your applications.</description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/functional-programming/</guid>
+      <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/swagger/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/ic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/swagger/</guid>
-      <description>What is it ? Swagger is an Interface Description Language for describing RESTful APIs expressed using JSON. Swagger is used together with a set of open-source software tools to design, build, document, and use RESTful web services. Swagger includes automated documentation, code generation, and test-case generation.
-Why ? Swagger is a set of rules (in other words, a specification) for a format describing REST APIs. The format is both machine-readable and human-readable.</description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/ic/</guid>
+      <description>What is it?  How we use it?  For who ?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/vcluster/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/micro-services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/vcluster/</guid>
-      <description>What is it ? Virtual clusters have their own API server which makes them much more powerful and better isolated than namespaces, but they are also much cheaper than creating separate &amp;ldquo;real&amp;rdquo; Kubernetes clusters.
-Why ? Virtual clusters solve many of the problems that namespaces present, such as:
- Cluster-Scoped Resources: Certain resources live globally in the cluster, and you can’t isolate them using namespaces. For example, installing istio or any other operator in different versions is not possible within a single cluster.</description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/micro-services/</guid>
+      <description>What is it?  How we use it??  For who  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/c4-model/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/microfrontend/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/c4-model/</guid>
-      <description>What is it ? C4 stands for context, containers, components, and code — a set of hierarchical diagrams that you can use to describe your software architecture at different zoom levels, each useful for different audiences.
-Why ? The C4 model is a simple way to communicate software architecture at different levels of abstraction, so that you can tell different stories to different audiences. It&amp;rsquo;s also a way to introduce (often, reintroduce) some rigour and lightweight modelling to software development teams.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/cdd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/cdd/</guid>
-      <description>What is it ? Why ? For who ?  CharlesCD Horusec Ritchie CLI Beagle Framework  Resources Resources(Portuguese)  Cognitive-Driven Development (CDD): proposta de design orientado ao entendimento  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/clean-architecture/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/clean-architecture/</guid>
-      <description>What is it ? Clean architecture is a software design philosophy that separates the elements of a design into ring levels. The main rule of clean architecture is that code dependencies can only move from the outer levels inward. Code on the inner layers can have no knowledge of functions on the outer layers.
-Why ? Clean architecture is a way of structuring or separating your code so that what your app does, how your app do what it does and how your app display what he did, are separate and has no dependencies on each other.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/ddd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/ddd/</guid>
-      <description>What is it ? Domain-driven design is the concept that the structure and language of software code should match the business domain. For example, if a software processes loan applications, it might have classes such as LoanApplication and Customer, and methods such as AcceptOffer and Withdraw.
-Why ? Overall, DDD is worth learning because it simplifies one factor that is complex in every professional relationship: communication. DDD allows developers, domain experts, DBAs, business owners, and (most importantly) clients to communicate effectively with each other in order to solve problems.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/grpc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/grpc/</guid>
-      <description>What is it ? gRPC is an open source remote procedure call system initially developed at Google in 2015 as the next generation of the RPC infrastructure Stubby.
-Why ? gRPC uses HTTP/2 to support highly performant and scalable API&amp;rsquo;s and makes use of binary data rather than just text which makes the communication more compact and more efficient. gRPC makes better use of HTTP/2 then REST. gRPC for example makes it possible to turn-off message compression.</description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/microfrontend/</guid>
+      <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
@@ -427,89 +488,52 @@ Why ? gRPC uses HTTP/2 to support highly performant and scalable API&amp;rsquo;s
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/microservices/</guid>
-      <description>What is it ? Microservice architecture – a variant of the service-oriented architecture structural style – arranges an application as a collection of loosely-coupled services. In a microservices architecture, services are fine-grained and the protocols are lightweight.
-Why ? With microservices, multiple teams work on independent services, enabling you to deploy more quickly — and pivot more easily when you need to. Development time is reduced, and your teams&#39; code will be more reusable.</description>
+      <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/okr/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/monorepo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/okr/</guid>
-      <description>What is it ? Objectives and key results is a goal-setting framework for defining and tracking objectives and their outcomes.
-Why ? OKRs (objectives and key results) can help you achieve those goals—no matter what kind they are. Whether you are looking to improve your individual goals, your company goals, or are suggesting a new management tool to other leadership, OKRs will work. &amp;hellip; The OKR process helps turn good ideas into great execution.</description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/monorepo/</guid>
+      <description>What is it?  How we use it?  For who?  Resources     </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/server-driven-ui/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/visitor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/server-driven-ui/</guid>
-      <description>What is it ? Microservice architecture – a variant of the service-oriented architecture structural style – arranges an application as a collection of loosely-coupled services. In a microservices architecture, services are fine-grained and the protocols are lightweight.
-Why ? With microservices, multiple teams work on independent services, enabling you to deploy more quickly — and pivot more easily when you need to. Development time is reduced, and your teams&#39; code will be more reusable.</description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/visitor/</guid>
+      <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/six-pagers/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/websocket/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/six-pagers/</guid>
-      <description>What is it ? The memo-style of presentation is designed—contra forms like PowerPoint—to make presenting new ideas difficult for the presenter but easier for their audience. &amp;hellip; At Amazon, the memo format allows every meeting where ideas are presented to turn into a deep debate of the idea&amp;rsquo;s relative costs and merits.
-Why ? We currently use this style in all our open source projects. The objective is to have a clear and objective vision of what our projects are capable of, objectives, values and lessons learned in a summarized way.</description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/websocket/</guid>
+      <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/tdd/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/android-studio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/tdd/</guid>
-      <description>What is it ? Test-driven development (TDD) is a software development process that relies on the repetition of a very short development cycle: requirements are turned into very specific test cases, then the software is improved to pass the new tests, only.
-Why ? TDD promotes a test-then-code approach. It’s based on the idea that if developers use test cases before writing functionality, they can create better software and, often, complete the project faster.</description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/android-studio/</guid>
+      <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/casbin/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/eslint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/casbin/</guid>
-      <description>What is it ? Casbin is a powerful and efficient open-source access control library. It provides support for enforcing authorization based on various access control models like ACL, RBAC, ABAC for Golang, Java, Node.js, PHP, Python, .NET (C#), Delphi and Rust.
-Why ? An authorization library that supports access control models like ACL, RBAC, ABAC for Golang, Java, C/C++, Node.js, Javascript, PHP, Laravel, Python, .NET (C#), Delphi, Rust, Ruby, Swift (Objective-C), Lua (OpenResty), Dart (Flutter) and Elixir</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/chai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/chai/</guid>
-      <description>What is it ? Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
-Why ? Chai has several interfaces that allow the developer to choose the most comfortable. The chain-capable BDD styles provide an expressive language &amp;amp; readable style, while the TDD assert style provides a more classical feel.
-For who ?  CharlesCD  Resources  homepage Docs  Resources (Portuguese)    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/codecov/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/codecov/</guid>
-      <description>What is it ? Code coverage is a measurement used to express which lines of code were executed by a test suite. We use three primary terms to describe each line executed.
-Why ? Code coverage tools incentivize developers to write tests and increase coverage. During the process of writing tests, the developer may discover new bugs or syntax issues in the source code that are important to resolve before distributing the application.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/dependabot/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/dependabot/</guid>
-      <description>What is it ? Dependabot creates pull requests to keep your dependencies secure and up-to-date.
-Why ? For who ?  CharlesCD  Resources  homepage  Resources (Portuguese)    </description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/eslint/</guid>
+      <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
@@ -518,49 +542,7 @@ Why ? For who ?  CharlesCD  Resources  homepage  Resources (Portuguese)    </des
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/git/</guid>
-      <description>What is it ? Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows.
-Why ? Git is the most commonly used version control system. Git tracks the changes you make to files, so you have a record of what has been done, and you can revert to specific versions should you ever need to.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/gitguardian/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/gitguardian/</guid>
-      <description>What is it ? GitGuardian Internal Repositories Monitoring focuses on repositories owned by your company, both public and private. These are the repositories that you know exist, where you have full authority to enforce your security policies (as opposed to your developers&#39; personal repositories for example).
-Why ? For who ?  CharlesCD  Resources  homepage  Resources (Portuguese)    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/github-action/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/github-action/</guid>
-      <description>What is it ? GitHub Actions makes it easy to automate all your software workflows, now with world-class CI/CD. Build, test, and deploy your code right from GitHub. Make code reviews, branch management, and issue triaging work the way you want.
-Why ? For who ?  CharlesCD Horusec  Resources  homepage  Resources (Portuguese)  Github Actions: uma introdução  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/github-app-dco/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/github-app-dco/</guid>
-      <description>What is it ? This App enforces the Developer Certificate of Origin (DCO) on Pull Requests. It requires all commit messages to contain the Signed-off-by line with an email address that matches the commit author.
-Why ? Make sure that any contributions as commits are open source.
-For who ?  CharlesCD  Resources  homepage  Resources (Portuguese)    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/graalvm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/graalvm/</guid>
-      <description>What is it ? GraalVM is a Java VM and JDK based on HotSpot/OpenJDK, implemented in Java. It supports additional programming languages and execution modes, like ahead-of-time compilation of Java applications for fast startup and low memory footprint.
-Why ? GraalVM. GraalVM is a high-performance runtime that provides significant improvements in application performance and efficiency which is ideal for microservices. It is designed for applications written in Java, JavaScript, LLVM-based languages such as C and C++, and other dynamic languages.</description>
+      <description>What is it?  How we use it?  For who?  Resources     </description>
     </item>
     
     <item>
@@ -569,18 +551,16 @@ Why ? GraalVM. GraalVM is a high-performance runtime that provides significant i
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/helm/</guid>
-      <description>What is it ? Helm is the K8s equivalent of yum or apt. Helm deploys charts, which you can think of as a packaged application. It is a collection of all your versioned, pre-configured application resources which can be deployed as one unit. You can then deploy another version of the chart with a different set of configuration.
-Why ? Helm is a tool that streamlines installing and managing Kubernetes applications.</description>
+      <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/hugo/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/husky/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/hugo/</guid>
-      <description>What is it ? Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.
-Why ? Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases. Hugo is for people building a blog, a company site, a portfolio site, documentation, a single landing page, or a website with thousands of pages.</description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/husky/</guid>
+      <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
@@ -589,88 +569,70 @@ Why ? Hugo is for people who want to hand code their own website without worryin
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/intellij/</guid>
-      <description>What is it ? IntelliJ IDEA is an integrated development environment written in Java for developing computer software. It is developed by JetBrains, and is available as an Apache 2 Licensed community edition, and in a proprietary commercial edition. Both can be used for commercial development.
-Why ? IntelliJ IDEA analyzes your code, looking for connections between symbols across all project files and languages. Using this information it provides indepth coding assistance, quick navigation, clever error analysis, and, of course, refactorings.</description>
+      <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/kubectl/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/lerna/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/kubectl/</guid>
-      <description>What is it ? The Kubernetes command-line tool, kubectl, allows you to run commands against Kubernetes clusters. You can use kubectl to deploy applications, inspect and manage cluster resources, and view logs. For more information including a complete list of kubectl operations, see the kubectl reference documentation.
-Why ? Kubectl is your cockpit to control Kubernetes. It allows you to perform every possible Kubernetes operation. From a technical point of view, kubectl is a client for the Kubernetes API.</description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/lerna/</guid>
+      <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/maven/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/moshi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/maven/</guid>
-      <description>What is it ? Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project&amp;rsquo;s build, reporting and documentation from a central piece of information.
-If you think that Maven could help your project, you can find out more information in the &amp;ldquo;About Maven&amp;rdquo; section of the navigation. This includes an in-depth description of what Maven is and a list of some of its main features.</description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/moshi/</guid>
+      <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/npm/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/nock/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/npm/</guid>
-      <description>What is it ? Npm is a package manager for the JavaScript programming language maintained by npm, Inc. npm is the default package manager for the JavaScript runtime environment Node.js. It consists of a command line client, also called npm, and an online database of public and paid-for private packages, called the npm registry.
-Why ? Npm install downloads a package and it&amp;rsquo;s dependencies. &amp;hellip; When run without arguments, npm install downloads dependencies defined in a package.</description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/nock/</guid>
+      <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/supertest/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/node-fetch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/supertest/</guid>
-      <description>What is it ? The motivation with this module is to provide a high-level abstraction for testing HTTP, while still allowing you to drop down to the lower-level API provided by superagent.
-Why ? For who ?  CharlesCD  Resources  Source  Resources (Portuguese)    </description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/node-fetch/</guid>
+      <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/vscode/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/nodemon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/vscode/</guid>
-      <description>What is it ? Visual Studio Code is a source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git.
-Why ? Visual Studio Code combines the simplicity of a source code editor with powerful developer tooling, like IntelliSense code completion and debugging. &amp;hellip; The delightfully frictionless edit-build-debug cycle means less time fiddling with your environment, and more time executing on your ideas.</description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/nodemon/</guid>
+      <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/yarn/</link>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/visual-studio-code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/yarn/</guid>
-      <description>What is it ? Yarn is a package manager that doubles down as project manager. Whether you work on one-shot projects or large monorepos, as a hobbyist or an enterprise user, we&amp;rsquo;ve got you covered.
-Why ? Yarn is a package manager for your code. It allows you to use and share (e.g. JavaScript) code with other developers from around the world. Yarn does this quickly, securely, and reliably so you don&amp;rsquo;t ever have to worry.</description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/visual-studio-code/</guid>
+      <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
-      <title>Behavior-driven development</title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/bdd/</link>
+      <title></title>
+      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/xcode/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/bdd/</guid>
-      <description>What is it ? In software engineering, behavior-driven development is an agile software development process that encourages collaboration among developers, quality assurance testers, and customer representatives in a software project.
-Why ? In software engineering, behavior-driven development (BDD) is an agile software development process that encourages collaboration among developers, quality assurance testers, and customer representatives in a software project. &amp;hellip; The tools serve to add automation to the ubiquitous language that is a central theme of BDD.</description>
-    </item>
-    
-    <item>
-      <title>Kotlin</title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/kotlin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/kotlin/</guid>
-      <description>What is it ?  Why ?  For who ?  Resources  Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin&amp;rsquo;s standard library depends on the Java Class Library, but type inference allows its syntax to be more concise.
- The most strongly supported JVM language in the Android ecosystem—aside from Java—is Kotlin, an open-source, statically typed language developed by JetBrains.</description>
+      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/xcode/</guid>
+      <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
   </channel>

@@ -2,32 +2,32 @@
   "data" :  {
   "name": "React",
   "image" : "/images/languages-frameworks/react.png",
-  "category" : "Languages-Frameworks",
-  "description" : "<no value>",
-  "ring" : "Estratégico",
+  "category" : "Linguagens e Frameworks",
+  "description" : "O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web. É mantido pelo Facebook, Instagram, outras empresas e uma comunidade de desenvolvedores individuais.",
+  "ring" : "Essencial",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/react/",
   "related": [
     
     
       {
-        "name": "Kotlin",
-        "ring": "Estratégico",
-        "image": "/images/languages-frameworks/kotlin.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/kotlin/"
+        "name": "Angular",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/angular.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/angular/"
       },
     
       {
-        "name": "Spock",
-        "ring": "Estratégico",
-        "image": "/images/languages-frameworks/java.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/spock/"
+        "name": "Cypress",
+        "ring": "Essencial",
+        "image": "/images/languages-frameworks/cypress.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/cypress/"
       },
     
       {
-        "name": "Swift",
-        "ring": "Estratégico",
-        "image": "/images/languages-frameworks/swift.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/swift/"
+        "name": "Enry",
+        "ring": "Essencial",
+        "image": "/images/default-logo.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/enry/"
       },
     
     {}

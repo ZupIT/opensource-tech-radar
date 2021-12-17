@@ -1,29 +1,20 @@
 +++
 name="React"
 image="/images/languages-frameworks/react.png"
-category="Languages-Frameworks"
-ring="Estratégico"
+category="Linguagens e Frameworks"
+ring="Essencial"
 type="post"
 layout="details"
+isNew="false"
+description="O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web. É mantido pelo Facebook, Instagram, outras empresas e uma comunidade de desenvolvedores individuais."
 +++
 
-# What is it ?
-React is a free and open-source front-end JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
+{{% tabs/group %}}
+  {{% tabs/item id="0" title="O que é?" content="<p>O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web. É mantido pelo Facebook, Instagram, outras empresas e uma comunidade de desenvolvedores individuais.</p>" %}}
 
-# Why ?
-It's used for handling the view layer for web and mobile apps. React also allows us to create reusable UI components. React allows developers to create large web applications that can change data, without reloading the page. The main purpose of React is to be fast, scalable, and simple.
+  {{% tabs/item id="1" title="Como utilizamos?" content="<p><strong>Beagle</strong>Utilizado para o desenvolvimento da biblioteca específica para React - Beagle Web React</p><p><strong>Horusec:</strong> Usamos para o desenvolvimento da interface gráfica do Horusec.</p>" %}}
 
-# For who ?
+  {{% tabs/item id="2" title="Onde ?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a><br /><a href='https://ritchiecli.io/' target='_blank'>Ritchie CLI</a><br /><a href='https://horusec.io/' target='_blank'>Horusec</a>" %}}
 
-* [CharlesCD](https://charlescd.io/)
-* [Horusec](https://horusec.io/site/)
-
-# Resources
-
-* [homepage](https://reactjs.org/)
-* [Get Started](https://reactjs.org/docs/getting-started.html)
-* [Tutorial](https://reactjs.org/tutorial/tutorial.html)
-* [Source code](https://github.com/quarkusio/quarkus)
-
-
-# Resources (Portuguese)
+  {{% tabs/item id="3" title="Recursos" content="<a href='https://reactjs.org/' target='_blank'>Material de estudo</a>" %}}
+{{% /tabs/group %}}

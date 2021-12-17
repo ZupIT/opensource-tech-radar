@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Parse Tree",
+  "image" : "/images/techiques/parsetree.png",
+  "category" : "Techiniques",
+  "description" : "Uma estrutura de dados em árvore, que representa a estrutura sintática de uma cadeia de acordo com a gramática de uma linguagem de programação",
+  "ring" : "Essential",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/parsetree/",
+  "related": [
+    
+    
+      {
+        "name": "Enry",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/enry.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/enry/"
+      },
+    
+      {
+        "name": "GORM",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/gorm.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/gorm/"
+      },
+    
+      {
+        "name": "GRPC",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/grpc.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/grpc/"
+      },
+    
+    {}
+  ]
+} 
+}

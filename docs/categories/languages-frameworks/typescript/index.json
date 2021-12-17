@@ -1,33 +1,33 @@
 {
   "data" :  {
-  "name": "TypeScript",
+  "name": "Typescript",
   "image" : "/images/languages-frameworks/typescript.png",
-  "category" : "Languages-Frameworks",
-  "description" : "<no value>",
-  "ring" : "Deprecated",
+  "category" : "Languages and Frameworks",
+  "description" : "Typescript is an open source programming language developed by Microsoft. It is a strict syntactic superset of JavaScript and adds optional static typing to the language.",
+  "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/typescript/",
   "related": [
     
     
       {
-        "name": "GorillaMux",
-        "ring": "Deprecated",
-        "image": "/images/languages-frameworks/gorila-mux.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/gorilla-mux/"
+        "name": "Appium",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/appium.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/appium/"
       },
     
       {
-        "name": "Gorm",
-        "ring": "Deprecated",
-        "image": "/images/languages-frameworks/go.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/gorm/"
+        "name": "Dart Programming Language",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/dart.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/dart/"
       },
     
       {
-        "name": "Groovy",
-        "ring": "Deprecated",
-        "image": "/images/languages-frameworks/groovy.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/groovy/"
+        "name": "Detekt",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/detekt.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/detekt/"
       },
     
     {}

@@ -2,32 +2,32 @@
   "data" :  {
   "name": "Git",
   "image" : "/images/tools/git.png",
-  "category" : "Tools",
-  "description" : "<no value>",
+  "category" : "Ferramentas",
+  "description" : "Git é um sistema de controle de versões distribuído, que é usado para registrar o histórico de edições de qualquer tipo de arquivo.",
   "ring" : "Estratégico",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/git/",
   "related": [
     
     
       {
-        "name": "Kotlin",
+        "name": "Appium",
         "ring": "Estratégico",
-        "image": "/images/languages-frameworks/kotlin.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/kotlin/"
+        "image": "/images/languages-frameworks/appium.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/appium/"
       },
     
       {
-        "name": "React",
+        "name": "Dart Programming Language",
         "ring": "Estratégico",
-        "image": "/images/languages-frameworks/react.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/react/"
+        "image": "/images/languages-frameworks/dart.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/dart/"
       },
     
       {
-        "name": "Spock",
+        "name": "Detekt",
         "ring": "Estratégico",
-        "image": "/images/languages-frameworks/java.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/spock/"
+        "image": "/images/languages-frameworks/detekt.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/detekt/"
       },
     
     {}

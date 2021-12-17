@@ -3,31 +3,31 @@
   "name": "Go",
   "image" : "/images/languages-frameworks/go.png",
   "category" : "Languages-Frameworks",
-  "description" : "<no value>",
-  "ring" : "Potencial",
+  "description" : "Go é uma linguagem de programação criada pela Google e lançada em código livre em novembro de 2009. É uma linguagem compilada e focada em produtividade e programação concorrente.",
+  "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/go/",
   "related": [
     
     
       {
-        "name": "Allure",
-        "ring": "Potencial",
-        "image": "/images/languages-frameworks/allure.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/allure/"
+        "name": "Docker SDK",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/docker.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/docker/"
       },
     
       {
-        "name": "C4 model",
-        "ring": "Potencial",
-        "image": "/images/techniques/c4-model.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/c4-model/"
+        "name": "Horusec Engine",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/horusec.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/horusec/"
       },
     
       {
-        "name": "Cognitive-Driven Development",
-        "ring": "Potencial",
-        "image": "/images/techniques/tdd.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/cdd/"
+        "name": "JavaScript",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/js.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/javascript/"
       },
     
     {}

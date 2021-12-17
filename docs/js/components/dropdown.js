@@ -9,7 +9,7 @@
     const handleItemChange = (e) => {
       const { value } = e.target.dataset;
 
-      location.href =  value.replace('/', '');
+      location.href =  'https://opensource.zup.com.br/radar/' + value.replace('/', '');
     }
 
     $(document).keydown(function (e) {

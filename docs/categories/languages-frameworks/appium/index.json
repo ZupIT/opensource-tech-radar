@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Appium",
+  "image" : "/images/languages-frameworks/appium.png",
+  "category" : "Languages and Frameworks",
+  "description" : "Appium automates a test structure of any mobile application of any language, with total access to APIs and backend databases from the test code.",
+  "ring" : "Strategic",
+  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/appium/",
+  "related": [
+    
+    
+      {
+        "name": "Dart Programming Language",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/dart.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/dart/"
+      },
+    
+      {
+        "name": "Detekt",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/detekt.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/detekt/"
+      },
+    
+      {
+        "name": "Go",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/go.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/go/"
+      },
+    
+    {}
+  ]
+} 
+}

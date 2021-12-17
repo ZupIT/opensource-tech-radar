@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Platforms on Tech Radar - Opensource - Zup I.T</title>
+    <title>Plataformas on Tech Radar - Opensource - Zup I.T</title>
     <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/</link>
-    <description>Recent content in Platforms on Tech Radar - Opensource - Zup I.T</description>
+    <description>Recent content in Plataformas on Tech Radar - Opensource - Zup I.T</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

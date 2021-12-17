@@ -1,6 +1,6 @@
 +++
-title="Languages-Frameworks"
-description="Languages, frameworks and libraries."
+title="Linguagens e Frameworks"
+description="Linguagens, frameworks e bibliotecas."
 type="pages"
 layout="category"
 category="categories"

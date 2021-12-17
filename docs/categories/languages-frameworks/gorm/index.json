@@ -1,33 +1,33 @@
 {
   "data" :  {
-  "name": "Gorm",
-  "image" : "/images/languages-frameworks/go.png",
-  "category" : "Languages-Frameworks",
-  "description" : "<no value>",
-  "ring" : "Deprecated",
+  "name": "GORM",
+  "image" : "/images/languages-frameworks/gorm.png",
+  "category" : "Languages and Frameworks",
+  "description" : "GORM is the object-relational mapping for Golang focused on being friendly and increasing the productivity of the developer.",
+  "ring" : "Essential",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/gorm/",
   "related": [
     
     
       {
-        "name": "GorillaMux",
-        "ring": "Deprecated",
-        "image": "/images/languages-frameworks/gorila-mux.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/gorilla-mux/"
+        "name": "Angular",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/angular.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/angular/"
       },
     
       {
-        "name": "Groovy",
-        "ring": "Deprecated",
-        "image": "/images/languages-frameworks/groovy.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/groovy/"
+        "name": "Cypress",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/cypress.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/cypress/"
       },
     
       {
-        "name": "JUnit 4",
-        "ring": "Deprecated",
-        "image": "/images/languages-frameworks/junit-4.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/junit-4/"
+        "name": "Enry",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/enry.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/enry/"
       },
     
     {}

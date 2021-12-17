@@ -1,0 +1,35 @@
+name: S3 Development Upload
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: true  
+          fetch-depth: 0
+
+      - name: Configure AWS Credentials
+        uses: aws-actions/configure-aws-credentials@0d9a5be0dceea74e09396820e1e522ba4a110d2f #v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID_DEV }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY_DEV }}
+          aws-session-token: ${{ secrets.AWS_SESSION_TOKEN_DEV }}
+          aws-region: ${{ secrets.AWS_REGION_DEV }}    
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.79.1'
+          extended: true
+
+      - name: Build
+        run: hugo -D
+              
+      - name: Upload to AWS S3 Bucket
+        run: aws s3 sync --follow-symlinks docs s3://${{ secrets.AWS_S3_BUCKET_DEV }}/radar --delete

@@ -1,30 +1,20 @@
 +++
-name="JUnit 5"
-image="/images/languages-frameworks/junit-5.png"
-category="Languages-Frameworks"
+name="JUnit / MockK / Robolectric"
+image="/images/languages-frameworks/junit.png"
+category="Linguagens e Frameworks"
 ring="Essencial"
 type="post"
 layout="details"
+isNew="false"
+description="Bibliotecas de testes unitários implementados em aplicações Android. O JUnit e MockK também são utilizados em testes no Backend."
 +++
 
-# What is it ?
+{{% tabs/group %}}
+  {{% tabs/item id="0" title="O que é?" content="<p>Bibliotecas de testes unitários implementados em aplicações Android. O JUnit e MockK também são utilizados em testes no Backend.</p>" %}}
 
-JUnit is a simple framework to write repeatable tests. It is an instance of the xUnit architecture for unit testing frameworks.
+  {{% tabs/item id="1" title="Como utilizamos?" content="<p>Construímos classes de testes que utilizam essas bibliotecas. Esses testes são feitos quando o projeto é construído (build) e em todo Pull Request no repositório do Beagle.</p>" %}}
 
-# Why ?
+  {{% tabs/item id="2" title="Onde ?" content="<a href='https://usebeagle.io/' target='_blank'>Beagle</a>" %}}
 
-JUnit is an open source Unit Testing Framework for JAVA. It is useful for Java Developers to write and run repeatable tests. As the name implies, it is used for Unit Testing of a small chunk of code. Developers who are following test-driven methodology must write and execute unit test first before any code.
-
-
-# For who ?
-
-* [CharlesCD](https://charlescd.io/)
-
-# Resources
-* [homepage](https://junit.org/junit5/)
-* [User Guide](https://junit.org/junit5/docs/current/user-guide/)
-* [Java Docs](https://junit.org/junit5/docs/current/api/)
-
-
-# Resources (Portuguese)
-
+  {{% tabs/item id="3" title="Recursos" content="<a href='https://junit.org/junit5/ ' target='_blank'>JUnit</a><br /><a href='https://mockk.io/ ' target='_blank'>MockK</a><br /><a href='http://robolectric.org/ ' target='_blank'>Robolectric</a>" %}}
+{{% /tabs/group %}}

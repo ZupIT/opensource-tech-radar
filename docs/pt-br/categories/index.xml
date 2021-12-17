@@ -6,7 +6,16 @@
     <description>Recent content in Categories on Tech Radar - Opensource - Zup I.T</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Languages-Frameworks</title>
+      <title>Ferramentas</title>
+      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linguagens e Frameworks</title>
       <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -15,7 +24,7 @@
     </item>
     
     <item>
-      <title>Platforms</title>
+      <title>Plataformas</title>
       <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -24,21 +33,12 @@
     </item>
     
     <item>
-      <title>Techniques</title>
+      <title>Técnicas</title>
       <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/</guid>
       <description>Tecnicas Ferramentas Linguagens e Frameworks Serviços </description>
-    </item>
-    
-    <item>
-      <title>Tools</title>
-      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/</guid>
-      <description></description>
     </item>
     
   </channel>

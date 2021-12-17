@@ -2,32 +2,32 @@
   "data" :  {
   "name": "Go",
   "image" : "/images/languages-frameworks/go.png",
-  "category" : "Languages-Frameworks",
-  "description" : "<no value>",
-  "ring" : "Potential",
+  "category" : "Languages and Frameworks",
+  "description" : "Go is a programming language created by Google and released as open source in 2009. It is a compiled language focused on productivity and concurrent programming.",
+  "ring" : "Strategic",
   "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/go/",
   "related": [
     
     
       {
-        "name": "Allure",
-        "ring": "Potential",
-        "image": "/images/languages-frameworks/allure.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/allure/"
+        "name": "Appium",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/appium.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/appium/"
       },
     
       {
-        "name": "C4 model",
-        "ring": "Potential",
-        "image": "/images/techniques/c4-model.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/techniques/c4-model/"
+        "name": "Dart Programming Language",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/dart.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/dart/"
       },
     
       {
-        "name": "Cognitive-Driven Development",
-        "ring": "Potential",
-        "image": "/images/techniques/tdd.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/techniques/cdd/"
+        "name": "Detekt",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/detekt.png",
+        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/detekt/"
       },
     
     {}
