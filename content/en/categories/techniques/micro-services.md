@@ -1,5 +1,5 @@
 +++
-name="Micro serviços"
+name="Microservices"
 image="/images/default-logo.png"
 category="Techniques"
 ring="Strategic"
