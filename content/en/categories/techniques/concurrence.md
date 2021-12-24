@@ -1,5 +1,5 @@
 +++
-name="Concorrência"
+name="Concurrence"
 image="/images/default-logo.png"
 category="Techniques"
 ring="Strategic"
