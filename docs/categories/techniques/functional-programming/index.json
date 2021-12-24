@@ -1,6 +1,6 @@
 {
   "data" :  {
-  "name": "Programação Funcional",
+  "name": "Functional programming",
   "image" : "/images/default-logo.png",
   "category" : "Techniques",
   "description" : "Functional programming is the process of building software through the composition of pure functions, avoiding sharing states, changing data and collateral effects.",

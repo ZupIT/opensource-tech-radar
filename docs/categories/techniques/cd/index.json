@@ -1,6 +1,6 @@
 {
   "data" :  {
-  "name": "Implantação Contínua",
+  "name": "CI",
   "image" : "/images/techiques/ic.png",
   "category" : "Platforms",
   "description" : "A Software Engineering approach in which software functionalities are frequently delivered through automated deployments.",

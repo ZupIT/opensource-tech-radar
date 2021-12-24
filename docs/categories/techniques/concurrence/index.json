@@ -1,6 +1,6 @@
 {
   "data" :  {
-  "name": "Concorrência",
+  "name": "Concurrence",
   "image" : "/images/default-logo.png",
   "category" : "Techniques",
   "description" : "In the Computer Science context, concurrency occurs when there are two or more processes executed simultaneously. More specifically, this term is used when processes dispute access to shared resources.",
