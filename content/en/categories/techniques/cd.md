@@ -1,5 +1,5 @@
 +++
-name="Implantação Contínua"
+name="CI"
 image="/images/techiques/ic.png"
 category="Platforms"
 ring="Techniques"
