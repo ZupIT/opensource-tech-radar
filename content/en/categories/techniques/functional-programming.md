@@ -1,5 +1,5 @@
 +++
-name="Programação Funcional"
+name="Functional programming"
 image="/images/default-logo.png"
 category="Techniques"
 ring="Essential"
