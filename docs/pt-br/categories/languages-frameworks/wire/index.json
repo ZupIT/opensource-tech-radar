@@ -5,7 +5,7 @@
   "category" : "Linguagens e Frameworks",
   "description" : "Uma ferramenta de geração de código que automatiza a conexão de componentes usando injeção de dependência.",
   "ring" : "Essencial",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/wire/",
+  "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/wire/",
   "related": [
     
     
@@ -13,21 +13,21 @@
         "name": "Angular",
         "ring": "Essencial",
         "image": "/images/languages-frameworks/angular.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/angular/"
+        "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/angular/"
       },
     
       {
         "name": "Cypress",
         "ring": "Essencial",
         "image": "/images/languages-frameworks/cypress.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/cypress/"
+        "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/cypress/"
       },
     
       {
         "name": "Enry",
         "ring": "Essencial",
         "image": "/images/default-logo.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/enry/"
+        "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/enry/"
       },
     
     {}

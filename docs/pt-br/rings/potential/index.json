@@ -5,7 +5,7 @@
   "category" : "rings",
   "description" : "Tecnologias em Potencial, como o próprio nome diz, tem muitas chances de serem adotadas em projetos atuais ou em futuros engajamentos. Para isso, é necessário fazer estudos e testes.",
   "ring" : "<no value>",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/rings/potential/",
+  "permalink" : "https://opensource.zup.com.br/radar/pt-br/rings/potential/",
   "related": [
     
     
@@ -13,21 +13,21 @@
         "name": "<no value>",
         "ring": "<no value>",
         "image": "<no value>",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/docs/"
+        "permalink" : "https://opensource.zup.com.br/radar/pt-br/docs/"
       },
     
       {
         "name": "Estratégico",
         "ring": "<no value>",
         "image": "images/rings/strategic.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/rings/strategic/"
+        "permalink" : "https://opensource.zup.com.br/radar/pt-br/rings/strategic/"
       },
     
       {
         "name": "Essencial",
         "ring": "<no value>",
         "image": "images/rings/essential.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/rings/essential/"
+        "permalink" : "https://opensource.zup.com.br/radar/pt-br/rings/essential/"
       },
     
     {}

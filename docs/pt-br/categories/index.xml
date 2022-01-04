@@ -2,42 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Tech Radar - Opensource - Zup I.T</title>
-    <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/</link>
+    <link>https://opensource.zup.com.br/radar/pt-br/categories/</link>
     <description>Recent content in Categories on Tech Radar - Opensource - Zup I.T</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://zupit.github.io/opensource-tech-radar/pt-br/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://opensource.zup.com.br/radar/pt-br/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ferramentas</title>
-      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/</link>
+      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/</guid>
+      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linguagens e Frameworks</title>
-      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/</link>
+      <link>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/</guid>
+      <guid>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Plataformas</title>
-      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/</link>
+      <link>https://opensource.zup.com.br/radar/pt-br/categories/platforms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/</guid>
+      <guid>https://opensource.zup.com.br/radar/pt-br/categories/platforms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Técnicas</title>
-      <link>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/</link>
+      <link>https://opensource.zup.com.br/radar/pt-br/categories/techniques/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/</guid>
+      <guid>https://opensource.zup.com.br/radar/pt-br/categories/techniques/</guid>
       <description>Tecnicas Ferramentas Linguagens e Frameworks Serviços </description>
     </item>
     

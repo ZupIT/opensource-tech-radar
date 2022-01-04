@@ -5,7 +5,7 @@
   "category" : "Ferramentas",
   "description" : "Um sistema de rastreamento distribuído lançado como código aberto e que é usado para monitorar e solucionar problemas de sistemas distribuídos baseados em microsserviços.",
   "ring" : "Potencial",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/jaeger/",
+  "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/tools/jaeger/",
   "related": [
     
     
@@ -13,14 +13,14 @@
         "name": "Artifact Hub",
         "ring": "Potencial",
         "image": "/images/platforms/artifacthub.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/artifacthub/"
+        "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/platforms/artifacthub/"
       },
     
       {
         "name": "Tree-sitter",
         "ring": "Potencial",
         "image": "/images/default-logo.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/tree-sitter/"
+        "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/tools/tree-sitter/"
       },
     
     {}

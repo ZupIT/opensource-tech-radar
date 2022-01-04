@@ -5,7 +5,7 @@
   "category" : "Plataformas",
   "description" : "Shortcut é uma ferramenta de gerenciamento de projeto projetada especificamente para equipes de desenvolvimento de software. Com uma interface simples no estilo Kanban, ele oferece uma experiência descomplicada para uma melhor colaboração em equipe.",
   "ring" : "Estratégico",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/shortcut/",
+  "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/platforms/shortcut/",
   "related": [
     
     
@@ -13,21 +13,21 @@
         "name": "Appium",
         "ring": "Estratégico",
         "image": "/images/languages-frameworks/appium.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/appium/"
+        "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/appium/"
       },
     
       {
         "name": "Dart Programming Language",
         "ring": "Estratégico",
         "image": "/images/languages-frameworks/dart.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/dart/"
+        "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/dart/"
       },
     
       {
         "name": "Detekt",
         "ring": "Estratégico",
         "image": "/images/languages-frameworks/detekt.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/detekt/"
+        "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/detekt/"
       },
     
     {}

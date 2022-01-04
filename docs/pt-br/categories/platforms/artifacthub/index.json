@@ -5,7 +5,7 @@
   "category" : "Plataformas",
   "description" : "Um aplicativo web que permite localizar, instalar e publicar pacotes e configurações para projetos CNCF.",
   "ring" : "Potencial",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/artifacthub/",
+  "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/platforms/artifacthub/",
   "related": [
     
     
@@ -13,14 +13,14 @@
         "name": "Jaeger",
         "ring": "Potencial",
         "image": "/images/tools/jaeger.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/jaeger/"
+        "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/tools/jaeger/"
       },
     
       {
         "name": "Tree-sitter",
         "ring": "Potencial",
         "image": "/images/default-logo.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/tree-sitter/"
+        "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/tools/tree-sitter/"
       },
     
     {}

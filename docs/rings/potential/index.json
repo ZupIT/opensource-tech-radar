@@ -5,7 +5,7 @@
   "category" : "rings",
   "description" : "Potential Technologies have chances to be adopted in current or future projects. It is necessary to carry out studies and tests.",
   "ring" : "<no value>",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/rings/potential/",
+  "permalink" : "https://opensource.zup.com.br/radar/rings/potential/",
   "related": [
     
     
@@ -13,21 +13,21 @@
         "name": "<no value>",
         "ring": "<no value>",
         "image": "<no value>",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/docs/"
+        "permalink" : "https://opensource.zup.com.br/radar/docs/"
       },
     
       {
         "name": "Strategic",
         "ring": "<no value>",
         "image": "images/rings/strategic.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/rings/strategic/"
+        "permalink" : "https://opensource.zup.com.br/radar/rings/strategic/"
       },
     
       {
         "name": "Essential",
         "ring": "<no value>",
         "image": "images/rings/essential.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/rings/essential/"
+        "permalink" : "https://opensource.zup.com.br/radar/rings/essential/"
       },
     
     {}

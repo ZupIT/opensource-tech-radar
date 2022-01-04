@@ -5,7 +5,7 @@
   "category" : "Tools",
   "description" : "Visual Studio Code is an open source, source code editor developed by Microsoft.",
   "ring" : "Strategic",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/tools/visual-studio-code/",
+  "permalink" : "https://opensource.zup.com.br/radar/categories/tools/visual-studio-code/",
   "related": [
     
     
@@ -13,21 +13,21 @@
         "name": "Appium",
         "ring": "Strategic",
         "image": "/images/languages-frameworks/appium.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/appium/"
+        "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/appium/"
       },
     
       {
         "name": "Dart Programming Language",
         "ring": "Strategic",
         "image": "/images/languages-frameworks/dart.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/dart/"
+        "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/dart/"
       },
     
       {
         "name": "Detekt",
         "ring": "Strategic",
         "image": "/images/languages-frameworks/detekt.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/detekt/"
+        "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/detekt/"
       },
     
     {}

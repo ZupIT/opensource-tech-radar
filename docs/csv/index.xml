@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Extract on Tech Radar - Opensource - Zup I.T</title>
-    <link>https://zupit.github.io/opensource-tech-radar/csv/</link>
+    <link>https://opensource.zup.com.br/radar/csv/</link>
     <description>Recent content in Extract on Tech Radar - Opensource - Zup I.T</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://zupit.github.io/opensource-tech-radar/csv/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://opensource.zup.com.br/radar/csv/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

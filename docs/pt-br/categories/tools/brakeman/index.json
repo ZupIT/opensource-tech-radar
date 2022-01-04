@@ -5,7 +5,7 @@
   "category" : "Ferramentas",
   "description" : "Uma ferramenta Open Source de análise estática que verifica os aplicativos Ruby on Rails em busca de vulnerabilidades de segurança.",
   "ring" : "Estratégico",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/brakeman/",
+  "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/tools/brakeman/",
   "related": [
     
     
@@ -13,21 +13,21 @@
         "name": "Appium",
         "ring": "Estratégico",
         "image": "/images/languages-frameworks/appium.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/appium/"
+        "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/appium/"
       },
     
       {
         "name": "Dart Programming Language",
         "ring": "Estratégico",
         "image": "/images/languages-frameworks/dart.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/dart/"
+        "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/dart/"
       },
     
       {
         "name": "Detekt",
         "ring": "Estratégico",
         "image": "/images/languages-frameworks/detekt.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/detekt/"
+        "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/detekt/"
       },
     
     {}

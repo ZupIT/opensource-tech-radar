@@ -5,7 +5,7 @@
   "category" : "Languages and Frameworks",
   "description" : "Horusec is an autonomous SAST engine used by the Horusec project. The purpose is to provide baseline functionality and the basic building blocks for you to build your own SAST tool.",
   "ring" : "Strategic",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/horusec/",
+  "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/horusec/",
   "related": [
     
     
@@ -13,21 +13,21 @@
         "name": "Appium",
         "ring": "Strategic",
         "image": "/images/languages-frameworks/appium.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/appium/"
+        "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/appium/"
       },
     
       {
         "name": "Dart Programming Language",
         "ring": "Strategic",
         "image": "/images/languages-frameworks/dart.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/dart/"
+        "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/dart/"
       },
     
       {
         "name": "Detekt",
         "ring": "Strategic",
         "image": "/images/languages-frameworks/detekt.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/detekt/"
+        "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/detekt/"
       },
     
     {}

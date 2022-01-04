@@ -5,7 +5,7 @@
   "category" : "Languages and Frameworks",
   "description" : "Swift is a programming language developed by Apple for development on iOS, macOS, watchOS, tvOS and Linux. Swift was developed to keep compatibility with the Cocoa API, and with the existing Objective-C code.",
   "ring" : "Strategic",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/swift/",
+  "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/swift/",
   "related": [
     
     
@@ -13,21 +13,21 @@
         "name": "Appium",
         "ring": "Strategic",
         "image": "/images/languages-frameworks/appium.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/appium/"
+        "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/appium/"
       },
     
       {
         "name": "Dart Programming Language",
         "ring": "Strategic",
         "image": "/images/languages-frameworks/dart.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/dart/"
+        "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/dart/"
       },
     
       {
         "name": "Detekt",
         "ring": "Strategic",
         "image": "/images/languages-frameworks/detekt.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/detekt/"
+        "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/detekt/"
       },
     
     {}

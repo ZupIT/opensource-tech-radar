@@ -2,636 +2,636 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech Radar - Opensource - Zup I.T</title>
-    <link>https://zupit.github.io/opensource-tech-radar/</link>
+    <link>https://opensource.zup.com.br/radar/</link>
     <description>Recent content on Tech Radar - Opensource - Zup I.T</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://zupit.github.io/opensource-tech-radar/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://opensource.zup.com.br/radar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Strategic</title>
-      <link>https://zupit.github.io/opensource-tech-radar/rings/strategic/</link>
+      <link>https://opensource.zup.com.br/radar/rings/strategic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/rings/strategic/</guid>
+      <guid>https://opensource.zup.com.br/radar/rings/strategic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Essential</title>
-      <link>https://zupit.github.io/opensource-tech-radar/rings/essential/</link>
+      <link>https://opensource.zup.com.br/radar/rings/essential/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/rings/essential/</guid>
+      <guid>https://opensource.zup.com.br/radar/rings/essential/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Potential</title>
-      <link>https://zupit.github.io/opensource-tech-radar/rings/potential/</link>
+      <link>https://opensource.zup.com.br/radar/rings/potential/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/rings/potential/</guid>
+      <guid>https://opensource.zup.com.br/radar/rings/potential/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deprecated</title>
-      <link>https://zupit.github.io/opensource-tech-radar/rings/deprecated/</link>
+      <link>https://opensource.zup.com.br/radar/rings/deprecated/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/rings/deprecated/</guid>
+      <guid>https://opensource.zup.com.br/radar/rings/deprecated/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/angular/</link>
+      <link>https://opensource.zup.com.br/radar/categories/languages-frameworks/angular/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/angular/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/languages-frameworks/angular/</guid>
       <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/appium/</link>
+      <link>https://opensource.zup.com.br/radar/categories/languages-frameworks/appium/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/appium/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/languages-frameworks/appium/</guid>
       <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/cypress/</link>
+      <link>https://opensource.zup.com.br/radar/categories/languages-frameworks/cypress/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/cypress/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/languages-frameworks/cypress/</guid>
       <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/dart/</link>
+      <link>https://opensource.zup.com.br/radar/categories/languages-frameworks/dart/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/dart/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/languages-frameworks/dart/</guid>
       <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/detekt/</link>
+      <link>https://opensource.zup.com.br/radar/categories/languages-frameworks/detekt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/detekt/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/languages-frameworks/detekt/</guid>
       <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/docker/</link>
+      <link>https://opensource.zup.com.br/radar/categories/languages-frameworks/docker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/docker/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/languages-frameworks/docker/</guid>
       <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/enry/</link>
+      <link>https://opensource.zup.com.br/radar/categories/languages-frameworks/enry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/enry/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/languages-frameworks/enry/</guid>
       <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/flutter/</link>
+      <link>https://opensource.zup.com.br/radar/categories/languages-frameworks/flutter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/flutter/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/languages-frameworks/flutter/</guid>
       <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/go/</link>
+      <link>https://opensource.zup.com.br/radar/categories/languages-frameworks/go/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/go/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/languages-frameworks/go/</guid>
       <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/gorm/</link>
+      <link>https://opensource.zup.com.br/radar/categories/languages-frameworks/gorm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/gorm/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/languages-frameworks/gorm/</guid>
       <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/grpc/</link>
+      <link>https://opensource.zup.com.br/radar/categories/languages-frameworks/grpc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/grpc/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/languages-frameworks/grpc/</guid>
       <description>What is it?  How we use it?  For who?  Resources     </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/horusec/</link>
+      <link>https://opensource.zup.com.br/radar/categories/languages-frameworks/horusec/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/horusec/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/languages-frameworks/horusec/</guid>
       <description>What is it?  How we use it?  For who?  Resources     </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/javascript/</link>
+      <link>https://opensource.zup.com.br/radar/categories/languages-frameworks/javascript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/javascript/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/languages-frameworks/javascript/</guid>
       <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/jest/</link>
+      <link>https://opensource.zup.com.br/radar/categories/languages-frameworks/jest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/jest/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/languages-frameworks/jest/</guid>
       <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/junit/</link>
+      <link>https://opensource.zup.com.br/radar/categories/languages-frameworks/junit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/junit/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/languages-frameworks/junit/</guid>
       <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/kotlin-coroutines/</link>
+      <link>https://opensource.zup.com.br/radar/categories/languages-frameworks/kotlin-coroutines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/kotlin-coroutines/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/languages-frameworks/kotlin-coroutines/</guid>
       <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/kotlin/</link>
+      <link>https://opensource.zup.com.br/radar/categories/languages-frameworks/kotlin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/kotlin/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/languages-frameworks/kotlin/</guid>
       <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/kubernetes/</link>
+      <link>https://opensource.zup.com.br/radar/categories/languages-frameworks/kubernetes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/kubernetes/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/languages-frameworks/kubernetes/</guid>
       <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/micronaut/</link>
+      <link>https://opensource.zup.com.br/radar/categories/languages-frameworks/micronaut/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/micronaut/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/languages-frameworks/micronaut/</guid>
       <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/react/</link>
+      <link>https://opensource.zup.com.br/radar/categories/languages-frameworks/react/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/react/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/languages-frameworks/react/</guid>
       <description>What is it?  How we use it?  For who?  Resources     </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/spring-boot/</link>
+      <link>https://opensource.zup.com.br/radar/categories/languages-frameworks/spring-boot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/spring-boot/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/languages-frameworks/spring-boot/</guid>
       <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/swift/</link>
+      <link>https://opensource.zup.com.br/radar/categories/languages-frameworks/swift/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/swift/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/languages-frameworks/swift/</guid>
       <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/typescript/</link>
+      <link>https://opensource.zup.com.br/radar/categories/languages-frameworks/typescript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/typescript/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/languages-frameworks/typescript/</guid>
       <description>What is it?  How we use it?  For who?  Resources     </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/xctest/</link>
+      <link>https://opensource.zup.com.br/radar/categories/languages-frameworks/xctest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/xctest/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/languages-frameworks/xctest/</guid>
       <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/yoga/</link>
+      <link>https://opensource.zup.com.br/radar/categories/languages-frameworks/yoga/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/yoga/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/languages-frameworks/yoga/</guid>
       <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/amazon-cloud-front/</link>
+      <link>https://opensource.zup.com.br/radar/categories/platforms/amazon-cloud-front/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/amazon-cloud-front/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/platforms/amazon-cloud-front/</guid>
       <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/amazon-cloud-watch/</link>
+      <link>https://opensource.zup.com.br/radar/categories/platforms/amazon-cloud-watch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/amazon-cloud-watch/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/platforms/amazon-cloud-watch/</guid>
       <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/amazon-codebuild/</link>
+      <link>https://opensource.zup.com.br/radar/categories/platforms/amazon-codebuild/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/amazon-codebuild/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/platforms/amazon-codebuild/</guid>
       <description>What is it? How we use it? How we use it? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/amazon-ecr/</link>
+      <link>https://opensource.zup.com.br/radar/categories/platforms/amazon-ecr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/amazon-ecr/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/platforms/amazon-ecr/</guid>
       <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/amazon-s3/</link>
+      <link>https://opensource.zup.com.br/radar/categories/platforms/amazon-s3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/amazon-s3/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/platforms/amazon-s3/</guid>
       <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/artifact/</link>
+      <link>https://opensource.zup.com.br/radar/categories/platforms/artifact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/artifact/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/platforms/artifact/</guid>
       <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/aws/</link>
+      <link>https://opensource.zup.com.br/radar/categories/platforms/aws/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/aws/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/platforms/aws/</guid>
       <description>What is it?  How we use it?  For who ?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/cocoa-pods/</link>
+      <link>https://opensource.zup.com.br/radar/categories/platforms/cocoa-pods/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/cocoa-pods/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/platforms/cocoa-pods/</guid>
       <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/dockerhub/</link>
+      <link>https://opensource.zup.com.br/radar/categories/platforms/dockerhub/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/dockerhub/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/platforms/dockerhub/</guid>
       <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/github/</link>
+      <link>https://opensource.zup.com.br/radar/categories/platforms/github/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/github/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/platforms/github/</guid>
       <description>What is it?  How we use it?  For who?  Resources     </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/iam/</link>
+      <link>https://opensource.zup.com.br/radar/categories/platforms/iam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/iam/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/platforms/iam/</guid>
       <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/maven/</link>
+      <link>https://opensource.zup.com.br/radar/categories/platforms/maven/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/maven/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/platforms/maven/</guid>
       <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/npm/</link>
+      <link>https://opensource.zup.com.br/radar/categories/platforms/npm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/npm/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/platforms/npm/</guid>
       <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/pubdev/</link>
+      <link>https://opensource.zup.com.br/radar/categories/platforms/pubdev/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/pubdev/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/platforms/pubdev/</guid>
       <description>What is it? How we use it? For who? Resources   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/platforms/shortcut/</link>
+      <link>https://opensource.zup.com.br/radar/categories/platforms/shortcut/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/platforms/shortcut/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/platforms/shortcut/</guid>
       <description>What is it ?  How we use it?  For who?  Resources     </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/cd/</link>
+      <link>https://opensource.zup.com.br/radar/categories/techniques/cd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/cd/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/techniques/cd/</guid>
       <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/cicd/</link>
+      <link>https://opensource.zup.com.br/radar/categories/techniques/cicd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/cicd/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/techniques/cicd/</guid>
       <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/composite/</link>
+      <link>https://opensource.zup.com.br/radar/categories/techniques/composite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/composite/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/techniques/composite/</guid>
       <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/concurrence/</link>
+      <link>https://opensource.zup.com.br/radar/categories/techniques/concurrence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/concurrence/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/techniques/concurrence/</guid>
       <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/decorator/</link>
+      <link>https://opensource.zup.com.br/radar/categories/techniques/decorator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/decorator/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/techniques/decorator/</guid>
       <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/functional-programming/</link>
+      <link>https://opensource.zup.com.br/radar/categories/techniques/functional-programming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/functional-programming/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/techniques/functional-programming/</guid>
       <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/ic/</link>
+      <link>https://opensource.zup.com.br/radar/categories/techniques/ic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/ic/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/techniques/ic/</guid>
       <description>What is it?  How we use it?  For who ?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/micro-services/</link>
+      <link>https://opensource.zup.com.br/radar/categories/techniques/micro-services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/micro-services/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/techniques/micro-services/</guid>
       <description>What is it?  How we use it??  For who  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/microfrontend/</link>
+      <link>https://opensource.zup.com.br/radar/categories/techniques/microfrontend/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/microfrontend/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/techniques/microfrontend/</guid>
       <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/microservices/</link>
+      <link>https://opensource.zup.com.br/radar/categories/techniques/microservices/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/microservices/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/techniques/microservices/</guid>
       <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/monorepo/</link>
+      <link>https://opensource.zup.com.br/radar/categories/techniques/monorepo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/monorepo/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/techniques/monorepo/</guid>
       <description>What is it?  How we use it?  For who?  Resources     </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/visitor/</link>
+      <link>https://opensource.zup.com.br/radar/categories/techniques/visitor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/visitor/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/techniques/visitor/</guid>
       <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/techniques/websocket/</link>
+      <link>https://opensource.zup.com.br/radar/categories/techniques/websocket/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/techniques/websocket/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/techniques/websocket/</guid>
       <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/android-studio/</link>
+      <link>https://opensource.zup.com.br/radar/categories/tools/android-studio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/android-studio/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/tools/android-studio/</guid>
       <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/eslint/</link>
+      <link>https://opensource.zup.com.br/radar/categories/tools/eslint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/eslint/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/tools/eslint/</guid>
       <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/git/</link>
+      <link>https://opensource.zup.com.br/radar/categories/tools/git/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/git/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/tools/git/</guid>
       <description>What is it?  How we use it?  For who?  Resources     </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/helm/</link>
+      <link>https://opensource.zup.com.br/radar/categories/tools/helm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/helm/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/tools/helm/</guid>
       <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/husky/</link>
+      <link>https://opensource.zup.com.br/radar/categories/tools/husky/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/husky/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/tools/husky/</guid>
       <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/intellij/</link>
+      <link>https://opensource.zup.com.br/radar/categories/tools/intellij/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/intellij/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/tools/intellij/</guid>
       <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/lerna/</link>
+      <link>https://opensource.zup.com.br/radar/categories/tools/lerna/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/lerna/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/tools/lerna/</guid>
       <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/moshi/</link>
+      <link>https://opensource.zup.com.br/radar/categories/tools/moshi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/moshi/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/tools/moshi/</guid>
       <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/nock/</link>
+      <link>https://opensource.zup.com.br/radar/categories/tools/nock/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/nock/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/tools/nock/</guid>
       <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/node-fetch/</link>
+      <link>https://opensource.zup.com.br/radar/categories/tools/node-fetch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/node-fetch/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/tools/node-fetch/</guid>
       <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/nodemon/</link>
+      <link>https://opensource.zup.com.br/radar/categories/tools/nodemon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/nodemon/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/tools/nodemon/</guid>
       <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/visual-studio-code/</link>
+      <link>https://opensource.zup.com.br/radar/categories/tools/visual-studio-code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/visual-studio-code/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/tools/visual-studio-code/</guid>
       <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zupit.github.io/opensource-tech-radar/categories/tools/xcode/</link>
+      <link>https://opensource.zup.com.br/radar/categories/tools/xcode/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/categories/tools/xcode/</guid>
+      <guid>https://opensource.zup.com.br/radar/categories/tools/xcode/</guid>
       <description>What is it?  How we use it?  For who?  Resources    </description>
     </item>
     

@@ -5,7 +5,7 @@
   "category" : "Ferramentas",
   "description" : "Uma ferramenta de gerador de analisador e uma biblioteca de análise incremental. Ele pode construir uma árvore de sintaxe concreta para um arquivo de origem e atualizar com eficiência a árvore de sintaxe à medida que o arquivo de origem é editado.",
   "ring" : "Potencial",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/tree-sitter/",
+  "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/tools/tree-sitter/",
   "related": [
     
     
@@ -13,14 +13,14 @@
         "name": "Artifact Hub",
         "ring": "Potencial",
         "image": "/images/platforms/artifacthub.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/artifacthub/"
+        "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/platforms/artifacthub/"
       },
     
       {
         "name": "Jaeger",
         "ring": "Potencial",
         "image": "/images/tools/jaeger.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/jaeger/"
+        "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/tools/jaeger/"
       },
     
     {}

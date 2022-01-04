@@ -5,7 +5,7 @@
   "category" : "Languages and Frameworks",
   "description" : "Coroutines are components of computer programs that generalize subroutines for multitasking, allowing the execution to be suspended and restarted. They are adequate to implement components of programs such as cooperative tasks, exceptions, event loops, iterators, infinite lists, and channels.",
   "ring" : "Strategic",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/kotlin-coroutines/",
+  "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/kotlin-coroutines/",
   "related": [
     
     
@@ -13,21 +13,21 @@
         "name": "Appium",
         "ring": "Strategic",
         "image": "/images/languages-frameworks/appium.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/appium/"
+        "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/appium/"
       },
     
       {
         "name": "Dart Programming Language",
         "ring": "Strategic",
         "image": "/images/languages-frameworks/dart.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/dart/"
+        "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/dart/"
       },
     
       {
         "name": "Detekt",
         "ring": "Strategic",
         "image": "/images/languages-frameworks/detekt.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/detekt/"
+        "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/detekt/"
       },
     
     {}

@@ -5,7 +5,7 @@
   "category" : "Ferramentas",
   "description" : "Ferramenta de análise estática para detecção de possíveis vulnerabilidades em arquivos terrform.",
   "ring" : "Essencial",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/tfsec/",
+  "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/tools/tfsec/",
   "related": [
     
     
@@ -13,21 +13,21 @@
         "name": "Angular",
         "ring": "Essencial",
         "image": "/images/languages-frameworks/angular.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/angular/"
+        "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/angular/"
       },
     
       {
         "name": "Cypress",
         "ring": "Essencial",
         "image": "/images/languages-frameworks/cypress.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/cypress/"
+        "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/cypress/"
       },
     
       {
         "name": "Enry",
         "ring": "Essencial",
         "image": "/images/default-logo.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/enry/"
+        "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/enry/"
       },
     
     {}

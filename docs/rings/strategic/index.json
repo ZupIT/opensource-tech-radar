@@ -5,7 +5,7 @@
   "category" : "rings",
   "description" : "Technologies within the Strategic Ring are fundamental to the projects. The teams that tested have knowledge, confidence, and fluency.",
   "ring" : "<no value>",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/rings/strategic/",
+  "permalink" : "https://opensource.zup.com.br/radar/rings/strategic/",
   "related": [
     
     
@@ -13,21 +13,21 @@
         "name": "<no value>",
         "ring": "<no value>",
         "image": "<no value>",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/docs/"
+        "permalink" : "https://opensource.zup.com.br/radar/docs/"
       },
     
       {
         "name": "Essential",
         "ring": "<no value>",
         "image": "images/rings/essential.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/rings/essential/"
+        "permalink" : "https://opensource.zup.com.br/radar/rings/essential/"
       },
     
       {
         "name": "<no value>",
         "ring": "<no value>",
         "image": "<no value>",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/radar/"
+        "permalink" : "https://opensource.zup.com.br/radar/radar/"
       },
     
     {}

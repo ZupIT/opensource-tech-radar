@@ -5,7 +5,7 @@
   "category" : "rings",
   "description" : "If a technology is in that ring, avoid it. We've already tested it, our experience was bad and we don't want you to waste your time.",
   "ring" : "<no value>",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/rings/deprecated/",
+  "permalink" : "https://opensource.zup.com.br/radar/rings/deprecated/",
   "related": [
     
     
@@ -13,21 +13,21 @@
         "name": "<no value>",
         "ring": "<no value>",
         "image": "<no value>",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/docs/"
+        "permalink" : "https://opensource.zup.com.br/radar/docs/"
       },
     
       {
         "name": "Strategic",
         "ring": "<no value>",
         "image": "images/rings/strategic.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/rings/strategic/"
+        "permalink" : "https://opensource.zup.com.br/radar/rings/strategic/"
       },
     
       {
         "name": "Essential",
         "ring": "<no value>",
         "image": "images/rings/essential.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/rings/essential/"
+        "permalink" : "https://opensource.zup.com.br/radar/rings/essential/"
       },
     
     {}

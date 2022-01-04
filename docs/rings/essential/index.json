@@ -5,7 +5,7 @@
   "category" : "rings",
   "description" : "The technologies in this ring have been tested but are not fully mature. The teams that use it need training and/or experience to ensure the project's success.",
   "ring" : "<no value>",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/rings/essential/",
+  "permalink" : "https://opensource.zup.com.br/radar/rings/essential/",
   "related": [
     
     
@@ -13,21 +13,21 @@
         "name": "<no value>",
         "ring": "<no value>",
         "image": "<no value>",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/docs/"
+        "permalink" : "https://opensource.zup.com.br/radar/docs/"
       },
     
       {
         "name": "Strategic",
         "ring": "<no value>",
         "image": "images/rings/strategic.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/rings/strategic/"
+        "permalink" : "https://opensource.zup.com.br/radar/rings/strategic/"
       },
     
       {
         "name": "<no value>",
         "ring": "<no value>",
         "image": "<no value>",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/radar/"
+        "permalink" : "https://opensource.zup.com.br/radar/radar/"
       },
     
     {}
