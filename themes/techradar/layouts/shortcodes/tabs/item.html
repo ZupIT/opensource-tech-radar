@@ -1,3 +1,6 @@
 <div class="cp-tabs-list-item">
-  <a href="#" data-tab-id="{{ .Get "id" }}" data-tab-content="{{ .Get "content" }}">{{ .Get "title" }}</a>
+  <a href="#" data-tab-id="{{ .Get "id" }}" data-tab-content="{{ .Get "content" }}">
+    {{ .Get "title" }}
+    <img src='{{ "icons/add.svg" | relURL }}' alt="add icon">
+  </a>
 </div>

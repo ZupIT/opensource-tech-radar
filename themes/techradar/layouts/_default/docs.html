@@ -56,11 +56,11 @@
             
                 <div class="cp-accordion-item-content">
                   <div class="row">
-                    <div class="col-2">
+                    <div class="col-4 col-md-2">
                       <span class="pg-techlogies-head-text px-md-4">{{ i18n "ui_rings"}}</span>
                     </div>
 
-                    <div class="col-auto">
+                    <div class="col">
                       <span class="pg-techlogies-head-text">{{ i18n "ui_technologies"}}</span>
                     </div>
                   </div>
@@ -70,13 +70,13 @@
                       {{ range $ring := where .Site.Pages "Params.category" "rings"}}
                         {{ range $technique := where (where .Site.Pages "Params.category" $category.Title) "Params.ring" $ring.Params.Name }}
                         <div class="cp-technology">
-                          <div class="row align-items-center justify-content-between">
+                          <div class="row align-items-center justify-content-between flex-nowrap">
                             <div class="col-auto">
                               <span class="cp-badge {{ lower $ring.Params.Color }}">{{ $ring.Name }}</span>
                             </div>
                             
-                            <div class="col-9">
-                              <p class="cp-technology-description text-truncate">{{ $technique.Params.Name }}</p>
+                            <div class="col col-md-9">
+                              <p class="cp-technology-description">{{ $technique.Params.Name }}</p>
                             </div>
                         
                             <div class="col-auto">

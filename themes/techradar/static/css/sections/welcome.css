@@ -3,7 +3,20 @@
   height: 631px;
   position: relative;
   background: url("../../images/welcome-background.svg") no-repeat center top
-    #ededed;
+    #fff;
+}
+
+@media (max-width: 869px) {
+  .pg-about h4 {
+    font-size: 24px;
+    line-height: 28px;
+  }
+}
+
+@media (max-width: 426px) {
+  .sc-welcome {
+    margin-bottom: 100px;
+  }
 }
 
 .sc-welcome .wrapper {

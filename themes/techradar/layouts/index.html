@@ -19,7 +19,7 @@
 
     <section class="sc-welcome">
       <div class="wrapper">
-        <div class="container-fluid gx-0">
+        <div class="container">
           <div class="row justify-content-center">
             <div class="col-md-8 col-12">
               <div class="row">
@@ -53,15 +53,18 @@
                     </div>
 
                     <div class="col-auto">
-                      <p class="text-center text-md-start">
+                      <p class="text-center text-md-start d-none d-md-block">
                         {{ i18n "ui_show_radar_banner_text_line_1" }} <br />
                         {{ i18n "ui_show_radar_banner_text_line_2" }}
+                      </p> 
+                      <p class="text-center text-md-start d-md-none" style="font-size: 15px;">
+                        {{ i18n "ui_show_radar_banner_text_line_1" }} {{ i18n "ui_show_radar_banner_text_line_2" }}
                       </p>
                     </div>
                   </div>
                 </div>
 
-                <div class="col-10 col-md-3 my-3">
+                <div class="col-12 col-md-3 my-3">
                   <a href="{{ .URL | relLangURL }}radar" class="cp-button">{{i18n "ui_show_radar_button_text"}}</a>
                 </div>
               </div>
@@ -123,7 +126,7 @@
           </div>
 
           <div class="row justify-content-center align-items-center my-5 d-lg-none">
-              <div class="cp-card-carousel-dots d-flex justify-content-between align-items-center gap-2">
+              <div class="cp-card-carousel-dots d-flex justify-content-center align-items-center gap-2">
               </div>
           </div>
           

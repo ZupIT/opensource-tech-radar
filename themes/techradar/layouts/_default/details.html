@@ -1,5 +1,6 @@
-{{ $ring := .Site.GetPage "category" .Params.ring }}
-{{ $tech := .Site.GetPage "title" .Params.category }}
+{{ $ring := .Site.GetPage .Params.ring }}
+{{ $tech := .Site.GetPage .Params.category }}
+
 <!DOCTYPE html>
 <html lang="{{ .Site.Language.Lang }}">
   <head>
@@ -18,7 +19,7 @@
 
   <body>
     {{ partial "header.html" . }}
-
+  
     <main class="pg-single-technologies">
       <div class="wrapper">
         <div class="container-fluid gx-0">
@@ -46,7 +47,7 @@
             <div class="col-auto">
               <span class="cp-badge">{{ $ring.Params.Title }}</span>
             </div>
-  
+      
             <div class="col-auto">
               <span class="cp-badge {{ lower $ring.Params.Color }}">{{ $tech.Params.Title }}</span>
             </div>
@@ -64,10 +65,10 @@
             </div>
           </div>
   
-          <div class="row mt-3">
-            {{ $relateds := where (where .Site.Pages "Params.ring" $ring.Params.Title) "Params.name" "!=" .Params.Name }}
+          <div class="row mt-3 flex-column flex-md-row gap-2 gap-md-0">
+            {{ $relateds := where (where .Site.Pages "Params.ring" $ring.Params.Title) "Params.Name" "!=" .Params.Name }}
             {{ range $related := first 3 $relateds }}
-            <div class="col-4">
+            <div class="col-auto col-md-4">
               <div class="cp-framework">
                 <div class="row align-items-center justify-content-between">
                   <div class="col-auto">
