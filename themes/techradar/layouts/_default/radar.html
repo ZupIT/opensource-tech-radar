@@ -32,8 +32,7 @@
                   <div class="pg-radar-category">
                     <div class="pg-radar-category-head">
                       <h3>{{ $ring.Title }}</h3>
-    
-                      <img src="/icons/question.svg" alt="Icone">
+                      <img src='{{ "icons/question.svg" | relURL }}' alt="{{ .Params.Description }}" title="{{ .Params.Description }}">
                     </div>
     
                     <ul class="pg-radar-category-list">
