@@ -255,7 +255,9 @@
           try {
             const response = await $.ajax(`${id}/index.json`);
 
+            
             $('#pg-radar-modal-thumbnail').attr('src', `/${baseURL + response.data.image}`);
+            $('#pg-radar-modal-thumbnail').attr('alt', response.data.name);
             $('#pg-radar-modal-title').text(response.data.name);
             $('#pg-radar-modal-description').text(response.data.description);
             $('#pg-radar-modal-ring').text(response.data.ring);
@@ -263,12 +265,11 @@
             
             
             const related = response.data.related;
-
             delete related[3];
 
             if (related && related[0].name) {
               related.forEach((item) => {
-                relatedContainer.append(`
+                Object.keys(item).length && relatedContainer.append(`
                 <div class="col-4">
                   <div class="cp-framework" style="padding: 16px 10px;">
                     <div class="row align-items-center justify-content-between">
