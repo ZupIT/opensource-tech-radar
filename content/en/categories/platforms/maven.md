@@ -1,8 +1,8 @@
 +++
 name="Maven"
 image="/images/platforms/maven.png"
-category="Platforms"
-ring="Essential"
+category="platforms"
+ring="essential"
 type="post"
 layout="details"
 isNew="false"

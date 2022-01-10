@@ -1,8 +1,8 @@
 +++
 name="Tree-sitter"
 image="/images/default-logo.png"
-category="Ferramentas"
-ring="Potencial"
+category="tools"
+ring="potential"
 type="post"
 layout="details"
 isNew="true"

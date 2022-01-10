@@ -1,8 +1,8 @@
 +++
 name="Micro serviços"
-image="/images/default-logo.png"
-category="Técnicas"
-ring="Estratégico"
+image="/images/techiques/microservices.png"
+category="techniques"
+ring="strategic"
 type="post"
 layout="details"
 isNew="true"

@@ -1,8 +1,8 @@
 +++
 name="XCode"
 image="/images/tools/xcode.png"
-category="Tools"
-ring="Strategic"
+category="tools"
+ring="strategic"
 type="post"
 layout="details"
 isNew="true"

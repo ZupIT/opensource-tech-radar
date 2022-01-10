@@ -1,8 +1,8 @@
 +++
 name="Kotlin"
 image="/images/languages-frameworks/kotlin.png"
-category="Linguagens e Frameworks"
-ring="Estratégico"
+category="languages-frameworks"
+ring="strategic"
 type="post"
 layout="details"
 isNew="false"

@@ -1,8 +1,8 @@
 +++
 name="Appium"
 image="/images/languages-frameworks/appium.png"
-category="Linguagens e Frameworks"
-ring="Estratégico"
+category="languages-frameworks"
+ring="strategic"
 type="post"
 layout="details"
 isNew="false"

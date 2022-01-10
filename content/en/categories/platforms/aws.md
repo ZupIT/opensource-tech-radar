@@ -1,8 +1,8 @@
 +++
 name="Amazon AWS"
 image="/images/platforms/aws.png"
-category="Platforms"
-ring="Potential"
+category="platforms"
+ring="potential"
 type="post"
 layout="details"
 isNew="true"

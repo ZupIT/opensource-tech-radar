@@ -1,8 +1,8 @@
 +++
 name="Moshi"
 image="/images/default-logo.png"
-category="Tools"
-ring="Essential"
+category="tools"
+ring="essential"
 type="post"
 layout="details"
 isNew="true"

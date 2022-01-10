@@ -1,8 +1,8 @@
 +++
 name="Tfsec"
 image="/images/tools/tfsec.png"
-category="Ferramentas"
-ring="Essencial"
+category="tools"
+ring="essential"
 type="post"
 layout="details"
 isNew="true"

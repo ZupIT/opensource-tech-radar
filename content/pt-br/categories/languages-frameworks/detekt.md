@@ -1,8 +1,8 @@
 +++
 name="Detekt"
 image="/images/languages-frameworks/detekt.png"
-category="Linguagens e Frameworks"
-ring="Estratégico"
+category="languages-frameworks"
+ring="strategic"
 type="post"
 layout="details"
 isNew="false"

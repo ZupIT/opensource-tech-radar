@@ -1,8 +1,8 @@
 +++
 name="Miro"
 image="/images/platforms/miro.png"
-category="Plataformas"
-ring="Estratégico"
+category="platforms"
+ring="strategic"
 type="post"
 layout="details"
 isNew="false"

@@ -1,8 +1,8 @@
 +++
 name="Security Code Scan"
 image="/images/default-logo.png"
-category="Ferramentas"
-ring="Essencial"
+category="tools"
+ring="essential"
 type="post"
 layout="details"
 isNew="true"

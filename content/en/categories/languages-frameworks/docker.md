@@ -1,8 +1,8 @@
 +++
 name="Docker-SDK"
 image="/images/languages-frameworks/docker.png"
-category="Languages and Frameworks"
-ring="Potential"
+category="languages-frameworks"
+ring="potential"
 type="post"
 layout="details"
 isNew="true"

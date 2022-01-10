@@ -36,7 +36,7 @@
                     </div>
     
                     <ul class="pg-radar-category-list">
-                      {{ range where .Site.Pages "Params.ring" $ring.Title }}
+                      {{ range where .Site.Pages "Params.ring" $ring.Params.id }}
                       <li class="pg-radar-category-list-item">
                         <a href="#" data-id="{{ .Permalink }}" data-name="{{ .Params.name }}" data-ring="{{ .Params.ring }}" data-quadrant="{{ .Params.category }}" data-isNew='{{ (.Params.isNew | default "false") }}' data-description='{{ (.Description | default "") }}'  data-wasUpdated='{{ (.Params.wasUpdated | default "false") }}'>{{ .Params.name }}</a>
                       </li>

@@ -1,8 +1,8 @@
 +++
 name="RabbitMQ"
 image="/images/tools/rabbitmq.png"
-category="Ferramentas"
-ring="Estratégico"
+category="tools"
+ring="strategic"
 type="post"
 layout="details"
 isNew="true"

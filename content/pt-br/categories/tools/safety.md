@@ -1,8 +1,8 @@
 +++
 name="Safety"
 image="/images/tools/safety.png"
-category="Ferramentas"
-ring="Estratégico"
+category="tools"
+ring="strategic"
 type="post"
 layout="details"
 isNew="true"

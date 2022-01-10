@@ -102,7 +102,7 @@
     
                       <div class="col-12 mt-3">
                         <ul class="sc-categories-list">
-                          {{ range first 5 (where .Site.Pages "Params.category" .Params.Title) }}
+                          {{ range first 5 (where .Site.Pages "Params.category" .Params.id) }}
                           <li class="sc-categories-list-item">
                             <span>{{ .Params.Name }}</span>
 

@@ -1,8 +1,8 @@
 +++
 name="Monorepo"
 image="/images/techiques/monorepo.png"
-category="Techniques"
-ring="Deprecated"
+category="techniques"
+ring="deprecated"
 type="post"
 layout="details"
 isNew="true"

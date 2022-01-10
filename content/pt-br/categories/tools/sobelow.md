@@ -1,8 +1,8 @@
 +++
 name="Sobelow"
 image="/images/default-logo.png"
-category="Ferramentas"
-ring="Estratégico"
+category="tools"
+ring="strategic"
 type="post"
 layout="details"
 isNew="true"

@@ -1,8 +1,8 @@
 +++
 name="Cocoa Pods"
 image="/images/platforms/cocoa-pods.png"
-category="Platforms"
-ring="Essential"
+category="platforms"
+ring="essential"
 type="post"
 layout="details"
 isNew="false"
