@@ -1,6 +1,7 @@
 (() => {
   $(document).ready(() => {
     const ELEMENT = $('.cp-dropdown-list');
+    const BASEURL = ELEMENT.data('cp-dropdown-base-href');
 
     const handleToggle = () => {
       ELEMENT.toggle()
@@ -9,7 +10,7 @@
     const handleItemChange = (e) => {
       const { value } = e.target.dataset;
 
-      location.href =  'https://opensource.zup.com.br/radar/' + value.replace('/', '');
+      location.href =  BASEURL + value.replace('/', '');
     }
 
     $(document).keydown(function (e) {

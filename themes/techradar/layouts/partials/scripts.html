@@ -13,20 +13,15 @@
 
 <!-- OFFLINE SEARCH-->
 {{ $jsSearch := resources.Get "js/offline-search.js" }}
+{{ $jsDropdown := resources.Get "js/components/dropdown.js" }}
+{{ $jsRings := resources.Get "js/components/rings.js" }}
+{{ $jsAccordion := resources.Get "js/components/accordion.js" }}
+{{ $jsTabs := resources.Get "js/components/tabs.js" }}
 
-{{ $js := (slice $jsSearch) | resources.Concat "js/main.js" }}
-{{ if not hugo.IsProduction }}
-<script src="{{ $js.RelPermalink }}"></script>
-{{ else }}
+{{ $js := (slice $jsSearch $jsDropdown $jsRings $jsAccordion $jsTabs) | resources.Concat "js/main.js" }}
 {{ $js := $js | minify | fingerprint }}
 <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" crossorigin="anonymous"></script>
-{{ end }}
 <!-- OFFLINE SEARCH-->
-
-<script src="/js/components/rings.js"></script>
-<script src="/js/components/accordion.js"></script>
-<script src="/js/components/tabs.js"></script>
-<script src="/js/components/dropdown.js"></script>
 
  <!-- RADAR-->
  <script src="/js/radar/main.b2b59ce6da2e94acad70.js" defer></script>
