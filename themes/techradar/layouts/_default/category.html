@@ -24,15 +24,17 @@
         <div class="container-fluid">
           <div class="row">
             <div class="col-12">
-              {{ range where .Site.Pages "Params.category" .Params.Title }}
+              {{ range where .Site.Pages "Params.category" .Params.id }}
+              {{ $ring := .Site.GetPage "category" .Params.ring }}
+
               <div class="cp-technology">
                 <div class="row align-items-center justify-content-between">
                   <div class="col-auto">
-                    <span class="cp-badge {{ lower .Params.ring }}">{{ .Params.ring }}</span>
+                    <span class="cp-badge {{ lower .Params.ring }}">{{ $ring.Params.Name }}</span>
                   </div>
                   
                   <div class="col-9">
-                    <p class="cp-technology-description">{{ .Params.name }}</p>
+                    <p class="cp-technology-description">{{ .Params.Name }}</p>
                   </div>
               
                   <div class="col-auto">

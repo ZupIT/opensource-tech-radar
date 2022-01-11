@@ -1,8 +1,8 @@
 +++
 name="Amazon Cloud Watch"
 image="/images/platforms/aws-cloud-watch.png"
-category="Plataformas"
-ring="Estratégico"
+category="platforms"
+ring="strategic"
 type="post"
 layout="details"
 isNew="false"

@@ -1,8 +1,8 @@
 +++
 name="Spotbugs"
 image="/images/default-logo.png"
-category="Ferramentas"
-ring="Descontinuado"
+category="tools"
+ring="deprecated"
 type="post"
 layout="details"
 isNew="true"

@@ -1,8 +1,8 @@
 +++
 name="Postgres"
 image="/images/tools/postgres.png"
-category="Ferramentas"
-ring="Estratégico"
+category="tools"
+ring="strategic"
 type="post"
 layout="details"
 isNew="true"

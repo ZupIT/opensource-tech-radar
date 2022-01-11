@@ -1,8 +1,8 @@
 +++
 name="Android Studio"
 image="/images/tools/android-studio.png"
-category="Tools"
-ring="Strategic"
+category="tools"
+ring="strategic"
 type="post"
 layout="details"
 isNew="true"

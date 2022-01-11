@@ -1,8 +1,8 @@
 +++
 name="Amazon S3"
 image="/images/platforms/aws-s3.png"
-category="Platforms"
-ring="Strategic"
+category="platforms"
+ring="strategic"
 type="post"
 layout="details"
 isNew="false"

@@ -1,8 +1,8 @@
 +++
 name="Golang"
 image="/images/languages-frameworks/golang.png"
-category="Linguagens e Frameworks"
-ring="Estratégico"
+category="languages-frameworks"
+ring="strategic"
 type="post"
 layout="details"
 isNew="false"

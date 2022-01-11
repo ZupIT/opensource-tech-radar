@@ -1,4 +1,5 @@
 +++
+id="deprecated"
 name="Deprecated"
 title="Deprecated"
 description="If a technology is in that ring, avoid it. We've already tested it, our experience was bad and we don't want you to waste your time."

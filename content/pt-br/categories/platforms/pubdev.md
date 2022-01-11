@@ -1,8 +1,8 @@
 +++
 name="Pubdev"
 image="/images/platforms/pubdev.png"
-category="Plataformas"
-ring="Essencial"
+category="platforms"
+ring="essential"
 type="post"
 layout="details"
 isNew="false"

@@ -1,8 +1,8 @@
 +++
 name="Enry"
 image="/images/default-logo.png"
-category="Linguagens e Frameworks"
-ring="Essencial"
+category="languages-frameworks"
+ring="essential"
 type="post"
 layout="details"
 isNew="false"

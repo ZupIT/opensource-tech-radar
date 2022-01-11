@@ -1,8 +1,8 @@
 +++
 name="Jaeger"
 image="/images/tools/jaeger.png"
-category="Ferramentas"
-ring="Potencial"
+category="tools"
+ring="potential"
 type="post"
 layout="details"
 isNew="true"

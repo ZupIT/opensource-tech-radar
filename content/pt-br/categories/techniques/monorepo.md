@@ -1,8 +1,8 @@
 +++
 name="Monorepo"
 image="/images/default-logo.png"
-category="Técnicas"
-ring="Descontinuado"
+category="techniques"
+ring="deprecated"
 type="post"
 layout="details"
 isNew="true"

@@ -1,8 +1,8 @@
 +++
 name="Git"
 image="/images/tools/git.png"
-category="Tools"
-ring="Strategic"
+category="tools"
+ring="strategic"
 type="post"
 layout="details"
 isNew="true"

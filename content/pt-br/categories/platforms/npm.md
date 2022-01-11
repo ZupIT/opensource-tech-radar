@@ -1,8 +1,8 @@
 +++
 name="NPM"
 image="/images/platforms/npm.png"
-category="Plataformas"
-ring="Essencial"
+category="platforms"
+ring="essential"
 type="post"
 layout="details"
 isNew="false"

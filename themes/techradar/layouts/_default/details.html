@@ -65,7 +65,7 @@
           </div>
   
           <div class="row mt-3">
-            {{ $relateds := where (where .Site.Pages "Params.ring" $ring.Params.Title) "Params.name" "!=" .Params.Name }}
+            {{ $relateds := where (where .Site.Pages "Params.ring" $ring.Params.id) "Params.name" "!=" .Params.Name }}
             {{ range $related := first 3 $relateds }}
             <div class="col-4">
               <div class="cp-framework">
@@ -83,7 +83,7 @@
                       <div class="col-auto ms-2">
                         <p class="cp-framework-title">{{ $related.Params.Name }}</p>
   
-                        <p class="cp-framework-category">{{ $related.Params.Ring }}</p>
+                        <p class="cp-framework-category">{{ $ring.Name }}</p>
                       </div>
                     </div>
                   </div>

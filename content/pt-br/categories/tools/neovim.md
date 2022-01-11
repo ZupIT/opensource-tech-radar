@@ -1,8 +1,8 @@
 +++
 name="Neovim"
 image="/images/tools/neovim.png"
-category="Ferramentas"
-ring="Estratégico"
+category="tools"
+ring="strategic"
 type="post"
 layout="details"
 isNew="true"

@@ -1,8 +1,8 @@
 +++
 name="Amazon CodeBuild"
 image="/images/platforms/aws-codebuild.png"
-category="Plataformas"
-ring="Estratégico"
+category="platforms"
+ring="strategic"
 type="post"
 layout="details"
 isNew="false"

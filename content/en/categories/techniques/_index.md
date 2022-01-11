@@ -1,4 +1,5 @@
 +++
+id="techniques"
 title="Techniques"
 description="Languages, frameworks and libraries."
 type="pages"

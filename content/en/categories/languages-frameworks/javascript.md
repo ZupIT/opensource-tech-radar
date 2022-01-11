@@ -1,8 +1,8 @@
 +++
 name="JavaScript"
 image="/images/languages-frameworks/js.png"
-category="Languages and Frameworks"
-ring="Strategic"
+category="languages-frameworks"
+ring="strategic"
 type="post"
 layout="details"
 isNew="true"

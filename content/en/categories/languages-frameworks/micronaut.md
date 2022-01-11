@@ -1,8 +1,8 @@
 +++
 name="Micronaut"
 image="/images/languages-frameworks/micronaut.png"
-category="Languages and Frameworks"
-ring="Strategic"
+category="languages-frameworks"
+ring="strategic"
 type="post"
 layout="details"
 isNew="false"
