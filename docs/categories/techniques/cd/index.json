@@ -2,12 +2,19 @@
   "data" :  {
   "name": "CI",
   "image" : "/images/techiques/ic.png",
-  "category" : "Platforms",
+  "category" : "Techniques",
   "description" : "A Software Engineering approach in which software functionalities are frequently delivered through automated deployments.",
-  "ring" : "Techniques",
+  
   "permalink" : "https://opensource.zup.com.br/radar/categories/techniques/cd/",
   "related": [
     
+    
+    {
+      "name": "CI",
+      
+      "image": "/images/techiques/ic.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/techniques/cd/"
+    },
     
     {}
   ]

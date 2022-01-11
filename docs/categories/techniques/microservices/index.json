@@ -1,34 +1,42 @@
 {
   "data" :  {
-  "name": "Microsserviços",
+  "name": "Microservices",
   "image" : "/images/techiques/microservices.png",
   "category" : "Techniques",
   "description" : "It is an architecture model where the services are refined and the protocols are light, and that is why they are called microservices. The goal is for teams to be able to carry out their services independently of others.",
+  
   "ring" : "Strategic",
+  
   "permalink" : "https://opensource.zup.com.br/radar/categories/techniques/microservices/",
   "related": [
     
     
-      {
-        "name": "Appium",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/appium.png",
-        "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/appium/"
-      },
+    {
+      "name": "Appium",
+      
+        "ring" : "Strategic",
+      
+      "image": "/images/languages-frameworks/appium.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/appium/"
+    },
     
-      {
-        "name": "Dart Programming Language",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/dart.png",
-        "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/dart/"
-      },
+    {
+      "name": "Dart Programming Language",
+      
+        "ring" : "Strategic",
+      
+      "image": "/images/languages-frameworks/dart.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/dart/"
+    },
     
-      {
-        "name": "Detekt",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/detekt.png",
-        "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/detekt/"
-      },
+    {
+      "name": "Detekt",
+      
+        "ring" : "Strategic",
+      
+      "image": "/images/languages-frameworks/detekt.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/detekt/"
+    },
     
     {}
   ]

@@ -4,31 +4,39 @@
   "image" : "/images/languages-frameworks/golang.png",
   "category" : "Linguagens e Frameworks",
   "description" : "Uma linguagem de programação criada pela Google e lançada em código livre em novembro de 2009. É uma linguagem compilada e focada em produtividade e programação concorrente.",
+  
   "ring" : "Estratégico",
+  
   "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/golang/",
   "related": [
     
     
-      {
-        "name": "Appium",
-        "ring": "Estratégico",
-        "image": "/images/languages-frameworks/appium.png",
-        "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/appium/"
-      },
+    {
+      "name": "Appium",
+      
+        "ring" : "Estratégico",
+      
+      "image": "/images/languages-frameworks/appium.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/appium/"
+    },
     
-      {
-        "name": "Dart Programming Language",
-        "ring": "Estratégico",
-        "image": "/images/languages-frameworks/dart.png",
-        "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/dart/"
-      },
+    {
+      "name": "Dart Programming Language",
+      
+        "ring" : "Estratégico",
+      
+      "image": "/images/languages-frameworks/dart.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/dart/"
+    },
     
-      {
-        "name": "Detekt",
-        "ring": "Estratégico",
-        "image": "/images/languages-frameworks/detekt.png",
-        "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/detekt/"
-      },
+    {
+      "name": "Detekt",
+      
+        "ring" : "Estratégico",
+      
+      "image": "/images/languages-frameworks/detekt.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/detekt/"
+    },
     
     {}
   ]

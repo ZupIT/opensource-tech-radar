@@ -4,24 +4,39 @@
   "image" : "/images/default-logo.png",
   "category" : "Técnicas",
   "description" : "Em sistemas de controle de versão, um monorepo ('mono' significa 'único' e 'repo' sendo a abreviação0 de 'repositório') é uma estratégia de desenvolvimento de software em que o código de muitos projetos é armazenado no mesmo repositório.",
+  
   "ring" : "Descontinuado",
+  
   "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/techniques/monorepo/",
   "related": [
     
     
-      {
-        "name": "Micro Frontend",
-        "ring": "Descontinuado",
-        "image": "/images/default-logo.png",
-        "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/techniques/micro-frontend/"
-      },
+    {
+      "name": "Micro Frontend",
+      
+        "ring" : "Descontinuado",
+      
+      "image": "/images/default-logo.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/techniques/micro-frontend/"
+    },
     
-      {
-        "name": "Spotbugs",
-        "ring": "Descontinuado",
-        "image": "/images/default-logo.png",
-        "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/tools/spotbugs/"
-      },
+    {
+      "name": "Monorepo",
+      
+        "ring" : "Descontinuado",
+      
+      "image": "/images/default-logo.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/techniques/monorepo/"
+    },
+    
+    {
+      "name": "Spotbugs",
+      
+        "ring" : "Descontinuado",
+      
+      "image": "/images/default-logo.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/tools/spotbugs/"
+    },
     
     {}
   ]

@@ -4,31 +4,39 @@
   "image" : "/images/default-logo.png",
   "category" : "Técnicas",
   "description" : "Em ciência da computação, a concorrência ocorre quando existem dois ou mais processos executados em simultâneo; mais especificamente, o termo é utilizado quando processos disputam o acesso a recursos partilhados",
+  
   "ring" : "Estratégico",
+  
   "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/techniques/concurrence/",
   "related": [
     
     
-      {
-        "name": "Appium",
-        "ring": "Estratégico",
-        "image": "/images/languages-frameworks/appium.png",
-        "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/appium/"
-      },
+    {
+      "name": "Appium",
+      
+        "ring" : "Estratégico",
+      
+      "image": "/images/languages-frameworks/appium.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/appium/"
+    },
     
-      {
-        "name": "Dart Programming Language",
-        "ring": "Estratégico",
-        "image": "/images/languages-frameworks/dart.png",
-        "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/dart/"
-      },
+    {
+      "name": "Dart Programming Language",
+      
+        "ring" : "Estratégico",
+      
+      "image": "/images/languages-frameworks/dart.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/dart/"
+    },
     
-      {
-        "name": "Detekt",
-        "ring": "Estratégico",
-        "image": "/images/languages-frameworks/detekt.png",
-        "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/detekt/"
-      },
+    {
+      "name": "Detekt",
+      
+        "ring" : "Estratégico",
+      
+      "image": "/images/languages-frameworks/detekt.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/detekt/"
+    },
     
     {}
   ]

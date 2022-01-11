@@ -689,25 +689,21 @@
   </url>
   
   <url>
-    <loc>https://opensource.zup.com.br/radar/categories/techniques/micro-services/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://opensource.zup.com.br/radar/pt-br/categories/techniques/micro-services/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://opensource.zup.com.br/radar/categories/techniques/micro-services/"
-                />
-  </url>
-  
-  <url>
     <loc>https://opensource.zup.com.br/radar/categories/techniques/microfrontend/</loc>
   </url>
   
   <url>
     <loc>https://opensource.zup.com.br/radar/categories/techniques/microservices/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://opensource.zup.com.br/radar/pt-br/categories/techniques/microservices/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://opensource.zup.com.br/radar/categories/techniques/microservices/"
+                />
   </url>
   
   <url>

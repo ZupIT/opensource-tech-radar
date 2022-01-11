@@ -4,31 +4,39 @@
   "image" : "/images/default-logo.png",
   "category" : "Techniques",
   "description" : "CI/CD, continuous integration/continuous delivery, is a method to frequently deliver applications to clients. For this, automation is applied in the application development stages. The main concepts attributed to this method are continuous integration, delivery, and deployment. With CI/CD it is possible to troubleshoot problems that the integration of new codes can cause to the operation and development teams (the famous "Integration Hell")",
+  
   "ring" : "Strategic",
+  
   "permalink" : "https://opensource.zup.com.br/radar/categories/techniques/cicd/",
   "related": [
     
     
-      {
-        "name": "Appium",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/appium.png",
-        "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/appium/"
-      },
+    {
+      "name": "Appium",
+      
+        "ring" : "Strategic",
+      
+      "image": "/images/languages-frameworks/appium.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/appium/"
+    },
     
-      {
-        "name": "Dart Programming Language",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/dart.png",
-        "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/dart/"
-      },
+    {
+      "name": "Dart Programming Language",
+      
+        "ring" : "Strategic",
+      
+      "image": "/images/languages-frameworks/dart.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/dart/"
+    },
     
-      {
-        "name": "Detekt",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/detekt.png",
-        "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/detekt/"
-      },
+    {
+      "name": "Detekt",
+      
+        "ring" : "Strategic",
+      
+      "image": "/images/languages-frameworks/detekt.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/detekt/"
+    },
     
     {}
   ]

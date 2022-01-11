@@ -1,34 +1,42 @@
 {
   "data" :  {
-  "name": "Microsserviços",
+  "name": "Micro serviços",
   "image" : "/images/techiques/microservices.png",
-  "category" : "Techniques",
-  "description" : "Modelo de arquitetura no qual os serviços são refinados e os protocolos são leves e, por isso, são chamados de microsserviços. O objetivo é que as equipes possam levar seus serviços independentes dos outros.",
-  "ring" : "Strategic",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/microservices/",
+  "category" : "Técnicas",
+  "description" : "Em uma arquitetura de microsserviços, os serviços são refinados e os protocolos são leves. O objetivo é que as equipes possam levar seus serviços independentes dos outros",
+  
+  "ring" : "Estratégico",
+  
+  "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/techniques/microservices/",
   "related": [
     
     
-      {
-        "name": "Docker SDK",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/docker.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/docker/"
-      },
+    {
+      "name": "Appium",
+      
+        "ring" : "Estratégico",
+      
+      "image": "/images/languages-frameworks/appium.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/appium/"
+    },
     
-      {
-        "name": "Go",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/go.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/go/"
-      },
+    {
+      "name": "Dart Programming Language",
+      
+        "ring" : "Estratégico",
+      
+      "image": "/images/languages-frameworks/dart.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/dart/"
+    },
     
-      {
-        "name": "Horusec Engine",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/horusec.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/horusec/"
-      },
+    {
+      "name": "Detekt",
+      
+        "ring" : "Estratégico",
+      
+      "image": "/images/languages-frameworks/detekt.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/detekt/"
+    },
     
     {}
   ]

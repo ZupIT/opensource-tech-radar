@@ -4,17 +4,30 @@
   "image" : "/images/platforms/aws.png",
   "category" : "Platforms",
   "description" : "AWS is the team's official cloud provider. It offers services to make day-to-day activities easier, for example, storage, network, analytics, etc.",
+  
   "ring" : "Potential",
+  
   "permalink" : "https://opensource.zup.com.br/radar/categories/platforms/aws/",
   "related": [
     
     
-      {
-        "name": "Docker-SDK",
-        "ring": "Potential",
-        "image": "/images/languages-frameworks/docker.png",
-        "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/docker/"
-      },
+    {
+      "name": "Docker-SDK",
+      
+        "ring" : "Potential",
+      
+      "image": "/images/languages-frameworks/docker.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/docker/"
+    },
+    
+    {
+      "name": "Amazon AWS",
+      
+        "ring" : "Potential",
+      
+      "image": "/images/platforms/aws.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/platforms/aws/"
+    },
     
     {}
   ]

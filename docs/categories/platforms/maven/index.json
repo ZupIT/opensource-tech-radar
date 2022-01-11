@@ -4,31 +4,39 @@
   "image" : "/images/platforms/maven.png",
   "category" : "Platforms",
   "description" : "Apache Maven is a software project management tool based on the Project Object Model (POM) concept. It can manage the building, reporting, and documentation of a project from central information.",
+  
   "ring" : "Essential",
+  
   "permalink" : "https://opensource.zup.com.br/radar/categories/platforms/maven/",
   "related": [
     
     
-      {
-        "name": "Angular",
-        "ring": "Essential",
-        "image": "/images/languages-frameworks/angular.png",
-        "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/angular/"
-      },
+    {
+      "name": "Angular",
+      
+        "ring" : "Essential",
+      
+      "image": "/images/languages-frameworks/angular.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/angular/"
+    },
     
-      {
-        "name": "Cypress",
-        "ring": "Essential",
-        "image": "/images/languages-frameworks/cypress.png",
-        "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/cypress/"
-      },
+    {
+      "name": "Cypress",
+      
+        "ring" : "Essential",
+      
+      "image": "/images/languages-frameworks/cypress.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/cypress/"
+    },
     
-      {
-        "name": "Enry",
-        "ring": "Essential",
-        "image": "/images/languages-frameworks/enry.png",
-        "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/enry/"
-      },
+    {
+      "name": "Enry",
+      
+        "ring" : "Essential",
+      
+      "image": "/images/languages-frameworks/enry.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/enry/"
+    },
     
     {}
   ]

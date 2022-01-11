@@ -4,31 +4,39 @@
   "image" : "/images/languages-frameworks/dart.png",
   "category" : "Linguagens e Frameworks",
   "description" : "Linguagem de programação otimizada para o desenvolvimento de aplicações multi-plataforma.",
+  
   "ring" : "Estratégico",
+  
   "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/dart/",
   "related": [
     
     
-      {
-        "name": "Appium",
-        "ring": "Estratégico",
-        "image": "/images/languages-frameworks/appium.png",
-        "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/appium/"
-      },
+    {
+      "name": "Appium",
+      
+        "ring" : "Estratégico",
+      
+      "image": "/images/languages-frameworks/appium.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/appium/"
+    },
     
-      {
-        "name": "Detekt",
-        "ring": "Estratégico",
-        "image": "/images/languages-frameworks/detekt.png",
-        "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/detekt/"
-      },
+    {
+      "name": "Dart Programming Language",
+      
+        "ring" : "Estratégico",
+      
+      "image": "/images/languages-frameworks/dart.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/dart/"
+    },
     
-      {
-        "name": "Docker SDK",
-        "ring": "Estratégico",
-        "image": "/images/languages-frameworks/docker-sdk.png",
-        "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/docker-sdk/"
-      },
+    {
+      "name": "Detekt",
+      
+        "ring" : "Estratégico",
+      
+      "image": "/images/languages-frameworks/detekt.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/detekt/"
+    },
     
     {}
   ]
