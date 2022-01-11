@@ -29,15 +29,6 @@
       "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/techniques/monorepo/"
     },
     
-    {
-      "name": "Spotbugs",
-      
-        "ring" : "Descontinuado",
-      
-      "image": "/images/default-logo.png",
-      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/tools/spotbugs/"
-    },
-    
     {}
   ]
 } 

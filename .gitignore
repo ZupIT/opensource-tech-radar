@@ -8,3 +8,4 @@ hugo.darwin
 node_modules
 dist
 tmp
+docs

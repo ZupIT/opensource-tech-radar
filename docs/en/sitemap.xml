@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://opensource.zup.com.br/radar/docs/</loc>
     <xhtml:link
@@ -14,9 +13,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/docs/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/rings/strategic/</loc>
     <xhtml:link
                 rel="alternate"
@@ -28,9 +25,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/rings/strategic/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/rings/essential/</loc>
     <xhtml:link
                 rel="alternate"
@@ -42,9 +37,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/rings/essential/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/radar/</loc>
     <xhtml:link
                 rel="alternate"
@@ -56,9 +49,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/radar/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -70,9 +61,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/about/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/rings/potential/</loc>
     <xhtml:link
                 rel="alternate"
@@ -84,9 +73,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/rings/potential/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/rings/deprecated/</loc>
     <xhtml:link
                 rel="alternate"
@@ -98,9 +85,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/rings/deprecated/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/languages-frameworks/angular/</loc>
     <xhtml:link
                 rel="alternate"
@@ -112,9 +97,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/languages-frameworks/angular/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/languages-frameworks/appium/</loc>
     <xhtml:link
                 rel="alternate"
@@ -126,9 +109,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/languages-frameworks/appium/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/languages-frameworks/cypress/</loc>
     <xhtml:link
                 rel="alternate"
@@ -140,9 +121,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/languages-frameworks/cypress/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/languages-frameworks/dart/</loc>
     <xhtml:link
                 rel="alternate"
@@ -154,9 +133,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/languages-frameworks/dart/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/languages-frameworks/detekt/</loc>
     <xhtml:link
                 rel="alternate"
@@ -168,13 +145,9 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/languages-frameworks/detekt/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/languages-frameworks/docker/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/languages-frameworks/enry/</loc>
     <xhtml:link
                 rel="alternate"
@@ -186,9 +159,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/languages-frameworks/enry/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/languages-frameworks/flutter/</loc>
     <xhtml:link
                 rel="alternate"
@@ -200,13 +171,9 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/languages-frameworks/flutter/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/languages-frameworks/go/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/languages-frameworks/gorm/</loc>
     <xhtml:link
                 rel="alternate"
@@ -218,9 +185,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/languages-frameworks/gorm/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/languages-frameworks/grpc/</loc>
     <xhtml:link
                 rel="alternate"
@@ -232,9 +197,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/languages-frameworks/grpc/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/languages-frameworks/horusec/</loc>
     <xhtml:link
                 rel="alternate"
@@ -246,9 +209,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/languages-frameworks/horusec/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/languages-frameworks/javascript/</loc>
     <xhtml:link
                 rel="alternate"
@@ -260,9 +221,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/languages-frameworks/javascript/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/languages-frameworks/jest/</loc>
     <xhtml:link
                 rel="alternate"
@@ -274,9 +233,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/languages-frameworks/jest/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/languages-frameworks/junit/</loc>
     <xhtml:link
                 rel="alternate"
@@ -288,9 +245,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/languages-frameworks/junit/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/languages-frameworks/kotlin-coroutines/</loc>
     <xhtml:link
                 rel="alternate"
@@ -302,9 +257,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/languages-frameworks/kotlin-coroutines/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/languages-frameworks/kotlin/</loc>
     <xhtml:link
                 rel="alternate"
@@ -316,13 +269,9 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/languages-frameworks/kotlin/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/languages-frameworks/kubernetes/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/languages-frameworks/micronaut/</loc>
     <xhtml:link
                 rel="alternate"
@@ -334,9 +283,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/languages-frameworks/micronaut/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/languages-frameworks/react/</loc>
     <xhtml:link
                 rel="alternate"
@@ -348,9 +295,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/languages-frameworks/react/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/languages-frameworks/spring-boot/</loc>
     <xhtml:link
                 rel="alternate"
@@ -362,9 +307,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/languages-frameworks/spring-boot/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/languages-frameworks/swift/</loc>
     <xhtml:link
                 rel="alternate"
@@ -376,9 +319,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/languages-frameworks/swift/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/languages-frameworks/typescript/</loc>
     <xhtml:link
                 rel="alternate"
@@ -390,9 +331,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/languages-frameworks/typescript/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/languages-frameworks/xctest/</loc>
     <xhtml:link
                 rel="alternate"
@@ -404,9 +343,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/languages-frameworks/xctest/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/languages-frameworks/yoga/</loc>
     <xhtml:link
                 rel="alternate"
@@ -418,9 +355,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/languages-frameworks/yoga/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/platforms/amazon-cloud-front/</loc>
     <xhtml:link
                 rel="alternate"
@@ -432,9 +367,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/platforms/amazon-cloud-front/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/platforms/amazon-cloud-watch/</loc>
     <xhtml:link
                 rel="alternate"
@@ -446,9 +379,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/platforms/amazon-cloud-watch/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/platforms/amazon-codebuild/</loc>
     <xhtml:link
                 rel="alternate"
@@ -460,9 +391,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/platforms/amazon-codebuild/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/platforms/amazon-ecr/</loc>
     <xhtml:link
                 rel="alternate"
@@ -474,9 +403,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/platforms/amazon-ecr/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/platforms/amazon-s3/</loc>
     <xhtml:link
                 rel="alternate"
@@ -488,17 +415,11 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/platforms/amazon-s3/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/platforms/artifact/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/platforms/aws/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/platforms/cocoa-pods/</loc>
     <xhtml:link
                 rel="alternate"
@@ -510,9 +431,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/platforms/cocoa-pods/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/platforms/dockerhub/</loc>
     <xhtml:link
                 rel="alternate"
@@ -524,9 +443,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/platforms/dockerhub/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/platforms/github/</loc>
     <xhtml:link
                 rel="alternate"
@@ -538,9 +455,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/platforms/github/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/platforms/iam/</loc>
     <xhtml:link
                 rel="alternate"
@@ -552,9 +467,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/platforms/iam/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/platforms/maven/</loc>
     <xhtml:link
                 rel="alternate"
@@ -566,9 +479,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/platforms/maven/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/platforms/npm/</loc>
     <xhtml:link
                 rel="alternate"
@@ -580,9 +491,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/platforms/npm/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/platforms/pubdev/</loc>
     <xhtml:link
                 rel="alternate"
@@ -594,9 +503,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/platforms/pubdev/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/platforms/shortcut/</loc>
     <xhtml:link
                 rel="alternate"
@@ -608,13 +515,9 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/platforms/shortcut/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/techniques/cd/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/techniques/cicd/</loc>
     <xhtml:link
                 rel="alternate"
@@ -626,9 +529,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/techniques/cicd/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/techniques/composite/</loc>
     <xhtml:link
                 rel="alternate"
@@ -640,9 +541,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/techniques/composite/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/techniques/concurrence/</loc>
     <xhtml:link
                 rel="alternate"
@@ -654,9 +553,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/techniques/concurrence/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/techniques/decorator/</loc>
     <xhtml:link
                 rel="alternate"
@@ -668,9 +565,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/techniques/decorator/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/techniques/functional-programming/</loc>
     <xhtml:link
                 rel="alternate"
@@ -682,17 +577,11 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/techniques/functional-programming/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/techniques/ic/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/techniques/microfrontend/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/techniques/microservices/</loc>
     <xhtml:link
                 rel="alternate"
@@ -704,9 +593,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/techniques/microservices/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/techniques/monorepo/</loc>
     <xhtml:link
                 rel="alternate"
@@ -718,9 +605,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/techniques/monorepo/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/techniques/visitor/</loc>
     <xhtml:link
                 rel="alternate"
@@ -732,9 +617,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/techniques/visitor/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/techniques/websocket/</loc>
     <xhtml:link
                 rel="alternate"
@@ -746,9 +629,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/techniques/websocket/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/tools/android-studio/</loc>
     <xhtml:link
                 rel="alternate"
@@ -760,9 +641,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/tools/android-studio/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/tools/eslint/</loc>
     <xhtml:link
                 rel="alternate"
@@ -774,9 +653,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/tools/eslint/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/tools/git/</loc>
     <xhtml:link
                 rel="alternate"
@@ -788,9 +665,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/tools/git/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/tools/helm/</loc>
     <xhtml:link
                 rel="alternate"
@@ -802,9 +677,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/tools/helm/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/tools/husky/</loc>
     <xhtml:link
                 rel="alternate"
@@ -816,9 +689,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/tools/husky/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/tools/intellij/</loc>
     <xhtml:link
                 rel="alternate"
@@ -830,9 +701,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/tools/intellij/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/tools/lerna/</loc>
     <xhtml:link
                 rel="alternate"
@@ -844,9 +713,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/tools/lerna/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/tools/moshi/</loc>
     <xhtml:link
                 rel="alternate"
@@ -858,9 +725,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/tools/moshi/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/tools/nock/</loc>
     <xhtml:link
                 rel="alternate"
@@ -872,9 +737,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/tools/nock/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/tools/node-fetch/</loc>
     <xhtml:link
                 rel="alternate"
@@ -886,9 +749,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/tools/node-fetch/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/tools/nodemon/</loc>
     <xhtml:link
                 rel="alternate"
@@ -900,9 +761,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/tools/nodemon/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/tools/visual-studio-code/</loc>
     <xhtml:link
                 rel="alternate"
@@ -914,9 +773,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/tools/visual-studio-code/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/tools/xcode/</loc>
     <xhtml:link
                 rel="alternate"
@@ -928,9 +785,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/tools/xcode/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -942,9 +797,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -956,9 +809,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/csv/</loc>
     <xhtml:link
                 rel="alternate"
@@ -970,9 +821,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/csv/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/languages-frameworks/</loc>
     <xhtml:link
                 rel="alternate"
@@ -984,9 +833,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/languages-frameworks/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/platforms/</loc>
     <xhtml:link
                 rel="alternate"
@@ -998,9 +845,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/platforms/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/rings/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1012,9 +857,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/rings/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/search/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1026,9 +869,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/search/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1040,9 +881,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1054,9 +893,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/techniques/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1068,9 +905,7 @@
                 hreflang="en"
                 href="https://opensource.zup.com.br/radar/categories/techniques/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://opensource.zup.com.br/radar/categories/tools/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1083,5 +918,4 @@
                 href="https://opensource.zup.com.br/radar/categories/tools/"
                 />
   </url>
-  
 </urlset>

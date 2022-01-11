@@ -21,21 +21,21 @@
     },
     
     {
-      "name": "Dart Programming Language",
-      
-        "ring" : "Estratégico",
-      
-      "image": "/images/languages-frameworks/dart.png",
-      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/dart/"
-    },
-    
-    {
       "name": "Detekt",
       
         "ring" : "Estratégico",
       
       "image": "/images/languages-frameworks/detekt.png",
       "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/detekt/"
+    },
+    
+    {
+      "name": "Docker SDK",
+      
+        "ring" : "Estratégico",
+      
+      "image": "/images/languages-frameworks/docker-sdk.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/docker-sdk/"
     },
     
     {}
