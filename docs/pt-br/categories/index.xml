@@ -6,867 +6,39 @@
     <description>Recent content in Categories on Tech Radar - Opensource - Zup I.T</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://opensource.zup.com.br/radar/pt-br/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/angular/</link>
+      <title>Ferramentas</title>
+      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/angular/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
+      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/appium/</link>
+      <title>Linguagens e Frameworks</title>
+      <link>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/appium/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
+      <guid>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/cypress/</link>
+      <title>Plataformas</title>
+      <link>https://opensource.zup.com.br/radar/pt-br/categories/platforms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/cypress/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
+      <guid>https://opensource.zup.com.br/radar/pt-br/categories/platforms/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/dart/</link>
+      <title>Técnicas</title>
+      <link>https://opensource.zup.com.br/radar/pt-br/categories/techniques/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/dart/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/detekt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/detekt/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/docker-sdk/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/docker-sdk/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/enry/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/enry/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/flutter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/flutter/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/golang/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/golang/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/gorm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/gorm/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/grpc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/grpc/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/horusec-engine/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/horusec-engine/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/horusec/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/horusec/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/javascript/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/javascript/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/jest/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/jest/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/junit/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/junit/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/kotlin-coroutines/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/kotlin-coroutines/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/kotlin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/kotlin/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/kubernetes-operator-sdk/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/kubernetes-operator-sdk/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/micronaut/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/micronaut/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/react/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/react/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/spring-boot/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/spring-boot/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/swift/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/swift/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/typescript/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/typescript/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/wire/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/wire/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/xctest/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/xctest/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/yoga/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/yoga/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/platforms/amazon-cloud-front/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/platforms/amazon-cloud-front/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/platforms/amazon-cloud-watch/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/platforms/amazon-cloud-watch/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/platforms/amazon-codebuild/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/platforms/amazon-codebuild/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/platforms/amazon-ecr/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/platforms/amazon-ecr/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/platforms/amazon-eks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/platforms/amazon-eks/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/platforms/amazon-s3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/platforms/amazon-s3/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/platforms/artifacthub/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/platforms/artifacthub/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/platforms/cocoa-pods/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/platforms/cocoa-pods/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/platforms/dockerhub/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/platforms/dockerhub/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/platforms/github/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/platforms/github/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/platforms/iam/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/platforms/iam/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/platforms/maven/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/platforms/maven/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/platforms/miro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/platforms/miro/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/platforms/npm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/platforms/npm/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/platforms/pubdev/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/platforms/pubdev/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/platforms/shortcut/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/platforms/shortcut/</guid>
-      <description>O que é? Como utilizamos? Onde ? Recursos   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/techniques/abstract-syntax-tree/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/techniques/abstract-syntax-tree/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/techniques/cicd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/techniques/cicd/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/techniques/composite/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/techniques/composite/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/techniques/concurrence/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/techniques/concurrence/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/techniques/continuous-integration/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/techniques/continuous-integration/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/techniques/decorator/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/techniques/decorator/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/techniques/functional-programming/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/techniques/functional-programming/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/techniques/micro-frontend/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/techniques/micro-frontend/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/techniques/microservices/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/techniques/microservices/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/techniques/monorepo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/techniques/monorepo/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/techniques/parse-tree/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/techniques/parse-tree/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/techniques/visitor/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/techniques/visitor/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/techniques/websocket/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/techniques/websocket/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/android-studio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/android-studio/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/bandit/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/bandit/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/brakeman/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/brakeman/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/bundler-audit/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/bundler-audit/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/checkov/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/checkov/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/dotnet-cli/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/dotnet-cli/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/eslint/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/eslint/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/flawfinder/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/flawfinder/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/git/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/git/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/helm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/helm/</guid>
-      <description>What is it ?  Why ?  For who ?  Resources    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/husky/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/husky/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/intellij/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/intellij/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/jaeger/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/jaeger/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/keycloak/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/keycloak/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/ldap/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/ldap/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/lerna/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/lerna/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/mix-audit/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/mix-audit/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/moshi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/moshi/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/nancy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/nancy/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/neovim/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/neovim/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/nock/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/nock/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/node-fetch/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/node-fetch/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/nodemon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/nodemon/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/npm-audit/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/npm-audit/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/owsap-dependency-check/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/owsap-dependency-check/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/php-code-scan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/php-code-scan/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/postgres/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/postgres/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/rabbitmq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/rabbitmq/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/safety/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/safety/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/security-code-scan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/security-code-scan/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/semgrep/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/semgrep/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/shellcheck/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/shellcheck/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/sobelow/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/sobelow/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/spotbugs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/spotbugs/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/tfsec/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/tfsec/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/tree-sitter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/tree-sitter/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/trivy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/trivy/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/visual-studio-code/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/visual-studio-code/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/xcode/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/xcode/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensource.zup.com.br/radar/pt-br/categories/tools/yarn-audit/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensource.zup.com.br/radar/pt-br/categories/tools/yarn-audit/</guid>
-      <description>O que é?  Como utilizamos?  Onde ?  Recursos    </description>
+      <guid>https://opensource.zup.com.br/radar/pt-br/categories/techniques/</guid>
+      <description>Tecnicas Ferramentas Linguagens e Frameworks Serviços </description>
     </item>
     
   </channel>
