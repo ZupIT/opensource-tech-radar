@@ -12,6 +12,15 @@
     
     
     {
+      "name": "Appium",
+      
+        "ring" : "Strategic",
+      
+      "image": "/images/languages-frameworks/appium.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/appium/"
+    },
+    
+    {
       "name": "Dart Programming Language",
       
         "ring" : "Strategic",
@@ -27,15 +36,6 @@
       
       "image": "/images/languages-frameworks/detekt.png",
       "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/detekt/"
-    },
-    
-    {
-      "name": "Go",
-      
-        "ring" : "Strategic",
-      
-      "image": "/images/languages-frameworks/go.png",
-      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/go/"
     },
     
     {}

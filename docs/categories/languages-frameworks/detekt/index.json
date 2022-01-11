@@ -30,12 +30,12 @@
     },
     
     {
-      "name": "Go",
+      "name": "Detekt",
       
         "ring" : "Strategic",
       
-      "image": "/images/languages-frameworks/go.png",
-      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/go/"
+      "image": "/images/languages-frameworks/detekt.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/detekt/"
     },
     
     {}

@@ -30,12 +30,12 @@
     },
     
     {
-      "name": "Docker SDK",
+      "name": "Detekt",
       
         "ring" : "Estratégico",
       
-      "image": "/images/languages-frameworks/docker-sdk.png",
-      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/docker-sdk/"
+      "image": "/images/languages-frameworks/detekt.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/detekt/"
     },
     
     {}

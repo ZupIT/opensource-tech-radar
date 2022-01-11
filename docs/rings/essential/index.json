@@ -474,7 +474,7 @@
     },
     
     {
-      "name": "<no value>",
+      "name": "Essential",
       
         "ring" : "<no value>",
       
@@ -626,8 +626,8 @@
       
         "ring" : "<no value>",
       
-      "image": "<no value>",
-      "permalink" : "https://opensource.zup.com.br/radar/radar/"
+      "image": "images/rings/essential.png",
+      "permalink" : "https://opensource.zup.com.br/radar/rings/essential/"
     },
     
     {}

@@ -12,6 +12,15 @@
     
     
     {
+      "name": "Artifact Hub",
+      
+        "ring" : "Potencial",
+      
+      "image": "/images/platforms/artifacthub.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/platforms/artifacthub/"
+    },
+    
+    {
       "name": "Jaeger",
       
         "ring" : "Potencial",

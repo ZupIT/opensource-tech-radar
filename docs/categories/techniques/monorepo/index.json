@@ -20,6 +20,15 @@
       "permalink" : "https://opensource.zup.com.br/radar/categories/techniques/microfrontend/"
     },
     
+    {
+      "name": "Monorepo",
+      
+        "ring" : "Deprecated",
+      
+      "image": "/images/techiques/monorepo.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/techniques/monorepo/"
+    },
+    
     {}
   ]
 } 

@@ -12,6 +12,15 @@
     
     
     {
+      "name": "Micro Frontend",
+      
+        "ring" : "Descontinuado",
+      
+      "image": "/images/default-logo.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/techniques/micro-frontend/"
+    },
+    
+    {
       "name": "Monorepo",
       
         "ring" : "Descontinuado",
