@@ -21,15 +21,6 @@
     },
     
     {
-      "name": "Jaeger",
-      
-        "ring" : "Potencial",
-      
-      "image": "/images/tools/jaeger.png",
-      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/tools/jaeger/"
-    },
-    
-    {
       "name": "Tree-sitter",
       
         "ring" : "Potencial",

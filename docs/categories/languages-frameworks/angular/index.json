@@ -12,15 +12,6 @@
     
     
     {
-      "name": "Angular",
-      
-        "ring" : "Essential",
-      
-      "image": "/images/languages-frameworks/angular.png",
-      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/angular/"
-    },
-    
-    {
       "name": "Cypress",
       
         "ring" : "Essential",
@@ -36,6 +27,15 @@
       
       "image": "/images/languages-frameworks/enry.png",
       "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/enry/"
+    },
+    
+    {
+      "name": "Flutter",
+      
+        "ring" : "Essential",
+      
+      "image": "/images/languages-frameworks/flutter.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/flutter/"
     },
     
     {}

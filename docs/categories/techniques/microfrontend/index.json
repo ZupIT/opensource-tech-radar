@@ -12,15 +12,6 @@
     
     
     {
-      "name": "Micro Frontend",
-      
-        "ring" : "Deprecated",
-      
-      "image": "/images/techiques/microfrontend.png",
-      "permalink" : "https://opensource.zup.com.br/radar/categories/techniques/microfrontend/"
-    },
-    
-    {
       "name": "Monorepo",
       
         "ring" : "Deprecated",

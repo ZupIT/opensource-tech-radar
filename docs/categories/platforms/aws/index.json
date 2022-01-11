@@ -20,15 +20,6 @@
       "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/docker/"
     },
     
-    {
-      "name": "Amazon AWS",
-      
-        "ring" : "Potential",
-      
-      "image": "/images/platforms/aws.png",
-      "permalink" : "https://opensource.zup.com.br/radar/categories/platforms/aws/"
-    },
-    
     {}
   ]
 } 
