@@ -4,31 +4,39 @@
   "image" : "/images/default-logo.png",
   "category" : "Técnicas",
   "description" : "Padrão usado em aplicações que contém estruturas de dados representadas em árvores. Permite que a cada nível de aninhamento você encapsule o comportamento do objeto, criando uma estrutura que pode ser tratada como um todo, similar a hierarquia onde o pai engloba os itens filhos.",
+  
   "ring" : "Essencial",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/composite/",
+  
+  "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/techniques/composite/",
   "related": [
     
     
-      {
-        "name": "Angular",
-        "ring": "Essencial",
-        "image": "/images/languages-frameworks/angular.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/angular/"
-      },
+    {
+      "name": "Angular",
+      
+        "ring" : "Essencial",
+      
+      "image": "/images/languages-frameworks/angular.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/angular/"
+    },
     
-      {
-        "name": "Cypress",
-        "ring": "Essencial",
-        "image": "/images/languages-frameworks/cypress.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/cypress/"
-      },
+    {
+      "name": "Cypress",
+      
+        "ring" : "Essencial",
+      
+      "image": "/images/languages-frameworks/cypress.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/cypress/"
+    },
     
-      {
-        "name": "Enry",
-        "ring": "Essencial",
-        "image": "/images/default-logo.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/enry/"
-      },
+    {
+      "name": "Enry",
+      
+        "ring" : "Essencial",
+      
+      "image": "/images/default-logo.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/enry/"
+    },
     
     {}
   ]

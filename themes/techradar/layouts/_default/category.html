@@ -1,53 +1,49 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Language.Lang }}">
+  <head>
+    {{ partial "head.html" . }}
 
-<head>
-  {{ partial "head.html" . }}
+    <title>
+      {{ if .IsHome }}
+        {{ .Site.Title }}
+      {{ else }}
+        {{ with .Title }}{{ . }} | {{ end }}
+        
+        {{ .Site.Title }}
+      {{ end }}
+    </title>
+  </head>
 
-  <title>
-    {{ if .IsHome }}
-    {{ .Site.Title }}
-    {{ else }}
-    {{ with .Title }}{{ . }} | {{ end }}
+  <body>
+    {{ partial "header.html" . }}
 
-    {{ .Site.Title }}
-    {{ end }}
-  </title>
-</head>
+    {{ partial "pagetitle.html" . }}
 
-<body>
-  {{ partial "header.html" . }}
+    <main class="pg-technologies">
+      <div class="wrapper">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-12">
+              {{ range where .Site.Pages "Params.category" .Params.id }}
+              {{ $ring := .Site.GetPage "category" .Params.ring }}
 
-  {{ partial "pagetitle.html" . }}
-
-  <main class="pg-technologies">
-    <div class="wrapper">
-      <div class="container">
-
-        <div class="cp-technology">
-          <table class="table table-borderless">
-            <thead>
-              <tr>
-                <th class="col-auto">{{ i18n "ui_rings"}}</th>
-                <th class="col-10">{{ i18n "ui_technologies"}}</th>
-                <th class="col"></th>
-              </tr>
-            </thead>
-            <tbody>
-              {{ range where .Site.Pages "Params.category" .Params.Title }}
-              <tr class="cp-technology">
-                <td>
-                  <span class="cp-badge {{ lower .Params.ring }}">{{ .Params.ring }}</span>
-                </td>
-                <td>
-                  <p class="cp-technology-description text-truncate">{{ .Params.name }}</p>
-                </td>
-                <td>
-                  <a href="{{ .Permalink }}">
-                    <img src="/icons/external.svg" alt="Icone" />
-                  </a>
-                </td>
-              </tr>
+              <div class="cp-technology">
+                <div class="row align-items-center justify-content-between">
+                  <div class="col-auto">
+                    <span class="cp-badge {{ lower .Params.ring }}">{{ $ring.Params.Name }}</span>
+                  </div>
+                  
+                  <div class="col-9">
+                    <p class="cp-technology-description">{{ .Params.Name }}</p>
+                  </div>
+              
+                  <div class="col-auto">
+                    <a href="{{ .Permalink }}">
+                      <img src="/icons/external.svg" alt="Icone" />
+                    </a>
+                  </div>
+                </div>
+              </div>
               {{ end }}
             </tbody>
           </table>

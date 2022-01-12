@@ -4,31 +4,39 @@
   "image" : "/images/default-logo.png",
   "category" : "Ferramentas",
   "description" : "Uma ferramenta projetada para encontrar problemas de segurança comuns no código Python.",
+  
   "ring" : "Estratégico",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/bandit/",
+  
+  "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/tools/bandit/",
   "related": [
     
     
-      {
-        "name": "Appium",
-        "ring": "Estratégico",
-        "image": "/images/languages-frameworks/appium.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/appium/"
-      },
+    {
+      "name": "Appium",
+      
+        "ring" : "Estratégico",
+      
+      "image": "/images/languages-frameworks/appium.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/appium/"
+    },
     
-      {
-        "name": "Dart Programming Language",
-        "ring": "Estratégico",
-        "image": "/images/languages-frameworks/dart.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/dart/"
-      },
+    {
+      "name": "Dart Programming Language",
+      
+        "ring" : "Estratégico",
+      
+      "image": "/images/languages-frameworks/dart.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/dart/"
+    },
     
-      {
-        "name": "Detekt",
-        "ring": "Estratégico",
-        "image": "/images/languages-frameworks/detekt.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/detekt/"
-      },
+    {
+      "name": "Detekt",
+      
+        "ring" : "Estratégico",
+      
+      "image": "/images/languages-frameworks/detekt.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/detekt/"
+    },
     
     {}
   ]

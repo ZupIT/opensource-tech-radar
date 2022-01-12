@@ -1,4 +1,5 @@
 +++
+id="strategic"
 name="Strategic"
 title="Strategic"
 description="Technologies within the Strategic Ring are fundamental to the projects. The teams that tested have knowledge, confidence, and fluency."

@@ -1,8 +1,8 @@
 +++
 name="Github"
 image="/images/platforms/github.png"
-category="Platforms"
-ring="Strategic"
+category="platforms"
+ring="strategic"
 type="post"
 layout="details"
 isNew="true"

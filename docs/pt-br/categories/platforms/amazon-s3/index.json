@@ -4,31 +4,39 @@
   "image" : "/images/platforms/aws-s3.png",
   "category" : "Plataformas",
   "description" : "O Amazon Simple Storage Service (Amazon S3) é um serviço de armazenamento de objetos que oferece escalabilidade, disponibilidade de dados, segurança e performance. ",
+  
   "ring" : "Estratégico",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/platforms/amazon-s3/",
+  
+  "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/platforms/amazon-s3/",
   "related": [
     
     
-      {
-        "name": "Appium",
-        "ring": "Estratégico",
-        "image": "/images/languages-frameworks/appium.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/appium/"
-      },
+    {
+      "name": "Appium",
+      
+        "ring" : "Estratégico",
+      
+      "image": "/images/languages-frameworks/appium.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/appium/"
+    },
     
-      {
-        "name": "Dart Programming Language",
-        "ring": "Estratégico",
-        "image": "/images/languages-frameworks/dart.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/dart/"
-      },
+    {
+      "name": "Dart Programming Language",
+      
+        "ring" : "Estratégico",
+      
+      "image": "/images/languages-frameworks/dart.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/dart/"
+    },
     
-      {
-        "name": "Detekt",
-        "ring": "Estratégico",
-        "image": "/images/languages-frameworks/detekt.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/detekt/"
-      },
+    {
+      "name": "Detekt",
+      
+        "ring" : "Estratégico",
+      
+      "image": "/images/languages-frameworks/detekt.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/detekt/"
+    },
     
     {}
   ]

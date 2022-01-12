@@ -1,8 +1,8 @@
 +++
 name="Npm audit"
 image="/images/platforms/npm.png"
-category="Ferramentas"
-ring="Estratégico"
+category="tools"
+ring="strategic"
 type="post"
 layout="details"
 isNew="true"

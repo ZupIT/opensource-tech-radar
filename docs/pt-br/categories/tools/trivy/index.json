@@ -4,31 +4,39 @@
   "image" : "/images/tools/trivy.png",
   "category" : "Ferramentas",
   "description" : "Uma ferramenta Software Composition Analysis (SCA) que tenta detectar vulnerabilidades divulgadas publicamente contidas nas dependências de um projeto.",
+  
   "ring" : "Estratégico",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/tools/trivy/",
+  
+  "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/tools/trivy/",
   "related": [
     
     
-      {
-        "name": "Appium",
-        "ring": "Estratégico",
-        "image": "/images/languages-frameworks/appium.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/appium/"
-      },
+    {
+      "name": "Appium",
+      
+        "ring" : "Estratégico",
+      
+      "image": "/images/languages-frameworks/appium.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/appium/"
+    },
     
-      {
-        "name": "Dart Programming Language",
-        "ring": "Estratégico",
-        "image": "/images/languages-frameworks/dart.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/dart/"
-      },
+    {
+      "name": "Dart Programming Language",
+      
+        "ring" : "Estratégico",
+      
+      "image": "/images/languages-frameworks/dart.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/dart/"
+    },
     
-      {
-        "name": "Detekt",
-        "ring": "Estratégico",
-        "image": "/images/languages-frameworks/detekt.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/detekt/"
-      },
+    {
+      "name": "Detekt",
+      
+        "ring" : "Estratégico",
+      
+      "image": "/images/languages-frameworks/detekt.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/detekt/"
+    },
     
     {}
   ]

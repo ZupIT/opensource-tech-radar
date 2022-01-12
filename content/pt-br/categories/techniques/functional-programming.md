@@ -1,8 +1,8 @@
 +++
 name="Programação Funcional"
 image="/images/default-logo.png"
-category="Técnicas"
-ring="Essencial"
+category="techniques"
+ring="essential"
 type="post"
 layout="details"
 isNew="true"

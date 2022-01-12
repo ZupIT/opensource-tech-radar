@@ -1,7 +1,7 @@
 +++
-name="Implantação Contínua"
+name="CI"
 image="/images/techiques/ic.png"
-category="Platforms"
+category="techniques"
 ring="Techniques"
 type="post"
 layout="details"

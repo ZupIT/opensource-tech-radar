@@ -2,25 +2,24 @@
   $(document).ready(() => {
     const size = 700;
     const svg = d3.select(".cp-tech-radar svg");
-    const quadrantGroupButtons = document.querySelectorAll('.pg-radar-quadrant-groups-item');
 
-    if (quadrantGroupButtons) {
-      quadrantGroupButtons.forEach((item) => {
-        item.addEventListener("mouseover", mouseoverQuadrant);
-        item.addEventListener("mouseout", mouseoutQuadrant);
-        item.addEventListener("click", selectQuadrant);
-      })
-    }
+    const radarQuadrantsFilters = $('.pg-radar-quadrant-groups-item');
+
+    radarQuadrantsFilters.hover(mouseoverQuadrant, mouseoutQuadrant);
+    radarQuadrantsFilters.click(selectQuadrant);
 
     handleSidebarItemsPageRadar();
     handleRadarModal();
 
     function selectQuadrant(e) {
       e.preventDefault();
+      radarQuadrantsFilters.removeClass('is-active');
 
-      $(e.target).addClass('is-active').siblings().removeClass('is-active')
+      const button = $(this);
 
-      const { order, startangle } = e.target.dataset;
+      button.addClass('is-active');  
+
+      const { order, startangle } = button.data();
 
       const startAngle = Number(startangle)
 
@@ -181,6 +180,7 @@
     }
 
     function redrawFullRadar() {
+      d3.selectAll(".quadrant-group").style("opacity", 1);
       $('.pg-radar-quadrant-groups-item.is-active').removeClass('is-active');
 
       removeHomeLink();

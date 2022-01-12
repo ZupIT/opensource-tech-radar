@@ -1,8 +1,8 @@
 +++
 name="React"
 image="/images/languages-frameworks/react.png"
-category="Languages and Frameworks"
-ring="Essential"
+category="languages-frameworks"
+ring="essential"
 type="post"
 layout="details"
 isNew="true"

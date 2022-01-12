@@ -1,6 +1,6 @@
 +++
+id="strategic"
 name="Estratégico"
-id="Estratégico"
 title="Estratégico"
 description="Tecnologias dentro do anel Estratégico são fundamentais para os projetos. Os times que testaram  têm conhecimento, segurança e fluência."
 image="images/rings/strategic.png"

@@ -1,8 +1,8 @@
 +++
-name="Integração Contínua"
+name="IC"
 image="/images/techiques/ic.png"
-category="Techniques"
-ring="Strategic"
+category="techniques"
+ring="strategic"
 type="post"
 layout="details"
 isNew="true"

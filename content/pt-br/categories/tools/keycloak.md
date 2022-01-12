@@ -1,8 +1,8 @@
 +++
 name="Keycloak"
 image="/images/tools/keycloak.png"
-category="Ferramentas"
-ring="Essencial"
+category="tools"
+ring="essential"
 type="post"
 layout="details"
 isNew="true"

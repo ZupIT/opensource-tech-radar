@@ -4,31 +4,39 @@
   "image" : "/images/languages-frameworks/yoga.png",
   "category" : "Linguagens e Frameworks",
   "description" : "É um motor de layout responsável por posicionar elementos em tela e criar layouts flexíveis em qualquer plataforma com um mecanismo de layout de código aberto altamente otimizado, projetado para velocidade, tamanho e facilidade de uso.",
+  
   "ring" : "Essencial",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/yoga/",
+  
+  "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/yoga/",
   "related": [
     
     
-      {
-        "name": "Angular",
-        "ring": "Essencial",
-        "image": "/images/languages-frameworks/angular.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/angular/"
-      },
+    {
+      "name": "Angular",
+      
+        "ring" : "Essencial",
+      
+      "image": "/images/languages-frameworks/angular.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/angular/"
+    },
     
-      {
-        "name": "Cypress",
-        "ring": "Essencial",
-        "image": "/images/languages-frameworks/cypress.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/cypress/"
-      },
+    {
+      "name": "Cypress",
+      
+        "ring" : "Essencial",
+      
+      "image": "/images/languages-frameworks/cypress.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/cypress/"
+    },
     
-      {
-        "name": "Enry",
-        "ring": "Essencial",
-        "image": "/images/default-logo.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/enry/"
-      },
+    {
+      "name": "Enry",
+      
+        "ring" : "Essencial",
+      
+      "image": "/images/default-logo.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/enry/"
+    },
     
     {}
   ]

@@ -10,3 +10,4 @@ dist
 tmp
 
 .hugo_build.lock
+docs

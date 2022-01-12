@@ -1,8 +1,8 @@
 +++
 name="Lerna"
 image="/images/default-logo.png"
-category="Tools"
-ring="Strategic"
+category="tools"
+ring="strategic"
 type="post"
 layout="details"
 isNew="true"

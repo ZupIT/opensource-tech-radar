@@ -8,7 +8,7 @@
     </span>
   </div>
 
-  <div class="cp-dropdown-list">
+  <div class="cp-dropdown-list" data-cp-dropdown-base-href="{{ .Site.BaseURL }}">
     {{ range $langPage.Translations }}
       <div class="cp-dropdown-list-item" data-value="{{ .RelPermalink }}">{{ .Language.LanguageName }}</div>
     {{ end }}

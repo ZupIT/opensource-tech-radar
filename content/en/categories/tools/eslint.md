@@ -1,8 +1,8 @@
 +++
 name="ESLint"
 image="/images/tools/eslint.png"
-category="Tools"
-ring="Strategic"
+category="tools"
+ring="strategic"
 type="post"
 layout="details"
 isNew="true"

@@ -4,31 +4,39 @@
   "image" : "/images/techniques/websocket.png",
   "category" : "Techniques",
   "description" : "It allows the creation of a bidirectional and persistent connection that remains open, then client and server can exchange messages at any time.",
+  
   "ring" : "Essential",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/techniques/websocket/",
+  
+  "permalink" : "https://opensource.zup.com.br/radar/categories/techniques/websocket/",
   "related": [
     
     
-      {
-        "name": "Angular",
-        "ring": "Essential",
-        "image": "/images/languages-frameworks/angular.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/angular/"
-      },
+    {
+      "name": "Angular",
+      
+        "ring" : "Essential",
+      
+      "image": "/images/languages-frameworks/angular.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/angular/"
+    },
     
-      {
-        "name": "Cypress",
-        "ring": "Essential",
-        "image": "/images/languages-frameworks/cypress.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/cypress/"
-      },
+    {
+      "name": "Cypress",
+      
+        "ring" : "Essential",
+      
+      "image": "/images/languages-frameworks/cypress.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/cypress/"
+    },
     
-      {
-        "name": "Enry",
-        "ring": "Essential",
-        "image": "/images/languages-frameworks/enry.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/enry/"
-      },
+    {
+      "name": "Enry",
+      
+        "ring" : "Essential",
+      
+      "image": "/images/languages-frameworks/enry.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/enry/"
+    },
     
     {}
   ]

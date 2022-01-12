@@ -2,42 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rings on Tech Radar - Opensource - Zup I.T</title>
-    <link>https://zupit.github.io/opensource-tech-radar/rings/</link>
+    <link>https://opensource.zup.com.br/radar/rings/</link>
     <description>Recent content in Rings on Tech Radar - Opensource - Zup I.T</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://zupit.github.io/opensource-tech-radar/rings/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://opensource.zup.com.br/radar/rings/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Strategic</title>
-      <link>https://zupit.github.io/opensource-tech-radar/rings/strategic/</link>
+      <link>https://opensource.zup.com.br/radar/rings/strategic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/rings/strategic/</guid>
+      <guid>https://opensource.zup.com.br/radar/rings/strategic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Essential</title>
-      <link>https://zupit.github.io/opensource-tech-radar/rings/essential/</link>
+      <link>https://opensource.zup.com.br/radar/rings/essential/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/rings/essential/</guid>
+      <guid>https://opensource.zup.com.br/radar/rings/essential/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Potential</title>
-      <link>https://zupit.github.io/opensource-tech-radar/rings/potential/</link>
+      <link>https://opensource.zup.com.br/radar/rings/potential/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/rings/potential/</guid>
+      <guid>https://opensource.zup.com.br/radar/rings/potential/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deprecated</title>
-      <link>https://zupit.github.io/opensource-tech-radar/rings/deprecated/</link>
+      <link>https://opensource.zup.com.br/radar/rings/deprecated/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zupit.github.io/opensource-tech-radar/rings/deprecated/</guid>
+      <guid>https://opensource.zup.com.br/radar/rings/deprecated/</guid>
       <description></description>
     </item>
     

@@ -4,17 +4,30 @@
   "image" : "/images/languages-frameworks/docker.png",
   "category" : "Languages and Frameworks",
   "description" : "SDK that provides an API to interact with daemon Docker (called Docker Engine API), as well as SDKs for Go and Python. It allows you to quickly build and scale applications and Docker solutions.",
+  
   "ring" : "Potential",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/docker/",
+  
+  "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/docker/",
   "related": [
     
     
-      {
-        "name": "Amazon AWS",
-        "ring": "Potential",
-        "image": "/images/platforms/aws.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/aws/"
-      },
+    {
+      "name": "Docker-SDK",
+      
+        "ring" : "Potential",
+      
+      "image": "/images/languages-frameworks/docker.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/docker/"
+    },
+    
+    {
+      "name": "Amazon AWS",
+      
+        "ring" : "Potential",
+      
+      "image": "/images/platforms/aws.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/platforms/aws/"
+    },
     
     {}
   ]

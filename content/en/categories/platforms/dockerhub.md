@@ -1,8 +1,8 @@
 +++
 name="Dockerhub"
 image="/images/platforms/dockerhub.png"
-category="Platforms"
-ring="Strategic"
+category="platforms"
+ring="strategic"
 type="post"
 layout="details"
 isNew="true"

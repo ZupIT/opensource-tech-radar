@@ -1,8 +1,8 @@
 +++
-name="Concorrência"
+name="Concurrence"
 image="/images/default-logo.png"
-category="Techniques"
-ring="Strategic"
+category="techniques"
+ring="strategic"
 type="post"
 layout="details"
 isNew="true"

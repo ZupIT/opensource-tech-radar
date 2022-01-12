@@ -4,31 +4,39 @@
   "image" : "/images/default-logo.png",
   "category" : "Tools",
   "description" : "Moshi is a modern JSON library for Android and Java that converts JSON objects into Java objects. It is also responsible for serializing Java objects to JSON objects.",
+  
   "ring" : "Essential",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/tools/moshi/",
+  
+  "permalink" : "https://opensource.zup.com.br/radar/categories/tools/moshi/",
   "related": [
     
     
-      {
-        "name": "Angular",
-        "ring": "Essential",
-        "image": "/images/languages-frameworks/angular.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/angular/"
-      },
+    {
+      "name": "Angular",
+      
+        "ring" : "Essential",
+      
+      "image": "/images/languages-frameworks/angular.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/angular/"
+    },
     
-      {
-        "name": "Cypress",
-        "ring": "Essential",
-        "image": "/images/languages-frameworks/cypress.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/cypress/"
-      },
+    {
+      "name": "Cypress",
+      
+        "ring" : "Essential",
+      
+      "image": "/images/languages-frameworks/cypress.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/cypress/"
+    },
     
-      {
-        "name": "Enry",
-        "ring": "Essential",
-        "image": "/images/languages-frameworks/enry.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/enry/"
-      },
+    {
+      "name": "Enry",
+      
+        "ring" : "Essential",
+      
+      "image": "/images/languages-frameworks/enry.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/enry/"
+    },
     
     {}
   ]

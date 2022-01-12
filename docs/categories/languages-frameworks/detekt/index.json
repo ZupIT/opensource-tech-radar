@@ -4,31 +4,39 @@
   "image" : "/images/languages-frameworks/detekt.png",
   "category" : "Languages and Frameworks",
   "description" : "Detekt is a static code analysis tool for the Kotlin programming language. It operates in the abstract syntax tree provided by the Kotlin compiler.",
+  
   "ring" : "Strategic",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/detekt/",
+  
+  "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/detekt/",
   "related": [
     
     
-      {
-        "name": "Appium",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/appium.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/appium/"
-      },
+    {
+      "name": "Appium",
+      
+        "ring" : "Strategic",
+      
+      "image": "/images/languages-frameworks/appium.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/appium/"
+    },
     
-      {
-        "name": "Dart Programming Language",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/dart.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/dart/"
-      },
+    {
+      "name": "Dart Programming Language",
+      
+        "ring" : "Strategic",
+      
+      "image": "/images/languages-frameworks/dart.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/dart/"
+    },
     
-      {
-        "name": "Go",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/go.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/go/"
-      },
+    {
+      "name": "Detekt",
+      
+        "ring" : "Strategic",
+      
+      "image": "/images/languages-frameworks/detekt.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/detekt/"
+    },
     
     {}
   ]

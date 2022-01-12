@@ -4,31 +4,39 @@
   "image" : "/images/default-logo.png",
   "category" : "Techniques",
   "description" : "It is a structural design pattern that allows attaching new behaviors to objects, by placing them inside special wrapping objects that contain these behaviors.",
+  
   "ring" : "Essential",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/techniques/decorator/",
+  
+  "permalink" : "https://opensource.zup.com.br/radar/categories/techniques/decorator/",
   "related": [
     
     
-      {
-        "name": "Angular",
-        "ring": "Essential",
-        "image": "/images/languages-frameworks/angular.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/angular/"
-      },
+    {
+      "name": "Angular",
+      
+        "ring" : "Essential",
+      
+      "image": "/images/languages-frameworks/angular.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/angular/"
+    },
     
-      {
-        "name": "Cypress",
-        "ring": "Essential",
-        "image": "/images/languages-frameworks/cypress.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/cypress/"
-      },
+    {
+      "name": "Cypress",
+      
+        "ring" : "Essential",
+      
+      "image": "/images/languages-frameworks/cypress.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/cypress/"
+    },
     
-      {
-        "name": "Enry",
-        "ring": "Essential",
-        "image": "/images/languages-frameworks/enry.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/enry/"
-      },
+    {
+      "name": "Enry",
+      
+        "ring" : "Essential",
+      
+      "image": "/images/languages-frameworks/enry.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/enry/"
+    },
     
     {}
   ]

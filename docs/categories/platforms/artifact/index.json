@@ -4,31 +4,39 @@
   "image" : "/images/platforms/artifact.png",
   "category" : "Platforms",
   "description" : "Artifact IO is a web application that allows you to locate, install and publish packages and configurations for CNCF projects.",
+  
   "ring" : "Strategic",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/platforms/artifact/",
+  
+  "permalink" : "https://opensource.zup.com.br/radar/categories/platforms/artifact/",
   "related": [
     
     
-      {
-        "name": "Appium",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/appium.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/appium/"
-      },
+    {
+      "name": "Appium",
+      
+        "ring" : "Strategic",
+      
+      "image": "/images/languages-frameworks/appium.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/appium/"
+    },
     
-      {
-        "name": "Dart Programming Language",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/dart.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/dart/"
-      },
+    {
+      "name": "Dart Programming Language",
+      
+        "ring" : "Strategic",
+      
+      "image": "/images/languages-frameworks/dart.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/dart/"
+    },
     
-      {
-        "name": "Detekt",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/detekt.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/detekt/"
-      },
+    {
+      "name": "Detekt",
+      
+        "ring" : "Strategic",
+      
+      "image": "/images/languages-frameworks/detekt.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/detekt/"
+    },
     
     {}
   ]

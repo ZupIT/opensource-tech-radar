@@ -21,7 +21,7 @@
   <section class="sc-page-head d-lg-none">
     <div class="pg-radar-image">
       <div class="container d-flex justify-content-center align-items-center">
-        <img src='../images/radar.png' alt="">
+        <img src='{{ "/images/radar.png" | relURL }}' alt="Radar">
       </div>
     </div>
 
@@ -63,25 +63,25 @@
 
                 {{ $rings := where .Site.Pages "Params.category" "rings" }}
                 {{ range $ring := $rings }}
-                <div class="pg-radar-category">
-                  <div class="pg-radar-category-head">
-                    <h3>{{ $ring.Title }}</h3>
+                  <div class="pg-radar-category">
+                    <div class="pg-radar-category-head">
+                      <h3>{{ $ring.Title }}</h3>
+                      <img src='{{ "icons/question.svg" | relURL }}' alt="{{ .Params.Description }}" title="{{ .Params.Description }}">
+                    </div>
 
-                    <img src="/icons/question.svg" alt="Icone">
+
+                    <ul class="pg-radar-category-list">
+                      {{ range where .Site.Pages "Params.ring" $ring.Params.id }}
+                      <li class="pg-radar-category-list-item">
+                        <a href="#" data-id="{{ .Permalink }}" data-name="{{ .Params.name }}"
+                          data-ring="{{ .Params.ring }}" data-quadrant="{{ .Params.category }}"
+                          data-isNew='{{ (.Params.isNew | default "false") }}'
+                          data-description='{{ (.Description | default "") }}'
+                          data-wasUpdated='{{ (.Params.wasUpdated | default "false") }}'>{{ .Params.name }}</a>
+                      </li>
+                      {{ end }}
+                    </ul>
                   </div>
-
-                  <ul class="pg-radar-category-list">
-                    {{ range where .Site.Pages "Params.ring" $ring.Title }}
-                    <li class="pg-radar-category-list-item">
-                      <a href="#" data-id="{{ .Permalink }}" data-name="{{ .Params.name }}"
-                        data-ring="{{ .Params.ring }}" data-quadrant="{{ .Params.category }}"
-                        data-isNew='{{ (.Params.isNew | default "false") }}'
-                        data-description='{{ (.Description | default "") }}'
-                        data-wasUpdated='{{ (.Params.wasUpdated | default "false") }}'>{{ .Params.name }}</a>
-                    </li>
-                    {{ end }}
-                  </ul>
-                </div>
                 {{ end }}
               </div>
             </div>

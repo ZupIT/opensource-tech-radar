@@ -1,8 +1,8 @@
 +++
 name="WebSocket"
 image="/images/techniques/websocket.png"
-category="Techniques"
-ring="Essential"
+category="techniques"
+ring="essential"
 type="post"
 layout="details"
 isNew="true"

@@ -1,8 +1,8 @@
 +++
 name="Integração Contínua"
 image="/images/default-logo.png"
-category="Técnicas"
-ring="Estratégico"
+category="techniques"
+ring="strategic"
 type="post"
 layout="details"
 isNew="true"

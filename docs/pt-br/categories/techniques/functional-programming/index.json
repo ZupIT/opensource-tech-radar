@@ -4,31 +4,39 @@
   "image" : "/images/default-logo.png",
   "category" : "Técnicas",
   "description" : "Programação funcional é o processo de construir software através de composição de funções puras, evitando compartilhamento de estados, dados mutáveis e efeitos colaterais.",
+  
   "ring" : "Essencial",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/techniques/functional-programming/",
+  
+  "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/techniques/functional-programming/",
   "related": [
     
     
-      {
-        "name": "Angular",
-        "ring": "Essencial",
-        "image": "/images/languages-frameworks/angular.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/angular/"
-      },
+    {
+      "name": "Angular",
+      
+        "ring" : "Essencial",
+      
+      "image": "/images/languages-frameworks/angular.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/angular/"
+    },
     
-      {
-        "name": "Cypress",
-        "ring": "Essencial",
-        "image": "/images/languages-frameworks/cypress.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/cypress/"
-      },
+    {
+      "name": "Cypress",
+      
+        "ring" : "Essencial",
+      
+      "image": "/images/languages-frameworks/cypress.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/cypress/"
+    },
     
-      {
-        "name": "Enry",
-        "ring": "Essencial",
-        "image": "/images/default-logo.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/enry/"
-      },
+    {
+      "name": "Enry",
+      
+        "ring" : "Essencial",
+      
+      "image": "/images/default-logo.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/enry/"
+    },
     
     {}
   ]

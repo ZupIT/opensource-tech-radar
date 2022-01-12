@@ -1,8 +1,8 @@
 +++
 name="Horusec Engine"
 image="/images/languages-frameworks/horusec.png"
-category="Languages and Frameworks"
-ring="Strategic"
+category="languages-frameworks"
+ring="strategic"
 type="post"
 layout="details"
 isNew="true"

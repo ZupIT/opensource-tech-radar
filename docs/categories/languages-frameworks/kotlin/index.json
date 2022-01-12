@@ -4,31 +4,39 @@
   "image" : "/images/languages-frameworks/kotlin.png",
   "category" : "Languages and Frameworks",
   "description" : "Kotlin is a multiplatform programming language developed by JetBrains in 2011. It is oriented to objects and functional, concise, and statically typed, it compiles to the Java virtual machine and can also be translated to JavaScript language and compiled to the native code.",
+  
   "ring" : "Strategic",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/kotlin/",
+  
+  "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/kotlin/",
   "related": [
     
     
-      {
-        "name": "Appium",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/appium.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/appium/"
-      },
+    {
+      "name": "Appium",
+      
+        "ring" : "Strategic",
+      
+      "image": "/images/languages-frameworks/appium.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/appium/"
+    },
     
-      {
-        "name": "Dart Programming Language",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/dart.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/dart/"
-      },
+    {
+      "name": "Dart Programming Language",
+      
+        "ring" : "Strategic",
+      
+      "image": "/images/languages-frameworks/dart.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/dart/"
+    },
     
-      {
-        "name": "Detekt",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/detekt.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/detekt/"
-      },
+    {
+      "name": "Detekt",
+      
+        "ring" : "Strategic",
+      
+      "image": "/images/languages-frameworks/detekt.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/detekt/"
+    },
     
     {}
   ]

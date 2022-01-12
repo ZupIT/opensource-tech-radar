@@ -1,8 +1,8 @@
 +++
 name="Artifact Hub"
 image="/images/platforms/artifacthub.png"
-category="Plataformas"
-ring="Potencial"
+category="platforms"
+ring="potential"
 type="post"
 layout="details"
 isNew="false"

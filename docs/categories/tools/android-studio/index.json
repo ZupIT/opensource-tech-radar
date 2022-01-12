@@ -4,31 +4,39 @@
   "image" : "/images/tools/android-studio.png",
   "category" : "Tools",
   "description" : "Source code editor.",
+  
   "ring" : "Strategic",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/tools/android-studio/",
+  
+  "permalink" : "https://opensource.zup.com.br/radar/categories/tools/android-studio/",
   "related": [
     
     
-      {
-        "name": "Appium",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/appium.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/appium/"
-      },
+    {
+      "name": "Appium",
+      
+        "ring" : "Strategic",
+      
+      "image": "/images/languages-frameworks/appium.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/appium/"
+    },
     
-      {
-        "name": "Dart Programming Language",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/dart.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/dart/"
-      },
+    {
+      "name": "Dart Programming Language",
+      
+        "ring" : "Strategic",
+      
+      "image": "/images/languages-frameworks/dart.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/dart/"
+    },
     
-      {
-        "name": "Detekt",
-        "ring": "Strategic",
-        "image": "/images/languages-frameworks/detekt.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/categories/languages-frameworks/detekt/"
-      },
+    {
+      "name": "Detekt",
+      
+        "ring" : "Strategic",
+      
+      "image": "/images/languages-frameworks/detekt.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/detekt/"
+    },
     
     {}
   ]

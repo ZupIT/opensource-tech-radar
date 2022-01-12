@@ -4,31 +4,39 @@
   "image" : "/images/languages-frameworks/junit.png",
   "category" : "Linguagens e Frameworks",
   "description" : "Bibliotecas de testes unitários implementados em aplicações Android. O JUnit e MockK também são utilizados em testes no Backend.",
+  
   "ring" : "Essencial",
-  "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/junit/",
+  
+  "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/junit/",
   "related": [
     
     
-      {
-        "name": "Angular",
-        "ring": "Essencial",
-        "image": "/images/languages-frameworks/angular.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/angular/"
-      },
+    {
+      "name": "Angular",
+      
+        "ring" : "Essencial",
+      
+      "image": "/images/languages-frameworks/angular.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/angular/"
+    },
     
-      {
-        "name": "Cypress",
-        "ring": "Essencial",
-        "image": "/images/languages-frameworks/cypress.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/cypress/"
-      },
+    {
+      "name": "Cypress",
+      
+        "ring" : "Essencial",
+      
+      "image": "/images/languages-frameworks/cypress.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/cypress/"
+    },
     
-      {
-        "name": "Enry",
-        "ring": "Essencial",
-        "image": "/images/default-logo.png",
-        "permalink" : "https://zupit.github.io/opensource-tech-radar/pt-br/categories/languages-frameworks/enry/"
-      },
+    {
+      "name": "Enry",
+      
+        "ring" : "Essencial",
+      
+      "image": "/images/default-logo.png",
+      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/enry/"
+    },
     
     {}
   ]
