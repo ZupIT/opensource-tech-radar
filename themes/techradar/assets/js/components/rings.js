@@ -1,5 +1,6 @@
 (() => {
   const cpRingsDataItems = document.querySelectorAll('.cp-rings-circles-item-data');
+  const baseURL = document.head.querySelector('meta[name=baseURL]').content;
 
   if (cpRingsDataItems) {
     const cpRingsBoxes = document.getElementById('cp-rings-boxes')
@@ -80,7 +81,8 @@
         img.src = ring.image
         title.innerText = ring.title
         caption.innerText = ring.caption
-        chevronIcon.src = '../icons/chevron-right.svg'
+
+        chevronIcon.src = baseURL + 'images/icons/chevron-right.svg'
         chevronIcon.onclick = () => selectRing( index === 4 ? 1 : index + 1)
         chevronIcon.className = 'd-md-none'
         

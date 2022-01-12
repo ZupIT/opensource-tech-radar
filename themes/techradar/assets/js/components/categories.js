@@ -1,4 +1,6 @@
 (() => {
+    const baseURL = document.head.querySelector('meta[name=baseURL]').content;
+
     const cpCardCarousel = document.getElementsByClassName('cp-card-carousel');
     const cpCardCarouselDots = document.getElementsByClassName('cp-card-carousel-dots')[0];
 
@@ -16,12 +18,11 @@
     function createDots() {
 
         const previous = document.createElement('img');
-        previous.src = "../icons/chevron-right.svg";
-        previous.style = "transform: rotate(180deg);"
+        previous.src = baseURL + "images/icons/chevron-left.svg";
         previous.onclick = () => previousCard()
     
         const next = document.createElement('img');
-        next.src = "../icons/chevron-right.svg";
+        next.src = baseURL + "images/icons/chevron-right.svg";
         next.onclick = () => nextCard()
     
         cpCardCarouselDots.append(previous);
