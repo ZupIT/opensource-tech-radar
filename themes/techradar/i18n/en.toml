@@ -99,3 +99,6 @@ other = "Keep up with the latest technology trends with our open source radar."
 
 [ui_see_radar_in_browser]
 other = "See radar in browser"
+
+[ui_copyright]
+other = "All rights reserved."
