@@ -128,10 +128,9 @@
           )
         } else {
           results.forEach((r, index) => {
-            if (index <= 3) {
+            if (index <= 2) {
               const doc = resultDetails.get(r.ref)
               const baseURL = $searchInput.data('offline-search-base-href')
-              const href = baseURL + r.ref.replace(/^\//, '')
 
               const $entry = $('<div>').addClass(
                 'row justify-content-between align-items-center cp-search-results-found-item'
@@ -153,7 +152,7 @@
                 $('<span>')
                   .addClass('col-auto')
                   .append(
-                    `<a href="${r.ref}"><img src="${baseURL}/icons/arrow-right.svg" alt="Ir"></a>`
+                    `<a href="${r.ref}"><img src="${baseURL}icons/arrow-right.svg" alt="Ir"></a>`
                   )
               )
 
