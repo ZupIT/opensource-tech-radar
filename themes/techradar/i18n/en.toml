@@ -14,7 +14,7 @@ other = "See radar"
 other = "Categories"
 
 [ui_home_categories_section_description]
-other = "Choose a strategic technology and start using it right away."
+other = "Choose a technology to learn more"
 
 [ui_see_all]
 other = "See all"
@@ -96,3 +96,9 @@ other = "Back to radar"
 
 [home_welcome_text]
 other = "Keep up with the latest technology trends with our open source radar."
+
+[ui_see_radar_in_browser]
+other = "See radar in browser"
+
+[ui_copyright]
+other = "All rights reserved."

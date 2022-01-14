@@ -1,14 +1,24 @@
+:root {
+  --rings: 4;
+  --vWidth: 89vw;
+}
+
 .cp-rings-circles {
-  width: 100%;
-  max-width: 508.5px;
   position: relative;
+  width: 100%;
+  height: var(--vWidth);
+  max-width: 508.5px;
+  max-height: 508.5px;
 }
 
 .cp-rings-circles-item {
   display: block;
-  --size: calc(var(--index) * 125px);
+  --size: calc(calc(var(--vWidth) / var(--rings)) * var(--index));
   width: var(--size);
   height: var(--size);
+  max-width: calc(calc(510px / var(--rings)) * var(--index));
+  max-height: calc(calc(510px / var(--rings)) * var(--index));
+
   border: 1px solid rgba(0, 0, 0, 0.3);
   border-bottom-right-radius: 100%;
   position: absolute;
@@ -56,6 +66,7 @@
 
 .cp-rings-card-thumbnail {
   width: 100%;
+  min-height: 240px;
   overflow: hidden;
   border-radius: 4px;
 }
@@ -74,6 +85,13 @@
   font-size: 24px;
   line-height: 28px;
   color: #113b65;
+}
+
+
+@media screen and (max-width: 767px) {
+  .cp-rings-card-content h3 {
+    color: #FF6D00
+  }
 }
 
 .cp-rings-card-content p {

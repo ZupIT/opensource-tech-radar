@@ -1,7 +1,7 @@
 +++
 id="languages-frameworks"
 title="Linguagens e Frameworks"
-description="Languages, frameworks and libraries."
+description="Linguagens, frameworks e bibliotecas."
 type="pages"
 layout="category"
 category="categories"

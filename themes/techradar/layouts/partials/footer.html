@@ -1,17 +1,15 @@
 <footer class="sc-footer">
   <div class="wrapper">
-    <div class="container-fluid gx-0">
+    <div class="container">
       <div class="row justify-content-between">
-        <div class="col-auto">
-          <div class="row">
+        <div class="col">
+          <div class="row row-cols-1">
             <div class="col-12">
               <a href="/">
                 <img src="/logos/open-source.svg" alt="Open Source - Zup I.T">
               </a>
             </div>
-          </div>
-
-          <div class="row mt-3">
+        
             <div class="col-12">
               <a href="/">
                 <img src="/logos/zup.svg" alt="Zup I.T">
@@ -20,9 +18,9 @@
           </div>
         </div>
 
-        <div class="col-10">
-          <div class="row">
-            <div class="col-3">
+        <div class="col-12 col-md-10">
+          <div class="row row-cols-2">
+            <div class="col col-md-3">
               <div class="row">
                 <div class="col-12">
                   <span class="sc-footer-title">Tech Radar</span>
@@ -40,7 +38,32 @@
               </div>
             </div>
 
-            <div class="col-3">
+
+            <div class="col col-md-3">
+              <div class="row">
+                <div class="col-12">
+                  <span class="sc-footer-title">{{ i18n "ui_who_we_are" }}</span>
+                </div>
+              </div>
+
+              <div class="row mt-4">
+                <ul class="sc-footer-list">
+                  <li class="sc-footer-list-item">
+                    <a href="/about">
+                      <span>{{ i18n "ui_about_us" }}</span>
+                    </a>
+                  </li>
+
+                  <li class="sc-footer-list-item">
+                    <a href="/contact">
+                      <span>{{ i18n "ui_contact" }}</span>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="col col-md-3">
               <div class="row">
                 <div class="col-12">
                   <span class="sc-footer-title">{{ i18n "ui_community" }}</span>
@@ -82,7 +105,7 @@
               </div>
             </div>
 
-            <div class="col-3">
+            <div class="col col-md-3">
               <div class="row">
                 <div class="col-12">
                   <span class="sc-footer-title">{{ i18n "ui_social_media" }}</span>
@@ -134,36 +157,13 @@
               </div>
             </div>
 
-            <div class="col-3">
-              <div class="row">
-                <div class="col-12">
-                  <span class="sc-footer-title">{{ i18n "ui_who_we_are" }}</span>
-                </div>
-              </div>
-
-              <div class="row mt-4">
-                <ul class="sc-footer-list">
-                  <li class="sc-footer-list-item">
-                    <a href="/about">
-                      <span>{{ i18n "ui_about_us" }}</span>
-                    </a>
-                  </li>
-
-                  <li class="sc-footer-list-item">
-                    <a href="/contact">
-                      <span>{{ i18n "ui_contact" }}</span>
-                    </a>
-                  </li>
-                </ul>
-              </div>
-            </div>
           </div>
         </div>
       </div>
 
       <div class="row justify-content-center mt-5">
         <div class="col-auto">
-          <p class="sc-footer-copyright">{{ i18n "ui_copyright" }}</p>
+          <p class="sc-footer-copyright">©Copyright {{ now.Format "2006"}} Zup. {{ i18n "ui_copyright" }}</p>
         </div>
       </div>
     </div>

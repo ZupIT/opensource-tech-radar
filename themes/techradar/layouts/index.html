@@ -19,13 +19,12 @@
 
     <section class="sc-welcome">
       <div class="wrapper">
-        <div class="container-fluid gx-0">
+        <div class="container">
           <div class="row justify-content-center">
-            <div class="col-8">
+            <div class="col-md-8 col-12">
               <div class="row">
                 <div class="col-12">
-                  <h1 class="sc-welcome-title">Tech Radar</h1>
-
+                  <h1 class="sc-welcome-title d-none d-md-block">Tech Radar</h1>
                   <p class="sc-welcome-description">{{ i18n "home_welcome_text" }}</p>
                 </div>
               </div>
@@ -43,51 +42,48 @@
 
     <section class="sc-banner">
       <div class="wrapper">
-        <div class="cp-card">
-          <div class="container-fluid gx-0">
-            <div class="row align-items-center justify-content-between">
-              <div class="col-auto">
-                <div class="row align-items-center">
-                  <div class="col-auto">
-                    <img src="/icons/radar.svg" alt="Icone">
-                  </div>
+        <div class="container">
+          <div class="cp-card">
+            <div class="container-fluid gx-0">
+              <div class="row flex-md-nowrap align-items-center justify-content-center justify-content-md-between">
+                <div class="col-auto">
+                  <div class="row justify-content-center align-items-center">
+                    <div class="col-auto">
+                      <img src='{{ "images/icons/radar.svg" | relURL }}' alt="Icone">
+                    </div>
 
-                  <div class="col-auto">
-                    <p>
-                      {{ i18n "ui_show_radar_banner_text_line_1" }} <br />
-                      {{ i18n "ui_show_radar_banner_text_line_2" }}
-                    </p>
+                    <div class="col-auto">
+                      <p class="text-center text-md-start d-none d-md-block">
+                        {{ i18n "ui_show_radar_banner_text_line_1" }} <br />
+                        {{ i18n "ui_show_radar_banner_text_line_2" }}
+                      </p> 
+                      <p class="text-center text-md-start d-md-none" style="font-size: 15px;">
+                        {{ i18n "ui_show_radar_banner_text_line_1" }} {{ i18n "ui_show_radar_banner_text_line_2" }}
+                      </p>
+                    </div>
                   </div>
                 </div>
-              </div>
 
-              <div class="col-3">
-                <a href="{{ .URL | relLangURL }}radar" class="cp-button">{{i18n "ui_show_radar_button_text"}}</a>
+                <div class="col-12 col-md-3 my-3">
+                  <a href="{{ .URL | relLangURL }}radar" class="cp-button">{{i18n "ui_show_radar_button_text"}}</a>
+                </div>
               </div>
             </div>
-          </div>
-        </div>
+          </div> 
+      </div>
       </div>
     </section>
 
     <section class="sc-categories">
       <div class="wrapper">
-        <div class="container-fluid gx-0">
-          <div class="row justify-content-center">
-            <div class="col-auto">
-              <h2>{{ i18n "ui_home_categories_section_title" }}</h2>
-            </div>
-          </div>
+        <div class="container">
 
-          <div class="row justify-content-center mt-3">
-            <div class="col-auto">
-              <p>{{ i18n "ui_home_categories_section_description" }}</p>
-            </div>
-          </div>
-
-          <div class="row mt-5">
+          <h2 class="text-center">{{ i18n "ui_home_categories_section_title" }}</h2>
+          <p class="text-center mt-3">{{ i18n "ui_home_categories_section_description" }}</p>
+    
+          <div class="row row-cols-md-2 row-cols-lg-4  mt-5 cp-card-carousel">
             {{ range where .Site.Pages "Params.category" "categories" }}
-            <div class="col-3">
+            <div class="col" data-title="{{ .Params.Title }}">
               <div class="cp-card">
                 <div class="row flex-column justify-content-between" style="height: 100%;">
                   <div class="col-auto">
@@ -108,7 +104,7 @@
 
                             <span>
                               <a href="{{ .URL }}">
-                                <img src="/icons/light-big.svg" alt="Icone">
+                                <img src="/icons/light-big.svg" alt="Go {{ .Params.Name }}">
                               </a>
                             </span>
                           </li>
@@ -128,39 +124,38 @@
             </div>
             {{ end }}     
           </div>
+
+          <div class="row justify-content-center align-items-center my-5 d-lg-none">
+              <div class="cp-card-carousel-dots d-flex justify-content-center align-items-center gap-2">
+              </div>
+          </div>
+          
         </div>
       </div>
     </section>
 
     <section class="sc-rings">
       <div class="wrapper">
-        <div class="container-fluid gx-0">
-          <div class="row justify-content-center">
-            <div class="col-auto">
-              <h2>{{ i18n "ui_home_rings_section_title" }}</h2>
-            </div>
-          </div>
-
-          <div class="row justify-content-center mt-3">
-            <div class="col-auto">
-              <p>{{ i18n "ui_home_rings_section_description" }}</p>
-            </div>
-          </div>
+        <div class="container">
+      
+          <h2 class="text-center">{{ i18n "ui_home_rings_section_title" }}</h2>
+          <p class="text-center mt-3">{{ i18n "ui_home_rings_section_description" }}</p>
+    
 
           <div class="row justify-content-between mt-5">
-            <div class="col-4">
-              <div class="cp-card" style="padding: 4px; height: 100%">
+            <div class="col-md-12 col-lg-4">
+              <div class="cp-card mb-5 h-100" style="padding: 4px">
                 <div class="cp-rings-card" id="cp-rings-card"></div>
               </div>
             </div>
           
-            <div class="col-7">
+            <div class="col-md-12 col-lg-7 mt-5 mt-lg-0">
               <div class="row">
-                <div class="col-auto">
+                <div class="col-auto d-none d-md-block">
                   <div id="cp-rings-boxes" class="cp-rings-boxes"></div>
                 </div>
           
-                <div class="col-8">
+                <div class="col-sm-12 col-md-8">
                   {{ $rings := where .Site.Pages "Params.category" "rings" }}
 
                   {{ range $rings }}

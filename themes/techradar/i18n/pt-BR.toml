@@ -14,7 +14,7 @@ other = "Ver radar"
 other = "Categorias"
 
 [ui_home_categories_section_description]
-other = "Escolha uma tecnologia estratégica e comece a usar agora mesmo."
+other = "Escolha uma tecnologia para saber mais"
 
 [ui_see_all]
 other = "Ver todas"
@@ -96,3 +96,10 @@ other = "Voltar para o radar"
 
 [home_welcome_text]
 other = "Acompanhe as últimas tendências tecnológicas com o nosso radar open source."
+
+
+[ui_see_radar_in_browser]
+other = "Ver radar no navegador"
+
+[ui_copyright]
+other = "Todos os direitos reservados."

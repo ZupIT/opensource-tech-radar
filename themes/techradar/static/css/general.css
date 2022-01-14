@@ -47,3 +47,8 @@ input {
 .pos-rel {
   position: relative;
 }
+
+.no-scroll {
+  position: fixed;
+  overflow: hidden;
+}
