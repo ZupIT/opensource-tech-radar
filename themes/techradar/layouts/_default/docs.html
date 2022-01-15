@@ -69,8 +69,7 @@
               <div class="row mt-3">
                 <div class="col-12">
                   {{ range $ring := where .Site.Pages "Params.category" "rings"}}
-                  {{ range $technique := where (where .Site.Pages "Params.category" $category.Params.id) "Params.ring"
-                  $ring.Params.id }}
+                  {{ range $technique := where (where .Site.Pages "Params.category" $category.Params.id) "Params.ring" $ring.Params.id }}
                   <div class="cp-technology">
                     <div class="row align-items-center justify-content-between">
                       <div class="col-auto">
@@ -82,7 +81,7 @@
                       </div>
 
                       <div class="col-auto">
-                        <a href="{{ $technique.URL }}">
+                        <a href="{{ $technique.RelPermalink }}">
                           <img src="/icons/external.svg" alt="Icone" />
                         </a>
                       </div>

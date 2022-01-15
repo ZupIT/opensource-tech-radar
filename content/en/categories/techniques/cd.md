@@ -2,7 +2,7 @@
 name="CI"
 image="/images/techiques/ic.png"
 category="techniques"
-ring="Techniques"
+ring="strategic"
 type="post"
 layout="details"
 isNew="true"

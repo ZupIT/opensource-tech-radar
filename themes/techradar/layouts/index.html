@@ -65,7 +65,7 @@
                 </div>
 
                 <div class="col-12 col-md-3 my-3">
-                  <a href="{{ .URL | relLangURL }}radar" class="cp-button">{{i18n "ui_show_radar_button_text"}}</a>
+                  <a href="{{ .RelPermalink | relLangURL }}radar" class="cp-button">{{i18n "ui_show_radar_button_text"}}</a>
                 </div>
               </div>
             </div>
@@ -103,7 +103,7 @@
                             <span>{{ .Params.Name }}</span>
 
                             <span>
-                              <a href="{{ .URL }}">
+                              <a href="{{ .RelPermalink }}">
                                 <img src="/icons/light-big.svg" alt="Go {{ .Params.Name }}">
                               </a>
                             </span>
@@ -116,7 +116,7 @@
 
                   <div class="col-auto mt-3">
                     <div class="col-12">
-                      <a href="{{ .URL }}" class="sc-categories-all">{{ i18n "ui_see_all" }}</a>
+                      <a href="{{ .RelPermalink }}" class="sc-categories-all">{{ i18n "ui_see_all" }}</a>
                     </div>
                   </div>
                 </div>
