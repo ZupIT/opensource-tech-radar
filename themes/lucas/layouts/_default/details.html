@@ -15,8 +15,8 @@
   </div>
   <div class="row my-4">
     <div class="col">
-      <a href="{{ $ring.URL}}" class="p-2 badge badge-{{ lower $ring.Params.Color }} text-decoration-none"> {{ $ring.Params.Title }}</a>
-      <a href="{{ $tech.URL}}" class="p-2 badge badge-{{ lower $ring.Params.Color }} text-decoration-none"> {{ $tech.Params.Title }}</a>
+      <a href="{{ $ring.RelPermalink}}" class="p-2 badge badge-{{ lower $ring.Params.Color }} text-decoration-none"> {{ $ring.Params.Title }}</a>
+      <a href="{{ $tech.RelPermalink}}" class="p-2 badge badge-{{ lower $ring.Params.Color }} text-decoration-none"> {{ $tech.Params.Title }}</a>
     </div>
   </div>
   
@@ -29,7 +29,7 @@
       {{ $relateds := where (where .Site.Pages "Params.ring" "Strategic") "Params.name" "!=" .Params.Name }}
       {{ range $related := first 3 $relateds }}
       <div class="col">
-        <a class="text-decoration-none" href="{{ $related.URL }}">
+        <a class="text-decoration-none" href="{{ $related.RelPermalink }}">
           <div class="p-3 rounded" style="background-color: #ECEDEE;">
             <div class="row d-flex align-items-center">
               <div class="col-auto">

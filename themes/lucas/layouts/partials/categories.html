@@ -21,11 +21,11 @@
                     <ul>
                         {{ range first 5 (where .Site.Pages "Params.category" .Params.Title) }}
                         <li>
-                            <a href="{{ .URL }}">{{ .Params.Name }}</a>
+                            <a href="{{ .RelPermalink }}">{{ .Params.Name }}</a>
                         </li>
                         {{ end }}
                     </ul>
-                    <a href="{{ .URL }}">{{ i18n "home.categories.see-all" }}</a>
+                    <a href="{{ .RelPermalink }}">{{ i18n "home.categories.see-all" }}</a>
                 </div>
             </div>
         {{ end }}

@@ -11,9 +11,9 @@
             {{ with .Page }}
             {{ $active = or $active ( $.IsDescendant .) }}
             {{ end }}
-            {{ $url := urls.Parse .URL }}
+            {{ $url := urls.Parse .RelPermalink }}
             {{ $baseurl := urls.Parse $.Site.Params.Baseurl }}
-            <a class="nav-link{{if $active }} active{{end}}"  href="{{ with .Page }}{{ .RelPermalink }}{{ else }}{{ .URL | relLangURL }}{{ end }}" {{ if ne $url.Host $baseurl.Host }}  target="_blank" {{ end }}>
+            <a class="nav-link{{if $active }} active{{end}}"  href="{{ with .Page }}{{ .RelPermalink }}{{ else }}{{ .RelPermalink | relLangURL }}{{ end }}" {{ if ne $url.Host $baseurl.Host }}  target="_blank" {{ end }}>
                 <span {{if $active }} class="active" {{end}}>{{ .Name }}</span>
             </a>
 
