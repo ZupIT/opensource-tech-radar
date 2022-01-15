@@ -5,15 +5,37 @@
   "category" : "Techniques",
   "description" : "A Software Engineering approach in which software functionalities are frequently delivered through automated deployments.",
   
+  "ring" : "Strategic",
+  
   "permalink" : "https://opensource.zup.com.br/radar/categories/techniques/cd/",
   "related": [
     
     
     {
-      "name": "CI",
+      "name": "Appium",
       
-      "image": "/images/techiques/ic.png",
-      "permalink" : "https://opensource.zup.com.br/radar/categories/techniques/cd/"
+        "ring" : "Strategic",
+      
+      "image": "/images/languages-frameworks/appium.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/appium/"
+    },
+    
+    {
+      "name": "Dart Programming Language",
+      
+        "ring" : "Strategic",
+      
+      "image": "/images/languages-frameworks/dart.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/dart/"
+    },
+    
+    {
+      "name": "Detekt",
+      
+        "ring" : "Strategic",
+      
+      "image": "/images/languages-frameworks/detekt.png",
+      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/detekt/"
     },
     
     {}

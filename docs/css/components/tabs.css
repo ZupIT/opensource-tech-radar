@@ -1,8 +1,16 @@
 .cp-tabs-list {
   display: flex;
-  align-items: flex-start;
 }
 
+@media (max-width: 767px) {
+  .cp-tabs-list {
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+  .cp-tabs-list-item img {
+    display: block !important;
+  }  
+}
 .cp-tabs-list-item {
   padding: 6px 32px 9px;
   border-bottom: 1px solid #B3B5BD;
@@ -13,7 +21,13 @@
   padding-bottom: 8.48px;
 }
 
+.cp-tabs-list-item img {
+  display: none
+}
+
 .cp-tabs-list-item a {
+  display: flex;
+  justify-content: space-between;
   font-size: 14px;
   line-height: 20px;
   color: #1A2138;

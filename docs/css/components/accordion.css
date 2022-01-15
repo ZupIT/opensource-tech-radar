@@ -23,6 +23,13 @@
   color: #1a2138;
 }
 
+@media (max-width: 425px) {
+  .cp-accordion-item-head-title {
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
+
 .cp-accordion-item-head-more {
   font-size: 14px;
   line-height: 24px;

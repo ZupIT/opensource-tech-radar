@@ -3,6 +3,12 @@
   background: #f5f6f7;
 }
 
+@media (max-width: 879px) {
+  .sc-categories {
+    padding: 313px 0 80px;
+  }
+}
+
 .sc-categories-list-item {
   margin-top: 7px;
   display: flex;
@@ -21,4 +27,6 @@
 
 .sc-categories .cp-card {
   height: 100%;
+  min-width: 272px;
 }
+

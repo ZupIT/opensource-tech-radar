@@ -7,4 +7,16 @@
   font-size: 64px;
   line-height: 80px;
   color: #113B65;
+  text-align: center;
+}
+
+@media (max-width: 425px) {
+  .sc-page-head {
+    padding: 88px 0;
+  }
+  
+  .sc-page-head h1 {
+    font-size: 32px;
+    line-height: 40px;
+  }
 }

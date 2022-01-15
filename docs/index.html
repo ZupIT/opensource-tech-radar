@@ -41,6 +41,21 @@
 
 <link rel="stylesheet" href="./css/app.css" />
 
+
+<link rel="apple-touch-icon" sizes="76x76" href="./favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="120x120" href="./favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="./favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="180x180" href="./favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="./favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="./favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="./favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="./favicon/favicon-16x16.png">
+<link rel="manifest" href="./favicon/manifest.json">
+<meta name="theme-color" content="#ffffff">
+
+
+<meta name="baseURL" content="https://opensource.zup.com.br/radar/">
+
     <title>
       
         Tech Radar - Opensource - Zup I.T
@@ -51,7 +66,7 @@
   <body>
     <header class="sc-header">
   <div class="wrapper">
-     <div class="container-fluid gx-0">
+    <div class="container-fluid gx-0 py-2">
       <div class="row align-items-center justify-content-between">
         <div class="col-auto">
           <a href="./">
@@ -59,7 +74,122 @@
           </a>
         </div>
 
-        <div class="col-auto">
+        <div class="col-auto d-lg-none">
+
+          <img class="menu-toggle" src="./icons/menu.svg" alt="Menu" style="float: left;">
+
+          <div id="menu-overlay" class="overlay container">
+            <div class="overlay-menu" style="height: 70%">
+              <div class="row align-items-center justify-content-between py-5">
+                <div class="col-auto">
+                  <a href="./">
+                    <img src="./logos/tech-radar.svg" alt="Tech Radar | Zup I.T" style="float: left; filter: brightness(100);">
+                  </a>
+                </div>
+                <div class="col-auto">
+                  <img class="menu-toggle" src="./icons/close.svg" alt="Close menu" style="float: left;">
+                </div>
+              </div>
+
+              <div class="d-flex h-100 flex-column justify-content-between">
+
+                <div class="row align-items-center">
+                  
+
+
+
+
+
+<div class="cp-search">
+  <div class="cp-search-bar">
+    <input type="text" placeholder="Search technology /" class="cp-search-bar-field" data-offline-search-index-json-src="./offline-search-index.4b670f55d475a602f3d2df652793fcef.json" data-offline-search-base-href="https://opensource.zup.com.br/radar/"
+    data-offline-search-max-results="7">
+
+    <span class="cp-search-bar-button">
+      <img src='./images/icons/remove.svg' alt="Limpar">
+    </span>
+  </div>
+</div>
+                  <nav class="sc-header-navbar">
+  <ul>
+    
+    
+    
+    
+    
+    
+      <li class="sc-header-navbar-item ">
+        <a href="./docs">Documentation</a> 
+      </li>
+    
+    
+    
+    
+    
+      <li class="sc-header-navbar-item ">
+        <a href="./radar">Radar</a> 
+      </li>
+    
+    
+    
+    
+    
+      <li class="sc-header-navbar-item ">
+        <a href="./about">About</a> 
+      </li>
+    
+  </ul>
+</nav>
+                </div>
+
+                <div class="row justify-content-between">
+                  <div class="col">
+                    
+<div class="cp-dropdown">
+  <div class="cp-dropdown-head">
+    <span class="cp-dropdown-head-label">English</span>
+
+    <span class="cp-dropdown-head-icon">
+      <img src="./icons/arrow-down.svg" alt="Abrir" />
+    </span>
+  </div>
+
+  <div class="cp-dropdown-list" data-cp-dropdown-base-href="https://opensource.zup.com.br/radar/">
+    
+      <div class="cp-dropdown-list-item" data-value="/pt-br/">Português</div>
+    
+  </div>
+</div>
+                  </div>
+                  <div class="col">
+                    <div class="d-flex flex-row gap-2 justify-content-end align-items-center socials">
+                      <a href="https://github.com/ZupIT/" target="_blank">
+                        <img src="./icons/github.svg" alt="Github" width="24px">
+                      </a>
+
+                      <a href="https://www.linkedin.com/company/zup-it-solutions/" target="_blank">
+                        <img src="./icons/linkedin.svg" fill="white" alt="Linkedin" width="24px">
+                      </a>
+
+                      <a href="https://www.youtube.com/channel/UCJWZyJ-36yNscqnnHiwjkhQ" target="_blank">
+                        <img src="./icons/youtube.svg" alt="Youtube" width="24px">
+                      </a>
+
+                      <a href="https://twitter.com/ZupInnovation" target="_blank">
+                        <img src="./icons/twitter.svg" alt="Twitter" width="24px">
+                      </a>
+
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+
+            </div>
+          </div>
+        </div>
+
+        <div class="col-auto d-none d-lg-block">
           <div class="row align-items-center justify-content-between">
             <div class="col-auto">
               <nav class="sc-header-navbar">
@@ -121,13 +251,12 @@
 
     <section class="sc-welcome">
       <div class="wrapper">
-        <div class="container-fluid gx-0">
+        <div class="container">
           <div class="row justify-content-center">
-            <div class="col-8">
+            <div class="col-md-8 col-12">
               <div class="row">
                 <div class="col-12">
-                  <h1 class="sc-welcome-title">Tech Radar</h1>
-
+                  <h1 class="sc-welcome-title d-none d-md-block">Tech Radar</h1>
                   <p class="sc-welcome-description">Keep up with the latest technology trends with our open source radar.</p>
                 </div>
               </div>
@@ -142,11 +271,11 @@
 
 <div class="cp-search">
   <div class="cp-search-bar">
-    <input type="text" placeholder="Search technology /" class="cp-search-bar-field" data-offline-search-index-json-src="./offline-search-index.8265fffec9d20cfed1f7ca2802970ad9.json" data-offline-search-base-href="https://opensource.zup.com.br/radar/"
+    <input type="text" placeholder="Search technology /" class="cp-search-bar-field" data-offline-search-index-json-src="./offline-search-index.4b670f55d475a602f3d2df652793fcef.json" data-offline-search-base-href="https://opensource.zup.com.br/radar/"
     data-offline-search-max-results="7">
 
     <span class="cp-search-bar-button">
-      <img src="./icons/remove.svg" alt="Limpar">
+      <img src='./images/icons/remove.svg' alt="Limpar">
     </span>
   </div>
 </div>
@@ -160,51 +289,48 @@
 
     <section class="sc-banner">
       <div class="wrapper">
-        <div class="cp-card">
-          <div class="container-fluid gx-0">
-            <div class="row align-items-center justify-content-between">
-              <div class="col-auto">
-                <div class="row align-items-center">
-                  <div class="col-auto">
-                    <img src="./icons/radar.svg" alt="Icone">
-                  </div>
+        <div class="container">
+          <div class="cp-card">
+            <div class="container-fluid gx-0">
+              <div class="row flex-md-nowrap align-items-center justify-content-center justify-content-md-between">
+                <div class="col-auto">
+                  <div class="row justify-content-center align-items-center">
+                    <div class="col-auto">
+                      <img src='./images/icons/radar.svg' alt="Icone">
+                    </div>
 
-                  <div class="col-auto">
-                    <p>
-                      Check out our complete Radar and find out what you <br />
-                      should consider in your projects.
-                    </p>
+                    <div class="col-auto">
+                      <p class="text-center text-md-start d-none d-md-block">
+                        Check out our complete Radar and find out what you <br />
+                        should consider in your projects.
+                      </p> 
+                      <p class="text-center text-md-start d-md-none" style="font-size: 15px;">
+                        Check out our complete Radar and find out what you should consider in your projects.
+                      </p>
+                    </div>
                   </div>
                 </div>
-              </div>
 
-              <div class="col-3">
-                <a href="./radar" class="cp-button">See radar</a>
+                <div class="col-12 col-md-3 my-3">
+                  <a href="./radar" class="cp-button">See radar</a>
+                </div>
               </div>
             </div>
-          </div>
-        </div>
+          </div> 
+      </div>
       </div>
     </section>
 
     <section class="sc-categories">
       <div class="wrapper">
-        <div class="container-fluid gx-0">
-          <div class="row justify-content-center">
-            <div class="col-auto">
-              <h2>Categories</h2>
-            </div>
-          </div>
+        <div class="container">
 
-          <div class="row justify-content-center mt-3">
-            <div class="col-auto">
-              <p>Choose a strategic technology and start using it right away.</p>
-            </div>
-          </div>
-
-          <div class="row mt-5">
+          <h2 class="text-center">Categories</h2>
+          <p class="text-center mt-3">Choose a technology to learn more</p>
+    
+          <div class="row row-cols-md-2 row-cols-lg-4  mt-5 cp-card-carousel">
             
-            <div class="col-3">
+            <div class="col" data-title="Languages and Frameworks">
               <div class="cp-card">
                 <div class="row flex-column justify-content-between" style="height: 100%;">
                   <div class="col-auto">
@@ -225,7 +351,7 @@
 
                             <span>
                               <a href="./categories/languages-frameworks/angular/">
-                                <img src="./icons/light-big.svg" alt="Icone">
+                                <img src="./icons/light-big.svg" alt="Go Angular">
                               </a>
                             </span>
                           </li>
@@ -235,7 +361,7 @@
 
                             <span>
                               <a href="./categories/languages-frameworks/appium/">
-                                <img src="./icons/light-big.svg" alt="Icone">
+                                <img src="./icons/light-big.svg" alt="Go Appium">
                               </a>
                             </span>
                           </li>
@@ -245,7 +371,7 @@
 
                             <span>
                               <a href="./categories/languages-frameworks/cypress/">
-                                <img src="./icons/light-big.svg" alt="Icone">
+                                <img src="./icons/light-big.svg" alt="Go Cypress">
                               </a>
                             </span>
                           </li>
@@ -255,7 +381,7 @@
 
                             <span>
                               <a href="./categories/languages-frameworks/dart/">
-                                <img src="./icons/light-big.svg" alt="Icone">
+                                <img src="./icons/light-big.svg" alt="Go Dart Programming Language">
                               </a>
                             </span>
                           </li>
@@ -265,7 +391,7 @@
 
                             <span>
                               <a href="./categories/languages-frameworks/detekt/">
-                                <img src="./icons/light-big.svg" alt="Icone">
+                                <img src="./icons/light-big.svg" alt="Go Detekt">
                               </a>
                             </span>
                           </li>
@@ -284,7 +410,7 @@
               </div>
             </div>
             
-            <div class="col-3">
+            <div class="col" data-title="Platforms">
               <div class="cp-card">
                 <div class="row flex-column justify-content-between" style="height: 100%;">
                   <div class="col-auto">
@@ -305,7 +431,7 @@
 
                             <span>
                               <a href="./categories/platforms/amazon-cloud-front/">
-                                <img src="./icons/light-big.svg" alt="Icone">
+                                <img src="./icons/light-big.svg" alt="Go Amazon Cloud Front">
                               </a>
                             </span>
                           </li>
@@ -315,7 +441,7 @@
 
                             <span>
                               <a href="./categories/platforms/amazon-cloud-watch/">
-                                <img src="./icons/light-big.svg" alt="Icone">
+                                <img src="./icons/light-big.svg" alt="Go Amazon Cloud Watch">
                               </a>
                             </span>
                           </li>
@@ -325,7 +451,7 @@
 
                             <span>
                               <a href="./categories/platforms/amazon-codebuild/">
-                                <img src="./icons/light-big.svg" alt="Icone">
+                                <img src="./icons/light-big.svg" alt="Go Amazon CodeBuild">
                               </a>
                             </span>
                           </li>
@@ -335,7 +461,7 @@
 
                             <span>
                               <a href="./categories/platforms/amazon-ecr/">
-                                <img src="./icons/light-big.svg" alt="Icone">
+                                <img src="./icons/light-big.svg" alt="Go Amazon ECR">
                               </a>
                             </span>
                           </li>
@@ -345,7 +471,7 @@
 
                             <span>
                               <a href="./categories/platforms/amazon-s3/">
-                                <img src="./icons/light-big.svg" alt="Icone">
+                                <img src="./icons/light-big.svg" alt="Go Amazon S3">
                               </a>
                             </span>
                           </li>
@@ -364,7 +490,7 @@
               </div>
             </div>
             
-            <div class="col-3">
+            <div class="col" data-title="Techniques">
               <div class="cp-card">
                 <div class="row flex-column justify-content-between" style="height: 100%;">
                   <div class="col-auto">
@@ -385,7 +511,7 @@
 
                             <span>
                               <a href="./categories/techniques/cd/">
-                                <img src="./icons/light-big.svg" alt="Icone">
+                                <img src="./icons/light-big.svg" alt="Go CI">
                               </a>
                             </span>
                           </li>
@@ -395,7 +521,7 @@
 
                             <span>
                               <a href="./categories/techniques/cicd/">
-                                <img src="./icons/light-big.svg" alt="Icone">
+                                <img src="./icons/light-big.svg" alt="Go CI/CD">
                               </a>
                             </span>
                           </li>
@@ -405,7 +531,7 @@
 
                             <span>
                               <a href="./categories/techniques/composite/">
-                                <img src="./icons/light-big.svg" alt="Icone">
+                                <img src="./icons/light-big.svg" alt="Go Composite">
                               </a>
                             </span>
                           </li>
@@ -415,7 +541,7 @@
 
                             <span>
                               <a href="./categories/techniques/concurrence/">
-                                <img src="./icons/light-big.svg" alt="Icone">
+                                <img src="./icons/light-big.svg" alt="Go Concurrence">
                               </a>
                             </span>
                           </li>
@@ -425,7 +551,7 @@
 
                             <span>
                               <a href="./categories/techniques/decorator/">
-                                <img src="./icons/light-big.svg" alt="Icone">
+                                <img src="./icons/light-big.svg" alt="Go Decorator">
                               </a>
                             </span>
                           </li>
@@ -444,7 +570,7 @@
               </div>
             </div>
             
-            <div class="col-3">
+            <div class="col" data-title="Tools">
               <div class="cp-card">
                 <div class="row flex-column justify-content-between" style="height: 100%;">
                   <div class="col-auto">
@@ -465,7 +591,7 @@
 
                             <span>
                               <a href="./categories/tools/android-studio/">
-                                <img src="./icons/light-big.svg" alt="Icone">
+                                <img src="./icons/light-big.svg" alt="Go Android Studio">
                               </a>
                             </span>
                           </li>
@@ -475,7 +601,7 @@
 
                             <span>
                               <a href="./categories/tools/eslint/">
-                                <img src="./icons/light-big.svg" alt="Icone">
+                                <img src="./icons/light-big.svg" alt="Go ESLint">
                               </a>
                             </span>
                           </li>
@@ -485,7 +611,7 @@
 
                             <span>
                               <a href="./categories/tools/git/">
-                                <img src="./icons/light-big.svg" alt="Icone">
+                                <img src="./icons/light-big.svg" alt="Go Git">
                               </a>
                             </span>
                           </li>
@@ -495,7 +621,7 @@
 
                             <span>
                               <a href="./categories/tools/helm/">
-                                <img src="./icons/light-big.svg" alt="Icone">
+                                <img src="./icons/light-big.svg" alt="Go Helm">
                               </a>
                             </span>
                           </li>
@@ -505,7 +631,7 @@
 
                             <span>
                               <a href="./categories/tools/husky/">
-                                <img src="./icons/light-big.svg" alt="Icone">
+                                <img src="./icons/light-big.svg" alt="Go Husky">
                               </a>
                             </span>
                           </li>
@@ -525,39 +651,38 @@
             </div>
                  
           </div>
+
+          <div class="row justify-content-center align-items-center my-5 d-lg-none">
+              <div class="cp-card-carousel-dots d-flex justify-content-center align-items-center gap-2">
+              </div>
+          </div>
+          
         </div>
       </div>
     </section>
 
     <section class="sc-rings">
       <div class="wrapper">
-        <div class="container-fluid gx-0">
-          <div class="row justify-content-center">
-            <div class="col-auto">
-              <h2>Rings</h2>
-            </div>
-          </div>
-
-          <div class="row justify-content-center mt-3">
-            <div class="col-auto">
-              <p>Rings are a sign of success. The closer to the center, the better the technology.</p>
-            </div>
-          </div>
+        <div class="container">
+      
+          <h2 class="text-center">Rings</h2>
+          <p class="text-center mt-3">Rings are a sign of success. The closer to the center, the better the technology.</p>
+    
 
           <div class="row justify-content-between mt-5">
-            <div class="col-4">
-              <div class="cp-card" style="padding: 4px; height: 100%">
+            <div class="col-md-12 col-lg-4">
+              <div class="cp-card mb-5 h-100" style="padding: 4px">
                 <div class="cp-rings-card" id="cp-rings-card"></div>
               </div>
             </div>
           
-            <div class="col-7">
+            <div class="col-md-12 col-lg-7 mt-5 mt-lg-0">
               <div class="row">
-                <div class="col-auto">
+                <div class="col-auto d-none d-md-block">
                   <div id="cp-rings-boxes" class="cp-rings-boxes"></div>
                 </div>
           
-                <div class="col-8">
+                <div class="col-sm-12 col-md-8">
                   
 
                   
@@ -582,18 +707,16 @@
 
     <footer class="sc-footer">
   <div class="wrapper">
-    <div class="container-fluid gx-0">
+    <div class="container">
       <div class="row justify-content-between">
-        <div class="col-auto">
-          <div class="row">
+        <div class="col">
+          <div class="row row-cols-1">
             <div class="col-12">
               <a href="./">
                 <img src="./logos/open-source.svg" alt="Open Source - Zup I.T">
               </a>
             </div>
-          </div>
-
-          <div class="row mt-3">
+        
             <div class="col-12">
               <a href="./">
                 <img src="./logos/zup.svg" alt="Zup I.T">
@@ -602,9 +725,9 @@
           </div>
         </div>
 
-        <div class="col-10">
-          <div class="row">
-            <div class="col-3">
+        <div class="col-12 col-md-10">
+          <div class="row row-cols-2">
+            <div class="col col-md-3">
               <div class="row">
                 <div class="col-12">
                   <span class="sc-footer-title">Tech Radar</span>
@@ -622,7 +745,32 @@
               </div>
             </div>
 
-            <div class="col-3">
+
+            <div class="col col-md-3">
+              <div class="row">
+                <div class="col-12">
+                  <span class="sc-footer-title">Who we are</span>
+                </div>
+              </div>
+
+              <div class="row mt-4">
+                <ul class="sc-footer-list">
+                  <li class="sc-footer-list-item">
+                    <a href="./about">
+                      <span>About us</span>
+                    </a>
+                  </li>
+
+                  <li class="sc-footer-list-item">
+                    <a href="./contact">
+                      <span>Contact</span>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="col col-md-3">
               <div class="row">
                 <div class="col-12">
                   <span class="sc-footer-title">Community</span>
@@ -664,7 +812,7 @@
               </div>
             </div>
 
-            <div class="col-3">
+            <div class="col col-md-3">
               <div class="row">
                 <div class="col-12">
                   <span class="sc-footer-title">Social networks</span>
@@ -716,36 +864,13 @@
               </div>
             </div>
 
-            <div class="col-3">
-              <div class="row">
-                <div class="col-12">
-                  <span class="sc-footer-title">Who we are</span>
-                </div>
-              </div>
-
-              <div class="row mt-4">
-                <ul class="sc-footer-list">
-                  <li class="sc-footer-list-item">
-                    <a href="./about">
-                      <span>About us</span>
-                    </a>
-                  </li>
-
-                  <li class="sc-footer-list-item">
-                    <a href="./contact">
-                      <span>Contact</span>
-                    </a>
-                  </li>
-                </ul>
-              </div>
-            </div>
           </div>
         </div>
       </div>
 
       <div class="row justify-content-center mt-5">
         <div class="col-auto">
-          <p class="sc-footer-copyright"></p>
+          <p class="sc-footer-copyright">©Copyright 2022 Zup. All rights reserved.</p>
         </div>
       </div>
     </div>
@@ -774,7 +899,9 @@
 
 
 
-<script src="./js/main.min.fb04e2e1ee835959fba47c0f91aff398e792e20b46d22714b3579ba26085d031.js" integrity="sha256-&#43;wTi4e6DWVn7pHwPka/zmOeS4gtG0icUs1ebomCF0DE=" crossorigin="anonymous"></script>
+
+
+<script src="./js/main.min.a3014105c230eb769340500eb1b089d8d5702fd593867a2201f77b92a5cfb2a0.js" integrity="sha256-owFBBcIw63aTQFAOsbCJ2NVwL9WThnoiAfd7kqXPsqA=" crossorigin="anonymous"></script>
 
 
  
