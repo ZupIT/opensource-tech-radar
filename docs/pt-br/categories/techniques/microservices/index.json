@@ -1,7 +1,7 @@
 {
   "data" :  {
   "name": "Micro serviços",
-  "image" : "/images/techiques/microservices.png",
+  "image" : "/images/default-logo.png",
   "category" : "Técnicas",
   "description" : "Em uma arquitetura de microsserviços, os serviços são refinados e os protocolos são leves. O objetivo é que as equipes possam levar seus serviços independentes dos outros",
   
