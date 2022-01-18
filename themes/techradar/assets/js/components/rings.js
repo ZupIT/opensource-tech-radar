@@ -1,6 +1,16 @@
 (() => {
+  const removeLastBarFromString = string => {
+    const lastCharIndex = string.length - 1
+
+    if (string[lastCharIndex] === '/') {
+      return string.slice(0, -1)
+    }
+
+    return string
+  }
+
+  const baseURL = removeLastBarFromString($('meta[name=baseURL]').attr('content'))
   const cpRingsDataItems = document.querySelectorAll('.cp-rings-circles-item-data');
-  const baseURL = document.head.querySelector('meta[name=baseURL]').content;
 
   if (cpRingsDataItems) {
     const cpRingsBoxes = document.getElementById('cp-rings-boxes')
@@ -82,7 +92,7 @@
         title.innerText = ring.title
         caption.innerText = ring.caption
 
-        chevronIcon.src = baseURL + 'images/icons/chevron-right.svg'
+        chevronIcon.src = baseURL + '/images/icons/chevron-right.svg'
         chevronIcon.onclick = () => selectRing( index === 4 ? 1 : index + 1)
         chevronIcon.className = 'd-md-none'
         

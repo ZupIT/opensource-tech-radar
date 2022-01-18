@@ -1,5 +1,15 @@
 (() => {
-    const baseURL = document.head.querySelector('meta[name=baseURL]').content;
+    const removeLastBarFromString = string => {
+      const lastCharIndex = string.length - 1
+
+      if (string[lastCharIndex] === '/') {
+        return string.slice(0, -1)
+      }
+
+      return string
+    }
+
+    const baseURL = removeLastBarFromString($('meta[name=baseURL]').attr('content'))
 
     const cpCardCarousel = document.getElementsByClassName('cp-card-carousel');
     const cpCardCarouselDots = document.getElementsByClassName('cp-card-carousel-dots')[0];
@@ -16,13 +26,12 @@
     }
 
     function createDots() {
-
         const previous = document.createElement('img');
-        previous.src = baseURL + "images/icons/chevron-left.svg";
+        previous.src = baseURL + "/images/icons/chevron-left.svg";
         previous.onclick = () => previousCard()
     
         const next = document.createElement('img');
-        next.src = baseURL + "images/icons/chevron-right.svg";
+        next.src = baseURL + "/images/icons/chevron-right.svg";
         next.onclick = () => nextCard()
     
         cpCardCarouselDots.append(previous);

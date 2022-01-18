@@ -1,27 +1,37 @@
 (() => {
   $(document).ready(() => {
-    const ELEMENT = $('.cp-dropdown-list');
-    const BASEURL = ELEMENT.data('cp-dropdown-base-href');
+    const removeLastBarFromString = string => {
+      const lastCharIndex = string.length - 1
+  
+      if (string[lastCharIndex] === '/') {
+        return string.slice(0, -1)
+      }
+  
+      return string
+    }
+  
+    const baseURL = removeLastBarFromString($('meta[name=baseURL]').attr('content'))
+    const element = $('.cp-dropdown-list');
 
     const handleToggle = () => {
-      ELEMENT.toggle()
+      element.toggle()
     }
 
     const handleItemChange = (e) => {
       const { value } = e.target.dataset;
-
-      location.href =  BASEURL + value.replace('/', '');
+      
+      location.href =  baseURL + value;
     }
 
     $(document).keydown(function (e) {
       if (e.keyCode == 27) {
-        ELEMENT.hide()
+        element.hide()
       }
     })
 
     $(document).click(event => {
       if (!$(event.target).closest('.cp-dropdown').length) {
-        ELEMENT.hide()
+        element.hide()
       }
     })
 

@@ -3,6 +3,15 @@
 ;(function ($) {
   'use strict'
 
+  const removeSymbolsFromString = (string) => {
+    let wip = string;
+
+    wip = wip.replace('-', '');
+    wip = wip.replace('_', '');
+
+    return wip;
+  };
+
   const removeLastBarFromString = string => {
     const lastCharIndex = string.length - 1
 
@@ -12,15 +21,6 @@
 
     return string
   }
-
-  const removeSymbolsFromString = (string) => {
-    let wip = string;
-
-    wip = wip.replace('-', '');
-    wip = wip.replace('_', '');
-
-    return wip;
-  };
 
   const baseURL = removeLastBarFromString($('meta[name=baseURL]').attr('content'))
 
