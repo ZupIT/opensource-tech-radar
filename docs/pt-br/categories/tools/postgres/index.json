@@ -5,38 +5,38 @@
   "category" : "Ferramentas",
   "description" : "Um sistema de banco de dados relacional de objeto de código aberto que usa e estende a linguagem SQL, combinada com muitos recursos, que armazenam e escalam com segurança as cargas de trabalho de dados mais complicadas.",
   
-  "ring" : "Estratégico",
+  	"ring" : "Estratégico",
   
   "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/tools/postgres/",
   "related": [
     
     
-    {
-      "name": "Appium",
-      
-        "ring" : "Estratégico",
-      
-      "image": "/images/languages-frameworks/appium.png",
-      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/appium/"
-    },
+			{
+				"name": "Appium",
+				
+					"ring" : "Estratégico",
+				
+				"image": "/images/languages-frameworks/appium.png",
+				"permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/appium/"
+			},
     
-    {
-      "name": "Dart Programming Language",
-      
-        "ring" : "Estratégico",
-      
-      "image": "/images/languages-frameworks/dart.png",
-      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/dart/"
-    },
+			{
+				"name": "Dart Programming Language",
+				
+					"ring" : "Estratégico",
+				
+				"image": "/images/languages-frameworks/dart.png",
+				"permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/dart/"
+			},
     
-    {
-      "name": "Detekt",
-      
-        "ring" : "Estratégico",
-      
-      "image": "/images/languages-frameworks/detekt.png",
-      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/detekt/"
-    },
+			{
+				"name": "Detekt",
+				
+					"ring" : "Estratégico",
+				
+				"image": "/images/languages-frameworks/detekt.png",
+				"permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/detekt/"
+			},
     
     {}
   ]

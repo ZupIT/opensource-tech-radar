@@ -5,38 +5,38 @@
   "category" : "Languages and Frameworks",
   "description" : "Spring is one of the best-known and most used Java frameworks. It is a development ecosystem that makes it easier to create Java applications using different independent modules.",
   
-  "ring" : "Strategic",
+  	"ring" : "Strategic",
   
   "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/spring-boot/",
   "related": [
     
     
-    {
-      "name": "Appium",
-      
-        "ring" : "Strategic",
-      
-      "image": "/images/languages-frameworks/appium.png",
-      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/appium/"
-    },
+			{
+				"name": "Appium",
+				
+					"ring" : "Strategic",
+				
+				"image": "/images/languages-frameworks/appium.png",
+				"permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/appium/"
+			},
     
-    {
-      "name": "Dart Programming Language",
-      
-        "ring" : "Strategic",
-      
-      "image": "/images/languages-frameworks/dart.png",
-      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/dart/"
-    },
+			{
+				"name": "Dart Programming Language",
+				
+					"ring" : "Strategic",
+				
+				"image": "/images/languages-frameworks/dart.png",
+				"permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/dart/"
+			},
     
-    {
-      "name": "Detekt",
-      
-        "ring" : "Strategic",
-      
-      "image": "/images/languages-frameworks/detekt.png",
-      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/detekt/"
-    },
+			{
+				"name": "Detekt",
+				
+					"ring" : "Strategic",
+				
+				"image": "/images/languages-frameworks/detekt.png",
+				"permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/detekt/"
+			},
     
     {}
   ]

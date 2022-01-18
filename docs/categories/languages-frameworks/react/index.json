@@ -5,38 +5,38 @@
   "category" : "Languages and Frameworks",
   "description" : "React is an open source JavaScript library focused on creating user interfaces in web pages. It is maintained by Facebook, Instagram, besides other companies and a community of individual developers.",
   
-  "ring" : "Essential",
+  	"ring" : "Essential",
   
   "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/react/",
   "related": [
     
     
-    {
-      "name": "Angular",
-      
-        "ring" : "Essential",
-      
-      "image": "/images/languages-frameworks/angular.png",
-      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/angular/"
-    },
+			{
+				"name": "Angular",
+				
+					"ring" : "Essential",
+				
+				"image": "/images/languages-frameworks/angular.png",
+				"permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/angular/"
+			},
     
-    {
-      "name": "Cypress",
-      
-        "ring" : "Essential",
-      
-      "image": "/images/languages-frameworks/cypress.png",
-      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/cypress/"
-    },
+			{
+				"name": "Cypress",
+				
+					"ring" : "Essential",
+				
+				"image": "/images/languages-frameworks/cypress.png",
+				"permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/cypress/"
+			},
     
-    {
-      "name": "Enry",
-      
-        "ring" : "Essential",
-      
-      "image": "/images/languages-frameworks/enry.png",
-      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/enry/"
-    },
+			{
+				"name": "Enry",
+				
+					"ring" : "Essential",
+				
+				"image": "/images/languages-frameworks/enry.png",
+				"permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/enry/"
+			},
     
     {}
   ]

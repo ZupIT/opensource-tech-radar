@@ -5,38 +5,38 @@
   "category" : "Plataformas",
   "description" : "O Amazon CloudWatch é um serviço de monitoramento e observação criado para engenheiros de DevOps, desenvolvedores, Site Reliability Engineers (SREs – Engenheiros de confiabilidade de sites) e gerentes de TI.",
   
-  "ring" : "Estratégico",
+  	"ring" : "Estratégico",
   
   "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/platforms/amazon-cloud-watch/",
   "related": [
     
     
-    {
-      "name": "Appium",
-      
-        "ring" : "Estratégico",
-      
-      "image": "/images/languages-frameworks/appium.png",
-      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/appium/"
-    },
+			{
+				"name": "Appium",
+				
+					"ring" : "Estratégico",
+				
+				"image": "/images/languages-frameworks/appium.png",
+				"permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/appium/"
+			},
     
-    {
-      "name": "Dart Programming Language",
-      
-        "ring" : "Estratégico",
-      
-      "image": "/images/languages-frameworks/dart.png",
-      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/dart/"
-    },
+			{
+				"name": "Dart Programming Language",
+				
+					"ring" : "Estratégico",
+				
+				"image": "/images/languages-frameworks/dart.png",
+				"permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/dart/"
+			},
     
-    {
-      "name": "Detekt",
-      
-        "ring" : "Estratégico",
-      
-      "image": "/images/languages-frameworks/detekt.png",
-      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/detekt/"
-    },
+			{
+				"name": "Detekt",
+				
+					"ring" : "Estratégico",
+				
+				"image": "/images/languages-frameworks/detekt.png",
+				"permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/detekt/"
+			},
     
     {}
   ]

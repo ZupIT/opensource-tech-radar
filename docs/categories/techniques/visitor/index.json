@@ -5,38 +5,38 @@
   "category" : "Techniques",
   "description" : "It is a behavioral project standard that represents an operation to be performed on the elements of an object's structure. The visitor allows the creation of a new operation without changing the class of the elements in which it operates. It is a way of separating an algorithm from the object's structure. A practical result is the ability to add new functionalities to the structures of a pre-existing object without having to modify them. ",
   
-  "ring" : "Essential",
+  	"ring" : "Essential",
   
   "permalink" : "https://opensource.zup.com.br/radar/categories/techniques/visitor/",
   "related": [
     
     
-    {
-      "name": "Angular",
-      
-        "ring" : "Essential",
-      
-      "image": "/images/languages-frameworks/angular.png",
-      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/angular/"
-    },
+			{
+				"name": "Angular",
+				
+					"ring" : "Essential",
+				
+				"image": "/images/languages-frameworks/angular.png",
+				"permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/angular/"
+			},
     
-    {
-      "name": "Cypress",
-      
-        "ring" : "Essential",
-      
-      "image": "/images/languages-frameworks/cypress.png",
-      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/cypress/"
-    },
+			{
+				"name": "Cypress",
+				
+					"ring" : "Essential",
+				
+				"image": "/images/languages-frameworks/cypress.png",
+				"permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/cypress/"
+			},
     
-    {
-      "name": "Enry",
-      
-        "ring" : "Essential",
-      
-      "image": "/images/languages-frameworks/enry.png",
-      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/enry/"
-    },
+			{
+				"name": "Enry",
+				
+					"ring" : "Essential",
+				
+				"image": "/images/languages-frameworks/enry.png",
+				"permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/enry/"
+			},
     
     {}
   ]

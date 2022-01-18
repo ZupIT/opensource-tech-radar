@@ -5,38 +5,38 @@
   "category" : "Tools",
   "description" : "Source code editor.",
   
-  "ring" : "Strategic",
+  	"ring" : "Strategic",
   
   "permalink" : "https://opensource.zup.com.br/radar/categories/tools/intellij/",
   "related": [
     
     
-    {
-      "name": "Appium",
-      
-        "ring" : "Strategic",
-      
-      "image": "/images/languages-frameworks/appium.png",
-      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/appium/"
-    },
+			{
+				"name": "Appium",
+				
+					"ring" : "Strategic",
+				
+				"image": "/images/languages-frameworks/appium.png",
+				"permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/appium/"
+			},
     
-    {
-      "name": "Dart Programming Language",
-      
-        "ring" : "Strategic",
-      
-      "image": "/images/languages-frameworks/dart.png",
-      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/dart/"
-    },
+			{
+				"name": "Dart Programming Language",
+				
+					"ring" : "Strategic",
+				
+				"image": "/images/languages-frameworks/dart.png",
+				"permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/dart/"
+			},
     
-    {
-      "name": "Detekt",
-      
-        "ring" : "Strategic",
-      
-      "image": "/images/languages-frameworks/detekt.png",
-      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/detekt/"
-    },
+			{
+				"name": "Detekt",
+				
+					"ring" : "Strategic",
+				
+				"image": "/images/languages-frameworks/detekt.png",
+				"permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/detekt/"
+			},
     
     {}
   ]

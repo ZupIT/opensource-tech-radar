@@ -5,38 +5,38 @@
   "category" : "Platforms",
   "description" : "NPM is a Node.js tool to manage packages. It allows installing, uninstalling, and updating dependencies in a Web application.",
   
-  "ring" : "Essential",
+  	"ring" : "Essential",
   
   "permalink" : "https://opensource.zup.com.br/radar/categories/platforms/npm/",
   "related": [
     
     
-    {
-      "name": "Angular",
-      
-        "ring" : "Essential",
-      
-      "image": "/images/languages-frameworks/angular.png",
-      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/angular/"
-    },
+			{
+				"name": "Angular",
+				
+					"ring" : "Essential",
+				
+				"image": "/images/languages-frameworks/angular.png",
+				"permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/angular/"
+			},
     
-    {
-      "name": "Cypress",
-      
-        "ring" : "Essential",
-      
-      "image": "/images/languages-frameworks/cypress.png",
-      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/cypress/"
-    },
+			{
+				"name": "Cypress",
+				
+					"ring" : "Essential",
+				
+				"image": "/images/languages-frameworks/cypress.png",
+				"permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/cypress/"
+			},
     
-    {
-      "name": "Enry",
-      
-        "ring" : "Essential",
-      
-      "image": "/images/languages-frameworks/enry.png",
-      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/enry/"
-    },
+			{
+				"name": "Enry",
+				
+					"ring" : "Essential",
+				
+				"image": "/images/languages-frameworks/enry.png",
+				"permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/enry/"
+			},
     
     {}
   ]
