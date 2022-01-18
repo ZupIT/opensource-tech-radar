@@ -253,8 +253,7 @@
 
         if (id) {
           try {
-            const response = await $.ajax(`${id}/index.json`);
-
+            const response = await $.ajax(`${id}index.json`);
             
             $('#pg-radar-modal-thumbnail').attr('src', `/${baseURL + response.data.image}`);
             $('#pg-radar-modal-thumbnail').attr('alt', response.data.name);

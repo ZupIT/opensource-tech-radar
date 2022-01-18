@@ -4,20 +4,20 @@
   "category" : "{{ (.Site.GetPage .Params.category).Params.Title }}",
   "description" : "{{ .Params.Description }}",
   {{ range $ring := where .Site.Pages "Params.id" .Params.ring }}
-  "ring" : "{{ $ring.Params.Title }}",
+  	"ring" : "{{ $ring.Params.Title }}",
   {{end}}
   "permalink" : "{{ .Permalink }}",
   "related": [
     {{ $relateds := where (where .Site.Pages "Params.ring" .Params.ring) "Params.Name" "!=" .Params.name }}
     {{ range $related := first 3 $relateds }}
-    {
-      "name": "{{ $related.Params.Name }}",
-      {{ range $ring := where .Site.Pages "Params.id" .Params.ring }}
-        "ring" : "{{ $ring.Params.Name }}",
-      {{end}}
-      "image": "{{ $related.Params.Image }}",
-      "permalink" : "{{ $related.Permalink }}"
-    },
+			{
+				"name": "{{ $related.Params.Name }}",
+				{{ range $ring := where .Site.Pages "Params.id" .Params.ring }}
+					"ring" : "{{ $ring.Params.Name }}",
+				{{end}}
+				"image": "{{ $related.Params.Image }}",
+				"permalink" : "{{ $related.Permalink }}"
+			},
     {{end}}
     {}
   ]
