@@ -5,13 +5,13 @@
         <div class="col">
           <div class="row row-cols-1">
             <div class="col-12">
-              <a href="/">
+              <a href="{{ .URL | relLangURL }}">
                 <img src="/logos/open-source.svg" alt="Open Source - Zup I.T">
               </a>
             </div>
         
             <div class="col-12">
-              <a href="/">
+              <a href="http://www.zup.com.br" target="_blank">
                 <img src="/logos/zup.svg" alt="Zup I.T">
               </a>
             </div>
@@ -30,7 +30,7 @@
               <div class="row mt-4">
                 <ul class="sc-footer-list">
                   <li class="sc-footer-list-item">
-                    <a href="/radar">
+                    <a href="{{ .URL | relLangURL }}radar">
                       <span>{{ i18n "ui_technologies" }}</span>
                     </a>
                   </li>
@@ -49,14 +49,8 @@
               <div class="row mt-4">
                 <ul class="sc-footer-list">
                   <li class="sc-footer-list-item">
-                    <a href="/about">
+                    <a href="{{ .URL | relLangURL }}about">
                       <span>{{ i18n "ui_about_us" }}</span>
-                    </a>
-                  </li>
-
-                  <li class="sc-footer-list-item">
-                    <a href="/contact">
-                      <span>{{ i18n "ui_contact" }}</span>
                     </a>
                   </li>
                 </ul>
@@ -79,7 +73,7 @@
                   </li>
 
                   <li class="sc-footer-list-item">
-                    <a href="/radar">
+                    <a href="{{ .URL | relLangURL }}radar">
                       <span>Tech Radar</span>
                     </a>
                   </li>
