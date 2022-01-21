@@ -5,38 +5,38 @@
   "category" : "Languages and Frameworks",
   "description" : "Angular is an open source framework used to build web applications based in a single dynamic page. The developers also use this tool to create animated menus for internet pages based on HTML.",
   
-  "ring" : "Essential",
+  	"ring" : "Essential",
   
   "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/angular/",
   "related": [
     
     
-    {
-      "name": "Angular",
-      
-        "ring" : "Essential",
-      
-      "image": "/images/languages-frameworks/angular.png",
-      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/angular/"
-    },
+			{
+				"name": "Cypress",
+				
+					"ring" : "Essential",
+				
+				"image": "/images/languages-frameworks/cypress.png",
+				"permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/cypress/"
+			},
     
-    {
-      "name": "Cypress",
-      
-        "ring" : "Essential",
-      
-      "image": "/images/languages-frameworks/cypress.png",
-      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/cypress/"
-    },
+			{
+				"name": "Enry",
+				
+					"ring" : "Essential",
+				
+				"image": "/images/languages-frameworks/enry.png",
+				"permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/enry/"
+			},
     
-    {
-      "name": "Enry",
-      
-        "ring" : "Essential",
-      
-      "image": "/images/languages-frameworks/enry.png",
-      "permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/enry/"
-    },
+			{
+				"name": "Flutter",
+				
+					"ring" : "Essential",
+				
+				"image": "/images/languages-frameworks/flutter.png",
+				"permalink" : "https://opensource.zup.com.br/radar/categories/languages-frameworks/flutter/"
+			},
     
     {}
   ]

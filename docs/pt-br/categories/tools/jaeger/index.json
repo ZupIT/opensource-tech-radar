@@ -5,38 +5,29 @@
   "category" : "Ferramentas",
   "description" : "Um sistema de rastreamento distribuído lançado como código aberto e que é usado para monitorar e solucionar problemas de sistemas distribuídos baseados em microsserviços.",
   
-  "ring" : "Potencial",
+  	"ring" : "Potencial",
   
   "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/tools/jaeger/",
   "related": [
     
     
-    {
-      "name": "Artifact Hub",
-      
-        "ring" : "Potencial",
-      
-      "image": "/images/platforms/artifacthub.png",
-      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/platforms/artifacthub/"
-    },
+			{
+				"name": "Artifact Hub",
+				
+					"ring" : "Potencial",
+				
+				"image": "/images/platforms/artifacthub.png",
+				"permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/platforms/artifacthub/"
+			},
     
-    {
-      "name": "Jaeger",
-      
-        "ring" : "Potencial",
-      
-      "image": "/images/tools/jaeger.png",
-      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/tools/jaeger/"
-    },
-    
-    {
-      "name": "Tree-sitter",
-      
-        "ring" : "Potencial",
-      
-      "image": "/images/default-logo.png",
-      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/tools/tree-sitter/"
-    },
+			{
+				"name": "Tree-sitter",
+				
+					"ring" : "Potencial",
+				
+				"image": "/images/default-logo.png",
+				"permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/tools/tree-sitter/"
+			},
     
     {}
   ]

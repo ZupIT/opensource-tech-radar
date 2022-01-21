@@ -1,5 +1,17 @@
 (() => {
   $(document).ready(() => {
+    const removeLastBarFromString = (string) => {
+      const lastCharIndex = string.length - 1;
+    
+      if (string[lastCharIndex] === '/') {
+        return string.slice(0, -1);
+      }
+    
+      return string;
+    };
+    
+    const baseURL = removeLastBarFromString($("meta[name=baseURL]").attr("content"));
+    
     const size = 700;
     const svg = d3.select(".cp-tech-radar svg");
 
@@ -13,17 +25,16 @@
 
     function selectQuadrant(e) {
       e.preventDefault();
-      radarQuadrantsFilters.removeClass('is-active');
 
       const button = $(this);
-
-      button.addClass('is-active');  
-
       const { order, startangle } = button.data();
-
       const startAngle = Number(startangle)
 
+      radarQuadrantsFilters.removeClass('is-active');     
+      button.addClass('is-active');  
+
       d3.selectAll(".home-link").classed("selected", false);
+
       createHomeLink(d3.select(".pg-radar-main-foot"));
 
       d3.selectAll(".button")
@@ -116,10 +127,7 @@
     function mouseoutQuadrant(e) {
       const { order } = e.target.dataset;
 
-      d3.selectAll(".quadrant-group:not(.quadrant-group-" + order + ")").style(
-        "opacity",
-        1
-      );
+      d3.selectAll(".quadrant-group:not(.quadrant-group-" + order + ")").style("opacity", 1);
     }
 
     function toggleLineTexts(value) {
@@ -181,6 +189,7 @@
 
     function redrawFullRadar() {
       d3.selectAll(".quadrant-group").style("opacity", 1);
+      
       $('.pg-radar-quadrant-groups-item.is-active').removeClass('is-active');
 
       removeHomeLink();
@@ -229,8 +238,6 @@
     }
 
     function handleRadarModal() {
-      const baseURL = document.location.pathname.split('/')[1];
-
       const relatedContainer = $('#pg-radar-modal-related');
       const modalContainer =  $('.cp-modal');
       const blips = $('.blip-link');
@@ -249,14 +256,13 @@
 
       const handler = async (element) => {
         const { id } = element.data();
-        
+        const itemURI = removeLastBarFromString(id);
 
         if (id) {
           try {
-            const response = await $.ajax(`${id}/index.json`);
-
+            const response = await $.ajax(`${itemURI}/index.json`);
             
-            $('#pg-radar-modal-thumbnail').attr('src', `/${baseURL + response.data.image}`);
+            $('#pg-radar-modal-thumbnail').attr('src', `${baseURL + response.data.image}`);
             $('#pg-radar-modal-thumbnail').attr('alt', response.data.name);
             $('#pg-radar-modal-title').text(response.data.name);
             $('#pg-radar-modal-description').text(response.data.description);
@@ -278,7 +284,7 @@
                           <div class="col-auto">
                             <div class="pg-single-technologies-related-thumbnail">
                               <a href="${item.permalink}">
-                                <img src="/${baseURL + item.image}" alt="${item.name}"  style="float: left; ">
+                                <img src="${baseURL + item.image}" alt="${item.name}"  style="float: left; ">
                               </a>
                             </div>
                           </div>
@@ -293,7 +299,7 @@
       
                       <div class="col-auto">
                         <a href="${item.permalink}">
-                          <img src="/${baseURL}/icons/arrow-right-small.svg" alt="Ir" style="float: left; " />
+                          <img src="${baseURL}/icons/arrow-right-small.svg" alt="Ir" style="float: left; " />
                         </a>
                       </div>
                     </div>
@@ -311,6 +317,7 @@
       };
 
       blips.click((e) => handler($(e.target).parents('.blip-link')));
+
       sidebarItems.click((e) => {
         e.preventDefault();
         

@@ -5,38 +5,38 @@
   "category" : "Ferramentas",
   "description" : "Uma ferramenta que ajuda nos processos de definição, configuração, instalação e atualização de aplicações em Kubernetes.",
   
-  "ring" : "Essencial",
+  	"ring" : "Essencial",
   
   "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/tools/helm/",
   "related": [
     
     
-    {
-      "name": "Angular",
-      
-        "ring" : "Essencial",
-      
-      "image": "/images/languages-frameworks/angular.png",
-      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/angular/"
-    },
+			{
+				"name": "Angular",
+				
+					"ring" : "Essencial",
+				
+				"image": "/images/languages-frameworks/angular.png",
+				"permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/angular/"
+			},
     
-    {
-      "name": "Cypress",
-      
-        "ring" : "Essencial",
-      
-      "image": "/images/languages-frameworks/cypress.png",
-      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/cypress/"
-    },
+			{
+				"name": "Cypress",
+				
+					"ring" : "Essencial",
+				
+				"image": "/images/languages-frameworks/cypress.png",
+				"permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/cypress/"
+			},
     
-    {
-      "name": "Enry",
-      
-        "ring" : "Essencial",
-      
-      "image": "/images/default-logo.png",
-      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/enry/"
-    },
+			{
+				"name": "Enry",
+				
+					"ring" : "Essencial",
+				
+				"image": "/images/default-logo.png",
+				"permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/enry/"
+			},
     
     {}
   ]

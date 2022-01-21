@@ -5,38 +5,38 @@
   "category" : "Linguagens e Frameworks",
   "description" : "O Appium automatiza uma estrutura de teste de qualquer aplicativo móvel de qualquer linguagem, com acesso total a APIs e bancos de dados de back-end a partir do código de teste.",
   
-  "ring" : "Estratégico",
+  	"ring" : "Estratégico",
   
   "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/appium/",
   "related": [
     
     
-    {
-      "name": "Appium",
-      
-        "ring" : "Estratégico",
-      
-      "image": "/images/languages-frameworks/appium.png",
-      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/appium/"
-    },
+			{
+				"name": "Dart Programming Language",
+				
+					"ring" : "Estratégico",
+				
+				"image": "/images/languages-frameworks/dart.png",
+				"permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/dart/"
+			},
     
-    {
-      "name": "Dart Programming Language",
-      
-        "ring" : "Estratégico",
-      
-      "image": "/images/languages-frameworks/dart.png",
-      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/dart/"
-    },
+			{
+				"name": "Detekt",
+				
+					"ring" : "Estratégico",
+				
+				"image": "/images/languages-frameworks/detekt.png",
+				"permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/detekt/"
+			},
     
-    {
-      "name": "Detekt",
-      
-        "ring" : "Estratégico",
-      
-      "image": "/images/languages-frameworks/detekt.png",
-      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/detekt/"
-    },
+			{
+				"name": "Docker SDK",
+				
+					"ring" : "Estratégico",
+				
+				"image": "/images/languages-frameworks/docker-sdk.png",
+				"permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/docker-sdk/"
+			},
     
     {}
   ]

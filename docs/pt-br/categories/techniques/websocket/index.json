@@ -5,38 +5,38 @@
   "category" : "Técnicas",
   "description" : "Permite a criação de uma conexão bidirecional e persistente que se mantém aberta, cliente e servidor podem então trocar mensagens a qualquer momento. ",
   
-  "ring" : "Essencial",
+  	"ring" : "Essencial",
   
   "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/techniques/websocket/",
   "related": [
     
     
-    {
-      "name": "Angular",
-      
-        "ring" : "Essencial",
-      
-      "image": "/images/languages-frameworks/angular.png",
-      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/angular/"
-    },
+			{
+				"name": "Angular",
+				
+					"ring" : "Essencial",
+				
+				"image": "/images/languages-frameworks/angular.png",
+				"permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/angular/"
+			},
     
-    {
-      "name": "Cypress",
-      
-        "ring" : "Essencial",
-      
-      "image": "/images/languages-frameworks/cypress.png",
-      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/cypress/"
-    },
+			{
+				"name": "Cypress",
+				
+					"ring" : "Essencial",
+				
+				"image": "/images/languages-frameworks/cypress.png",
+				"permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/cypress/"
+			},
     
-    {
-      "name": "Enry",
-      
-        "ring" : "Essencial",
-      
-      "image": "/images/default-logo.png",
-      "permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/enry/"
-    },
+			{
+				"name": "Enry",
+				
+					"ring" : "Essencial",
+				
+				"image": "/images/default-logo.png",
+				"permalink" : "https://opensource.zup.com.br/radar/pt-br/categories/languages-frameworks/enry/"
+			},
     
     {}
   ]

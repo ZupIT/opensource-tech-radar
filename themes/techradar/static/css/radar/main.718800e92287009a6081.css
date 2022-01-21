@@ -495,7 +495,7 @@ header .button.full-view.fourth {
   #radar svg#radar-plot text.line-text {
     font-family: "Montserrat", sans-serif;
     font-weight: 600;
-    font-size: 5px;
+    font-size: 7px;
     line-height: 18px;
     fill: #000;
     text-transform: capitalize;
