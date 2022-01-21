@@ -1,6 +1,6 @@
 +++
 name="JavaScript"
-image="/images/languages-frameworks/js.png"
+image="/images/languages-frameworks/javascript.png"
 category="languages-frameworks"
 ring="strategic"
 type="post"
