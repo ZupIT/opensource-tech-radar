@@ -183,3 +183,10 @@
   padding: 30px;
   background: #F5F6F7;
 }
+
+.cp-modal-close-button {
+  position: absolute;
+  top: 56px;
+  right: 24px;
+  cursor: pointer;
+}
