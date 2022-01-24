@@ -324,6 +324,10 @@
         handler($(e.target));
       });
 
+      $('.cp-modal-close-button').click((e) => {
+        handleClose();
+      });
+
       $(document).keydown(function (e) {
         if (e.keyCode == 27) {
           handleClose();
