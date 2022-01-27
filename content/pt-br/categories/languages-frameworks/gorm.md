@@ -1,6 +1,6 @@
 +++
 name="Gorm"
-image="/images/languages-frameworks/javascript.png"
+image="/images/default-logo.png"
 category="languages-frameworks"
 ring="essential"
 type="post"

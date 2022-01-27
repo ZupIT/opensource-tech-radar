@@ -1,6 +1,6 @@
 +++
 name="Enry"
-image="/images/languages-frameworks/enry.png"
+image="/images/default-logo.png"
 category="languages-frameworks"
 ring="essential"
 type="post"

@@ -1,6 +1,6 @@
 +++
 name="Visitor"
-image="/images/techiques/visitor.png"
+image="/images/default-logo.png"
 category="techniques"
 ring="essential"
 type="post"

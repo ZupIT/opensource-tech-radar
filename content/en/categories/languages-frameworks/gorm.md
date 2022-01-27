@@ -1,6 +1,6 @@
 +++
 name="GORM"
-image="/images/languages-frameworks/gorm.png"
+image="/images/default-logo.png"
 category="languages-frameworks"
 ring="essential"
 type="post"

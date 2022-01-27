@@ -1,6 +1,6 @@
 +++
 name="Docker-SDK"
-image="/images/languages-frameworks/docker.png"
+image="/images/languages-frameworks/docker-sdk.png"
 category="languages-frameworks"
 ring="potential"
 type="post"

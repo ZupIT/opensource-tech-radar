@@ -1,6 +1,6 @@
 +++
 name="Amazon AWS"
-image="/images/platforms/aws.png"
+image="/images/default-logo.png"
 category="platforms"
 ring="potential"
 type="post"
