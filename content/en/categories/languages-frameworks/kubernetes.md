@@ -1,6 +1,6 @@
 +++
 name="Kubernetes"
-image="/images/languages-frameworks/kubernetes.png"
+image="/images/default-logo.png"
 category="languages-frameworks"
 ring="essential"
 type="post"

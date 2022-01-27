@@ -1,6 +1,6 @@
 +++
 name="CI"
-image="/images/techiques/ic.png"
+image="/images/default-logo.png"
 category="techniques"
 ring="strategic"
 type="post"
