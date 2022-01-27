@@ -1,6 +1,6 @@
 +++
 name="Microservices"
-image="/images/techiques/microservices.png"
+image="/images/default-logo.png"
 category="techniques"
 ring="strategic"
 type="post"

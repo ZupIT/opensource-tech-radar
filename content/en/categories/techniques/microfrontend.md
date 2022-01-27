@@ -1,6 +1,6 @@
 +++
 name="Micro Frontend"
-image="/images/techiques/microfrontend.png"
+image="/images/default-logo.png"
 category="techniques"
 ring="deprecated"
 type="post"
