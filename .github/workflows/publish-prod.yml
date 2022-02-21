@@ -31,7 +31,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo -D
+        run: hugo -D --minify -b https://opensource.zup.com.br/radar
               
       - name: Upload to AWS S3 Bucket
         run: aws s3 sync --follow-symlinks docs s3://${{ secrets.AWS_S3_BUCKET_PROD }}/radar --delete
