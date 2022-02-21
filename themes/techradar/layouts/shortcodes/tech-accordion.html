@@ -10,7 +10,7 @@
                 </h4>
                 <div class="px-2">
                     <span class="px-1">{{ i18n "common.see-more"}}</span>
-                    <img src="/images/icons/view-more.svg" alt='{{ i18n "common.see-more" }}'>
+                    <img src="{{.Site.BaseURL}}/images/icons/view-more.svg" alt='{{ i18n "common.see-more" }}'>
                 </div>
             </div>
         </div>
@@ -41,7 +41,7 @@
                                 </div>
                                 <div class="col-1">
                                     <a href="{{ $technique.RelPermalink }}">
-                                        <img src="/images/icons/external-link.svg" alt="">
+                                        <img src="{{.Site.BaseURL}}/images/icons/external-link.svg" alt="">
                                     </a>
                                 </div>
                             </div>

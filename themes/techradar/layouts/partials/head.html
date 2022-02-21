@@ -25,7 +25,7 @@
 <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
 {{ end -}}
 
-<link rel="icon" href="/images/favicon.png">
+<link rel="icon" href="{{.Site.BaseURL}}/images/favicon.png">
 
 <!-- GOOGLE FONTS-->
 <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -38,21 +38,21 @@
 <!-- BOOTSTRAP -->
 
 <!-- RADAR-->
-<link rel="stylesheet" href="/css/radar/main.718800e92287009a6081.css">
+<link rel="stylesheet" href="{{.Site.BaseURL}}/css/radar/main.718800e92287009a6081.css">
 <!-- RADAR-->
 
-<link rel="stylesheet" href="/css/app.css" />
+<link rel="stylesheet" href="{{.Site.BaseURL}}/css/app.css" />
 
 
-<link rel="apple-touch-icon" sizes="76x76" href="/favicon/apple-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="120x120" href="/favicon/apple-icon-120x120.png">
-<link rel="apple-touch-icon" sizes="144x144" href="/favicon/apple-icon-144x144.png">
-<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-icon-180x180.png">
-<link rel="icon" type="image/png" sizes="192x192"  href="/favicon/android-icon-192x192.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="96x96" href="/favicon/favicon-96x96.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
-<link rel="manifest" href="/favicon/manifest.json">
+<link rel="apple-touch-icon" sizes="76x76" href="{{.Site.BaseURL}}/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="120x120" href="{{.Site.BaseURL}}/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="{{.Site.BaseURL}}/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="180x180" href="{{.Site.BaseURL}}/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="{{.Site.BaseURL}}/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="{{.Site.BaseURL}}/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="{{.Site.BaseURL}}/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="{{.Site.BaseURL}}/favicon/favicon-16x16.png">
+<link rel="manifest" href="{{.Site.BaseURL}}/favicon/manifest.json">
 <meta name="theme-color" content="#ffffff">
 
 
