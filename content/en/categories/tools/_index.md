@@ -5,5 +5,5 @@ description="These can be components, such as software development tools, such a
 type="pages"
 layout="category"
 category="categories"
-image="/images/icons/cog-desktop.svg"
+image="images/icons/cog-desktop.svg"
 +++
