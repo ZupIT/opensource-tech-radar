@@ -34,12 +34,12 @@ offlineSearchMaxResults = 7
   [[languages.en.menu.main]]
     name = "Radar"
     weight = 2
-    url = "/radar"
+    url = "/radar/index.html"
 
     [[languages.en.menu.main]]
     name = "About"
     weight = 3
-    url = "/about"
+    url = "/about/index.html"
 
   [languages.pt-br]
     contentDir = 'content/pt-br'
@@ -54,10 +54,10 @@ offlineSearchMaxResults = 7
     [[languages.pt-br.menu.main]]
       name = "Radar"
       weight = 2
-      url = "/radar"
+      url = "/radar/index.html"
 
       [[languages.pt-br.menu.main]]
       name = "Sobre"
       weight = 3
-      url = "/about"
+      url = "/about/index.html"
 
