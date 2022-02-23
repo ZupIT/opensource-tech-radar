@@ -29,7 +29,7 @@ offlineSearchMaxResults = 7
   [[languages.en.menu.main]]
     name = "Documentation"
     weight = 1
-    url = "/docs"
+    url = "/docs/index.html"
   
   [[languages.en.menu.main]]
     name = "Radar"
@@ -49,7 +49,7 @@ offlineSearchMaxResults = 7
     [[languages.pt-br.menu.main]]
     name = "Documentação"
     weight = 1
-    url = "/docs"
+    url = "/docs/index.html"
   
     [[languages.pt-br.menu.main]]
       name = "Radar"
