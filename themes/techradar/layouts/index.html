@@ -49,7 +49,7 @@
                 <div class="col-auto">
                   <div class="row justify-content-center align-items-center">
                     <div class="col-auto">
-                      <img src='{{ "images/icons/radar.svg" | relURL }}' alt="Icone">
+                      <img src="{{ .Site.BaseURL }}images/icons/radar.svg" alt="Icone">
                     </div>
 
                     <div class="col-auto">
@@ -104,7 +104,7 @@
 
                             <span>
                               <a href="{{ .RelPermalink }}">
-                                <img src="/icons/light-big.svg" alt="Go {{ .Params.Name }}">
+                                <img src="{{ .Site.BaseURL }}/icons/light-big.svg" alt="Go {{ .Params.Name }}">
                               </a>
                             </span>
                           </li>

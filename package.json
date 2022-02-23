@@ -2,6 +2,6 @@
   "name": "opensource-tech-radar",
   "version": "1.0.0",
   "scripts": {
-    "start": "hugo serve --disableFastRender"
+    "start": "hugo serve --disableFastRender --baseURL=http://localhost/radar/radar"
   }
 }

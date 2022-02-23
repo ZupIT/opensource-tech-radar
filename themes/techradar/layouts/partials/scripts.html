@@ -22,7 +22,7 @@
 
 {{ $js := (slice $jsSearch $jsDropdown $jsRings $jsAccordion $jsTabs $jsMenu $jsCategories) | resources.Concat "js/main.js" }}
 {{ $js := $js | minify | fingerprint }}
-<script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" crossorigin="anonymous"></script>
+<script src="{{.Site.BaseURL}}{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" crossorigin="anonymous"></script>
 <!-- OFFLINE SEARCH-->
 
  <!-- RADAR-->
