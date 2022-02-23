@@ -5,5 +5,5 @@ description="Things that we build software on top of such as mobile technologies
 type="pages"
 layout="category"
 category="categories"
-image="/images/icons/hierarchy-3.svg"
+image="images/icons/hierarchy-3.svg"
 +++
