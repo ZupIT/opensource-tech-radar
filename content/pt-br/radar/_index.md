@@ -6,4 +6,5 @@ description='O Tech Radar open source apresenta tecnologias que são testadas e 
 layout="radar"
 menu="main"
 weight="2"
+type="radar"
 +++
